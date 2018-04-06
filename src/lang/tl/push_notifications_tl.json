@@ -1,0 +1,21 @@
+{
+  "dailyRecap.title": "Pang-araw-araw ng Pagbabalik-tanaw",
+  "dailyRecap.textWithWins": "{countUntilNextGoodChest} chest hangang sa {nextGoodChest}. Ikaw ay mayroon ng {wins} na panalo at {losses} na pagkatalo ngayon.",
+  "dailyRecap.text": "{countUntilNextGoodChest} chest hanggang sa {nextGoodChest}.",
+  "newClanMember.title": "Bagong miyembro ng clan",
+  "newClanMember.text": "{name} ay sumali sa inyong clan sa Starfire",
+  "newGroupMember.title": "Bagong miyembro ng grupo",
+  "newGroupMember.text": "{name} ay sumali sa inyong grupo sa Starfire",
+  "newFollower.title": "Bagong follower",
+  "newFollower.text": "{name} ay nag-follow sa iyo",
+  "newVideo.title": "New video",
+  "newVideo.text": "New video posted in {groupName}",
+  "newTrade.title": "New trade",
+  "newTrade.text": "{name} sent you a trade",
+  "rejectedTrade.title": "Rejected trade",
+  "rejectedTrade.text": "{name} rejected your trade",
+  "acceptedTrade.text": "{name} accepted your trade",
+  "acceptedTrade.title": "Accepted trade",
+  "packUnlocked.title": "Pack unlocked",
+  "packUnlocked.text": "{packName} is available"
+}

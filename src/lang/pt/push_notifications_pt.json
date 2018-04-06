@@ -1,0 +1,21 @@
+{
+  "dailyRecap.title": "Recapitulação Diária",
+  "dailyRecap.textWithWins": "{countUntilNextGoodChest} baús até chegar em {nextGoodChest}. Você teve {wins} vitórias e {losses} derrotas hoje.",
+  "dailyRecap.text": "{countUntilNextGoodChest} baús até chegar em {nextGoodChest}.",
+  "newClanMember.title": "Novo membro do clã",
+  "newClanMember.text": "{name} juntou-se ao seu clã no Starfire",
+  "newGroupMember.title": "Novo membro no grupo",
+  "newGroupMember.text": "{name} juntou-se ao seu grupo no Starfire",
+  "newFollower.title": "Novo seguidor",
+  "newFollower.text": "{name} está seguindo você",
+  "newVideo.title": "Novo vídeo",
+  "newVideo.text": "Novo vídeo Postado em {groupName}",
+  "newTrade.title": "Novo comércio",
+  "newTrade.text": "{name} Você enviou um comércio",
+  "rejectedTrade.title": "Comércio rejeitado",
+  "rejectedTrade.text": "{name} rejeitou o seu comércio",
+  "acceptedTrade.text": "{name} aceitou seu comércio",
+  "acceptedTrade.title": "Aceitou comércio",
+  "packUnlocked.title": "Pacote desbloqueado",
+  "packUnlocked.text": "{packName} está disponível"
+}

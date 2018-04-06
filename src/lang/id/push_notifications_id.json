@@ -1,0 +1,21 @@
+{
+  "dailyRecap.title": "Rekap Harian",
+  "dailyRecap.textWithWins": "{countUntilNextGoodChest} petikan sampai {nextGoodChest}. Anda telah memenangkan {wins} dan kehilangan {losses} hari ini.",
+  "dailyRecap.text": "{countUntilNextGoodChest} petikan sampai {nextGoodChest}.",
+  "newClanMember.title": "Anggota klan baru",
+  "newClanMember.text": "{name} bergabung dengan klanmu di Starfire",
+  "newGroupMember.title": "Anggota grup baru",
+  "newGroupMember.text": "{name} bergabung dengan grup Anda di Starfire",
+  "newFollower.title": "Pengikut baru",
+  "newFollower.text": "{name} mengikuti Anda",
+  "newVideo.title": "New video",
+  "newVideo.text": "New video posted in {groupName}",
+  "newTrade.title": "New trade",
+  "newTrade.text": "{name} sent you a trade",
+  "rejectedTrade.title": "Rejected trade",
+  "rejectedTrade.text": "{name} rejected your trade",
+  "acceptedTrade.text": "{name} accepted your trade",
+  "acceptedTrade.title": "Accepted trade",
+  "packUnlocked.title": "Pack unlocked",
+  "packUnlocked.text": "{packName} is available"
+}

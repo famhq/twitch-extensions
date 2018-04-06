@@ -1,0 +1,17 @@
+{
+  "message.userJoinedChatMessage": "{name} è entrato",
+  "card.addFriendCardTitle": "Aggiungimi come amico",
+  "card.addFriendCardDescription": "Tocca per aggiungermi come amico su Clash Royale",
+  "card.joinClanCardTitle": "Unisciti al mio clan",
+  "card.joinClanCardDescription": "Tocca per unirti al mio clan su Clash Royale",
+  "audit.ban": "bannato {name}",
+  "audit.unban": "sbannato {name}",
+  "audit.deleteMessage": "messaggio eliminato da {name}",
+  "audit.deleteMessagesLast7d": "messaggi degli ultimi 7 giorni eliminati da {name}",
+  "audit.addRole": "aggiunto il ruolo: {role}",
+  "audit.deleteRole": "rimosso il ruolo: {role}",
+  "audit.updateRole": "aggiornati i permessi di ruolo per {role}",
+  "audit.updateRoleChannel": "aggiornati i permessi di ruolo per {role} in {channel}",
+  "audit.addChannel": "aggiunto il canale: {channel}",
+  "audit.updateChannel": "aggiornato il canale: {channel}"
+}
