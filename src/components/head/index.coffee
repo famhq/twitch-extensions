@@ -95,7 +95,7 @@ module.exports = class Head
         content: "default-src 'self' file://* *; style-src 'self'" +
           " 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval'"
 
-      # z 'style.rubik', rubikCss
+      z 'style.rubik', rubikCss
 
       # styles
       z 'style',

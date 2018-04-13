@@ -1,6 +1,7 @@
 z = require 'zorium'
 
 FortniteMap = require '../../components/fortnite_map'
+SpyParty = require '../../components/spy_party'
 config = require '../../config'
 
 if window?
@@ -11,6 +12,7 @@ module.exports = class HomePage
 
   constructor: ({@model, @router, requests, serverData, group}) ->
     @$fortniteMap = new FortniteMap {@model, group, requests}
+    @$spyParty = new SpyParty {@model, group, requests}
 
     @state = z.state
       me: @model.user.getMe()
@@ -27,4 +29,5 @@ module.exports = class HomePage
       style:
         height: "#{windowSize.height}px"
     },
-      @$fortniteMap
+      # @$fortniteMap
+      @$spyParty
