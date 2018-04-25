@@ -14,25 +14,6 @@ serverEnv = process.env
 HOST = process.env.FAM_HOST or '127.0.0.1'
 HOSTNAME = HOST.split(':')[0]
 
-URL_REGEX_STR = '(\\bhttps?://[-A-Z0-9+&@#/%?=~_|!:,.;]*[A-Z0-9+&@#/%=~_|])'
-STICKER_REGEX_STR = '(:[a-z_]+:)'
-IMAGE_REGEX_STR = '(\\!\\[(.*?)\\]\\((.*?)\\=([0-9.]+)x([0-9.]+)\\))'
-IMAGE_REGEX_BASE_STR = '(\\!\\[(?:.*?)\\]\\((?:.*?)\\))'
-LOCAL_IMAGE_REGEX_STR =
-  '(\\!\\[(.*?)\\]\\(local://(.*?) \\=([0-9.]+)x([0-9.]+)\\))'
-MENTION_REGEX_STR = '\\@[a-zA-Z0-9_-]+'
-YOUTUBE_ID_REGEX_STR =
-  '(?:youtube\\.com\\/(?:[^\\/]+\\/.+\\/|(?:v|e(?:mbed)?)\\/|.*[?&]v=)|youtu\\.be\\/)([^"&?\\/ ]{11})'
-
-ONE_HOUR_SECONDS = 3600 * 1
-TWO_HOURS_SECONDS = 3600 * 2
-THREE_HOURS_SECONDS = 3600 * 3
-FOUR_HOURS_SECONDS = 3600 * 4
-EIGHT_HOURS_SECONDS = 3600 * 8
-ONE_DAY_SECONDS = 3600 * 24 * 1
-TWO_DAYS_SECONDS = 3600 * 24 * 2
-THREE_DAYS_SECONDS = 3600 * 24 * 3
-
 API_URL =
   serverEnv.RADIOACTIVE_API_URL or # server
   process.env.PUBLIC_RADIOACTIVE_API_URL # client

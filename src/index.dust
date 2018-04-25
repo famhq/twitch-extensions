@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+
+    <meta name="viewport" content="initial-scale=1.0, width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0, minimal-ui, viewport-fit=cover">
+    <meta content="default-src &#39;self&#39; file://* *; style-src &#39;self&#39; &#39;unsafe-inline&#39;; script-src &#39;self&#39; &#39;unsafe-inline&#39; &#39;unsafe-eval&#39;">
+
+    <script src="https://extension-files.twitch.tv/helper/v1/twitch-ext.min.js"></script>
+
+    {?webpack}
+    <script src="{webpackDevHostname}/bundle.js" crossorigin></script>
+    {:else}
+    <link rel="stylesheet" type="text/css" href="bundle.css"/>
+    <script async src="bundle.js"></script>
+    {/webpack}
+
+    <style type='text/css' class='rubik'></style>
+    <style type='text/css' class='css-variables'></style>
+
+  </head>
+  <body>
+    <div id='zorium-root'>
+      <div class='z-root'>
+        <div class='page'></div>
+        <div id='css-variable-test' style='display: none; background-color: var(--test-color)'></div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -29,7 +29,7 @@ class RouterService
     unless ignoreHistory
       @history.push(path or window?.location.pathname)
 
-    if @history[0] is '/' or @history[0] is @get('siteHome') or reset
+    if @history[0] is '/' or @history[0]
       @history = [path]
 
     if path
@@ -39,18 +39,17 @@ class RouterService
 
       @router.go path
 
-  go: (routeKey, replacements, options = {}) =>
-    path = @get routeKey, replacements
+  go: (path, replacements, options = {}) =>
     if options.qs
       @goPath "#{path}?#{qs.stringify options.qs}", options
     else
       @goPath path, options
 
-  get: (routeKey, replacements, {language} = {}) =>
-    route = @model.l.get routeKey, {file: 'paths', language}
-    _forEach replacements, (value, key) ->
-      route = route.replace ":#{key}", value
-    route
+  # get: (routeKey, replacements, {language} = {}) =>
+  #   route = @model.l.get routeKey, {file: 'paths', language}
+  #   _forEach replacements, (value, key) ->
+  #     route = route.replace ":#{key}", value
+  #   route
 
   openLink: (url) =>
     isAbsoluteUrl = url?.match /^(?:[a-z]+:)?\/\//i
@@ -75,7 +74,7 @@ class RouterService
     if @model.drawer.isOpen().getValue()
       return @model.drawer.close()
     if @history.length is 1 and fromNative and (
-      @history[0] is '/' or @history[0] is @get 'siteHome'
+      @history[0] is '/'
     )
       @model.portal.call 'app.exit'
     else if @history.length > 1 and window.history.length > 0

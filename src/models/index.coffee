@@ -18,6 +18,7 @@ GroupRole = require './group_role'
 Language = require './language'
 Player = require './player'
 Poll = require './poll'
+TwitchSignInOverlay = require './twitch_sign_in_overlay'
 Time = require './time'
 User = require './user'
 Window = require './window'
@@ -94,6 +95,7 @@ module.exports = class Model
     @groupUser = new GroupUser {@auth}
     @groupUserXpTransaction = new GroupUserXpTransaction {@auth}
     @groupRole = new GroupRole {@auth}
+    @twitchSignInOverlay = new TwitchSignInOverlay()
     @time = new Time({@auth})
     @portal?.setModels {
       @user, @player

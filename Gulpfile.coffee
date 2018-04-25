@@ -200,27 +200,7 @@ gulp.task 'dist:static', ['dist:clean'], ->
   gulp.src paths.static
     .pipe gulp.dest paths.dist
 
-gulp.task 'dist:sw', ->
-  gulp.src paths.sw
-  .pipe webpackStream
-    module:
-      loaders: [
-        {test: /\.coffee$/, loader: 'coffee'}
-        {test: /\.json$/, loader: 'json'}
-      ]
-    output:
-      filename: 'service_worker.js'
-    plugins: [
-      # new webpack.IgnorePlugin /^\/lang\/*$/
-      # new webpack.optimize.UglifyJsPlugin
-      #   mangle:
-      #     except: ['process']
-    ]
-    resolve:
-      extensions: ['.coffee', '.js', '.json', '']
-  .pipe gulp.dest paths.dist
-
-gulp.task 'dist:scripts', ['dist:clean', 'dist:sw'], ->
+gulp.task 'dist:scripts', ['dist:clean'], ->
   _map config.LANGUAGES, (language) ->
     fs.writeFileSync(
       "#{__dirname}/#{paths.dist}/lang_#{language}.json"

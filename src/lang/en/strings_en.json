@@ -477,9 +477,6 @@
   "stickerInfo.levelUpRequirement": "{countRequired} duplicates to level up",
   "stripeDialog.confirmTitle": "Confirm",
   "stripeDialog.title": "Payment",
-
-  "famFam.line1": "fam has a new name: Fam.",
-
   "time.justNow": "now",
   "time.secondShorthand": "s",
   "time.minuteShorthand": "m",
@@ -510,6 +507,9 @@
   "translateCard.request2": "If you want Fam translated into {language} we would love your help",
   "translateCard.submit": "I will help",
   "translateCard.cancelText": "No thanks",
+  "twitchSignInOverlay.title": "Connect your Twitch to continue",
+  "twitchSignInOverlay.text1": "Click",
+  "twitchSignInOverlay.text2": "Then click the \"Grant\" button",
   "weeklyRaffle.title": "Chance at 1,000 V-Bucks",
   "weeklyRaffle.text1": "Help us grow the community! Every week we will randomly pick one person who shares Fortnite Fam to get 1,000 V-Bucks.",
   "weeklyRaffle.text2": "Use the button below to share, and good luck! Winners will be selected every Wednesday",

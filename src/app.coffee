@@ -17,11 +17,15 @@ require 'rxjs/add/observable/of'
 require 'rxjs/add/operator/publishReplay'
 
 Head = require './components/head'
+BottomBar = require './components/bottom_bar'
+TwitchSignInOverlay = require './components/twitch_sign_in_overlay'
 config = require './config'
 colors = require './colors'
 
 Pages =
-  HomePage: require './pages/home'
+  EarnPage: require './pages/earn'
+  ConfigPage: require './pages/config'
+  HeatMap: require './pages/heat_map'
 
 TIME_UNTIL_ADD_TO_HOME_PROMPT_MS = 90000 # 1.5 min
 
@@ -56,6 +60,8 @@ module.exports = class App
       @model.group.getByKey 'nickatnyte'
     .publishReplay(1).refCount()
 
+    @$bottomBar = new BottomBar {@model, @router, @requests, @group}
+    @$twitchSignInOverlay = new TwitchSignInOverlay {@model, @router}
     @$head = new Head({
       @model
       @requests
@@ -80,6 +86,7 @@ module.exports = class App
       isOffline: isOffline
       request: @requests
       $backupPage: $backupPage
+      twitchSignInOverlayIsOpen: @model.twitchSignInOverlay.isOpen()
     }
 
   getRoutes: (breakpoint) =>
@@ -102,21 +109,24 @@ module.exports = class App
               @router
               @serverData
               @group
+              $bottomBar: if Page.hasBottomBar then @$bottomBar
               requests: @requests.filter ({$page}) ->
                 $page instanceof Page
             })
           return @$cachedPages[pageKey]
 
-    route ['/*'], 'HomePage'
+    route ['/heatmap'], 'HeatMap'
+    route ['/config.html'], 'ConfigPage'
+    route ['/*'], 'EarnPage'
     routes
 
   render: =>
-    {request, me, isOffline, $backupPage} = @state.getValue()
+    {request, me, isOffline, twitchSignInOverlayIsOpen,
+      $backupPage} = @state.getValue()
 
     userAgent = request?.req?.headers?['user-agent'] or
       navigator?.userAgent or ''
     isIos = /iPad|iPhone|iPod/.test userAgent
-    defaultInstallMessage = @model.l.get 'app.defaultInstallMessage'
 
     $page = request?.$page or $backupPage
 
@@ -137,3 +147,6 @@ module.exports = class App
               style:
                 display: 'none'
                 backgroundColor: 'var(--test-color)'
+
+            if twitchSignInOverlayIsOpen
+              z @$twitchSignInOverlay

@@ -1,33 +1,26 @@
 z = require 'zorium'
 
-FortniteMap = require '../../components/fortnite_map'
 SpyParty = require '../../components/spy_party'
 config = require '../../config'
 
 if window?
   require './index.styl'
 
-module.exports = class HomePage
+module.exports = class SpyPartyStreamOverlayPage
   hideDrawer: true
 
   constructor: ({@model, @router, requests, serverData, group}) ->
-    @$fortniteMap = new FortniteMap {@model, group, requests}
     @$spyParty = new SpyParty {@model, group, requests}
 
     @state = z.state
       me: @model.user.getMe()
       windowSize: @model.window.getSize()
 
-  getMeta: ->
-    meta:
-      canonical: "https://#{config.HOST}"
-
   render: =>
     {me, windowSize} = @state.getValue()
 
-    z '.p-home', {
+    z '.p-spy-party-stream-overlay', {
       style:
         height: "#{windowSize.height}px"
     },
-      # @$fortniteMap
       @$spyParty

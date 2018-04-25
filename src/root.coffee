@@ -145,18 +145,12 @@ init = ->
   model.portal.call 'networkInformation.onOffline', onOffline
   model.portal.call 'networkInformation.onOnline', onOnline
 
-  # if window.Twitch.ext
-  #   window.Twitch.ext.onAuthorized (auth) ->
-  #     console.log 'authed', auth
-  #     return
-  #   window.Twitch.ext.onContext (context, contextFields) ->
-  #     console.log context
-  #     console.log contextFields
-  #     return
-  #   window.Twitch.ext.onError (err) ->
-  #     console.error err
-  #     return
-
+  if window.Twitch.ext
+    # window.Twitch.ext.actions.requestIdShare()
+    window.Twitch.ext.onAuthorized (auth) ->
+      model.user.getMe().take(1).subscribe ->
+        model.auth.loginTwitchExtension {token: auth.token}
+      return
 
   routeHandler = (data) ->
     data ?= {}

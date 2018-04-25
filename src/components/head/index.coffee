@@ -83,6 +83,7 @@ module.exports = class Head
     host = serverData?.req?.headers.host or window?.location?.host
 
     z 'head',
+      z 'title', ''
       # mobile
       z 'meta',
         name: 'viewport'
@@ -95,19 +96,6 @@ module.exports = class Head
         content: "default-src 'self' file://* *; style-src 'self'" +
           " 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval'"
 
-      z 'style.rubik', rubikCss
-
-      # styles
-      z 'style',
-        key: 'css-variables'
-        innerHTML:
-          ":root {#{cssVariables or @model.cookie.get 'cachedCssVariables'}}"
-
-      if isInliningSource
-        z 'style',
-          type: 'text/css'
-        , serverData?.styles
-
       # scripts
       z 'script',
         src: 'https://extension-files.twitch.tv/helper/v1/twitch-ext.min.js'
@@ -115,3 +103,16 @@ module.exports = class Head
         async: true
         src: if isInliningSource then 'bundle.js' \
              else "#{webpackDevUrl}/bundle.js"
+
+      z 'style.rubik', rubikCss
+
+      # styles
+      z 'style.css-variables',
+        key: 'css-variables'
+        innerHTML:
+          ":root {#{cssVariables or @model.cookie.get 'cachedCssVariables'}}"
+
+      if isInliningSource
+        z 'style.inline-source',
+          type: 'text/css'
+        , serverData?.styles

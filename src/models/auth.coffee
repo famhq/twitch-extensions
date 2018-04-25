@@ -77,15 +77,8 @@ module.exports = class Auth
     @exoid.call 'auth.loginUsername', {username, password}
     .then @afterLogin
 
-  loginFacebook: ({facebookAccessToken, isLoginOnly} = {}) =>
-    cookieAccessToken = @cookieSubject.getValue()[config.AUTH_COOKIE]
-
-    (if facebookAccessToken
-    then Promise.resolve {facebookAccessToken}
-    else @portal.call 'facebook.login'
-    )
-    .then ({status, facebookAccessToken}) =>
-      @exoid.call 'auth.loginFacebook', {isLoginOnly, facebookAccessToken}
+  loginTwitchExtension: ({token, isLoginOnly} = {}) =>
+    @exoid.call 'auth.loginTwitchExtension', {isLoginOnly, token}
     .then @afterLogin
 
   stream: (path, body, options = {}) =>
