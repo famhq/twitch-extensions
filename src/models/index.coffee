@@ -8,20 +8,21 @@ _pick = require 'lodash/pick'
 RxBehaviorSubject = require('rxjs/BehaviorSubject').BehaviorSubject
 require 'rxjs/add/operator/take'
 
-Auth = require './auth'
-Player = require './player'
-Cookie = require './cookie'
-Group = require './group'
-GroupUser = require './group_user'
-GroupUserXpTransaction = require './group_user_xp_transaction'
-GroupRole = require './group_role'
+Auth = require '../../../fam/src/models/auth'
+Cookie = require '../../../fam/src/models/cookie'
+Group = require '../../../fam/src/models/group'
+GroupUser = require '../../../fam/src/models/group_user'
+EarnAction = require '../../../fam/src/models/earn_action'
+EarnAlert = require '../../../fam/src/models/earn_alert'
+GroupRole = require '../../../fam/src/models/group_role'
 Language = require './language'
-Player = require './player'
+Player = require '../../../fam/src/models/player'
 Poll = require './poll'
 TwitchSignInOverlay = require './twitch_sign_in_overlay'
-Time = require './time'
-User = require './user'
-Window = require './window'
+Time = require '../../../fam/src/models/time'
+User = require '../../../fam/src/models/user'
+UserItem = require '../../../fam/src/models/user_item'
+Window = require '../../../fam/src/models/window'
 
 config = require '../config'
 
@@ -29,7 +30,9 @@ SERIALIZATION_KEY = 'MODEL'
 SERIALIZATION_EXPIRE_TIME_MS = 1000 * 10 # 10 seconds
 
 module.exports = class Model
-  constructor: ({cookieSubject, serverHeaders, io, @portal, language}) ->
+  constructor: (options) ->
+    {serverHeaders, io, @portal, language,
+      initialCookies, setCookie, host} = options
     serverHeaders ?= {}
 
     cache = window?[SERIALIZATION_KEY] or {}
@@ -46,15 +49,11 @@ module.exports = class Model
     # cache = if isExpired then {} else serialization
     @isFromCache = not _isEmpty cache
 
-    accessToken = cookieSubject.map (cookies) ->
-      cookies[config.AUTH_COOKIE]
-
     userAgent = serverHeaders['user-agent'] or navigator?.userAgent
 
-    ioEmit = (event, opts) ->
-      accessToken.take(1).toPromise()
-      .then (accessToken) ->
-        io.emit event, _defaults {accessToken, userAgent}, opts
+    ioEmit = (event, opts) =>
+      accessToken = @cookie.get 'accessToken'
+      io.emit event, _defaults {accessToken, userAgent}, opts
 
     proxy = (url, opts) ->
       accessToken.take(1).toPromise()
@@ -84,18 +83,20 @@ module.exports = class Model
 
     pushToken = new RxBehaviorSubject null
 
-    @cookie = new Cookie {cookieSubject}
+    @cookie = new Cookie {initialCookies, setCookie, host}
     @l = new Language {language, @cookie}
 
-    @auth = new Auth {@exoid, cookieSubject, pushToken, @l, userAgent, @portal}
+    @auth = new Auth {@exoid, @cookie, pushToken, @l, userAgent, @portal}
     @user = new User {@auth, proxy, @exoid, @cookie, @l}
+    @userItem = new UserItem {@auth}
     @player = new Player {@auth}
     @poll = new Poll {@auth}
+    @earnAction = new EarnAction {@auth}
+    @earnAlert = new EarnAlert()
     @group = new Group {@auth}
     @groupUser = new GroupUser {@auth}
-    @groupUserXpTransaction = new GroupUserXpTransaction {@auth}
     @groupRole = new GroupRole {@auth}
-    @twitchSignInOverlay = new TwitchSignInOverlay()
+    @signInDialog = new TwitchSignInOverlay()
     @time = new Time({@auth})
     @portal?.setModels {
       @user, @player

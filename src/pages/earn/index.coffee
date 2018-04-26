@@ -11,9 +11,9 @@ module.exports = class EarnPage
   @hasBottomBar: true
 
   constructor: ({@model, @router, requests, serverData, group, @$bottomBar}) ->
-    @$earn = new Earn {@model, group, requests}
+    @$earn = new Earn {@model, @router, group, requests}
 
-    @$appBar = new AppBar {@model, @router}
+    @$appBar = new AppBar {@model, @router, group}
 
     @state = z.state
       me: @model.user.getMe()

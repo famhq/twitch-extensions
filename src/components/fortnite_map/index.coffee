@@ -1,5 +1,6 @@
 z = require 'zorium'
 _map = require 'lodash/map'
+RxBehaviorSubject = require('rxjs/BehaviorSubject').BehaviorSubject
 RxReplaySubject = require('rxjs/ReplaySubject').ReplaySubject
 RxObservable = require('rxjs/Observable').Observable
 
@@ -12,8 +13,18 @@ if window?
 
 module.exports = class FortniteMap
   constructor: ({@model, group, requests}) ->
-    @dimensions = @model.window.getSize().map (windowSize) ->
-      size = Math.min windowSize.width, windowSize.height
+    @afterMountObs = new RxBehaviorSubject null
+    windowSizeAndAfterMountObs = RxObservable.combineLatest(
+      @model.window.getSize()
+      @afterMountObs
+      (vals...) -> vals
+    )
+    @dimensions = windowSizeAndAfterMountObs
+    .map ([windowSize, afterMountObs]) =>
+      boundingRect = @$$el?.getBoundingClientRect()
+      width = boundingRect?.width or windowSize.width
+      height = boundingRect?.height or windowSize.height
+      size = Math.min width, height
       {
         width: size
         height: size
@@ -42,12 +53,14 @@ module.exports = class FortniteMap
       path: path
     }
 
-  afterMount: =>
+  afterMount: (@$$el) =>
     @votes.next @poll.switchMap (poll) =>
       unless poll
         return
 
       @$heatMap.setMax poll.data?.heatMapMax
+
+      @afterMountObs.next null
 
       votes = @model.poll.getAllVotesById poll.id
       dimensionsAndVotes = RxObservable.combineLatest(
@@ -67,15 +80,25 @@ module.exports = class FortniteMap
         votes
 
   render: =>
-    {me, dimensions, votes, poll, path, myPin} = @state.getValue()
+    {me, dimensions, votes, poll, path, myPin, group} = @state.getValue()
+
+    meGroupUser = group?.meGroupUser
 
     pinSize = parseInt(dimensions?.width / 30)
+
+    hasResetPermission = @model.groupUser.hasPermission {
+      me, meGroupUser, permissions: ['deleteMessage']
+    }
 
     z '.z-fortnite-map',
       z '.map', {
         onclick: (e) =>
-          x = (e.clientX or e.touches?[0]?.clientX) / dimensions?.width
-          y = (e.clientY or e.touches?[0]?.clientY) / dimensions?.height
+          offsetTop = e.target.getBoundingClientRect().y
+          offsetLeft = e.target.getBoundingClientRect().x
+          x = ((e.clientX or e.touches?[0]?.clientX) - offsetLeft) /
+                dimensions?.width
+          y = ((e.clientY or e.touches?[0]?.clientY) - offsetTop) /
+                dimensions?.height
           @state.set myPin: [x, y]
           @model.poll.voteById poll.id, {value: [x, y, 1]}
         style:
@@ -94,10 +117,9 @@ module.exports = class FortniteMap
               isTouchTarget: false
               color: colors.$white
               size: "#{pinSize}px"
-        # FIXME: make this actually secure...
-        if path and path.indexOf('/live-config.html') isnt -1
+        # FIXME: make this actually secure on backend...
+        if hasResetPermission
           z '.reset-icon',
-            # FIXME: polls need to be streamed so it updates for all
             z @$refreshIcon,
               icon: 'refresh'
               color: colors.$white

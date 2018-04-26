@@ -1,12 +1,29 @@
 z = require 'zorium'
 
+CurrencyIcon = require '../currency_icon'
+FormatService = require '../../services/format'
 colors = require '../../colors'
 
 if window?
   require './index.styl'
 
 module.exports = class AppBar
-  constructor: ({@model}) -> null
+  constructor: ({@model, group}) ->
+    itemKey = group.map (group) ->
+      group.currency?.itemKey
+
+    @$currencyIcon = new CurrencyIcon {
+      itemKey: itemKey
+    }
+
+    @state = z.state
+      me: @model.user.getMe()
+      group: group
+      currencyItem: itemKey.switchMap (itemKey) =>
+        if itemKey
+          @model.userItem.getByItemKey itemKey
+        else
+          RxObservable.of null
 
   getHeight: =>
     @model.window.getAppBarHeight()
@@ -15,8 +32,18 @@ module.exports = class AppBar
     {$topLeftButton, $topRightButton, title, bgColor, color, isFlat,
       style, isFullWidth} = options
 
+    {group, currencyItem} = @state.getValue()
+
     color ?= colors.$header500Text
     bgColor ?= colors.$header500
+
+    if group?.currency
+      $topRightButton ?=
+        z '.group-currency',
+          FormatService.number currencyItem?.count or 0
+          z '.icon',
+            z @$currencyIcon, {size: '20px'}
+
 
     z 'header.z-app-bar', {
       className: z.classKebab {isFlat}

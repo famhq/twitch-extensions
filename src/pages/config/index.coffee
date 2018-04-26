@@ -11,7 +11,7 @@ module.exports = class ConfigPage
   constructor: ({@model, @router, requests, serverData, group}) ->
     @$config = new Config {@model, group, requests}
 
-    @$appBar = new AppBar {@model, @router}
+    @$appBar = new AppBar {@model, @router, group}
 
     @state = z.state
       me: @model.user.getMe()

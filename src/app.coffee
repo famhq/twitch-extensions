@@ -86,7 +86,7 @@ module.exports = class App
       isOffline: isOffline
       request: @requests
       $backupPage: $backupPage
-      twitchSignInOverlayIsOpen: @model.twitchSignInOverlay.isOpen()
+      twitchSignInOverlayIsOpen: @model.signInDialog.isOpen()
     }
 
   getRoutes: (breakpoint) =>
@@ -116,7 +116,7 @@ module.exports = class App
           return @$cachedPages[pageKey]
 
     route ['/heatmap'], 'HeatMap'
-    route ['/config.html'], 'ConfigPage'
+    # route ['/config.html'], 'ConfigPage'
     route ['/*'], 'EarnPage'
     routes
 

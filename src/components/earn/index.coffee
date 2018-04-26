@@ -2,13 +2,15 @@ z = require 'zorium'
 
 config = require '../../config'
 PrimaryButton = require '../../../../fam/src/components/primary_button'
+EarnCurrency = require '../../../../fam/src/components/group_earn_currency'
 
 if window?
   require './index.styl'
 
 module.exports = class Earn
-  constructor: ({@model, @router} = {}) ->
+  constructor: ({@model, @router, group} = {}) ->
     @$button = new PrimaryButton()
+    @$earnCurrency = new EarnCurrency {@model, @router, group}
     @state = z.state {
       me: @model.user.getMe()
     }
@@ -17,11 +19,4 @@ module.exports = class Earn
     {me} = @state.getValue()
 
     z '.z-earn',
-      'earn'
-      me?.username
-      z @$button,
-        text: 'go'
-        onclick: =>
-          @model.twitchSignInOverlay.openIfGuest me
-          .then =>
-            console.log 'in'
+      z @$earnCurrency

@@ -17,7 +17,6 @@ module.exports = class HeatMapWidget
 
   afterMount: ($$el) =>
     @heat = simpleheat $$el
-    console.log 'ccc', colors.getByGroupKey 'nickatnyte', '$tertiary900'
     @heat.gradient {
       0.4: colors.getByGroupKey 'nickatnyte', '--tertiary-900'
       0.6: colors.getByGroupKey 'nickatnyte', '--tertiary-700'

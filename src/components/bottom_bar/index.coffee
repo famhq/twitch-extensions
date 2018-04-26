@@ -5,7 +5,6 @@ _find = require 'lodash/find'
 RxObservable = require('rxjs/Observable').Observable
 require 'rxjs/add/observable/combineLatest'
 
-CurrencyIcon = require '../currency_icon'
 Icon = require '../icon'
 colors = require '../../colors'
 config = require '../../config'
@@ -40,12 +39,14 @@ module.exports = class BottomBar
     # profile, tools, home, forum, chat
     @menuItems = _filter [
       {
-        $icon: new CurrencyIcon {
-          itemKey: group?.currency?.itemKey
-        }
-        icon: 'friends'
+        # $icon: new CurrencyIcon {
+        #   itemKey: group?.currency?.itemKey
+        # }
+        $icon: new Icon()
+        icon: 'add-circle'
         route: '/earn'
         text: @model.l.get 'general.earn'
+        isDefault: true
       }
       # {
       #   $icon: new Icon()
@@ -57,7 +58,7 @@ module.exports = class BottomBar
         $icon: new Icon()
         icon: 'map'
         route: '/heatmap'
-        text: 'Heatmap' # @model.l.get 'general.tools'
+        text: @model.l.get 'bottomBar.heatmap'
       }
     ]
 
@@ -69,9 +70,10 @@ module.exports = class BottomBar
         {$icon, icon, route, text, isDefault, hasNotification} = menuItem
 
         if isDefault
-          isSelected =  currentPath in [
-            '/'
-          ]
+          isSelected = currentPath and (
+            currentPath.indexOf('.html') isnt -1 or
+            currentPath.indexOf(route) isnt -1
+          )
         else
           isSelected = currentPath and currentPath.indexOf(route) isnt -1
 

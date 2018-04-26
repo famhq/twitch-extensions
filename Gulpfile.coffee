@@ -46,6 +46,7 @@ webpackBase =
     exprContextCritical: false
   resolve:
     extensions: ['.coffee', '.js', '.json', '']
+
   output:
     filename: 'bundle.js'
     publicPath: '/'
@@ -194,7 +195,7 @@ gulp.task 'build:scripts:test', ->
   .pipe gulp.dest paths.build
 
 gulp.task 'dist:clean', (cb) ->
-  del paths.dist, cb
+  del paths.dist + '/*', cb
 
 gulp.task 'dist:static', ['dist:clean'], ->
   gulp.src paths.static
@@ -219,9 +220,10 @@ gulp.task 'dist:scripts', ['dist:clean'], ->
       # new webpack.optimize.UglifyJsPlugin
       #   mangle:
       #     except: ['process']
+      # new webpack.optimize.DedupePlugin()
       new ExtractTextPlugin 'bundle.css'
-      # new Visualizer()
-      # new BundleAnalyzerPlugin()
+      new Visualizer()
+      new BundleAnalyzerPlugin()
       # new webpack.IgnorePlugin(/^\.\/locale$/, [/moment$/])
       # new webpack.ContextReplacementPlugin(
       #   /moment[\/\\]locale$/, /en|es|it|fr|zh|ja|ko|de|pt|pl/
@@ -262,7 +264,7 @@ gulp.task 'dist:concat', ->
       "#{__dirname}/#{paths.dist}/lang_#{language}.json", 'utf-8'
     )
     fs.writeFileSync(
-      "#{__dirname}/#{paths.dist}/bundle_#{stats.hash}_#{language}.js"
+      "#{__dirname}/#{paths.dist}/bundle_#{language}.js"
       lang + bundle
     , 'utf-8')
 

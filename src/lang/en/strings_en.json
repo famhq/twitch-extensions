@@ -82,6 +82,7 @@
   "buyGiftCardDialog.description": "Let us know the email you want us to send the gift card to",
   "boostDialog.title": "Boost your message",
   "boostDialog.text": "Support {name} and stand out more in chat!",
+  "bottomBar.heatmap": "Heatmap",
   "cardPickerDialog.title": "Insert card",
   "channelDrawer.title": "Chat channels",
   "chatSettings.chatAppearance": "Chat appearance",

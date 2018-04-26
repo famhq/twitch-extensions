@@ -13,7 +13,7 @@ module.exports = class ToolsPage
   constructor: ({@model, @router, requests, serverData, group, @$bottomBar}) ->
     @$fortniteMap = new FortniteMap {@model, group, requests}
 
-    @$appBar = new AppBar {@model, @router}
+    @$appBar = new AppBar {@model, @router, group}
 
     @state = z.state
       me: @model.user.getMe()

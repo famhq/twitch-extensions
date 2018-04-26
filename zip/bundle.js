@@ -1,4 +1,4 @@
-if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"general.loading":"Loading...","general.accept":"Accept","general.cancel":"Cancel","general.save":"Save","general.create":"Create","general.discard":"Discard","general.done":"Done","general.share":"Share","general.anonymous":"Anonymous","general.arena":"Arena","general.level":"Level","general.earn":"Earn","general.spend":"Spend","general.info":"Info","general.history":"History","general.home":"Home","general.graphs":"Graphs","general.members":"Members","general.guides":"Guides","general.popular":"Popular","general.decks":"Decks","general.deck":"Deck","general.developers":"Developers","general.donate":"Donate","general.error":"Error","general.filter":"Filter","general.fire":"Fire","general.free":"Free","general.sort":"Sort","general.submit":"Submit","general.chat":"Chat","general.forum":"Forum","general.freeStuff":"Free stuff","general.games":"Games","general.on":"on","general.off":"off","general.ok":"OK","general.pages":"Pages","general.search":"Search","general.by":"by","general.inbox":"Messages","general.manage":"Manage","general.roles":"Roles","general.clan":"Clan","general.community":"Community","general.followers":"followers","general.next":"Next","general.new":"New","general.permissions":"Permissions","general.profile":"Profile","general.name":"Name","general.username":"Username","general.social":"Social","general.tools":"Tools","general.mods":"Mods","general.recruiting":"Recruiting","general.reply":"reply","general.email":"Email","general.password":"Password","general.general":"General","general.notifications":"Notifications","general.notNow":"Not now","general.description":"Description","general.signIn":"Sign in","general.signUp":"Sign up","general.shop":"Shop","general.collection":"Collection","general.verify":"Verify","general.viewAll":"View all","general.yes":"Yes","general.upgrade":"Upgrade","general.days":"days","general.confirm":"Are you sure?","addDeck.nameHintText":"Enter a name...","addons.discover":"Discover","addToHomeSheet.submitButton":"Add to home","app.defaultInstallMessage":"Add Fam to your homescreen to quickly access all features anytime","app.stillLoading":"We're still loading this page. If this message remains for more than a few seconds, send us an email with the version of Android you're using: austin@clay.io","arenaPickerDialog.title":"Max Arena","buyGiftCardDialog.title":"Enter email","buyGiftCardDialog.description":"Let us know the email you want us to send the gift card to","boostDialog.title":"Boost your message","boostDialog.text":"Support {name} and stand out more in chat!","cardPickerDialog.title":"Insert card","channelDrawer.title":"Chat channels","chatSettings.chatAppearance":"Chat appearance","chatSettings.linkedClans":"Linked clans","claimClanDialog.title":"Claim clan","claimClanDialog.groupNameHintText":"Group name","claimClanDialog.setPasswordDescription":"Create a password that you will give to your clan members so they can verify their accounts","claimClanDialog.text1":"Add this code to your clan description in the game to verify your ownership","claimClanDialog.text2":"Claiming ownership will unlock","claimClanDialog.text3":"Private clan chat","claimClanDialog.text4":"Verified Fam accounts","claimClanDialog.submitButton":"Claim","claimClanDialog.setPassword":"Set password","clanEdit.clanPassword":"Clan password","clanGraphs.empty":"Clan graphs coming soon. We need to collect more than 1 week of data","clanInfo.type":"Type","clanInfo.minTrophies":"Required trophies","clanInfo.region":"Location","clanInfo.lastUpdatedTime":"Last updated","clanInfo.claimClan":"Claim clan","clanInfo.clanChat":"Clan chat","clanInfo.verifySelf":"Verify Self","clanInfo.typeOpen":"Open","clanInfo.typePrivate":"Private","clanInfo.typeInviteOnly":"Invite-only","clanInfo.weekDonations":"Donations this wk","clanNotVerifiedDialog.title":"Whoops...","clanNotVerifiedDialog.text1":"It seems we couldn’t verify your clan ownership.","clanNotVerifiedDialog.text2":"Make sure you’ve added the claim code to your clan description and that you’ve not made any typos.","clanNotVerifiedDialog.text3":"Still having trouble? Send us an email (contact@clay.io)","clanNotVerifiedDialog.tryAgain":"Try again","collection.use":"Use","collection.infoCard":"Unlock new stickers by collecting chests and keys. Using a key on a chest will yield new stickers. Chests are given free daily in the shop, and keys can be purchased with fire or traded for.","compose.titleHintText":"Title...","compose.responseHintText":"Write a response...","compose.postHintText":"Write a post...","confirmPackPurchase.buyPack":"Buy pack","confirmPackPurchase.buyPackFor":"Buy this pack for {cost}","confirmProductPurchase.buyProduct":"Buy product","confirmProductPurchase.buyProductFor":"Buy this product for {cost}","confirmProductPurchase.open":"Open product","conversation.followMessage":"Follow {name} to post to this group","conversation.joinMessage":"Welcome! Tap the button below to join this group","conversation.slowMode":"This chat is in slow mode. You can post again in {seconds} seconds","conversationImageView.title":"Image","conversationInput.unlockStickers":"Verify your account to unlock stickers","conversationInput.unlockGifs":"Verify your account to unlock GIFs","conversationInput.unlockImages":"Verify your account to unlock image uploads","conversationInput.unlockDescription":"(Claim a clan, or have your clan leader do it)","conversationInputAddons.hintText":"Search tools...","conversationInputGifs.hintText":"Search gifs...","conversationInputStickers.empty":"No stickers found","conversationInputStickers.getStickers":"Get stickers","conversationInputTextArea.hintText":"Type a message...","conversations.noneFound":"No conversations found","conversations.me":"Me: ","deckList.noDecks":"No decks found","deckList.noDecksMine":"Select a popular deck to add it, or create a new deck","deckInfo.personalStats":"Personal stats","deckInfo.communityStats":"Community stats","deckInfo.winPercentage":"Win percentage","deckInfo.winPercent":"Win %","deckInfo.communityWinPercent":"Community win %","deckInfo.winLossDraw":"W / L / D","decksGuides.noGuides":"No guides found","donateDialog.title":"Donate","donateDialog.text1":"Show your support for {name}. All proceeds go to {name}. Non-refundable","donateDialog.text2":"As a bonus, you can personalize your appearance in {name}’s chat group, and you may receive a special shoutout in their next video!","drawer.menuItemProfile":"Profile","drawer.menuItemClan":"Clan","drawer.menuItemPrivateMessages":"Private messages","drawer.menuItemDecks":"Decks","drawer.menuItemCommunity":"Community","drawer.menuItemMoreGroups":"More groups","drawer.menuItemConversations":"Conversations","drawer.menuItemPlayers":"Players","drawer.otherGroups":"Other groups","drawer.menuItemNeedsApp":"Get the app","earnFire.title":"Earn fire","earnFire.youHave":"You have {fire} fire","earnFire.completeOffer":"Complete offer","earnFire.noRewards":"No rewards found","earnFire.tips":"Tips","earnFire.refresh":"Refresh offers","earnFire.averageTimeToComplete":"Typically rewards in","earnFire.description1":"We're testing out a new feature where you can earn currency (fire) in Fam","earnFire.description2":"You'll be able to spend this on things like removing ads, Google Play gift cards, enabling auto-refresh, and chatting with YouTubers","earnFire.description3":"Tap an offer below to earn fire","earnFire.tips1":"Quizzes","earnFire.tips1a":"Quizzes are pages littered with ads everywhere","earnFire.tips1b":"The hardest part is finding the right buttons to click (\"start\" and \"next\")","earnFire.tips1c":"Sometimes you have to wait for the \"next\" button to show","earnFire.tips1d":"Typically you don't need to get 100% correct (even if it says you do)","earnFire.tips1d1":"Some of them only give credits for 80%+","earnFire.tips1e":"Unfortunately most are in English","earnFire.tips2":"App installs","earnFire.tips2a":"Usually you have to download an app and either spend a couple minutes in it, or complete some action","earnFire.tips2b":"Sometimes they just don't work and don't give you credits :/ We're trying our best to filter those ones out","earnFire.tips3":"General","earnFire.tips3a":"Some offers will ask you for your credit card information. Typically these offers give a much higher reward, but I don't recommend doing these offers.","earnXp.currentXp":"You have {currentXp}xp","earnXp.watchAd":"Watch ad","earnXp.watchAdButton":"Watch ({videosLeft} left)","earnXp.dailyVisit":"Daily visit","earnXp.claim":"Claim","earnXp.claimed":"Claimed","earnXp.dailyChatMessage":"Daily chat message","earnXp.dailyForumComment":"Daily forum comment","earnXp.dailyChatMessageButton":"Go to chat","earnXp.dailyForumCommentButton":"Go to forum","earnXp.openStickerPacks":"Open sticker packs","earnXp.openStickerPacksButton":"Go to shop","earnXp.dailyVideoView":"Daily video watched","earnXp.dailyVideoViewButton":"Go to videos","editEvent.nameHintText":"Event name","editEvent.tournamentIdHintText":"ID tag #","editEvent.passwordLabel":"Password protected","editEvent.dateHintText":"Date","editEvent.startTimeHintText":"Start time","editEvent.durationHintText":"Duration","editEvent.minTrophiesHintText":"Min trophies","editEvent.maxTrophiesHintText":"Max trophies","editEvent.maxUserCountHintText":"Event size","editGroup.nameHintText":"Group name","editGroupChangeBadge.appBarTitle":"Group badge","editGroupChangeBadge.backgroundColorTitle":"Background color","editGroupChangeBadge.badgeTitle":"Badge","editGuide.titleHintText":"Deck name","editGuide.videoUrlHintText":"YouTube URL (optional)","editGuide.summaryHintText":"Brief summary","editGuide.markdownEditorHintText":"Full guide writeup...","editProfile.playerTagInputHintText":"Player tag","editProfile.linkedGames":"Linked games","editProfile.avatarButtonText":"Upload photo","editProfile.changeAvatar":"Change avatar","editProfile.forumSigButtonText":"Create forum signature","editProfile.logoutButtonText":"Logout","event.joinButtonText":"Join event","eventInfo.tournamentIdHintText":"ID tag","events.noEvents":"There are currently no public events scheduled. Check back soon!","events.noEventsMine":"You haven't joined any events","findFriends.searchPlaceholder":"Search by username","findPeople.filters":"Filters","forumSignature.subheadColors":"Background color","forumSignature.subheadFavoriteCard":"Favorite card","forumSignature.label":"Signature URL","forumSignature.help":"Where do I paste this?","people.title":"LFG","people.following":"Following","people.followers":"Followers","people.blocked":"Blocked","people.followingEmpty":"You're not following anyone","people.followersEmpty":"You don't have any followers","people.blockedEmpty":"You haven't blocked anyone","people.infoCardText":"Here you can find people to befriend, or play with! To post, use the button at the bottom right","filterThreadsDialog.sortPopular":"Popular","filterThreadsDialog.sortNew":"New","filterThreadsDialog.filterAll":"All","filterThreadsDialog.filterDeckGuide":"Deck guides","filterThreadsDialog.filterNews":"News","fortniteGetPlayerTagForm.fortniteName":"Fortnite username","fortniteGetPlayerTagForm.linkAccount":"Be sure to link your Fornite account with Epic first.","fortniteGetPlayerTagForm.instructions":"Tap here for instructions","fortniteGetPlayerTagForm.info1":"Login with your PlayStation or Xbox account on Fortnite's website.","fortniteGetPlayerTagForm.info2":"The button to login is at the top right (person icon).","fortniteGetPlayerTagForm.info3":"Now you can use the username of the Epic account you created during the login process.","fortnitePlayerStats.share":"Do you want to share your stats to your friends?","getAppDialog.text":"Take your stats on the go with the Fam app for Android and iOS!","groupAnnouncements.groupAnnouncements":"Announcements coming soon...","groupEditChannel.nameInputHintText":"Channel name","groupEditChannel.slowModeCooldownHintText":"Slow mode cooldown (seconds)","groupHome.viewAllStats":"View all stats","groupHome.topForumThreads":"Trending forum threads","groupHome.peopleInChat":"{count} people active in chat","groupHome.popularAddons":"Popular tools","groupHome.newestVideo":"Newest video","groupHome.viewAllVideos":"View all videos","groupHome.shop":"Featured fire offer","groupHome.offersDescription":"Earn fire to spend on free gift cards and stickers","groupHome.goToShop":"Go to shop","groupHome.fireStats":"Fire stats","groupHome.fireSpent":"Fire spent","groupHome.fireEarned":"Fire earned","groupHome.raffle":"Want 1,000 V-Bucks?","groupHome.raffleDescription":"Every week we give away 1,000 V-Bucks to users who help us grow the app.","groupHome.raffleLearnMore":"Learn more","groupHomeFortniteStats.title":"Fortnite stats","groupInfo.joinButtonText":"Join group","groupInfo.title":"About","groupInvite.headsUpNotificationTitle":"User invited!","groupInvite.headsUpNotificationDetails":"They have been notified","groupList.empty":"No groups found","groupList.typeGeneral":"General","groupList.typePublic":"Public","groupList.typeClan":"Clan","groupPeoplePage.title":"LFG","groupPeoplePage.description":"Find new friends to play Fortnite with. Fill your squad or duo easily!","groupManageRoles.addRole":"Add role","groupManageMember.addRole":"Add role","groupNewLfg.hashtagsDescription":"Posts are searchable by hashtags. Tap below to add popular ones to your post, or come up with your own.","groupRolePermissions.selectRole":"Select a role","groupRolePermissions.deleteRole":"Delete role","groupSettings.leaveGroup":"Leave group","groupSettings.chatMessage":"New chat messages","groupSettings.chatMessageMention":"Mention","groupSettings.passwordToJoin":"Password to join","groupSendNotification.sent":"Sent","groupSendNotification.send":"Send","groupSendNotification.path":"Path","groupSendNotification.titleHint":"Title","groupSendNotification.descriptionHint":"Description","groups.myGroupList":"My groups","groups.suggestedGroupList":"Suggested groups","idNotFoundDialog.title":"Whoops...","idNotFoundDialog.text1":"It seems we couldn’t find that player tag.","idNotFoundDialog.text2":"Make sure you’re inputting the correct tag, and that you’ve not made any typos.","idNotFoundDialog.text3":"Still having trouble? Send us an email (contact@clay.io)","idNotFoundDialog.tryAgain":"Try again","idNotFoundDialog.findTag":"How do I find my tag?","itemList.empty":"No items found","inputError.invalidEmail":"Please enter a valid email address","inputError.emailExists":"An account with that email already exists","inputError.incorrectPassword":"Incorrect password","inputError.usernameTaken":"That username is already taken","installOverlay.title":"Add Fam to homescreen","installOverlay.text":"Tap","installOverlay.instructions":"Select 'Add to homescreen' to pin the Fam web app","installOverlay.closeButtonText":"Got it","join.title":"Get started!","join.createAccountButtonText":"Create account","joinGroupDialog.error":"Incorrect password","joinGroupDialog.text":"Ask your clan leader for the clan group password to join and verify your account","newCards.popularDecks":"Popular decks","newCards.winRates":"Win rates","newThread.link":"Link your Clash Royale profile to continue","newTradePickItems.offering":"Items you're offering...","newTradePickItems.want":"Items you want...","newTradePickItems.theirCollection":"Their collection","newTradePickItems.allItems":"All items","newTradePickItems.myCollection":"My collection","newTradePickItems.iNeed":"Items I need","newTradePickItems.theyNeed":"Items they need","newTradePickItems.filter":"Filter items","newTradeConfirm.title":"Confirm trade?","newTradeConfirm.youWant":"You want","newTradeConfirm.youreOffering":"You're offering","newTradeConfirm.tradingWith":"Trading with","nps.appStore1":"We'd love it if you could rate Fam in the app store :)","nps.appStore2":"Having more ratings helps us a lot!","nps.askRating":"How would you rate Fam?","nps.getComments":"Have suggestions? (opt.)","nps.description":"Loving the app? Have a suggestion? Your feedback helps shape Fam.","nps.num1to10":"Must be a number between 0 and 10","nps.rate":"Rate Fam","nps.thanks":"Thanks for your feedback!","nps.title":"Thoughts?","offlineOverlay.text":"Looks like you're offline. Reconnect to the internet to resume","offlineOverlay.closeButtonText":"Close this message","openPack.goToCollection":"Go to collection","playersFollowing.emptyDiv1":"Keep track of your friends or favorite players!","playersFollowing.emptyDiv2":"Find players to follow through chat or the players list","playersSearch.playerTagError":"Hmm, we can't find that tag","playersSearch.description":"Find any player's stats, then follow them to stay up to date","playersSearch.playerTagInputHintText":"Player ID tag #","playersSearch.trackButtonText":"Find player","playersSearch.dialogDescription":"Searching...","policies.title":"Privacy and content","policies.description":"By registering, you agree to Fam's Privacy Policy, Terms of Service, and Supercell's Fan Content Policy","profileChests.chestsTitle":"Upcoming chests","profileChests.chestsUntilTitle":"Chests until","profileChests.daysUntilTitle":"Days until","profileChests.viewShopOffers":"View shop offers","profileDecks.all":"All","profileDecks.ladder":"Ladder","profileDecks.classicChallenge":"Classic Challenge","profileDecks.grandChallenge":"Grand Challenge","profileDecks.tournament":"Tournament","profileDecks.2v2":"2v2","profileDecks.newCardChallenge":"New Card Challenge","profileDecks.postGuide":"Whoa, you're pretty good with this deck! Want to post a deck guide to the forum?","profileDialog.message":"Message","profileDialog.block":"Block","profileDialog.unblock":"Unblock","profileDialog.flag":"Report","profileDialog.isFlagged":"Reported","profileDialog.ban":"Ban","profileDialog.tempBan":"Temp ban","profileDialog.permaBan":"Perm ban","profileDialog.ipBan":"IP Ban","profileDialog.chatBanned":"Banned","profileDialog.unban":"Unban","profileDialog.delete":"Delete","profileDialog.deleteMessage":"Delete message","profileDialog.deleteMessagesLast24hr":"Delete messages in last 24hr","profileDialog.deleteMessagesLast7d":"Delete messages in last 7d","profileDialog.copy":"Copy Text","profileHistory.currentTitle":"Current deck","profileHistory.otherDecksTitle":"Other decks","profileHistory.otherDecksEmpty":"No other decks found","profileInfo.setUsername":"Set username","profileInfo.statWins":"Wins","profileInfo.statLosses":"Losses","profileInfo.statDraws":"Draws","profileInfo.statMatches":"Matches","profileInfo.statKills":"Kills","profileInfo.statWinRate":"Win rate","profileInfo.statCrownsEarned":"Crowns earned","profileInfo.statCrownsLost":"Crowns lost","profileInfo.statCurrentWinStreak":"Current win streak","profileInfo.statCurrentLossStreak":"Current loss streak","profileInfo.statMaxWinStreak":"Max win streak","profileInfo.statMaxLossStreak":"Max loss streak","profileInfo.statFavoriteCard":"Current favorite card","profileInfo.statThreeCrowns":"Three crown wins","profileInfo.statCardsFound":"Cards found","profileInfo.statMaxTrophies":"Highest trophies","profileInfo.statTotalDonations":"Total donations","profileInfo.lastUpdatedTime":"Last updated","profileInfo.followButtonText":"Follow","profileInfo.followButtonIsFollowingText":"Unfollow","profileInfo.moreDetailsButtonText":"More details","profileInfo.splitsInfoCardText":"Note: the stats below will only account for your previous 25 games initially. All future stats will be tracked","profileInfo.subheadStats":"Stats","profileInfo.subheadLadder":"Ladder","profileInfo.subheadGrandChallenge":"Grand challenge","profileInfo.subheadClassicChallenge":"Classic challenge","profileInfo.subhead2V2":"2v2","profileInfo.waitTitle":"Wait a bit","profileInfo.waitDescription":"You can refresh once every {number} minutes","profileInfo.autoRefresh":"Auto refresh","profileInfo.autoRefreshInfo":"[i]","profileInfo.autoRefreshText1":"After enabling auto-refresh, Fam will automatically update your profile at least once per hour. This means we'll be able to catalog all of your matches and give you better stats!","profileInfo.autoRefreshText2":"To enable auto-refresh: ","profileInfo.autoRefreshVerifyAccount":"Verify your account","profileInfo.autoRefreshVisitForum":"Visit the forum","profileInfo.autoRefreshVisitForumDescription":"Every time you visit the forum, your auto-refresh will be extended to last 24 hours after that visit, so be sure to visit at least once per day :)","profileGraphs.trophies":"Trophies","profileGraphs.donations":"Donations","profileGraphs.clanChestCrowns":"Clan chest crowns","profileLanding.title":"Clash Royale stats","profileLanding.description":"Automatically track your wins, losses, donations and more with your player tag","profileLanding.trackButtonText":"Track my stats","profileLanding.chestCycleTitle":"Chest cycle tracking","profileLanding.chestCycleDescription":"See when you're going to get your next Super Magical or Legendary chest","profileLanding.statsTitle":"Player and deck stats","profileLanding.statsDescription":"Track your win rate with each of your decks to see how good each one is","profileLanding.chatAndForumTitle":"Chat and forum","profileLanding.chatAndForumDescription":"Chat with other Clash Royale players and stay up to date with the forum","profileLanding.terms":"You can find your player tag by tapping on your username in Clash Royale to open your profile. It's located right below your username","profileLanding.terms2":"This content is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it. Must be 13 or older.","profileLanding.dialogDescription":"Collecting your stats...","pushNotificationsSheet.message":"Turn on notifications so you don't miss any events or messages","pushNotificationsSheet.submitButtonText":"Turn on","requestNotificationsCard.request":"Would you like to turn on notifications? You'll receive a daily recap of your progress","requestNotificationsCard.turnedOn":"Notifications have been eneabled! You can always adjust them from the settings","requestNotificationsCard.noThanks":"If you change your mind, notifications can be toggled on from the settings","requestNotificationsCard.cancelText":"No thanks","requestNotificationsCard.submit":"Yes, turn on","openChest.useKey":"Use key","openChest.needKeys":"You need a key to open this chest. Keys can be bought in the shop or traded for.","openChest.needChest":"You don't have any chests. You can get them in the shop or through trading.","searchInput.placeholder":"Search...","setLanguageDialog.title":"Set language","shop.empty":"No products found","shop.infoCardText":"Earn fire to spend on stickers and gift cards. Tap the tabs above to complete offers for fire!","shop.specialOffers":"Earn fast","shop.earnMore":"Earn more fire","shopOffers.rip":"Supercell wants shop offers to remain a mystery, so we're removing them from Fam. Sorry!","signIn.title":"Welcome back!","signIn.terms":"By registering, you agree to our {tos}","simulator.youGot":"You got","simulator.adIncoming":"Ad incoming","simulator.card":"Card","social.title":"Social","social.groupChats":"Group chats","social.pms":"PMs","specialOffers.noOffersFound":"No offers found, check back soon!","specialOffers.earnAmount":"Earn {amount}","specialOffers.inDays":"in {days} days","specialOffers.permissionInfo":"In order for special offers to work, you need to enable usage access in your settings. Tap the button below to open settings","specialOffers.notAvailableiOS":"Special offers are not available on iOS yet","specialOffers.requiresAndroidApp":"Install the Android app for access to special offers","specialOffers.openPermissions":"Open permissions","specialOffers.installAndroidApp":"Install Android App","specialOffers.play":"Play {minutes} minutes","specialOffers.install":"Install and open","spendFire.limited":"Limited amount available","starVideos.donate":"Donate","stars.recommended":"Recommended","stepBar.next":"Next","stepBar.send":"Send","stepBar.back":"Back","stickerInfo.levelUpRequirement":"{countRequired} duplicates to level up","stripeDialog.confirmTitle":"Confirm","stripeDialog.title":"Payment","famFam.line1":"fam has a new name: Fam.","time.justNow":"now","time.secondShorthand":"s","time.minuteShorthand":"m","time.hourShorthand":"h","time.dayShorthand":"d","time.weekShorthand":"w","time.monthShorthand":"M","time.yearShorthand":"Y","thread.noComments":"No comments found","thread.points":"points","thread.comments":"comments","threads.userOfWeek":"User of the week:","threads.winner":"$25 winner","threads.learnMore":"Tap to learn more","trade.asked":"You asked for...","trade.cancel":"Cancel trade","trade.cantComplete":"You don't have what they're asking for!","trade.confirm":"Are you sure you want to accept the trade from {name}?","trade.giving":"You're giving","trade.notAvailable":"This trade is no longer available","trade.offering":"They're offering...","trade.from":"From {name}","trade.fromMe":"Your trade","trades.expired":"Expired","trades.expiresIn":"Expires in {time}","trades.empty":"No trades here yet! Tap someone's name in chat to start a trade with them","translateCard.request1":"Help translate Fam","translateCard.request2":"If you want Fam translated into {language} we would love your help","translateCard.submit":"I will help","translateCard.cancelText":"No thanks","weeklyRaffle.title":"Chance at 1,000 V-Bucks","weeklyRaffle.text1":"Help us grow the community! Every week we will randomly pick one person who shares Fortnite Fam to get 1,000 V-Bucks.","weeklyRaffle.text2":"Use the button below to share, and good luck! Winners will be selected every Wednesday","verifyAccountDialog.copyDeck":"Copy deck","verifyAccountDialog.description":"To verify your account, play one game (any mode) with the random deck below. You can use the button to copy it easily, then hit 'Verify' when you're done","verifyAccountDialog.error":"Your current deck doesn't match. Try again in 30 seconds","verifyAccountDialog.profileIdDescription":"Player ID (not hashtag), found in Clash Royale settings:","videos.title":"Popular videos","videos.recentVideos":"Recent videos","videos.star":"Star","404Page.text":"Page not found","addDeckPage.title":"New deck","addEventPage.title":"Add event","addGuidePage.title":"Add guide","addonsPage.title":"More tools","cardsPage.title":"Battle cards","clanPage.empty":"Looks like you're not in a clan","clanEditPage.title":"Edit clan","collectionPage.title":"Collection","communityPage.menuText":"Groups","communityPage.menuNews":"Forum","decksPage.installMessage":"Add Fam to your homescreen to quickly access these guides anytime","editEventPage.title":"Edit event","editGroupPage.title":"Edit group","editGuidePage.title":"Edit guide","editProfilePage.title":"Edit profile","eventPage.title":"Event","eventPage.shareText":"Come join my tournament","eventPage.leave":"Are you sure you want to leave?","eventsPage.title":"Events","eventsPage.menuTextAvailable":"Available","eventsPage.menuTextMine":"My events","facebookLoginPage.title":"Facebook login","facebookLoginPage.contentTitle":"Redirecting...","facebookLoginPage.contentDescription":"Just a moment...","forumSignaturePage.title":"Forum signature","groupAddChannelPage.title":"Add channel","groupChatPage.title":"Group chat","groupLeaderboardPage.title":"Leaderboard","groupLeaderboardPage.topAllTime":"Top all-time","groupLeaderboardPage.earnXp":"Earn XP","groupShopPage.title":"Shop","groupEditChannelPage.title":"Edit channel","groupInvitePage.title":"Group invite","groupInvitesPage.title":"Group invites","groupManageChannelsPage.title":"Manage channels","groupBannedUsersPage.title":"Banned users","groupBannedUsersPage.tempBanned":"Temp banned","groupBannedUsersPage.permBanned":"Perm banned","groupAuditLogPage.title":"Audit log","groupManageRolesPage.title":"Manage roles","groupManagePagesPage.title":"Manage pages","groupManageMemberPage.title":"Manage member","groupMembersPage.title":"Group members","groupNewPage.keyHintText":"path","groupSettingsPage.title":"Group settings","groupSendNotificationPage.title":"Send Notification","joinPage.title":"Join","newConversationPage.title":"New conversation","newGroupPage.title":"New group","newThreadPage.title":"New thread","newTradePage.title":"New trade","playersPage.title":"Players","playersPage.playersTop":"Top players","playersPage.playersFollowing":"Following","playersPage.findFriends":"Find friends","playersSearchPage.title":"Find player","profilePage.title":"Profile","policiesPage.title":"Policies","privacyPage.title":"Privacy","profileChestsPage.title":"Chest cycle","tosPage.title":"Terms of service","tradesPage.title":"Trades","tradesPage.received":"Received","tradesPage.sent":"Sent","tradesPage.done":"Done","tradesPage.receivedEmpty":"No received trades","tradesPage.sentEmpty":"No sent trades","tradesPage.doneEmpty":"No done trades","tradePage.title":"Trade","weeklyRafflePage.title":"Weekly raffle","videosPage.title":"Videos","backend.userJoinedChatMessage":"{name} joined","backend.addFriendCardTitle":"Add me as a friend","backend.addFriendCardDescription":"Tap to add me as a friend in Clash Royale","backend.joinClanCardTitle":"Join my clan","backend.joinClanCardDescription":"Tap to join my clan in Clash Royale","error.usernameTaken":"Username is taken","error.invalid":"Invalid","error.invalidUsername":"Invalid username","error.invalidPassword":"Invalid password","error.usernameNotFound":"Username not found","error.incorrectPassword":"Incorrect password","error.invalidEmail":"Invalid email","error.passwordSet":"Password is already set","permissions.readMessage":"Read messages","permissions.readAuditLog":"Read audit log","permissions.manageChannel":"Manage channel","permissions.managePage":"Manage page","permissions.manageInfo":"Manage info","permissions.manageRole":"Manage roles","permissions.tempBanUser":"Temp ban user","permissions.permaBanUser":"Perm ban user","permissions.unbanUser":"Unban user","permissions.sendMessage":"Send messages","permissions.sendLink":"Send links","permissions.sendImage":"Send images","permissions.sendAddon":"Send tools","permissions.bypassSlowMode":"Bypass slow mode","permissions.deleteMessage":"Delete message","permissions.deleteForumThread":"Delete forum thread","permissions.deleteForumComment":"Delete forum comment","permissions.pinForumThread":"Pin thread","meta.defaultTitle":"chat, memes, news, stats and more","meta.defaultDescription":"Chat with other {groupName} players, track your stats, and keep up to date on the latest and greatest news.","crChest.wooden":"Wooden","crChest.silver":"Silver","crChest.gold":"Gold","crChest.golden":"Gold","crChest.giant":"Giant","crChest.epic":"Epic","crChest.magic":"Magical","crChest.magical":"Magical","crChest.superMagical":"Super magical","crChest.legendary":"Legendary","crChest.epicOffer":"Epic offer","crChest.legendaryOffer":"Legendary offer","crChest.arenaOffer":"Arena offer"}},"cards":{"en":{"crCard.archers":"Archers","crCard.arrows":"Arrows","crCard.babyDragon":"Baby Dragon","crCard.balloon":"Balloon","crCard.bandit":"Bandit","crCard.barbarianHut":"Barbarian Hut","crCard.barbarians":"Barbarians","crCard.barbarianBarrel":"Barbarian Barrel","crCard.bats":"Bats","crCard.battleRam":"Battle Ram","crCard.bombTower":"Bomb Tower","crCard.bomber":"Bomber","crCard.bowler":"Bowler","crCard.cannon":"Cannon","crCard.cannonCart":"Cannon Cart","crCard.clone":"Clone","crCard.darkPrince":"Dark Prince","crCard.dartGoblin":"Dart Goblin","crCard.electroWizard":"Electro Wizard","crCard.eliteBarbarians":"Elite Barbarians","crCard.elixirCollector":"Elixir Collector","crCard.executioner":"Executioner","crCard.fireSpirits":"Fire Spirits","crCard.fireball":"Fireball","crCard.flyingMachine":"Flying Machine","crCard.freeze":"Freeze","crCard.furnace":"Furnace","crCard.giant":"Giant","crCard.giantSkeleton":"Giant Skeleton","crCard.goblinBarrel":"Goblin Barrel","crCard.goblinGang":"Goblin Gang","crCard.goblinHut":"Goblin Hut","crCard.goblins":"Goblins","crCard.gold":"Gold","crCard.golem":"Golem","crCard.graveyard":"Graveyard","crCard.guards":"Guards","crCard.heal":"Heal","crCard.hogRider":"Hog Rider","crCard.hunter":"Hunter","crCard.iceGolem":"Ice Golem","crCard.iceSpirit":"Ice Spirit","crCard.iceWizard":"Ice Wizard","crCard.infernoDragon":"Inferno Dragon","crCard.infernoTower":"Inferno Tower","crCard.knight":"Knight","crCard.lavaHound":"Lava Hound","crCard.lightning":"Lightning","crCard.lumberjack":"Lumberjack","crCard.magicArcher":"Magic Archer","crCard.megaMinion":"Mega Minion","crCard.megaKnight":"Mega Knight","crCard.miner":"Miner","crCard.miniPekka":"Mini P.E.K.K.A.","crCard.minionHorde":"Minion Horde","crCard.minions":"Minions","crCard.mirror":"Mirror","crCard.mortar":"Mortar","crCard.musketeer":"Musketeer","crCard.nightWitch":"Night Witch","crCard.pekka":"P.E.K.K.A.","crCard.poison":"Poison","crCard.prince":"Prince","crCard.princess":"Princess","crCard.rage":"Rage","crCard.rocket":"Rocket","crCard.royalGiant":"Royal Giant","crCard.royalGhost":"Royal Ghost","crCard.skeletonArmy":"Skeleton Army","crCard.skeletonBarrel":"Skeleton Barrel","crCard.skeletons":"Skeletons","crCard.sparky":"Sparky","crCard.spearGoblins":"Spear Goblins","crCard.tesla":"Tesla","crCard.theLog":"The Log","crCard.threeMusketeers":"Three Musketeers","crCard.tombstone":"Tombstone","crCard.tornado":"Tornado","crCard.valkyrie":"Valkyrie","crCard.witch":"Witch","crCard.wizard":"Wizard","crCard.xBow":"X-Bow","crCard.zap":"Zap","crCard.zappies":"Zappies","crCard.resource":"Resource","crCard.common":"Common","crCard.rare":"Rare","crCard.epic":"Epic","crCard.legendary":"Legendary"}},"addons":{"en":{"cardMaker.title":"Card maker","cardMaker.description":"Create any imaginary card you want!","shopOffers.title":"Shop offers","shopOffers.description":"See which shop offers you have coming up next","deckGenerator.title":"Random deck generator","deckGenerator.description":"Get a random deck with your available cards","cardChanceCalculator.title":"Card chance calculator","cardChanceCalculator.description":"See what the odds are that you will get a Legendary card from a chest","shopCardPrices.title":"Shop card price calculator","shopCardPrices.description":"Quickly find how much it will cost to buy a certain number of cards of a given rarity from the shop.","deckBuilder.title":"Deck builder","deckBuilder.description":"Build or randomize Clash Royale Battle Decks then analyze them, share them, and import them to the game","deckBandit.title":"Deck Bandit","deckBandit.description":"Find great decks for your current card levels","wiki.title":"Wiki","wiki.description":"Knowledgebase of Clash Royale facts","chestSimulator.title":"Chest simulator","chestSimulator.description":"Open fake chests","clashRoyaleClan.title":"Clan","clashRoyaleClan.description":"View your clan's stats and members","clashRoyalePlayers.title":"Players","clashRoyalePlayers.description":"Search for other players","clashRoyaleRecruiting.title":"Recruiting","clashRoyaleRecruiting.description":"Find a clan or people to join your clan","forumSignature.title":"Custom forum signature","forumSignature.description":"Generate a custom signature for forums","battleHistory.title":"Battle history","battleHistory.description":"View your recent battles","battles.title":"Battles Analysis","battles.description":"View analytics for your recently played battles and find out how you can improve","popularDecks.title":"Popular decks","popularDecks.description":"View popular decks and their win rates","top200Decks.title":"Top 200 decks","top200Decks.description":"See the decks the top 200 players use","topTouchdownCards.title":"Top touchdown cards","topTouchdownCards.description":"See the best and worst cards in 2v2 touchdown mode!","topDraftCards.title":"Top draft cards","topDraftCards.description":"See the best and worst cards in current draft challenge!","newCards.title":"New cards","newCards.description":"View stats for the cards in the latest update!","topChallengeDecks.title":"Best current challenge decks","topChallengeDecks.description":"See which current challenge decks have the higest win rates!","top2V2Decks.title":"Best 2v2 decks","top2V2Decks.description":"See which 2v2 decks have the higest win rates!","openTournaments.title":"Open tournaments","openTournaments.description":"View free, open tournaments to join in-game","clanManager.title":"Clan manager","clanManager.description":"Track donations, activity, and other statistics for your clan and its members all in one place","cardCollection.title":"Card collection lookup","cardCollection.description":"View and analyze your or another player's Card Collection","arenacr.title":"Wiki","arenacr.description":"Knowledgebase of Clash Royale facts","replayRoyale.title":"Replay Royale","replayRoyale.description":"Browse past TV Royale replays and search for decks","clashCrownPopularDecks.title":"Clash Crown Popular Decks","clashCrownPopularDecks.description":"View popular decks and their statistics","clashCrownTopClans.title":"Top Clans","clashCrownTopClans.description":"See the highest ranked clans and their stats","clashCrownTopChallengePlayers.title":"Top Challenge Players","clashCrownTopChallengePlayers.description":"Browse the players with the most cards won all-time","stormShieldOne.title":"Storm Shield One","stormShieldOne.description":"Player stats, leaderboards, sale information, and a whole lot more","fortniteShopItems.title":"Shop items","fortniteShopItems.description":"View the items currently availabe in the Fortnite shop","fortniteChestMap.title":"Chest map","fortniteChestMap.description":"View the locations of all possible chests in the game","fortniteWeapons.title":"Weapons","fortniteWeapons.description":"View stats for each weapon and rarity in Fortnite","fortniteRandomDrop.title":"Random drop picker","fortniteRandomDrop.description":"Select a random spot in the map to drop at","fortniteWikiJp.title":"Fortnite wiki","fortniteWikiJp.description":"当Wikiは、Epic Gamesが運営する「Fortnite」と「Fortnite Battle Royale」の攻略情報Wikiです。","brawlStats.title":"Brawl Stats","brawlStats.description":"Track all of your Brawl Stars stats","brawlStarsEvents.title":"Events","brawlStarsEvents.description":"See which events are live in-game"}},"paths":{"en":{"404":"/*","addEvent":"/add-event","chestCycle":"/chest-cycle","chestCycleByPlayerId":"/chest-cycle/:playerId","clan":"/clan","chat":"/chat","chatWithTab":"/chat/:tab","conversation":"/conversation/:id","conversations":"/conversations","download":"/download","editProfile":"/edit-profile","event":"/event/:id","events":"/events","eventEdit":"/event/:id/edit","groups":"/groups","group":"/g/:groupId","groupChat":"/g/:groupId/chat","groupChatConversation":"/g/:groupId/chat/:conversationId","groupCollection":"/g/:groupId/collection","groupCollectionWithTab":"/g/:groupId/collection/:tab","groupForum":"/g/:groupId/forum","groupHome":"/g/:groupId/home","groupMembers":"/g/:groupId/members","groupFire":"/g/:groupId/fire","groupFireWithTab":"/g/:groupId/fire/:tab","groupInvite":"/g/:groupId/invite","groupManage":"/g/:groupId/manage/:userId","groupTools":"/g/:groupId/tools","groupToolsWithHighlight":"/g/:groupId/tools/highlight/:highlightedKey","groupNewChannel":"/g/:groupId/new-channel","groupProfile":"/g/:groupId/profile","groupEditChannel":"/g/:groupId/chat/:conversationId/edit","groupManageChannels":"/g/:groupId/manage-channels","groupManagePages":"/g/:groupId/manage-pages","groupNewPage":"/g/:groupId/new-page","groupEditPage":"/g/:groupId/page/:key/edit","groupPage":"/g/:groupId/page/:key","groupPeople":"/g/:groupId/people","groupPeopleWithAction":"/g/:groupId/people/:action","groupSettings":"/g/:groupId/settings","groupSendNotification":"/g/:groupId/send-notification","groupShopLegacy":"/g/:groupId/shop","groupShopLegacyWithTab":"/g/:groupId/shop/:tab","groupVideos":"/g/:groupId/videos","groupLeaderboard":"/g/:groupId/leaderboard","groupAddRecords":"/g/:groupId/add-records","groupBannedUsers":"/g/:groupId/banned-users","groupManageRecords":"/g/:groupId/manage-records","groupManageRoles":"/g/:groupId/manage-roles","groupAuditLog":"/g/:groupId/audit-log","groupNewThread":"/g/:groupId/new-thread","groupNewLfg":"/g/:groupId/new-lfg","groupThread":"/g/:groupId/thread/:id","groupThreadWithTitle":"/g/:groupId/thread/:id/v/:title","groupNewThreadWithCategory":"/g/:groupId/new-thread/:category","groupNewThreadWithCategoryAndId":"/g/:groupId/new-thread/:category/:id","groupThreadEdit":"/g/:groupId/thread/:id/edit","groupWeeklyRaffle":"/g/:groupId/weekly-raffle","trades":"/trades","trade":"/trade/:id","newTrade":"/newTrade","newTradeSendItem":"/newTrade/send/:sendItemKey","newTradeReceiveItem":"/newTrade/receive/:receiveItemKey","newTradeToId":"/newTrade/to/:toId","newTradeCounter":"/newTrade/counter/:counterTradeId","tool":"/tool","toolByKey":"/tool/:key","newConversation":"/new-conversation","clashRoyalePlayer":"/tool/clash-royale-player/:playerId","playerEmbed":"/player/:playerId/embed","players":"/players","playersSearch":"/players/search","policies":"/policies","privacy":"/privacy","termsOfService":"/tos","user":"/user/:username","userById":"/user/id/:id","home":"/*","siteHome":"/"},"es":null,"it":null,"fr":null,"zh":null,"ja":null,"ko":null,"de":null,"pt":null,"pl":null,"ru":null,"id":null,"tl":null,"tr":null},"languages":{"en":{"en":"English","es":"Spanish","it":"Italian","fr":"French","zh":"Chinese","ja":"Japanese","ko":"Korean","de":"German","pt":"Portuguese","pl":"Polish","ru":"Russian","tr":"Turkish","tl":"Tagalog","id":"Indonesian"}},"fortnite":{"en":{"fortniteWeapon.assaultRifle":"Assault Rifle","fortniteWeapon.assaultRifleWithScope":"Assault Rifle With Scope","fortniteWeapon.burstAssaultRifle":"Burst Assault Rifle","fortniteWeapon.suppressedSubmachineGun":"Suppressed Submachine Gun","fortniteWeapon.tacticalSubmachineGun":"Tactical Submachine Gun","fortniteWeapon.minigun":"Minigun","fortniteWeapon.handCannon":"Hand Cannon","fortniteWeapon.pistol":"Pistol","fortniteWeapon.revolver":"Revolver","fortniteWeapon.suppressedPistol":"Suppressed Pistol","fortniteWeapon.pumpShotgun":"Pump Shotgun","fortniteWeapon.tacticalShotgun":"Tactical Shotgun","fortniteWeapon.boltActionSniperRifle":"Bolt Action Sniper Rifle","fortniteWeapon.huntingRifle":"Hunting Rifle","fortniteWeapon.semiAutoSniperRifle":"Semi Auto Sniper Rifle","fortniteWeapon.rocketLauncher":"Rocket Launcher","fortniteWeapon.grenadeLauncher":"Grenade Launcher","fortniteWeapon.boogieBomb":"Boogie Bomb","fortniteWeapon.grenade":"Grenade","fortniteWeapon.smokeGrenade":"Smoke Grenade","fortniteWeapon.crossbow":"Crossbow","fortniteWeapon.submachineGun":"Submachine Gun","fortniteWeapon.common":"Common","fortniteWeapon.uncommon":"Uncommon","fortniteWeapon.rare":"Rare","fortniteWeapon.epic":"Epic","fortniteWeapon.legendary":"Legendary","fortniteWeapon.rarity":"Rarity","fortniteWeapon.dps":"DPS","fortniteWeapon.damage":"Damage","fortniteWeapon.fireRate":"Fire Rate","fortniteWeapon.magazineSize":"Magazine Size","fortniteWeapon.reloadTime":"Reload Time","fortniteWeapon.impact":"Impact","fortniteStat.wins":"Wins","fortniteStat.winPercent":"Win %","fortniteStat.killDeath":"K/D","fortniteStat.kills":"Kills","fortniteStat.matches":"Matches","fortniteStat.hoursPlayed":"{hours} hours played","fortniteStat.overall":"Overall","fortniteStat.solo":"Solo","fortniteStat.duos":"Duos","fortniteStat.squad":"Squad"}}};} /******/ (function(modules) { // webpackBootstrap
+if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"general.loading":"Loading...","general.accept":"Accept","general.cancel":"Cancel","general.save":"Save","general.create":"Create","general.discard":"Discard","general.done":"Done","general.share":"Share","general.anonymous":"Anonymous","general.arena":"Arena","general.level":"Level","general.earn":"Earn","general.spend":"Spend","general.info":"Info","general.history":"History","general.home":"Home","general.graphs":"Graphs","general.members":"Members","general.guides":"Guides","general.popular":"Popular","general.decks":"Decks","general.deck":"Deck","general.developers":"Developers","general.donate":"Donate","general.error":"Error","general.filter":"Filter","general.fire":"Fire","general.free":"Free","general.sort":"Sort","general.submit":"Submit","general.chat":"Chat","general.forum":"Forum","general.freeStuff":"Free stuff","general.games":"Games","general.on":"on","general.off":"off","general.ok":"OK","general.pages":"Pages","general.search":"Search","general.by":"by","general.inbox":"Messages","general.manage":"Manage","general.roles":"Roles","general.clan":"Clan","general.community":"Community","general.followers":"followers","general.next":"Next","general.new":"New","general.permissions":"Permissions","general.profile":"Profile","general.name":"Name","general.username":"Username","general.social":"Social","general.tools":"Tools","general.mods":"Mods","general.recruiting":"Recruiting","general.reply":"reply","general.email":"Email","general.password":"Password","general.general":"General","general.notifications":"Notifications","general.notNow":"Not now","general.description":"Description","general.signIn":"Sign in","general.signUp":"Sign up","general.shop":"Shop","general.collection":"Collection","general.verify":"Verify","general.viewAll":"View all","general.yes":"Yes","general.upgrade":"Upgrade","general.days":"days","general.confirm":"Are you sure?","addDeck.nameHintText":"Enter a name...","addons.discover":"Discover","addToHomeSheet.submitButton":"Add to home","app.defaultInstallMessage":"Add Fam to your homescreen to quickly access all features anytime","app.stillLoading":"We're still loading this page. If this message remains for more than a few seconds, send us an email with the version of Android you're using: austin@clay.io","arenaPickerDialog.title":"Max Arena","buyGiftCardDialog.title":"Enter email","buyGiftCardDialog.description":"Let us know the email you want us to send the gift card to","boostDialog.title":"Boost your message","boostDialog.text":"Support {name} and stand out more in chat!","bottomBar.heatmap":"Heatmap","cardPickerDialog.title":"Insert card","channelDrawer.title":"Chat channels","chatSettings.chatAppearance":"Chat appearance","chatSettings.linkedClans":"Linked clans","claimClanDialog.title":"Claim clan","claimClanDialog.groupNameHintText":"Group name","claimClanDialog.setPasswordDescription":"Create a password that you will give to your clan members so they can verify their accounts","claimClanDialog.text1":"Add this code to your clan description in the game to verify your ownership","claimClanDialog.text2":"Claiming ownership will unlock","claimClanDialog.text3":"Private clan chat","claimClanDialog.text4":"Verified Fam accounts","claimClanDialog.submitButton":"Claim","claimClanDialog.setPassword":"Set password","clanEdit.clanPassword":"Clan password","clanGraphs.empty":"Clan graphs coming soon. We need to collect more than 1 week of data","clanInfo.type":"Type","clanInfo.minTrophies":"Required trophies","clanInfo.region":"Location","clanInfo.lastUpdatedTime":"Last updated","clanInfo.claimClan":"Claim clan","clanInfo.clanChat":"Clan chat","clanInfo.verifySelf":"Verify Self","clanInfo.typeOpen":"Open","clanInfo.typePrivate":"Private","clanInfo.typeInviteOnly":"Invite-only","clanInfo.weekDonations":"Donations this wk","clanNotVerifiedDialog.title":"Whoops...","clanNotVerifiedDialog.text1":"It seems we couldn’t verify your clan ownership.","clanNotVerifiedDialog.text2":"Make sure you’ve added the claim code to your clan description and that you’ve not made any typos.","clanNotVerifiedDialog.text3":"Still having trouble? Send us an email (contact@clay.io)","clanNotVerifiedDialog.tryAgain":"Try again","collection.use":"Use","collection.infoCard":"Unlock new stickers by collecting chests and keys. Using a key on a chest will yield new stickers. Chests are given free daily in the shop, and keys can be purchased with fire or traded for.","compose.titleHintText":"Title...","compose.responseHintText":"Write a response...","compose.postHintText":"Write a post...","confirmPackPurchase.buyPack":"Buy pack","confirmPackPurchase.buyPackFor":"Buy this pack for {cost}","confirmProductPurchase.buyProduct":"Buy product","confirmProductPurchase.buyProductFor":"Buy this product for {cost}","confirmProductPurchase.open":"Open product","conversation.followMessage":"Follow {name} to post to this group","conversation.joinMessage":"Welcome! Tap the button below to join this group","conversation.slowMode":"This chat is in slow mode. You can post again in {seconds} seconds","conversationImageView.title":"Image","conversationInput.unlockStickers":"Verify your account to unlock stickers","conversationInput.unlockGifs":"Verify your account to unlock GIFs","conversationInput.unlockImages":"Verify your account to unlock image uploads","conversationInput.unlockDescription":"(Claim a clan, or have your clan leader do it)","conversationInputAddons.hintText":"Search tools...","conversationInputGifs.hintText":"Search gifs...","conversationInputStickers.empty":"No stickers found","conversationInputStickers.getStickers":"Get stickers","conversationInputTextArea.hintText":"Type a message...","conversations.noneFound":"No conversations found","conversations.me":"Me: ","deckList.noDecks":"No decks found","deckList.noDecksMine":"Select a popular deck to add it, or create a new deck","deckInfo.personalStats":"Personal stats","deckInfo.communityStats":"Community stats","deckInfo.winPercentage":"Win percentage","deckInfo.winPercent":"Win %","deckInfo.communityWinPercent":"Community win %","deckInfo.winLossDraw":"W / L / D","decksGuides.noGuides":"No guides found","donateDialog.title":"Donate","donateDialog.text1":"Show your support for {name}. All proceeds go to {name}. Non-refundable","donateDialog.text2":"As a bonus, you can personalize your appearance in {name}’s chat group, and you may receive a special shoutout in their next video!","drawer.menuItemProfile":"Profile","drawer.menuItemClan":"Clan","drawer.menuItemPrivateMessages":"Private messages","drawer.menuItemDecks":"Decks","drawer.menuItemCommunity":"Community","drawer.menuItemMoreGroups":"More groups","drawer.menuItemConversations":"Conversations","drawer.menuItemPlayers":"Players","drawer.otherGroups":"Other groups","drawer.menuItemNeedsApp":"Get the app","earnFire.title":"Earn fire","earnFire.youHave":"You have {fire} fire","earnFire.completeOffer":"Complete offer","earnFire.noRewards":"No rewards found","earnFire.tips":"Tips","earnFire.refresh":"Refresh offers","earnFire.averageTimeToComplete":"Typically rewards in","earnFire.description1":"We're testing out a new feature where you can earn currency (fire) in Fam","earnFire.description2":"You'll be able to spend this on things like removing ads, Google Play gift cards, enabling auto-refresh, and chatting with YouTubers","earnFire.description3":"Tap an offer below to earn fire","earnFire.tips1":"Quizzes","earnFire.tips1a":"Quizzes are pages littered with ads everywhere","earnFire.tips1b":"The hardest part is finding the right buttons to click (\"start\" and \"next\")","earnFire.tips1c":"Sometimes you have to wait for the \"next\" button to show","earnFire.tips1d":"Typically you don't need to get 100% correct (even if it says you do)","earnFire.tips1d1":"Some of them only give credits for 80%+","earnFire.tips1e":"Unfortunately most are in English","earnFire.tips2":"App installs","earnFire.tips2a":"Usually you have to download an app and either spend a couple minutes in it, or complete some action","earnFire.tips2b":"Sometimes they just don't work and don't give you credits :/ We're trying our best to filter those ones out","earnFire.tips3":"General","earnFire.tips3a":"Some offers will ask you for your credit card information. Typically these offers give a much higher reward, but I don't recommend doing these offers.","earnXp.currentXp":"You have {currentXp}xp","earnXp.watchAd":"Watch ad","earnXp.watchAdButton":"Watch ({videosLeft} left)","earnXp.dailyVisit":"Daily visit","earnXp.claim":"Claim","earnXp.claimed":"Claimed","earnXp.dailyChatMessage":"Daily chat message","earnXp.dailyForumComment":"Daily forum comment","earnXp.dailyChatMessageButton":"Go to chat","earnXp.dailyForumCommentButton":"Go to forum","earnXp.openStickerPacks":"Open sticker packs","earnXp.openStickerPacksButton":"Go to shop","earnXp.dailyVideoView":"Daily video watched","earnXp.dailyVideoViewButton":"Go to videos","editEvent.nameHintText":"Event name","editEvent.tournamentIdHintText":"ID tag #","editEvent.passwordLabel":"Password protected","editEvent.dateHintText":"Date","editEvent.startTimeHintText":"Start time","editEvent.durationHintText":"Duration","editEvent.minTrophiesHintText":"Min trophies","editEvent.maxTrophiesHintText":"Max trophies","editEvent.maxUserCountHintText":"Event size","editGroup.nameHintText":"Group name","editGroupChangeBadge.appBarTitle":"Group badge","editGroupChangeBadge.backgroundColorTitle":"Background color","editGroupChangeBadge.badgeTitle":"Badge","editGuide.titleHintText":"Deck name","editGuide.videoUrlHintText":"YouTube URL (optional)","editGuide.summaryHintText":"Brief summary","editGuide.markdownEditorHintText":"Full guide writeup...","editProfile.playerTagInputHintText":"Player tag","editProfile.linkedGames":"Linked games","editProfile.avatarButtonText":"Upload photo","editProfile.changeAvatar":"Change avatar","editProfile.forumSigButtonText":"Create forum signature","editProfile.logoutButtonText":"Logout","event.joinButtonText":"Join event","eventInfo.tournamentIdHintText":"ID tag","events.noEvents":"There are currently no public events scheduled. Check back soon!","events.noEventsMine":"You haven't joined any events","findFriends.searchPlaceholder":"Search by username","findPeople.filters":"Filters","forumSignature.subheadColors":"Background color","forumSignature.subheadFavoriteCard":"Favorite card","forumSignature.label":"Signature URL","forumSignature.help":"Where do I paste this?","people.title":"LFG","people.following":"Following","people.followers":"Followers","people.blocked":"Blocked","people.followingEmpty":"You're not following anyone","people.followersEmpty":"You don't have any followers","people.blockedEmpty":"You haven't blocked anyone","people.infoCardText":"Here you can find people to befriend, or play with! To post, use the button at the bottom right","filterThreadsDialog.sortPopular":"Popular","filterThreadsDialog.sortNew":"New","filterThreadsDialog.filterAll":"All","filterThreadsDialog.filterDeckGuide":"Deck guides","filterThreadsDialog.filterNews":"News","fortniteGetPlayerTagForm.fortniteName":"Fortnite username","fortniteGetPlayerTagForm.linkAccount":"Be sure to link your Fornite account with Epic first.","fortniteGetPlayerTagForm.instructions":"Tap here for instructions","fortniteGetPlayerTagForm.info1":"Login with your PlayStation or Xbox account on Fortnite's website.","fortniteGetPlayerTagForm.info2":"The button to login is at the top right (person icon).","fortniteGetPlayerTagForm.info3":"Now you can use the username of the Epic account you created during the login process.","fortnitePlayerStats.share":"Do you want to share your stats to your friends?","getAppDialog.text":"Take your stats on the go with the Fam app for Android and iOS!","groupAnnouncements.groupAnnouncements":"Announcements coming soon...","groupEditChannel.nameInputHintText":"Channel name","groupEditChannel.slowModeCooldownHintText":"Slow mode cooldown (seconds)","groupHome.viewAllStats":"View all stats","groupHome.topForumThreads":"Trending forum threads","groupHome.peopleInChat":"{count} people active in chat","groupHome.popularAddons":"Popular tools","groupHome.newestVideo":"Newest video","groupHome.viewAllVideos":"View all videos","groupHome.shop":"Featured fire offer","groupHome.offersDescription":"Earn fire to spend on free gift cards and stickers","groupHome.goToShop":"Go to shop","groupHome.fireStats":"Fire stats","groupHome.fireSpent":"Fire spent","groupHome.fireEarned":"Fire earned","groupHome.raffle":"Want 1,000 V-Bucks?","groupHome.raffleDescription":"Every week we give away 1,000 V-Bucks to users who help us grow the app.","groupHome.raffleLearnMore":"Learn more","groupHomeFortniteStats.title":"Fortnite stats","groupInfo.joinButtonText":"Join group","groupInfo.title":"About","groupInvite.headsUpNotificationTitle":"User invited!","groupInvite.headsUpNotificationDetails":"They have been notified","groupList.empty":"No groups found","groupList.typeGeneral":"General","groupList.typePublic":"Public","groupList.typeClan":"Clan","groupPeoplePage.title":"LFG","groupPeoplePage.description":"Find new friends to play Fortnite with. Fill your squad or duo easily!","groupManageRoles.addRole":"Add role","groupManageMember.addRole":"Add role","groupNewLfg.hashtagsDescription":"Posts are searchable by hashtags. Tap below to add popular ones to your post, or come up with your own.","groupRolePermissions.selectRole":"Select a role","groupRolePermissions.deleteRole":"Delete role","groupSettings.leaveGroup":"Leave group","groupSettings.chatMessage":"New chat messages","groupSettings.chatMessageMention":"Mention","groupSettings.passwordToJoin":"Password to join","groupSendNotification.sent":"Sent","groupSendNotification.send":"Send","groupSendNotification.path":"Path","groupSendNotification.titleHint":"Title","groupSendNotification.descriptionHint":"Description","groups.myGroupList":"My groups","groups.suggestedGroupList":"Suggested groups","idNotFoundDialog.title":"Whoops...","idNotFoundDialog.text1":"It seems we couldn’t find that player tag.","idNotFoundDialog.text2":"Make sure you’re inputting the correct tag, and that you’ve not made any typos.","idNotFoundDialog.text3":"Still having trouble? Send us an email (contact@clay.io)","idNotFoundDialog.tryAgain":"Try again","idNotFoundDialog.findTag":"How do I find my tag?","itemList.empty":"No items found","inputError.invalidEmail":"Please enter a valid email address","inputError.emailExists":"An account with that email already exists","inputError.incorrectPassword":"Incorrect password","inputError.usernameTaken":"That username is already taken","installOverlay.title":"Add Fam to homescreen","installOverlay.text":"Tap","installOverlay.instructions":"Select 'Add to homescreen' to pin the Fam web app","installOverlay.closeButtonText":"Got it","join.title":"Get started!","join.createAccountButtonText":"Create account","joinGroupDialog.error":"Incorrect password","joinGroupDialog.text":"Ask your clan leader for the clan group password to join and verify your account","newCards.popularDecks":"Popular decks","newCards.winRates":"Win rates","newThread.link":"Link your Clash Royale profile to continue","newTradePickItems.offering":"Items you're offering...","newTradePickItems.want":"Items you want...","newTradePickItems.theirCollection":"Their collection","newTradePickItems.allItems":"All items","newTradePickItems.myCollection":"My collection","newTradePickItems.iNeed":"Items I need","newTradePickItems.theyNeed":"Items they need","newTradePickItems.filter":"Filter items","newTradeConfirm.title":"Confirm trade?","newTradeConfirm.youWant":"You want","newTradeConfirm.youreOffering":"You're offering","newTradeConfirm.tradingWith":"Trading with","nps.appStore1":"We'd love it if you could rate Fam in the app store :)","nps.appStore2":"Having more ratings helps us a lot!","nps.askRating":"How would you rate Fam?","nps.getComments":"Have suggestions? (opt.)","nps.description":"Loving the app? Have a suggestion? Your feedback helps shape Fam.","nps.num1to10":"Must be a number between 0 and 10","nps.rate":"Rate Fam","nps.thanks":"Thanks for your feedback!","nps.title":"Thoughts?","offlineOverlay.text":"Looks like you're offline. Reconnect to the internet to resume","offlineOverlay.closeButtonText":"Close this message","openPack.goToCollection":"Go to collection","playersFollowing.emptyDiv1":"Keep track of your friends or favorite players!","playersFollowing.emptyDiv2":"Find players to follow through chat or the players list","playersSearch.playerTagError":"Hmm, we can't find that tag","playersSearch.description":"Find any player's stats, then follow them to stay up to date","playersSearch.playerTagInputHintText":"Player ID tag #","playersSearch.trackButtonText":"Find player","playersSearch.dialogDescription":"Searching...","policies.title":"Privacy and content","policies.description":"By registering, you agree to Fam's Privacy Policy, Terms of Service, and Supercell's Fan Content Policy","profileChests.chestsTitle":"Upcoming chests","profileChests.chestsUntilTitle":"Chests until","profileChests.daysUntilTitle":"Days until","profileChests.viewShopOffers":"View shop offers","profileDecks.all":"All","profileDecks.ladder":"Ladder","profileDecks.classicChallenge":"Classic Challenge","profileDecks.grandChallenge":"Grand Challenge","profileDecks.tournament":"Tournament","profileDecks.2v2":"2v2","profileDecks.newCardChallenge":"New Card Challenge","profileDecks.postGuide":"Whoa, you're pretty good with this deck! Want to post a deck guide to the forum?","profileDialog.message":"Message","profileDialog.block":"Block","profileDialog.unblock":"Unblock","profileDialog.flag":"Report","profileDialog.isFlagged":"Reported","profileDialog.ban":"Ban","profileDialog.tempBan":"Temp ban","profileDialog.permaBan":"Perm ban","profileDialog.ipBan":"IP Ban","profileDialog.chatBanned":"Banned","profileDialog.unban":"Unban","profileDialog.delete":"Delete","profileDialog.deleteMessage":"Delete message","profileDialog.deleteMessagesLast24hr":"Delete messages in last 24hr","profileDialog.deleteMessagesLast7d":"Delete messages in last 7d","profileDialog.copy":"Copy Text","profileHistory.currentTitle":"Current deck","profileHistory.otherDecksTitle":"Other decks","profileHistory.otherDecksEmpty":"No other decks found","profileInfo.setUsername":"Set username","profileInfo.statWins":"Wins","profileInfo.statLosses":"Losses","profileInfo.statDraws":"Draws","profileInfo.statMatches":"Matches","profileInfo.statKills":"Kills","profileInfo.statWinRate":"Win rate","profileInfo.statCrownsEarned":"Crowns earned","profileInfo.statCrownsLost":"Crowns lost","profileInfo.statCurrentWinStreak":"Current win streak","profileInfo.statCurrentLossStreak":"Current loss streak","profileInfo.statMaxWinStreak":"Max win streak","profileInfo.statMaxLossStreak":"Max loss streak","profileInfo.statFavoriteCard":"Current favorite card","profileInfo.statThreeCrowns":"Three crown wins","profileInfo.statCardsFound":"Cards found","profileInfo.statMaxTrophies":"Highest trophies","profileInfo.statTotalDonations":"Total donations","profileInfo.lastUpdatedTime":"Last updated","profileInfo.followButtonText":"Follow","profileInfo.followButtonIsFollowingText":"Unfollow","profileInfo.moreDetailsButtonText":"More details","profileInfo.splitsInfoCardText":"Note: the stats below will only account for your previous 25 games initially. All future stats will be tracked","profileInfo.subheadStats":"Stats","profileInfo.subheadLadder":"Ladder","profileInfo.subheadGrandChallenge":"Grand challenge","profileInfo.subheadClassicChallenge":"Classic challenge","profileInfo.subhead2V2":"2v2","profileInfo.waitTitle":"Wait a bit","profileInfo.waitDescription":"You can refresh once every {number} minutes","profileInfo.autoRefresh":"Auto refresh","profileInfo.autoRefreshInfo":"[i]","profileInfo.autoRefreshText1":"After enabling auto-refresh, Fam will automatically update your profile at least once per hour. This means we'll be able to catalog all of your matches and give you better stats!","profileInfo.autoRefreshText2":"To enable auto-refresh: ","profileInfo.autoRefreshVerifyAccount":"Verify your account","profileInfo.autoRefreshVisitForum":"Visit the forum","profileInfo.autoRefreshVisitForumDescription":"Every time you visit the forum, your auto-refresh will be extended to last 24 hours after that visit, so be sure to visit at least once per day :)","profileGraphs.trophies":"Trophies","profileGraphs.donations":"Donations","profileGraphs.clanChestCrowns":"Clan chest crowns","profileLanding.title":"Clash Royale stats","profileLanding.description":"Automatically track your wins, losses, donations and more with your player tag","profileLanding.trackButtonText":"Track my stats","profileLanding.chestCycleTitle":"Chest cycle tracking","profileLanding.chestCycleDescription":"See when you're going to get your next Super Magical or Legendary chest","profileLanding.statsTitle":"Player and deck stats","profileLanding.statsDescription":"Track your win rate with each of your decks to see how good each one is","profileLanding.chatAndForumTitle":"Chat and forum","profileLanding.chatAndForumDescription":"Chat with other Clash Royale players and stay up to date with the forum","profileLanding.terms":"You can find your player tag by tapping on your username in Clash Royale to open your profile. It's located right below your username","profileLanding.terms2":"This content is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it. Must be 13 or older.","profileLanding.dialogDescription":"Collecting your stats...","pushNotificationsSheet.message":"Turn on notifications so you don't miss any events or messages","pushNotificationsSheet.submitButtonText":"Turn on","requestNotificationsCard.request":"Would you like to turn on notifications? You'll receive a daily recap of your progress","requestNotificationsCard.turnedOn":"Notifications have been eneabled! You can always adjust them from the settings","requestNotificationsCard.noThanks":"If you change your mind, notifications can be toggled on from the settings","requestNotificationsCard.cancelText":"No thanks","requestNotificationsCard.submit":"Yes, turn on","openChest.useKey":"Use key","openChest.needKeys":"You need a key to open this chest. Keys can be bought in the shop or traded for.","openChest.needChest":"You don't have any chests. You can get them in the shop or through trading.","searchInput.placeholder":"Search...","setLanguageDialog.title":"Set language","shop.empty":"No products found","shop.infoCardText":"Earn fire to spend on stickers and gift cards. Tap the tabs above to complete offers for fire!","shop.specialOffers":"Earn fast","shop.earnMore":"Earn more fire","shopOffers.rip":"Supercell wants shop offers to remain a mystery, so we're removing them from Fam. Sorry!","signIn.title":"Welcome back!","signIn.terms":"By registering, you agree to our {tos}","simulator.youGot":"You got","simulator.adIncoming":"Ad incoming","simulator.card":"Card","social.title":"Social","social.groupChats":"Group chats","social.pms":"PMs","specialOffers.noOffersFound":"No offers found, check back soon!","specialOffers.earnAmount":"Earn {amount}","specialOffers.inDays":"in {days} days","specialOffers.permissionInfo":"In order for special offers to work, you need to enable usage access in your settings. Tap the button below to open settings","specialOffers.notAvailableiOS":"Special offers are not available on iOS yet","specialOffers.requiresAndroidApp":"Install the Android app for access to special offers","specialOffers.openPermissions":"Open permissions","specialOffers.installAndroidApp":"Install Android App","specialOffers.play":"Play {minutes} minutes","specialOffers.install":"Install and open","spendFire.limited":"Limited amount available","starVideos.donate":"Donate","stars.recommended":"Recommended","stepBar.next":"Next","stepBar.send":"Send","stepBar.back":"Back","stickerInfo.levelUpRequirement":"{countRequired} duplicates to level up","stripeDialog.confirmTitle":"Confirm","stripeDialog.title":"Payment","time.justNow":"now","time.secondShorthand":"s","time.minuteShorthand":"m","time.hourShorthand":"h","time.dayShorthand":"d","time.weekShorthand":"w","time.monthShorthand":"M","time.yearShorthand":"Y","thread.noComments":"No comments found","thread.points":"points","thread.comments":"comments","threads.userOfWeek":"User of the week:","threads.winner":"$25 winner","threads.learnMore":"Tap to learn more","trade.asked":"You asked for...","trade.cancel":"Cancel trade","trade.cantComplete":"You don't have what they're asking for!","trade.confirm":"Are you sure you want to accept the trade from {name}?","trade.giving":"You're giving","trade.notAvailable":"This trade is no longer available","trade.offering":"They're offering...","trade.from":"From {name}","trade.fromMe":"Your trade","trades.expired":"Expired","trades.expiresIn":"Expires in {time}","trades.empty":"No trades here yet! Tap someone's name in chat to start a trade with them","translateCard.request1":"Help translate Fam","translateCard.request2":"If you want Fam translated into {language} we would love your help","translateCard.submit":"I will help","translateCard.cancelText":"No thanks","twitchSignInOverlay.title":"Connect your Twitch to continue","twitchSignInOverlay.text1":"Click","twitchSignInOverlay.text2":"Then click the \"Grant\" button","weeklyRaffle.title":"Chance at 1,000 V-Bucks","weeklyRaffle.text1":"Help us grow the community! Every week we will randomly pick one person who shares Fortnite Fam to get 1,000 V-Bucks.","weeklyRaffle.text2":"Use the button below to share, and good luck! Winners will be selected every Wednesday","verifyAccountDialog.copyDeck":"Copy deck","verifyAccountDialog.description":"To verify your account, play one game (any mode) with the random deck below. You can use the button to copy it easily, then hit 'Verify' when you're done","verifyAccountDialog.error":"Your current deck doesn't match. Try again in 30 seconds","verifyAccountDialog.profileIdDescription":"Player ID (not hashtag), found in Clash Royale settings:","videos.title":"Popular videos","videos.recentVideos":"Recent videos","videos.star":"Star","404Page.text":"Page not found","addDeckPage.title":"New deck","addEventPage.title":"Add event","addGuidePage.title":"Add guide","addonsPage.title":"More tools","cardsPage.title":"Battle cards","clanPage.empty":"Looks like you're not in a clan","clanEditPage.title":"Edit clan","collectionPage.title":"Collection","communityPage.menuText":"Groups","communityPage.menuNews":"Forum","decksPage.installMessage":"Add Fam to your homescreen to quickly access these guides anytime","editEventPage.title":"Edit event","editGroupPage.title":"Edit group","editGuidePage.title":"Edit guide","editProfilePage.title":"Edit profile","eventPage.title":"Event","eventPage.shareText":"Come join my tournament","eventPage.leave":"Are you sure you want to leave?","eventsPage.title":"Events","eventsPage.menuTextAvailable":"Available","eventsPage.menuTextMine":"My events","facebookLoginPage.title":"Facebook login","facebookLoginPage.contentTitle":"Redirecting...","facebookLoginPage.contentDescription":"Just a moment...","forumSignaturePage.title":"Forum signature","groupAddChannelPage.title":"Add channel","groupChatPage.title":"Group chat","groupLeaderboardPage.title":"Leaderboard","groupLeaderboardPage.topAllTime":"Top all-time","groupLeaderboardPage.earnXp":"Earn XP","groupShopPage.title":"Shop","groupEditChannelPage.title":"Edit channel","groupInvitePage.title":"Group invite","groupInvitesPage.title":"Group invites","groupManageChannelsPage.title":"Manage channels","groupBannedUsersPage.title":"Banned users","groupBannedUsersPage.tempBanned":"Temp banned","groupBannedUsersPage.permBanned":"Perm banned","groupAuditLogPage.title":"Audit log","groupManageRolesPage.title":"Manage roles","groupManagePagesPage.title":"Manage pages","groupManageMemberPage.title":"Manage member","groupMembersPage.title":"Group members","groupNewPage.keyHintText":"path","groupSettingsPage.title":"Group settings","groupSendNotificationPage.title":"Send Notification","joinPage.title":"Join","newConversationPage.title":"New conversation","newGroupPage.title":"New group","newThreadPage.title":"New thread","newTradePage.title":"New trade","playersPage.title":"Players","playersPage.playersTop":"Top players","playersPage.playersFollowing":"Following","playersPage.findFriends":"Find friends","playersSearchPage.title":"Find player","profilePage.title":"Profile","policiesPage.title":"Policies","privacyPage.title":"Privacy","profileChestsPage.title":"Chest cycle","tosPage.title":"Terms of service","tradesPage.title":"Trades","tradesPage.received":"Received","tradesPage.sent":"Sent","tradesPage.done":"Done","tradesPage.receivedEmpty":"No received trades","tradesPage.sentEmpty":"No sent trades","tradesPage.doneEmpty":"No done trades","tradePage.title":"Trade","weeklyRafflePage.title":"Weekly raffle","videosPage.title":"Videos","backend.userJoinedChatMessage":"{name} joined","backend.addFriendCardTitle":"Add me as a friend","backend.addFriendCardDescription":"Tap to add me as a friend in Clash Royale","backend.joinClanCardTitle":"Join my clan","backend.joinClanCardDescription":"Tap to join my clan in Clash Royale","error.usernameTaken":"Username is taken","error.invalid":"Invalid","error.invalidUsername":"Invalid username","error.invalidPassword":"Invalid password","error.usernameNotFound":"Username not found","error.incorrectPassword":"Incorrect password","error.invalidEmail":"Invalid email","error.passwordSet":"Password is already set","permissions.readMessage":"Read messages","permissions.readAuditLog":"Read audit log","permissions.manageChannel":"Manage channel","permissions.managePage":"Manage page","permissions.manageInfo":"Manage info","permissions.manageRole":"Manage roles","permissions.tempBanUser":"Temp ban user","permissions.permaBanUser":"Perm ban user","permissions.unbanUser":"Unban user","permissions.sendMessage":"Send messages","permissions.sendLink":"Send links","permissions.sendImage":"Send images","permissions.sendAddon":"Send tools","permissions.bypassSlowMode":"Bypass slow mode","permissions.deleteMessage":"Delete message","permissions.deleteForumThread":"Delete forum thread","permissions.deleteForumComment":"Delete forum comment","permissions.pinForumThread":"Pin thread","meta.defaultTitle":"chat, memes, news, stats and more","meta.defaultDescription":"Chat with other {groupName} players, track your stats, and keep up to date on the latest and greatest news.","crChest.wooden":"Wooden","crChest.silver":"Silver","crChest.gold":"Gold","crChest.golden":"Gold","crChest.giant":"Giant","crChest.epic":"Epic","crChest.magic":"Magical","crChest.magical":"Magical","crChest.superMagical":"Super magical","crChest.legendary":"Legendary","crChest.epicOffer":"Epic offer","crChest.legendaryOffer":"Legendary offer","crChest.arenaOffer":"Arena offer"}},"cards":{"en":{"crCard.archers":"Archers","crCard.arrows":"Arrows","crCard.babyDragon":"Baby Dragon","crCard.balloon":"Balloon","crCard.bandit":"Bandit","crCard.barbarianHut":"Barbarian Hut","crCard.barbarians":"Barbarians","crCard.barbarianBarrel":"Barbarian Barrel","crCard.bats":"Bats","crCard.battleRam":"Battle Ram","crCard.bombTower":"Bomb Tower","crCard.bomber":"Bomber","crCard.bowler":"Bowler","crCard.cannon":"Cannon","crCard.cannonCart":"Cannon Cart","crCard.clone":"Clone","crCard.darkPrince":"Dark Prince","crCard.dartGoblin":"Dart Goblin","crCard.electroWizard":"Electro Wizard","crCard.eliteBarbarians":"Elite Barbarians","crCard.elixirCollector":"Elixir Collector","crCard.executioner":"Executioner","crCard.fireSpirits":"Fire Spirits","crCard.fireball":"Fireball","crCard.flyingMachine":"Flying Machine","crCard.freeze":"Freeze","crCard.furnace":"Furnace","crCard.giant":"Giant","crCard.giantSkeleton":"Giant Skeleton","crCard.goblinBarrel":"Goblin Barrel","crCard.goblinGang":"Goblin Gang","crCard.goblinHut":"Goblin Hut","crCard.goblins":"Goblins","crCard.gold":"Gold","crCard.golem":"Golem","crCard.graveyard":"Graveyard","crCard.guards":"Guards","crCard.heal":"Heal","crCard.hogRider":"Hog Rider","crCard.hunter":"Hunter","crCard.iceGolem":"Ice Golem","crCard.iceSpirit":"Ice Spirit","crCard.iceWizard":"Ice Wizard","crCard.infernoDragon":"Inferno Dragon","crCard.infernoTower":"Inferno Tower","crCard.knight":"Knight","crCard.lavaHound":"Lava Hound","crCard.lightning":"Lightning","crCard.lumberjack":"Lumberjack","crCard.magicArcher":"Magic Archer","crCard.megaMinion":"Mega Minion","crCard.megaKnight":"Mega Knight","crCard.miner":"Miner","crCard.miniPekka":"Mini P.E.K.K.A.","crCard.minionHorde":"Minion Horde","crCard.minions":"Minions","crCard.mirror":"Mirror","crCard.mortar":"Mortar","crCard.musketeer":"Musketeer","crCard.nightWitch":"Night Witch","crCard.pekka":"P.E.K.K.A.","crCard.poison":"Poison","crCard.prince":"Prince","crCard.princess":"Princess","crCard.rage":"Rage","crCard.rocket":"Rocket","crCard.royalGiant":"Royal Giant","crCard.royalGhost":"Royal Ghost","crCard.skeletonArmy":"Skeleton Army","crCard.skeletonBarrel":"Skeleton Barrel","crCard.skeletons":"Skeletons","crCard.sparky":"Sparky","crCard.spearGoblins":"Spear Goblins","crCard.tesla":"Tesla","crCard.theLog":"The Log","crCard.threeMusketeers":"Three Musketeers","crCard.tombstone":"Tombstone","crCard.tornado":"Tornado","crCard.valkyrie":"Valkyrie","crCard.witch":"Witch","crCard.wizard":"Wizard","crCard.xBow":"X-Bow","crCard.zap":"Zap","crCard.zappies":"Zappies","crCard.resource":"Resource","crCard.common":"Common","crCard.rare":"Rare","crCard.epic":"Epic","crCard.legendary":"Legendary"}},"addons":{"en":{"cardMaker.title":"Card maker","cardMaker.description":"Create any imaginary card you want!","shopOffers.title":"Shop offers","shopOffers.description":"See which shop offers you have coming up next","deckGenerator.title":"Random deck generator","deckGenerator.description":"Get a random deck with your available cards","cardChanceCalculator.title":"Card chance calculator","cardChanceCalculator.description":"See what the odds are that you will get a Legendary card from a chest","shopCardPrices.title":"Shop card price calculator","shopCardPrices.description":"Quickly find how much it will cost to buy a certain number of cards of a given rarity from the shop.","deckBuilder.title":"Deck builder","deckBuilder.description":"Build or randomize Clash Royale Battle Decks then analyze them, share them, and import them to the game","deckBandit.title":"Deck Bandit","deckBandit.description":"Find great decks for your current card levels","wiki.title":"Wiki","wiki.description":"Knowledgebase of Clash Royale facts","chestSimulator.title":"Chest simulator","chestSimulator.description":"Open fake chests","clashRoyaleClan.title":"Clan","clashRoyaleClan.description":"View your clan's stats and members","clashRoyalePlayers.title":"Players","clashRoyalePlayers.description":"Search for other players","clashRoyaleRecruiting.title":"Recruiting","clashRoyaleRecruiting.description":"Find a clan or people to join your clan","forumSignature.title":"Custom forum signature","forumSignature.description":"Generate a custom signature for forums","battleHistory.title":"Battle history","battleHistory.description":"View your recent battles","battles.title":"Battles Analysis","battles.description":"View analytics for your recently played battles and find out how you can improve","popularDecks.title":"Popular decks","popularDecks.description":"View popular decks and their win rates","top200Decks.title":"Top 200 decks","top200Decks.description":"See the decks the top 200 players use","topTouchdownCards.title":"Top touchdown cards","topTouchdownCards.description":"See the best and worst cards in 2v2 touchdown mode!","topDraftCards.title":"Top draft cards","topDraftCards.description":"See the best and worst cards in current draft challenge!","newCards.title":"New cards","newCards.description":"View stats for the cards in the latest update!","topChallengeDecks.title":"Best current challenge decks","topChallengeDecks.description":"See which current challenge decks have the higest win rates!","top2V2Decks.title":"Best 2v2 decks","top2V2Decks.description":"See which 2v2 decks have the higest win rates!","openTournaments.title":"Open tournaments","openTournaments.description":"View free, open tournaments to join in-game","clanManager.title":"Clan manager","clanManager.description":"Track donations, activity, and other statistics for your clan and its members all in one place","cardCollection.title":"Card collection lookup","cardCollection.description":"View and analyze your or another player's Card Collection","arenacr.title":"Wiki","arenacr.description":"Knowledgebase of Clash Royale facts","replayRoyale.title":"Replay Royale","replayRoyale.description":"Browse past TV Royale replays and search for decks","clashCrownPopularDecks.title":"Clash Crown Popular Decks","clashCrownPopularDecks.description":"View popular decks and their statistics","clashCrownTopClans.title":"Top Clans","clashCrownTopClans.description":"See the highest ranked clans and their stats","clashCrownTopChallengePlayers.title":"Top Challenge Players","clashCrownTopChallengePlayers.description":"Browse the players with the most cards won all-time","stormShieldOne.title":"Storm Shield One","stormShieldOne.description":"Player stats, leaderboards, sale information, and a whole lot more","fortniteShopItems.title":"Shop items","fortniteShopItems.description":"View the items currently availabe in the Fortnite shop","fortniteChestMap.title":"Chest map","fortniteChestMap.description":"View the locations of all possible chests in the game","fortniteWeapons.title":"Weapons","fortniteWeapons.description":"View stats for each weapon and rarity in Fortnite","fortniteRandomDrop.title":"Random drop picker","fortniteRandomDrop.description":"Select a random spot in the map to drop at","fortniteWikiJp.title":"Fortnite wiki","fortniteWikiJp.description":"当Wikiは、Epic Gamesが運営する「Fortnite」と「Fortnite Battle Royale」の攻略情報Wikiです。","brawlStats.title":"Brawl Stats","brawlStats.description":"Track all of your Brawl Stars stats","brawlStarsEvents.title":"Events","brawlStarsEvents.description":"See which events are live in-game"}},"paths":{"en":{"404":"/*","addEvent":"/add-event","chestCycle":"/chest-cycle","chestCycleByPlayerId":"/chest-cycle/:playerId","clan":"/clan","chat":"/chat","chatWithTab":"/chat/:tab","conversation":"/conversation/:id","conversations":"/conversations","download":"/download","editProfile":"/edit-profile","event":"/event/:id","events":"/events","eventEdit":"/event/:id/edit","groups":"/groups","group":"/g/:groupId","groupChat":"/g/:groupId/chat","groupChatConversation":"/g/:groupId/chat/:conversationId","groupCollection":"/g/:groupId/collection","groupCollectionWithTab":"/g/:groupId/collection/:tab","groupForum":"/g/:groupId/forum","groupHome":"/g/:groupId/home","groupMembers":"/g/:groupId/members","groupFire":"/g/:groupId/fire","groupFireWithTab":"/g/:groupId/fire/:tab","groupInvite":"/g/:groupId/invite","groupManage":"/g/:groupId/manage/:userId","groupTools":"/g/:groupId/tools","groupToolsWithHighlight":"/g/:groupId/tools/highlight/:highlightedKey","groupNewChannel":"/g/:groupId/new-channel","groupProfile":"/g/:groupId/profile","groupEditChannel":"/g/:groupId/chat/:conversationId/edit","groupManageChannels":"/g/:groupId/manage-channels","groupManagePages":"/g/:groupId/manage-pages","groupNewPage":"/g/:groupId/new-page","groupEditPage":"/g/:groupId/page/:key/edit","groupPage":"/g/:groupId/page/:key","groupPeople":"/g/:groupId/people","groupPeopleWithAction":"/g/:groupId/people/:action","groupSettings":"/g/:groupId/settings","groupSendNotification":"/g/:groupId/send-notification","groupShopLegacy":"/g/:groupId/shop","groupShopLegacyWithTab":"/g/:groupId/shop/:tab","groupVideos":"/g/:groupId/videos","groupLeaderboard":"/g/:groupId/leaderboard","groupAddRecords":"/g/:groupId/add-records","groupBannedUsers":"/g/:groupId/banned-users","groupManageRecords":"/g/:groupId/manage-records","groupManageRoles":"/g/:groupId/manage-roles","groupAuditLog":"/g/:groupId/audit-log","groupNewThread":"/g/:groupId/new-thread","groupNewLfg":"/g/:groupId/new-lfg","groupThread":"/g/:groupId/thread/:id","groupThreadWithTitle":"/g/:groupId/thread/:id/v/:title","groupNewThreadWithCategory":"/g/:groupId/new-thread/:category","groupNewThreadWithCategoryAndId":"/g/:groupId/new-thread/:category/:id","groupThreadEdit":"/g/:groupId/thread/:id/edit","groupWeeklyRaffle":"/g/:groupId/weekly-raffle","trades":"/trades","trade":"/trade/:id","newTrade":"/newTrade","newTradeSendItem":"/newTrade/send/:sendItemKey","newTradeReceiveItem":"/newTrade/receive/:receiveItemKey","newTradeToId":"/newTrade/to/:toId","newTradeCounter":"/newTrade/counter/:counterTradeId","tool":"/tool","toolByKey":"/tool/:key","newConversation":"/new-conversation","clashRoyalePlayer":"/tool/clash-royale-player/:playerId","playerEmbed":"/player/:playerId/embed","players":"/players","playersSearch":"/players/search","policies":"/policies","privacy":"/privacy","termsOfService":"/tos","user":"/user/:username","userById":"/user/id/:id","home":"/*","siteHome":"/"},"es":null,"it":null,"fr":null,"zh":null,"ja":null,"ko":null,"de":null,"pt":null,"pl":null,"ru":null,"id":null,"tl":null,"tr":null},"languages":{"en":{"en":"English","es":"Spanish","it":"Italian","fr":"French","zh":"Chinese","ja":"Japanese","ko":"Korean","de":"German","pt":"Portuguese","pl":"Polish","ru":"Russian","tr":"Turkish","tl":"Tagalog","id":"Indonesian"}},"fortnite":{"en":{"fortniteWeapon.assaultRifle":"Assault Rifle","fortniteWeapon.assaultRifleWithScope":"Assault Rifle With Scope","fortniteWeapon.burstAssaultRifle":"Burst Assault Rifle","fortniteWeapon.suppressedSubmachineGun":"Suppressed Submachine Gun","fortniteWeapon.tacticalSubmachineGun":"Tactical Submachine Gun","fortniteWeapon.minigun":"Minigun","fortniteWeapon.handCannon":"Hand Cannon","fortniteWeapon.pistol":"Pistol","fortniteWeapon.revolver":"Revolver","fortniteWeapon.suppressedPistol":"Suppressed Pistol","fortniteWeapon.pumpShotgun":"Pump Shotgun","fortniteWeapon.tacticalShotgun":"Tactical Shotgun","fortniteWeapon.boltActionSniperRifle":"Bolt Action Sniper Rifle","fortniteWeapon.huntingRifle":"Hunting Rifle","fortniteWeapon.semiAutoSniperRifle":"Semi Auto Sniper Rifle","fortniteWeapon.rocketLauncher":"Rocket Launcher","fortniteWeapon.grenadeLauncher":"Grenade Launcher","fortniteWeapon.boogieBomb":"Boogie Bomb","fortniteWeapon.grenade":"Grenade","fortniteWeapon.smokeGrenade":"Smoke Grenade","fortniteWeapon.crossbow":"Crossbow","fortniteWeapon.submachineGun":"Submachine Gun","fortniteWeapon.common":"Common","fortniteWeapon.uncommon":"Uncommon","fortniteWeapon.rare":"Rare","fortniteWeapon.epic":"Epic","fortniteWeapon.legendary":"Legendary","fortniteWeapon.rarity":"Rarity","fortniteWeapon.dps":"DPS","fortniteWeapon.damage":"Damage","fortniteWeapon.fireRate":"Fire Rate","fortniteWeapon.magazineSize":"Magazine Size","fortniteWeapon.reloadTime":"Reload Time","fortniteWeapon.impact":"Impact","fortniteStat.wins":"Wins","fortniteStat.winPercent":"Win %","fortniteStat.killDeath":"K/D","fortniteStat.kills":"Kills","fortniteStat.matches":"Matches","fortniteStat.hoursPlayed":"{hours} hours played","fortniteStat.overall":"Overall","fortniteStat.solo":"Solo","fortniteStat.duos":"Duos","fortniteStat.squad":"Squad"}}};} /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
 
@@ -44,42 +44,44 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 /* 0 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var App, Environment, LocationRouter, MAX_ERRORS_LOGGED, Model, Portal, RouterService, RxBehaviorSubject, SemverService, _map, config, cookie, errorsSent, init, log, oldOnError, portal, postErrToServer, socketIO, z,
+	var App, Environment, LocationRouter, MAX_ERRORS_LOGGED, Model, Portal, RouterService, RxBehaviorSubject, SemverService, _map, _mapValues, config, cookie, errorsSent, init, log, oldOnError, portal, postErrToServer, socketIO, z,
 	  indexOf = [].indexOf || function(item) { for (var i = 0, l = this.length; i < l; i++) { if (i in this && this[i] === item) return i; } return -1; };
 
 	__webpack_require__(1);
 
-	_map = __webpack_require__(27);
+	_map = __webpack_require__(26);
 
-	z = __webpack_require__(148);
+	_mapValues = __webpack_require__(147);
 
-	log = __webpack_require__(351);
+	z = __webpack_require__(150);
 
-	cookie = __webpack_require__(352);
+	log = __webpack_require__(344);
 
-	LocationRouter = __webpack_require__(353);
+	cookie = __webpack_require__(345);
 
-	Environment = __webpack_require__(358);
+	LocationRouter = __webpack_require__(346);
 
-	socketIO = __webpack_require__(362);
+	Environment = __webpack_require__(351);
 
-	RxBehaviorSubject = __webpack_require__(288).BehaviorSubject;
+	socketIO = __webpack_require__(355);
 
-	__webpack_require__(363);
+	RxBehaviorSubject = __webpack_require__(289).BehaviorSubject;
 
-	__webpack_require__(366);
+	__webpack_require__(324);
 
-	config = __webpack_require__(370);
+	__webpack_require__(356);
 
-	RouterService = __webpack_require__(389);
+	config = __webpack_require__(360);
 
-	SemverService = __webpack_require__(392);
+	RouterService = __webpack_require__(378);
 
-	App = __webpack_require__(394);
+	SemverService = __webpack_require__(381);
 
-	Model = __webpack_require__(441);
+	App = __webpack_require__(383);
 
-	Portal = __webpack_require__(541);
+	Model = __webpack_require__(479);
+
+	Portal = __webpack_require__(579);
 
 	MAX_ERRORS_LOGGED = 5;
 
@@ -129,9 +131,8 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	portal = new Portal();
 
 	init = function() {
-	  var $app, app, cookieSubject, currentCookies, currentNotification, fullLanguage, io, isBackendUnavailable, isOffline, language, model, onOffline, onOnline, ref, requests, root, routeHandler, router, setCookies, start;
-	  currentCookies = cookie.parse(document.cookie);
-	  cookieSubject = new RxBehaviorSubject(currentCookies);
+	  var $app, app, currentNotification, fullLanguage, initialCookies, io, isBackendUnavailable, isOffline, language, model, onOffline, onOnline, ref, requests, root, routeHandler, router, start;
+	  initialCookies = cookie.parse(document.cookie);
 	  isOffline = new RxBehaviorSubject(false);
 	  isBackendUnavailable = new RxBehaviorSubject(false);
 	  currentNotification = new RxBehaviorSubject(false);
@@ -140,33 +141,22 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    transports: ['websocket']
 	  });
 	  fullLanguage = ((ref = window.navigator.languages) != null ? ref[0] : void 0) || window.navigator.language;
-	  language = (currentCookies != null ? currentCookies['language'] : void 0) || (fullLanguage != null ? fullLanguage.substr(0, 2) : void 0);
+	  language = (initialCookies != null ? initialCookies['language'] : void 0) || (fullLanguage != null ? fullLanguage.substr(0, 2) : void 0);
 	  if (indexOf.call(config.LANGUAGES, language) < 0) {
 	    language = 'en';
 	  }
 	  model = new Model({
-	    cookieSubject: cookieSubject,
 	    io: io,
 	    portal: portal,
-	    language: language
+	    language: language,
+	    initialCookies: initialCookies,
+	    host: window.location.host,
+	    setCookie: function(key, value, options) {
+	      return document.cookie = cookie.serialize(key, value, options);
+	    }
 	  });
 	  model.portal.listen();
-	  setCookies = function(currentCookies) {
-	    var host;
-	    host = window.location.host;
-	    return function(cookies) {
-	      _map(cookies, function(value, key) {
-	        if (currentCookies[key] !== value) {
-	          return document.cookie = cookie.serialize(key, value, model.cookie.getCookieOpts(host, key));
-	        }
-	      });
-	      return currentCookies = cookies;
-	    };
-	  };
-	  cookieSubject["do"](setCookies(currentCookies)).subscribe();
-	  setTimeout(function() {
-	    return model.cookie.set('resolution', window.innerWidth + "x" + window.innerHeight);
-	  }, 0);
+	  model.cookie.set('resolution', window.innerWidth + "x" + window.innerHeight);
 	  onOnline = function() {
 	    isOffline.next(false);
 	    return model.exoid.invalidateAll();
@@ -176,7 +166,6 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	  };
 	  router = new RouterService({
 	    model: model,
-	    cookieSubject: cookieSubject,
 	    router: new LocationRouter()
 	  });
 	  root = document.createElement('div');
@@ -198,6 +187,15 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	  });
 	  model.portal.call('networkInformation.onOffline', onOffline);
 	  model.portal.call('networkInformation.onOnline', onOnline);
+	  if (window.Twitch.ext) {
+	    window.Twitch.ext.onAuthorized(function(auth) {
+	      model.user.getMe().take(1).subscribe(function() {
+	        return model.auth.loginTwitchExtension({
+	          token: auth.token
+	        });
+	      });
+	    });
+	  }
 	  routeHandler = function(data) {
 	    var _isDeepLink, _isPush, _original, action, category, label, path, query, ref1, ref2, ref3, ref4, ref5, ref6, source;
 	    if (data == null) {
@@ -318,9 +316,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 	__webpack_require__(7);
 
-	__webpack_require__(8).polyfill();
-
-	__webpack_require__(9);
+	__webpack_require__(8);
 
 	__webpack_require__(4);
 
@@ -686,7 +682,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 /* 3 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	/* WEBPACK VAR INJECTION */(function(global) {var apply = Function.prototype.apply;
+	var apply = Function.prototype.apply;
 
 	// DOM APIs, for completeness
 
@@ -737,17 +733,9 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 	// setimmediate attaches itself to the global object
 	__webpack_require__(4);
-	// On some exotic environments, it's not clear which object `setimmeidate` was
-	// able to install onto.  Search each possibility in the same order as the
-	// `setimmediate` library.
-	exports.setImmediate = (typeof self !== "undefined" && self.setImmediate) ||
-	                       (typeof global !== "undefined" && global.setImmediate) ||
-	                       (this && this.setImmediate);
-	exports.clearImmediate = (typeof self !== "undefined" && self.clearImmediate) ||
-	                         (typeof global !== "undefined" && global.clearImmediate) ||
-	                         (this && this.clearImmediate);
+	exports.setImmediate = setImmediate;
+	exports.clearImmediate = clearImmediate;
 
-	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }())))
 
 /***/ }),
 /* 4 */
@@ -1539,343 +1527,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 /* 8 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	/*
-	 * smoothscroll polyfill - v0.3.5
-	 * https://iamdustan.github.io/smoothscroll
-	 * 2016 (c) Dustan Kasten, Jeremias Menichelli - MIT License
-	 */
-
-	(function(w, d, undefined) {
-	  'use strict';
-
-	  /*
-	   * aliases
-	   * w: window global object
-	   * d: document
-	   * undefined: undefined
-	   */
-
-	  // polyfill
-	  function polyfill() {
-	    // return when scrollBehavior interface is supported
-	    if ('scrollBehavior' in d.documentElement.style) {
-	      return;
-	    }
-
-	    /*
-	     * globals
-	     */
-	    var Element = w.HTMLElement || w.Element;
-	    var SCROLL_TIME = 468;
-
-	    /*
-	     * object gathering original scroll methods
-	     */
-	    var original = {
-	      scroll: w.scroll || w.scrollTo,
-	      scrollBy: w.scrollBy,
-	      elScroll: Element.prototype.scroll || scrollElement,
-	      scrollIntoView: Element.prototype.scrollIntoView
-	    };
-
-	    /*
-	     * define timing method
-	     */
-	    var now = w.performance && w.performance.now
-	      ? w.performance.now.bind(w.performance) : Date.now;
-
-	    /**
-	     * changes scroll position inside an element
-	     * @method scrollElement
-	     * @param {Number} x
-	     * @param {Number} y
-	     */
-	    function scrollElement(x, y) {
-	      this.scrollLeft = x;
-	      this.scrollTop = y;
-	    }
-
-	    /**
-	     * returns result of applying ease math function to a number
-	     * @method ease
-	     * @param {Number} k
-	     * @returns {Number}
-	     */
-	    function ease(k) {
-	      return 0.5 * (1 - Math.cos(Math.PI * k));
-	    }
-
-	    /**
-	     * indicates if a smooth behavior should be applied
-	     * @method shouldBailOut
-	     * @param {Number|Object} x
-	     * @returns {Boolean}
-	     */
-	    function shouldBailOut(x) {
-	      if (typeof x !== 'object'
-	            || x === null
-	            || x.behavior === undefined
-	            || x.behavior === 'auto'
-	            || x.behavior === 'instant') {
-	        // first arg not an object/null
-	        // or behavior is auto, instant or undefined
-	        return true;
-	      }
-
-	      if (typeof x === 'object'
-	            && x.behavior === 'smooth') {
-	        // first argument is an object and behavior is smooth
-	        return false;
-	      }
-
-	      // throw error when behavior is not supported
-	      throw new TypeError('behavior not valid');
-	    }
-
-	    /**
-	     * finds scrollable parent of an element
-	     * @method findScrollableParent
-	     * @param {Node} el
-	     * @returns {Node} el
-	     */
-	    function findScrollableParent(el) {
-	      var isBody;
-	      var hasScrollableSpace;
-	      var hasVisibleOverflow;
-
-	      do {
-	        el = el.parentNode;
-
-	        // set condition variables
-	        isBody = el === d.body;
-	        hasScrollableSpace =
-	          el.clientHeight < el.scrollHeight ||
-	          el.clientWidth < el.scrollWidth;
-	        hasVisibleOverflow =
-	          w.getComputedStyle(el, null).overflow === 'visible';
-	      } while (!isBody && !(hasScrollableSpace && !hasVisibleOverflow));
-
-	      isBody = hasScrollableSpace = hasVisibleOverflow = null;
-
-	      return el;
-	    }
-
-	    /**
-	     * self invoked function that, given a context, steps through scrolling
-	     * @method step
-	     * @param {Object} context
-	     */
-	    function step(context) {
-	      var time = now();
-	      var value;
-	      var currentX;
-	      var currentY;
-	      var elapsed = (time - context.startTime) / SCROLL_TIME;
-
-	      // avoid elapsed times higher than one
-	      elapsed = elapsed > 1 ? 1 : elapsed;
-
-	      // apply easing to elapsed time
-	      value = ease(elapsed);
-
-	      currentX = context.startX + (context.x - context.startX) * value;
-	      currentY = context.startY + (context.y - context.startY) * value;
-
-	      context.method.call(context.scrollable, currentX, currentY);
-
-	      // scroll more if we have not reached our destination
-	      if (currentX !== context.x || currentY !== context.y) {
-	        w.requestAnimationFrame(step.bind(w, context));
-	      }
-	    }
-
-	    /**
-	     * scrolls window with a smooth behavior
-	     * @method smoothScroll
-	     * @param {Object|Node} el
-	     * @param {Number} x
-	     * @param {Number} y
-	     */
-	    function smoothScroll(el, x, y) {
-	      var scrollable;
-	      var startX;
-	      var startY;
-	      var method;
-	      var startTime = now();
-
-	      // define scroll context
-	      if (el === d.body) {
-	        scrollable = w;
-	        startX = w.scrollX || w.pageXOffset;
-	        startY = w.scrollY || w.pageYOffset;
-	        method = original.scroll;
-	      } else {
-	        scrollable = el;
-	        startX = el.scrollLeft;
-	        startY = el.scrollTop;
-	        method = scrollElement;
-	      }
-
-	      // scroll looping over a frame
-	      step({
-	        scrollable: scrollable,
-	        method: method,
-	        startTime: startTime,
-	        startX: startX,
-	        startY: startY,
-	        x: x,
-	        y: y
-	      });
-	    }
-
-	    /*
-	     * ORIGINAL METHODS OVERRIDES
-	     */
-
-	    // w.scroll and w.scrollTo
-	    w.scroll = w.scrollTo = function() {
-	      // avoid smooth behavior if not required
-	      if (shouldBailOut(arguments[0])) {
-	        original.scroll.call(
-	          w,
-	          arguments[0].left || arguments[0],
-	          arguments[0].top || arguments[1]
-	        );
-	        return;
-	      }
-
-	      // LET THE SMOOTHNESS BEGIN!
-	      smoothScroll.call(
-	        w,
-	        d.body,
-	        ~~arguments[0].left,
-	        ~~arguments[0].top
-	      );
-	    };
-
-	    // w.scrollBy
-	    w.scrollBy = function() {
-	      // avoid smooth behavior if not required
-	      if (shouldBailOut(arguments[0])) {
-	        original.scrollBy.call(
-	          w,
-	          arguments[0].left || arguments[0],
-	          arguments[0].top || arguments[1]
-	        );
-	        return;
-	      }
-
-	      // LET THE SMOOTHNESS BEGIN!
-	      smoothScroll.call(
-	        w,
-	        d.body,
-	        ~~arguments[0].left + (w.scrollX || w.pageXOffset),
-	        ~~arguments[0].top + (w.scrollY || w.pageYOffset)
-	      );
-	    };
-
-	    // Element.prototype.scroll and Element.prototype.scrollTo
-	    Element.prototype.scroll = Element.prototype.scrollTo = function() {
-	      // avoid smooth behavior if not required
-	      if (shouldBailOut(arguments[0])) {
-	        original.elScroll.call(
-	            this,
-	            arguments[0].left || arguments[0],
-	            arguments[0].top || arguments[1]
-	        );
-	        return;
-	      }
-
-	      var left = arguments[0].left;
-	      var top = arguments[0].top;
-
-	      // LET THE SMOOTHNESS BEGIN!
-	      smoothScroll.call(
-	          this,
-	          this,
-	          typeof left === 'number' ? left : this.scrollLeft,
-	          typeof top === 'number' ? top : this.scrollTop
-	      );
-	    };
-
-	    // Element.prototype.scrollBy
-	    Element.prototype.scrollBy = function() {
-	      var arg0 = arguments[0];
-
-	      if (typeof arg0 === 'object') {
-	        this.scroll({
-	          left: arg0.left + this.scrollLeft,
-	          top: arg0.top + this.scrollTop,
-	          behavior: arg0.behavior
-	        });
-	      } else {
-	        this.scroll(
-	          this.scrollLeft + arg0,
-	          this.scrollTop + arguments[1]
-	        );
-	      }
-	    };
-
-	    // Element.prototype.scrollIntoView
-	    Element.prototype.scrollIntoView = function() {
-	      // avoid smooth behavior if not required
-	      if (shouldBailOut(arguments[0])) {
-	        original.scrollIntoView.call(
-	          this,
-	          arguments[0] === undefined ? true : arguments[0]
-	        );
-	        return;
-	      }
-
-	      // LET THE SMOOTHNESS BEGIN!
-	      var scrollableParent = findScrollableParent(this);
-	      var parentRects = scrollableParent.getBoundingClientRect();
-	      var clientRects = this.getBoundingClientRect();
-
-	      if (scrollableParent !== d.body) {
-	        // reveal element inside parent
-	        smoothScroll.call(
-	          this,
-	          scrollableParent,
-	          scrollableParent.scrollLeft + clientRects.left - parentRects.left,
-	          scrollableParent.scrollTop + clientRects.top - parentRects.top
-	        );
-	        // reveal parent in viewport
-	        w.scrollBy({
-	          left: parentRects.left,
-	          top: parentRects.top,
-	          behavior: 'smooth'
-	        });
-	      } else {
-	        // reveal element in viewport
-	        w.scrollBy({
-	          left: clientRects.left,
-	          top: clientRects.top,
-	          behavior: 'smooth'
-	        });
-	      }
-	    };
-	  }
-
-	  if (true) {
-	    // commonjs
-	    module.exports = { polyfill: polyfill };
-	  } else {
-	    // global
-	    polyfill();
-	  }
-	})(window, document);
-
-
-/***/ }),
-/* 9 */
-/***/ (function(module, exports, __webpack_require__) {
-
 	'use strict'
 
-	var BaseEvent = __webpack_require__(10)
-	var Delegator = __webpack_require__(11)
-	var extend = __webpack_require__(26)
+	var BaseEvent = __webpack_require__(9)
+	var Delegator = __webpack_require__(10)
+	var extend = __webpack_require__(25)
 
 	var events = ['start', 'end']
 	var delegator = Delegator()
@@ -1907,10 +1563,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 10 */
+/* 9 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var Delegator = __webpack_require__(11)
+	var Delegator = __webpack_require__(10)
 
 	module.exports = BaseEvent
 
@@ -1962,14 +1618,14 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 11 */
+/* 10 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var Individual = __webpack_require__(12)
-	var cuid = __webpack_require__(13)
-	var globalDocument = __webpack_require__(14)
+	var Individual = __webpack_require__(11)
+	var cuid = __webpack_require__(12)
+	var globalDocument = __webpack_require__(13)
 
-	var DOMDelegator = __webpack_require__(16)
+	var DOMDelegator = __webpack_require__(15)
 
 	var versionKey = "13"
 	var cacheKey = "__DOM_DELEGATOR_CACHE@" + versionKey
@@ -2028,7 +1684,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 12 */
+/* 11 */
 /***/ (function(module, exports) {
 
 	/* WEBPACK VAR INJECTION */(function(global) {var root = typeof window !== 'undefined' ?
@@ -2053,7 +1709,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }())))
 
 /***/ }),
-/* 13 */
+/* 12 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	/**
@@ -2169,12 +1825,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 14 */
+/* 13 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(global) {var topLevel = typeof global !== 'undefined' ? global :
 	    typeof window !== 'undefined' ? window : {}
-	var minDoc = __webpack_require__(15);
+	var minDoc = __webpack_require__(14);
 
 	var doccy;
 
@@ -2193,22 +1849,22 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }())))
 
 /***/ }),
-/* 15 */
+/* 14 */
 /***/ (function(module, exports) {
 
 	/* (ignored) */
 
 /***/ }),
-/* 16 */
+/* 15 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var globalDocument = __webpack_require__(14)
-	var EvStore = __webpack_require__(17)
-	var createStore = __webpack_require__(20)
+	var globalDocument = __webpack_require__(13)
+	var EvStore = __webpack_require__(16)
+	var createStore = __webpack_require__(19)
 
-	var addEvent = __webpack_require__(22)
-	var removeEvent = __webpack_require__(23)
-	var ProxyEvent = __webpack_require__(24)
+	var addEvent = __webpack_require__(21)
+	var removeEvent = __webpack_require__(22)
+	var ProxyEvent = __webpack_require__(23)
 
 	var HANDLER_STORE = createStore()
 
@@ -2392,12 +2048,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 17 */
+/* 16 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	'use strict';
 
-	var OneVersionConstraint = __webpack_require__(18);
+	var OneVersionConstraint = __webpack_require__(17);
 
 	var MY_VERSION = '7';
 	OneVersionConstraint('ev-store', MY_VERSION);
@@ -2418,12 +2074,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 18 */
+/* 17 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	'use strict';
 
-	var Individual = __webpack_require__(19);
+	var Individual = __webpack_require__(18);
 
 	module.exports = OneVersion;
 
@@ -2446,7 +2102,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 19 */
+/* 18 */
 /***/ (function(module, exports) {
 
 	/* WEBPACK VAR INJECTION */(function(global) {'use strict';
@@ -2472,10 +2128,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }())))
 
 /***/ }),
-/* 20 */
+/* 19 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var hiddenStore = __webpack_require__(21);
+	var hiddenStore = __webpack_require__(20);
 
 	module.exports = createStore;
 
@@ -2497,7 +2153,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 21 */
+/* 20 */
 /***/ (function(module, exports) {
 
 	module.exports = hiddenStore;
@@ -2519,10 +2175,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 22 */
+/* 21 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var EvStore = __webpack_require__(17)
+	var EvStore = __webpack_require__(16)
 
 	module.exports = addEvent
 
@@ -2543,10 +2199,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 23 */
+/* 22 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var EvStore = __webpack_require__(17)
+	var EvStore = __webpack_require__(16)
 
 	module.exports = removeEvent
 
@@ -2568,10 +2224,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 24 */
+/* 23 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var inherits = __webpack_require__(25)
+	var inherits = __webpack_require__(24)
 
 	var ALL_PROPS = [
 	    "altKey", "bubbles", "cancelable", "ctrlKey",
@@ -2652,7 +2308,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 25 */
+/* 24 */
 /***/ (function(module, exports) {
 
 	if (typeof Object.create === 'function') {
@@ -2681,7 +2337,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 26 */
+/* 25 */
 /***/ (function(module, exports) {
 
 	module.exports = extend
@@ -2706,13 +2362,13 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 27 */
+/* 26 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var arrayMap = __webpack_require__(28),
-	    baseIteratee = __webpack_require__(29),
-	    baseMap = __webpack_require__(142),
-	    isArray = __webpack_require__(92);
+	var arrayMap = __webpack_require__(27),
+	    baseIteratee = __webpack_require__(28),
+	    baseMap = __webpack_require__(141),
+	    isArray = __webpack_require__(91);
 
 	/**
 	 * Creates an array of values by running each element in `collection` thru
@@ -2765,7 +2421,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 28 */
+/* 27 */
 /***/ (function(module, exports) {
 
 	/**
@@ -2792,14 +2448,14 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 29 */
+/* 28 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseMatches = __webpack_require__(30),
-	    baseMatchesProperty = __webpack_require__(123),
-	    identity = __webpack_require__(138),
-	    isArray = __webpack_require__(92),
-	    property = __webpack_require__(139);
+	var baseMatches = __webpack_require__(29),
+	    baseMatchesProperty = __webpack_require__(122),
+	    identity = __webpack_require__(137),
+	    isArray = __webpack_require__(91),
+	    property = __webpack_require__(138);
 
 	/**
 	 * The base implementation of `_.iteratee`.
@@ -2829,12 +2485,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 30 */
+/* 29 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseIsMatch = __webpack_require__(31),
-	    getMatchData = __webpack_require__(120),
-	    matchesStrictComparable = __webpack_require__(122);
+	var baseIsMatch = __webpack_require__(30),
+	    getMatchData = __webpack_require__(119),
+	    matchesStrictComparable = __webpack_require__(121);
 
 	/**
 	 * The base implementation of `_.matches` which doesn't clone `source`.
@@ -2857,11 +2513,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 31 */
+/* 30 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var Stack = __webpack_require__(32),
-	    baseIsEqual = __webpack_require__(76);
+	var Stack = __webpack_require__(31),
+	    baseIsEqual = __webpack_require__(75);
 
 	/** Used to compose bitmasks for value comparisons. */
 	var COMPARE_PARTIAL_FLAG = 1,
@@ -2925,15 +2581,15 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 32 */
+/* 31 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var ListCache = __webpack_require__(33),
-	    stackClear = __webpack_require__(41),
-	    stackDelete = __webpack_require__(42),
-	    stackGet = __webpack_require__(43),
-	    stackHas = __webpack_require__(44),
-	    stackSet = __webpack_require__(45);
+	var ListCache = __webpack_require__(32),
+	    stackClear = __webpack_require__(40),
+	    stackDelete = __webpack_require__(41),
+	    stackGet = __webpack_require__(42),
+	    stackHas = __webpack_require__(43),
+	    stackSet = __webpack_require__(44);
 
 	/**
 	 * Creates a stack cache object to store key-value pairs.
@@ -2958,14 +2614,14 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 33 */
+/* 32 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var listCacheClear = __webpack_require__(34),
-	    listCacheDelete = __webpack_require__(35),
-	    listCacheGet = __webpack_require__(38),
-	    listCacheHas = __webpack_require__(39),
-	    listCacheSet = __webpack_require__(40);
+	var listCacheClear = __webpack_require__(33),
+	    listCacheDelete = __webpack_require__(34),
+	    listCacheGet = __webpack_require__(37),
+	    listCacheHas = __webpack_require__(38),
+	    listCacheSet = __webpack_require__(39);
 
 	/**
 	 * Creates an list cache object.
@@ -2996,7 +2652,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 34 */
+/* 33 */
 /***/ (function(module, exports) {
 
 	/**
@@ -3015,10 +2671,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 35 */
+/* 34 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var assocIndexOf = __webpack_require__(36);
+	var assocIndexOf = __webpack_require__(35);
 
 	/** Used for built-in method references. */
 	var arrayProto = Array.prototype;
@@ -3056,10 +2712,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 36 */
+/* 35 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var eq = __webpack_require__(37);
+	var eq = __webpack_require__(36);
 
 	/**
 	 * Gets the index at which the `key` is found in `array` of key-value pairs.
@@ -3083,7 +2739,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 37 */
+/* 36 */
 /***/ (function(module, exports) {
 
 	/**
@@ -3126,10 +2782,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 38 */
+/* 37 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var assocIndexOf = __webpack_require__(36);
+	var assocIndexOf = __webpack_require__(35);
 
 	/**
 	 * Gets the list cache value for `key`.
@@ -3151,10 +2807,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 39 */
+/* 38 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var assocIndexOf = __webpack_require__(36);
+	var assocIndexOf = __webpack_require__(35);
 
 	/**
 	 * Checks if a list cache value for `key` exists.
@@ -3173,10 +2829,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 40 */
+/* 39 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var assocIndexOf = __webpack_require__(36);
+	var assocIndexOf = __webpack_require__(35);
 
 	/**
 	 * Sets the list cache `key` to `value`.
@@ -3205,10 +2861,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 41 */
+/* 40 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var ListCache = __webpack_require__(33);
+	var ListCache = __webpack_require__(32);
 
 	/**
 	 * Removes all key-value entries from the stack.
@@ -3226,7 +2882,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 42 */
+/* 41 */
 /***/ (function(module, exports) {
 
 	/**
@@ -3250,7 +2906,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 43 */
+/* 42 */
 /***/ (function(module, exports) {
 
 	/**
@@ -3270,7 +2926,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 44 */
+/* 43 */
 /***/ (function(module, exports) {
 
 	/**
@@ -3290,12 +2946,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 45 */
+/* 44 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var ListCache = __webpack_require__(33),
-	    Map = __webpack_require__(46),
-	    MapCache = __webpack_require__(61);
+	var ListCache = __webpack_require__(32),
+	    Map = __webpack_require__(45),
+	    MapCache = __webpack_require__(60);
 
 	/** Used as the size to enable large array optimizations. */
 	var LARGE_ARRAY_SIZE = 200;
@@ -3330,11 +2986,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 46 */
+/* 45 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var getNative = __webpack_require__(47),
-	    root = __webpack_require__(52);
+	var getNative = __webpack_require__(46),
+	    root = __webpack_require__(51);
 
 	/* Built-in method references that are verified to be native. */
 	var Map = getNative(root, 'Map');
@@ -3343,11 +2999,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 47 */
+/* 46 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseIsNative = __webpack_require__(48),
-	    getValue = __webpack_require__(60);
+	var baseIsNative = __webpack_require__(47),
+	    getValue = __webpack_require__(59);
 
 	/**
 	 * Gets the native function at `key` of `object`.
@@ -3366,13 +3022,13 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 48 */
+/* 47 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var isFunction = __webpack_require__(49),
-	    isMasked = __webpack_require__(57),
-	    isObject = __webpack_require__(56),
-	    toSource = __webpack_require__(59);
+	var isFunction = __webpack_require__(48),
+	    isMasked = __webpack_require__(56),
+	    isObject = __webpack_require__(55),
+	    toSource = __webpack_require__(58);
 
 	/**
 	 * Used to match `RegExp`
@@ -3419,11 +3075,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 49 */
+/* 48 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseGetTag = __webpack_require__(50),
-	    isObject = __webpack_require__(56);
+	var baseGetTag = __webpack_require__(49),
+	    isObject = __webpack_require__(55);
 
 	/** `Object#toString` result references. */
 	var asyncTag = '[object AsyncFunction]',
@@ -3462,12 +3118,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 50 */
+/* 49 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var Symbol = __webpack_require__(51),
-	    getRawTag = __webpack_require__(54),
-	    objectToString = __webpack_require__(55);
+	var Symbol = __webpack_require__(50),
+	    getRawTag = __webpack_require__(53),
+	    objectToString = __webpack_require__(54);
 
 	/** `Object#toString` result references. */
 	var nullTag = '[object Null]',
@@ -3496,10 +3152,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 51 */
+/* 50 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var root = __webpack_require__(52);
+	var root = __webpack_require__(51);
 
 	/** Built-in value references. */
 	var Symbol = root.Symbol;
@@ -3508,10 +3164,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 52 */
+/* 51 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var freeGlobal = __webpack_require__(53);
+	var freeGlobal = __webpack_require__(52);
 
 	/** Detect free variable `self`. */
 	var freeSelf = typeof self == 'object' && self && self.Object === Object && self;
@@ -3523,7 +3179,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 53 */
+/* 52 */
 /***/ (function(module, exports) {
 
 	/* WEBPACK VAR INJECTION */(function(global) {/** Detect free variable `global` from Node.js. */
@@ -3534,10 +3190,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }())))
 
 /***/ }),
-/* 54 */
+/* 53 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var Symbol = __webpack_require__(51);
+	var Symbol = __webpack_require__(50);
 
 	/** Used for built-in method references. */
 	var objectProto = Object.prototype;
@@ -3586,7 +3242,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 55 */
+/* 54 */
 /***/ (function(module, exports) {
 
 	/** Used for built-in method references. */
@@ -3614,7 +3270,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 56 */
+/* 55 */
 /***/ (function(module, exports) {
 
 	/**
@@ -3651,10 +3307,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 57 */
+/* 56 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var coreJsData = __webpack_require__(58);
+	var coreJsData = __webpack_require__(57);
 
 	/** Used to detect methods masquerading as native. */
 	var maskSrcKey = (function() {
@@ -3677,10 +3333,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 58 */
+/* 57 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var root = __webpack_require__(52);
+	var root = __webpack_require__(51);
 
 	/** Used to detect overreaching core-js shims. */
 	var coreJsData = root['__core-js_shared__'];
@@ -3689,7 +3345,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 59 */
+/* 58 */
 /***/ (function(module, exports) {
 
 	/** Used for built-in method references. */
@@ -3721,7 +3377,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 60 */
+/* 59 */
 /***/ (function(module, exports) {
 
 	/**
@@ -3740,14 +3396,14 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 61 */
+/* 60 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var mapCacheClear = __webpack_require__(62),
-	    mapCacheDelete = __webpack_require__(70),
-	    mapCacheGet = __webpack_require__(73),
-	    mapCacheHas = __webpack_require__(74),
-	    mapCacheSet = __webpack_require__(75);
+	var mapCacheClear = __webpack_require__(61),
+	    mapCacheDelete = __webpack_require__(69),
+	    mapCacheGet = __webpack_require__(72),
+	    mapCacheHas = __webpack_require__(73),
+	    mapCacheSet = __webpack_require__(74);
 
 	/**
 	 * Creates a map cache object to store key-value pairs.
@@ -3778,12 +3434,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 62 */
+/* 61 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var Hash = __webpack_require__(63),
-	    ListCache = __webpack_require__(33),
-	    Map = __webpack_require__(46);
+	var Hash = __webpack_require__(62),
+	    ListCache = __webpack_require__(32),
+	    Map = __webpack_require__(45);
 
 	/**
 	 * Removes all key-value entries from the map.
@@ -3805,14 +3461,14 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 63 */
+/* 62 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var hashClear = __webpack_require__(64),
-	    hashDelete = __webpack_require__(66),
-	    hashGet = __webpack_require__(67),
-	    hashHas = __webpack_require__(68),
-	    hashSet = __webpack_require__(69);
+	var hashClear = __webpack_require__(63),
+	    hashDelete = __webpack_require__(65),
+	    hashGet = __webpack_require__(66),
+	    hashHas = __webpack_require__(67),
+	    hashSet = __webpack_require__(68);
 
 	/**
 	 * Creates a hash object.
@@ -3843,10 +3499,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 64 */
+/* 63 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var nativeCreate = __webpack_require__(65);
+	var nativeCreate = __webpack_require__(64);
 
 	/**
 	 * Removes all key-value entries from the hash.
@@ -3864,10 +3520,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 65 */
+/* 64 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var getNative = __webpack_require__(47);
+	var getNative = __webpack_require__(46);
 
 	/* Built-in method references that are verified to be native. */
 	var nativeCreate = getNative(Object, 'create');
@@ -3876,7 +3532,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 66 */
+/* 65 */
 /***/ (function(module, exports) {
 
 	/**
@@ -3899,10 +3555,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 67 */
+/* 66 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var nativeCreate = __webpack_require__(65);
+	var nativeCreate = __webpack_require__(64);
 
 	/** Used to stand-in for `undefined` hash values. */
 	var HASH_UNDEFINED = '__lodash_hash_undefined__';
@@ -3935,10 +3591,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 68 */
+/* 67 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var nativeCreate = __webpack_require__(65);
+	var nativeCreate = __webpack_require__(64);
 
 	/** Used for built-in method references. */
 	var objectProto = Object.prototype;
@@ -3964,10 +3620,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 69 */
+/* 68 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var nativeCreate = __webpack_require__(65);
+	var nativeCreate = __webpack_require__(64);
 
 	/** Used to stand-in for `undefined` hash values. */
 	var HASH_UNDEFINED = '__lodash_hash_undefined__';
@@ -3993,10 +3649,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 70 */
+/* 69 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var getMapData = __webpack_require__(71);
+	var getMapData = __webpack_require__(70);
 
 	/**
 	 * Removes `key` and its value from the map.
@@ -4017,10 +3673,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 71 */
+/* 70 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var isKeyable = __webpack_require__(72);
+	var isKeyable = __webpack_require__(71);
 
 	/**
 	 * Gets the data for `map`.
@@ -4041,7 +3697,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 72 */
+/* 71 */
 /***/ (function(module, exports) {
 
 	/**
@@ -4062,10 +3718,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 73 */
+/* 72 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var getMapData = __webpack_require__(71);
+	var getMapData = __webpack_require__(70);
 
 	/**
 	 * Gets the map value for `key`.
@@ -4084,10 +3740,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 74 */
+/* 73 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var getMapData = __webpack_require__(71);
+	var getMapData = __webpack_require__(70);
 
 	/**
 	 * Checks if a map value for `key` exists.
@@ -4106,10 +3762,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 75 */
+/* 74 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var getMapData = __webpack_require__(71);
+	var getMapData = __webpack_require__(70);
 
 	/**
 	 * Sets the map `key` to `value`.
@@ -4134,11 +3790,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 76 */
+/* 75 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseIsEqualDeep = __webpack_require__(77),
-	    isObjectLike = __webpack_require__(101);
+	var baseIsEqualDeep = __webpack_require__(76),
+	    isObjectLike = __webpack_require__(100);
 
 	/**
 	 * The base implementation of `_.isEqual` which supports partial comparisons
@@ -4168,17 +3824,17 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 77 */
+/* 76 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var Stack = __webpack_require__(32),
-	    equalArrays = __webpack_require__(78),
-	    equalByTag = __webpack_require__(84),
-	    equalObjects = __webpack_require__(88),
-	    getTag = __webpack_require__(115),
-	    isArray = __webpack_require__(92),
-	    isBuffer = __webpack_require__(102),
-	    isTypedArray = __webpack_require__(105);
+	var Stack = __webpack_require__(31),
+	    equalArrays = __webpack_require__(77),
+	    equalByTag = __webpack_require__(83),
+	    equalObjects = __webpack_require__(87),
+	    getTag = __webpack_require__(114),
+	    isArray = __webpack_require__(91),
+	    isBuffer = __webpack_require__(101),
+	    isTypedArray = __webpack_require__(104);
 
 	/** Used to compose bitmasks for value comparisons. */
 	var COMPARE_PARTIAL_FLAG = 1;
@@ -4257,12 +3913,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 78 */
+/* 77 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var SetCache = __webpack_require__(79),
-	    arraySome = __webpack_require__(82),
-	    cacheHas = __webpack_require__(83);
+	var SetCache = __webpack_require__(78),
+	    arraySome = __webpack_require__(81),
+	    cacheHas = __webpack_require__(82);
 
 	/** Used to compose bitmasks for value comparisons. */
 	var COMPARE_PARTIAL_FLAG = 1,
@@ -4346,12 +4002,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 79 */
+/* 78 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var MapCache = __webpack_require__(61),
-	    setCacheAdd = __webpack_require__(80),
-	    setCacheHas = __webpack_require__(81);
+	var MapCache = __webpack_require__(60),
+	    setCacheAdd = __webpack_require__(79),
+	    setCacheHas = __webpack_require__(80);
 
 	/**
 	 *
@@ -4379,7 +4035,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 80 */
+/* 79 */
 /***/ (function(module, exports) {
 
 	/** Used to stand-in for `undefined` hash values. */
@@ -4404,7 +4060,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 81 */
+/* 80 */
 /***/ (function(module, exports) {
 
 	/**
@@ -4424,7 +4080,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 82 */
+/* 81 */
 /***/ (function(module, exports) {
 
 	/**
@@ -4453,7 +4109,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 83 */
+/* 82 */
 /***/ (function(module, exports) {
 
 	/**
@@ -4472,15 +4128,15 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 84 */
+/* 83 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var Symbol = __webpack_require__(51),
-	    Uint8Array = __webpack_require__(85),
-	    eq = __webpack_require__(37),
-	    equalArrays = __webpack_require__(78),
-	    mapToArray = __webpack_require__(86),
-	    setToArray = __webpack_require__(87);
+	var Symbol = __webpack_require__(50),
+	    Uint8Array = __webpack_require__(84),
+	    eq = __webpack_require__(36),
+	    equalArrays = __webpack_require__(77),
+	    mapToArray = __webpack_require__(85),
+	    setToArray = __webpack_require__(86);
 
 	/** Used to compose bitmasks for value comparisons. */
 	var COMPARE_PARTIAL_FLAG = 1,
@@ -4590,10 +4246,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 85 */
+/* 84 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var root = __webpack_require__(52);
+	var root = __webpack_require__(51);
 
 	/** Built-in value references. */
 	var Uint8Array = root.Uint8Array;
@@ -4602,7 +4258,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 86 */
+/* 85 */
 /***/ (function(module, exports) {
 
 	/**
@@ -4626,7 +4282,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 87 */
+/* 86 */
 /***/ (function(module, exports) {
 
 	/**
@@ -4650,10 +4306,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 88 */
+/* 87 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var getAllKeys = __webpack_require__(89);
+	var getAllKeys = __webpack_require__(88);
 
 	/** Used to compose bitmasks for value comparisons. */
 	var COMPARE_PARTIAL_FLAG = 1;
@@ -4745,12 +4401,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 89 */
+/* 88 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseGetAllKeys = __webpack_require__(90),
-	    getSymbols = __webpack_require__(93),
-	    keys = __webpack_require__(96);
+	var baseGetAllKeys = __webpack_require__(89),
+	    getSymbols = __webpack_require__(92),
+	    keys = __webpack_require__(95);
 
 	/**
 	 * Creates an array of own enumerable property names and symbols of `object`.
@@ -4767,11 +4423,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 90 */
+/* 89 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var arrayPush = __webpack_require__(91),
-	    isArray = __webpack_require__(92);
+	var arrayPush = __webpack_require__(90),
+	    isArray = __webpack_require__(91);
 
 	/**
 	 * The base implementation of `getAllKeys` and `getAllKeysIn` which uses
@@ -4793,7 +4449,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 91 */
+/* 90 */
 /***/ (function(module, exports) {
 
 	/**
@@ -4819,7 +4475,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 92 */
+/* 91 */
 /***/ (function(module, exports) {
 
 	/**
@@ -4851,11 +4507,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 93 */
+/* 92 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var arrayFilter = __webpack_require__(94),
-	    stubArray = __webpack_require__(95);
+	var arrayFilter = __webpack_require__(93),
+	    stubArray = __webpack_require__(94);
 
 	/** Used for built-in method references. */
 	var objectProto = Object.prototype;
@@ -4887,7 +4543,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 94 */
+/* 93 */
 /***/ (function(module, exports) {
 
 	/**
@@ -4918,7 +4574,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 95 */
+/* 94 */
 /***/ (function(module, exports) {
 
 	/**
@@ -4947,12 +4603,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 96 */
+/* 95 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var arrayLikeKeys = __webpack_require__(97),
-	    baseKeys = __webpack_require__(110),
-	    isArrayLike = __webpack_require__(114);
+	var arrayLikeKeys = __webpack_require__(96),
+	    baseKeys = __webpack_require__(109),
+	    isArrayLike = __webpack_require__(113);
 
 	/**
 	 * Creates an array of the own enumerable property names of `object`.
@@ -4990,15 +4646,15 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 97 */
+/* 96 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseTimes = __webpack_require__(98),
-	    isArguments = __webpack_require__(99),
-	    isArray = __webpack_require__(92),
-	    isBuffer = __webpack_require__(102),
-	    isIndex = __webpack_require__(104),
-	    isTypedArray = __webpack_require__(105);
+	var baseTimes = __webpack_require__(97),
+	    isArguments = __webpack_require__(98),
+	    isArray = __webpack_require__(91),
+	    isBuffer = __webpack_require__(101),
+	    isIndex = __webpack_require__(103),
+	    isTypedArray = __webpack_require__(104);
 
 	/** Used for built-in method references. */
 	var objectProto = Object.prototype;
@@ -5045,7 +4701,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 98 */
+/* 97 */
 /***/ (function(module, exports) {
 
 	/**
@@ -5071,11 +4727,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 99 */
+/* 98 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseIsArguments = __webpack_require__(100),
-	    isObjectLike = __webpack_require__(101);
+	var baseIsArguments = __webpack_require__(99),
+	    isObjectLike = __webpack_require__(100);
 
 	/** Used for built-in method references. */
 	var objectProto = Object.prototype;
@@ -5113,11 +4769,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 100 */
+/* 99 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseGetTag = __webpack_require__(50),
-	    isObjectLike = __webpack_require__(101);
+	var baseGetTag = __webpack_require__(49),
+	    isObjectLike = __webpack_require__(100);
 
 	/** `Object#toString` result references. */
 	var argsTag = '[object Arguments]';
@@ -5137,7 +4793,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 101 */
+/* 100 */
 /***/ (function(module, exports) {
 
 	/**
@@ -5172,11 +4828,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 102 */
+/* 101 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	/* WEBPACK VAR INJECTION */(function(module) {var root = __webpack_require__(52),
-	    stubFalse = __webpack_require__(103);
+	/* WEBPACK VAR INJECTION */(function(module) {var root = __webpack_require__(51),
+	    stubFalse = __webpack_require__(102);
 
 	/** Detect free variable `exports`. */
 	var freeExports = typeof exports == 'object' && exports && !exports.nodeType && exports;
@@ -5217,7 +4873,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(6)(module)))
 
 /***/ }),
-/* 103 */
+/* 102 */
 /***/ (function(module, exports) {
 
 	/**
@@ -5241,7 +4897,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 104 */
+/* 103 */
 /***/ (function(module, exports) {
 
 	/** Used as references for various `Number` constants. */
@@ -5259,25 +4915,22 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	 * @returns {boolean} Returns `true` if `value` is a valid index, else `false`.
 	 */
 	function isIndex(value, length) {
-	  var type = typeof value;
 	  length = length == null ? MAX_SAFE_INTEGER : length;
-
 	  return !!length &&
-	    (type == 'number' ||
-	      (type != 'symbol' && reIsUint.test(value))) &&
-	        (value > -1 && value % 1 == 0 && value < length);
+	    (typeof value == 'number' || reIsUint.test(value)) &&
+	    (value > -1 && value % 1 == 0 && value < length);
 	}
 
 	module.exports = isIndex;
 
 
 /***/ }),
-/* 105 */
+/* 104 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseIsTypedArray = __webpack_require__(106),
-	    baseUnary = __webpack_require__(108),
-	    nodeUtil = __webpack_require__(109);
+	var baseIsTypedArray = __webpack_require__(105),
+	    baseUnary = __webpack_require__(107),
+	    nodeUtil = __webpack_require__(108);
 
 	/* Node.js helper references. */
 	var nodeIsTypedArray = nodeUtil && nodeUtil.isTypedArray;
@@ -5305,12 +4958,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 106 */
+/* 105 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseGetTag = __webpack_require__(50),
-	    isLength = __webpack_require__(107),
-	    isObjectLike = __webpack_require__(101);
+	var baseGetTag = __webpack_require__(49),
+	    isLength = __webpack_require__(106),
+	    isObjectLike = __webpack_require__(100);
 
 	/** `Object#toString` result references. */
 	var argsTag = '[object Arguments]',
@@ -5371,7 +5024,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 107 */
+/* 106 */
 /***/ (function(module, exports) {
 
 	/** Used as references for various `Number` constants. */
@@ -5412,7 +5065,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 108 */
+/* 107 */
 /***/ (function(module, exports) {
 
 	/**
@@ -5432,10 +5085,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 109 */
+/* 108 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	/* WEBPACK VAR INJECTION */(function(module) {var freeGlobal = __webpack_require__(53);
+	/* WEBPACK VAR INJECTION */(function(module) {var freeGlobal = __webpack_require__(52);
 
 	/** Detect free variable `exports`. */
 	var freeExports = typeof exports == 'object' && exports && !exports.nodeType && exports;
@@ -5461,11 +5114,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(6)(module)))
 
 /***/ }),
-/* 110 */
+/* 109 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var isPrototype = __webpack_require__(111),
-	    nativeKeys = __webpack_require__(112);
+	var isPrototype = __webpack_require__(110),
+	    nativeKeys = __webpack_require__(111);
 
 	/** Used for built-in method references. */
 	var objectProto = Object.prototype;
@@ -5497,7 +5150,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 111 */
+/* 110 */
 /***/ (function(module, exports) {
 
 	/** Used for built-in method references. */
@@ -5521,10 +5174,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 112 */
+/* 111 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var overArg = __webpack_require__(113);
+	var overArg = __webpack_require__(112);
 
 	/* Built-in method references for those with the same name as other `lodash` methods. */
 	var nativeKeys = overArg(Object.keys, Object);
@@ -5533,7 +5186,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 113 */
+/* 112 */
 /***/ (function(module, exports) {
 
 	/**
@@ -5554,11 +5207,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 114 */
+/* 113 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var isFunction = __webpack_require__(49),
-	    isLength = __webpack_require__(107);
+	var isFunction = __webpack_require__(48),
+	    isLength = __webpack_require__(106);
 
 	/**
 	 * Checks if `value` is array-like. A value is considered array-like if it's
@@ -5593,16 +5246,16 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 115 */
+/* 114 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var DataView = __webpack_require__(116),
-	    Map = __webpack_require__(46),
-	    Promise = __webpack_require__(117),
-	    Set = __webpack_require__(118),
-	    WeakMap = __webpack_require__(119),
-	    baseGetTag = __webpack_require__(50),
-	    toSource = __webpack_require__(59);
+	var DataView = __webpack_require__(115),
+	    Map = __webpack_require__(45),
+	    Promise = __webpack_require__(116),
+	    Set = __webpack_require__(117),
+	    WeakMap = __webpack_require__(118),
+	    baseGetTag = __webpack_require__(49),
+	    toSource = __webpack_require__(58);
 
 	/** `Object#toString` result references. */
 	var mapTag = '[object Map]',
@@ -5657,11 +5310,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 116 */
+/* 115 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var getNative = __webpack_require__(47),
-	    root = __webpack_require__(52);
+	var getNative = __webpack_require__(46),
+	    root = __webpack_require__(51);
 
 	/* Built-in method references that are verified to be native. */
 	var DataView = getNative(root, 'DataView');
@@ -5670,11 +5323,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 117 */
+/* 116 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var getNative = __webpack_require__(47),
-	    root = __webpack_require__(52);
+	var getNative = __webpack_require__(46),
+	    root = __webpack_require__(51);
 
 	/* Built-in method references that are verified to be native. */
 	var Promise = getNative(root, 'Promise');
@@ -5683,11 +5336,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 118 */
+/* 117 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var getNative = __webpack_require__(47),
-	    root = __webpack_require__(52);
+	var getNative = __webpack_require__(46),
+	    root = __webpack_require__(51);
 
 	/* Built-in method references that are verified to be native. */
 	var Set = getNative(root, 'Set');
@@ -5696,11 +5349,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 119 */
+/* 118 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var getNative = __webpack_require__(47),
-	    root = __webpack_require__(52);
+	var getNative = __webpack_require__(46),
+	    root = __webpack_require__(51);
 
 	/* Built-in method references that are verified to be native. */
 	var WeakMap = getNative(root, 'WeakMap');
@@ -5709,11 +5362,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 120 */
+/* 119 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var isStrictComparable = __webpack_require__(121),
-	    keys = __webpack_require__(96);
+	var isStrictComparable = __webpack_require__(120),
+	    keys = __webpack_require__(95);
 
 	/**
 	 * Gets the property names, values, and compare flags of `object`.
@@ -5739,10 +5392,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 121 */
+/* 120 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var isObject = __webpack_require__(56);
+	var isObject = __webpack_require__(55);
 
 	/**
 	 * Checks if `value` is suitable for strict equality comparisons, i.e. `===`.
@@ -5760,7 +5413,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 122 */
+/* 121 */
 /***/ (function(module, exports) {
 
 	/**
@@ -5786,16 +5439,16 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 123 */
+/* 122 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseIsEqual = __webpack_require__(76),
-	    get = __webpack_require__(124),
-	    hasIn = __webpack_require__(135),
-	    isKey = __webpack_require__(127),
-	    isStrictComparable = __webpack_require__(121),
-	    matchesStrictComparable = __webpack_require__(122),
-	    toKey = __webpack_require__(134);
+	var baseIsEqual = __webpack_require__(75),
+	    get = __webpack_require__(123),
+	    hasIn = __webpack_require__(134),
+	    isKey = __webpack_require__(126),
+	    isStrictComparable = __webpack_require__(120),
+	    matchesStrictComparable = __webpack_require__(121),
+	    toKey = __webpack_require__(133);
 
 	/** Used to compose bitmasks for value comparisons. */
 	var COMPARE_PARTIAL_FLAG = 1,
@@ -5825,10 +5478,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 124 */
+/* 123 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseGet = __webpack_require__(125);
+	var baseGet = __webpack_require__(124);
 
 	/**
 	 * Gets the value at `path` of `object`. If the resolved value is
@@ -5864,11 +5517,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 125 */
+/* 124 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var castPath = __webpack_require__(126),
-	    toKey = __webpack_require__(134);
+	var castPath = __webpack_require__(125),
+	    toKey = __webpack_require__(133);
 
 	/**
 	 * The base implementation of `_.get` without support for default values.
@@ -5894,13 +5547,13 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 126 */
+/* 125 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var isArray = __webpack_require__(92),
-	    isKey = __webpack_require__(127),
-	    stringToPath = __webpack_require__(129),
-	    toString = __webpack_require__(132);
+	var isArray = __webpack_require__(91),
+	    isKey = __webpack_require__(126),
+	    stringToPath = __webpack_require__(128),
+	    toString = __webpack_require__(131);
 
 	/**
 	 * Casts `value` to a path array if it's not one.
@@ -5921,11 +5574,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 127 */
+/* 126 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var isArray = __webpack_require__(92),
-	    isSymbol = __webpack_require__(128);
+	var isArray = __webpack_require__(91),
+	    isSymbol = __webpack_require__(127);
 
 	/** Used to match property names within property paths. */
 	var reIsDeepProp = /\.|\[(?:[^[\]]*|(["'])(?:(?!\1)[^\\]|\\.)*?\1)\]/,
@@ -5956,11 +5609,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 128 */
+/* 127 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseGetTag = __webpack_require__(50),
-	    isObjectLike = __webpack_require__(101);
+	var baseGetTag = __webpack_require__(49),
+	    isObjectLike = __webpack_require__(100);
 
 	/** `Object#toString` result references. */
 	var symbolTag = '[object Symbol]';
@@ -5991,13 +5644,14 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 129 */
+/* 128 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var memoizeCapped = __webpack_require__(130);
+	var memoizeCapped = __webpack_require__(129);
 
 	/** Used to match property names within property paths. */
-	var rePropName = /[^.[\]]+|\[(?:(-?\d+(?:\.\d+)?)|(["'])((?:(?!\2)[^\\]|\\.)*?)\2)\]|(?=(?:\.|\[\])(?:\.|\[\]|$))/g;
+	var reLeadingDot = /^\./,
+	    rePropName = /[^.[\]]+|\[(?:(-?\d+(?:\.\d+)?)|(["'])((?:(?!\2)[^\\]|\\.)*?)\2)\]|(?=(?:\.|\[\])(?:\.|\[\]|$))/g;
 
 	/** Used to match backslashes in property paths. */
 	var reEscapeChar = /\\(\\)?/g;
@@ -6011,11 +5665,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	 */
 	var stringToPath = memoizeCapped(function(string) {
 	  var result = [];
-	  if (string.charCodeAt(0) === 46 /* . */) {
+	  if (reLeadingDot.test(string)) {
 	    result.push('');
 	  }
-	  string.replace(rePropName, function(match, number, quote, subString) {
-	    result.push(quote ? subString.replace(reEscapeChar, '$1') : (number || match));
+	  string.replace(rePropName, function(match, number, quote, string) {
+	    result.push(quote ? string.replace(reEscapeChar, '$1') : (number || match));
 	  });
 	  return result;
 	});
@@ -6024,10 +5678,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 130 */
+/* 129 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var memoize = __webpack_require__(131);
+	var memoize = __webpack_require__(130);
 
 	/** Used as the maximum memoize cache size. */
 	var MAX_MEMOIZE_SIZE = 500;
@@ -6056,10 +5710,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 131 */
+/* 130 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var MapCache = __webpack_require__(61);
+	var MapCache = __webpack_require__(60);
 
 	/** Error message constants. */
 	var FUNC_ERROR_TEXT = 'Expected a function';
@@ -6135,10 +5789,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 132 */
+/* 131 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseToString = __webpack_require__(133);
+	var baseToString = __webpack_require__(132);
 
 	/**
 	 * Converts `value` to a string. An empty string is returned for `null`
@@ -6169,13 +5823,13 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 133 */
+/* 132 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var Symbol = __webpack_require__(51),
-	    arrayMap = __webpack_require__(28),
-	    isArray = __webpack_require__(92),
-	    isSymbol = __webpack_require__(128);
+	var Symbol = __webpack_require__(50),
+	    arrayMap = __webpack_require__(27),
+	    isArray = __webpack_require__(91),
+	    isSymbol = __webpack_require__(127);
 
 	/** Used as references for various `Number` constants. */
 	var INFINITY = 1 / 0;
@@ -6212,10 +5866,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 134 */
+/* 133 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var isSymbol = __webpack_require__(128);
+	var isSymbol = __webpack_require__(127);
 
 	/** Used as references for various `Number` constants. */
 	var INFINITY = 1 / 0;
@@ -6239,11 +5893,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 135 */
+/* 134 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseHasIn = __webpack_require__(136),
-	    hasPath = __webpack_require__(137);
+	var baseHasIn = __webpack_require__(135),
+	    hasPath = __webpack_require__(136);
 
 	/**
 	 * Checks if `path` is a direct or inherited property of `object`.
@@ -6279,7 +5933,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 136 */
+/* 135 */
 /***/ (function(module, exports) {
 
 	/**
@@ -6298,15 +5952,15 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 137 */
+/* 136 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var castPath = __webpack_require__(126),
-	    isArguments = __webpack_require__(99),
-	    isArray = __webpack_require__(92),
-	    isIndex = __webpack_require__(104),
-	    isLength = __webpack_require__(107),
-	    toKey = __webpack_require__(134);
+	var castPath = __webpack_require__(125),
+	    isArguments = __webpack_require__(98),
+	    isArray = __webpack_require__(91),
+	    isIndex = __webpack_require__(103),
+	    isLength = __webpack_require__(106),
+	    toKey = __webpack_require__(133);
 
 	/**
 	 * Checks if `path` exists on `object`.
@@ -6343,7 +5997,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 138 */
+/* 137 */
 /***/ (function(module, exports) {
 
 	/**
@@ -6370,13 +6024,13 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 139 */
+/* 138 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseProperty = __webpack_require__(140),
-	    basePropertyDeep = __webpack_require__(141),
-	    isKey = __webpack_require__(127),
-	    toKey = __webpack_require__(134);
+	var baseProperty = __webpack_require__(139),
+	    basePropertyDeep = __webpack_require__(140),
+	    isKey = __webpack_require__(126),
+	    toKey = __webpack_require__(133);
 
 	/**
 	 * Creates a function that returns the value at `path` of a given object.
@@ -6408,7 +6062,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 140 */
+/* 139 */
 /***/ (function(module, exports) {
 
 	/**
@@ -6428,10 +6082,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 141 */
+/* 140 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseGet = __webpack_require__(125);
+	var baseGet = __webpack_require__(124);
 
 	/**
 	 * A specialized version of `baseProperty` which supports deep paths.
@@ -6450,11 +6104,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 142 */
+/* 141 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseEach = __webpack_require__(143),
-	    isArrayLike = __webpack_require__(114);
+	var baseEach = __webpack_require__(142),
+	    isArrayLike = __webpack_require__(113);
 
 	/**
 	 * The base implementation of `_.map` without support for iteratee shorthands.
@@ -6478,11 +6132,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 143 */
+/* 142 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseForOwn = __webpack_require__(144),
-	    createBaseEach = __webpack_require__(147);
+	var baseForOwn = __webpack_require__(143),
+	    createBaseEach = __webpack_require__(146);
 
 	/**
 	 * The base implementation of `_.forEach` without support for iteratee shorthands.
@@ -6498,11 +6152,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 144 */
+/* 143 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseFor = __webpack_require__(145),
-	    keys = __webpack_require__(96);
+	var baseFor = __webpack_require__(144),
+	    keys = __webpack_require__(95);
 
 	/**
 	 * The base implementation of `_.forOwn` without support for iteratee shorthands.
@@ -6520,10 +6174,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 145 */
+/* 144 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var createBaseFor = __webpack_require__(146);
+	var createBaseFor = __webpack_require__(145);
 
 	/**
 	 * The base implementation of `baseForOwn` which iterates over `object`
@@ -6542,7 +6196,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 146 */
+/* 145 */
 /***/ (function(module, exports) {
 
 	/**
@@ -6573,10 +6227,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 147 */
+/* 146 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var isArrayLike = __webpack_require__(114);
+	var isArrayLike = __webpack_require__(113);
 
 	/**
 	 * Creates a `baseEach` or `baseEachRight` function.
@@ -6611,12 +6265,109 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
+/* 147 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var baseAssignValue = __webpack_require__(148),
+	    baseForOwn = __webpack_require__(143),
+	    baseIteratee = __webpack_require__(28);
+
+	/**
+	 * Creates an object with the same keys as `object` and values generated
+	 * by running each own enumerable string keyed property of `object` thru
+	 * `iteratee`. The iteratee is invoked with three arguments:
+	 * (value, key, object).
+	 *
+	 * @static
+	 * @memberOf _
+	 * @since 2.4.0
+	 * @category Object
+	 * @param {Object} object The object to iterate over.
+	 * @param {Function} [iteratee=_.identity] The function invoked per iteration.
+	 * @returns {Object} Returns the new mapped object.
+	 * @see _.mapKeys
+	 * @example
+	 *
+	 * var users = {
+	 *   'fred':    { 'user': 'fred',    'age': 40 },
+	 *   'pebbles': { 'user': 'pebbles', 'age': 1 }
+	 * };
+	 *
+	 * _.mapValues(users, function(o) { return o.age; });
+	 * // => { 'fred': 40, 'pebbles': 1 } (iteration order is not guaranteed)
+	 *
+	 * // The `_.property` iteratee shorthand.
+	 * _.mapValues(users, 'age');
+	 * // => { 'fred': 40, 'pebbles': 1 } (iteration order is not guaranteed)
+	 */
+	function mapValues(object, iteratee) {
+	  var result = {};
+	  iteratee = baseIteratee(iteratee, 3);
+
+	  baseForOwn(object, function(value, key, object) {
+	    baseAssignValue(result, key, iteratee(value, key, object));
+	  });
+	  return result;
+	}
+
+	module.exports = mapValues;
+
+
+/***/ }),
 /* 148 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var defineProperty = __webpack_require__(149);
+
+	/**
+	 * The base implementation of `assignValue` and `assignMergeValue` without
+	 * value checks.
+	 *
+	 * @private
+	 * @param {Object} object The object to modify.
+	 * @param {string} key The key of the property to assign.
+	 * @param {*} value The value to assign.
+	 */
+	function baseAssignValue(object, key, value) {
+	  if (key == '__proto__' && defineProperty) {
+	    defineProperty(object, key, {
+	      'configurable': true,
+	      'enumerable': true,
+	      'value': value,
+	      'writable': true
+	    });
+	  } else {
+	    object[key] = value;
+	  }
+	}
+
+	module.exports = baseAssignValue;
+
+
+/***/ }),
+/* 149 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var getNative = __webpack_require__(46);
+
+	var defineProperty = (function() {
+	  try {
+	    var func = getNative(Object, 'defineProperty');
+	    func({}, '', {});
+	    return func;
+	  } catch (e) {}
+	}());
+
+	module.exports = defineProperty;
+
+
+/***/ }),
+/* 150 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var _assign, bind, classKebab, ev, isSimpleClick, render, renderToString, router, state, untilStable, z;
 
-	_assign = __webpack_require__(149);
+	_assign = __webpack_require__(151);
 
 	if (!Function.prototype.bind) {
 	  Function.prototype.bind = function(oThis) {
@@ -6677,15 +6428,15 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 	router = __webpack_require__(232);
 
-	state = __webpack_require__(249);
+	state = __webpack_require__(251);
 
-	ev = __webpack_require__(247);
+	ev = __webpack_require__(249);
 
-	classKebab = __webpack_require__(335);
+	classKebab = __webpack_require__(328);
 
-	isSimpleClick = __webpack_require__(246);
+	isSimpleClick = __webpack_require__(248);
 
-	bind = __webpack_require__(248);
+	bind = __webpack_require__(250);
 
 	untilStable = __webpack_require__(231);
 
@@ -6705,15 +6456,15 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 149 */
+/* 151 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var assignValue = __webpack_require__(150),
+	var assignValue = __webpack_require__(152),
 	    copyObject = __webpack_require__(153),
 	    createAssigner = __webpack_require__(154),
-	    isArrayLike = __webpack_require__(114),
-	    isPrototype = __webpack_require__(111),
-	    keys = __webpack_require__(96);
+	    isArrayLike = __webpack_require__(113),
+	    isPrototype = __webpack_require__(110),
+	    keys = __webpack_require__(95);
 
 	/** Used for built-in method references. */
 	var objectProto = Object.prototype;
@@ -6769,11 +6520,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 150 */
+/* 152 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseAssignValue = __webpack_require__(151),
-	    eq = __webpack_require__(37);
+	var baseAssignValue = __webpack_require__(148),
+	    eq = __webpack_require__(36);
 
 	/** Used for built-in method references. */
 	var objectProto = Object.prototype;
@@ -6803,59 +6554,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 151 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var defineProperty = __webpack_require__(152);
-
-	/**
-	 * The base implementation of `assignValue` and `assignMergeValue` without
-	 * value checks.
-	 *
-	 * @private
-	 * @param {Object} object The object to modify.
-	 * @param {string} key The key of the property to assign.
-	 * @param {*} value The value to assign.
-	 */
-	function baseAssignValue(object, key, value) {
-	  if (key == '__proto__' && defineProperty) {
-	    defineProperty(object, key, {
-	      'configurable': true,
-	      'enumerable': true,
-	      'value': value,
-	      'writable': true
-	    });
-	  } else {
-	    object[key] = value;
-	  }
-	}
-
-	module.exports = baseAssignValue;
-
-
-/***/ }),
-/* 152 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var getNative = __webpack_require__(47);
-
-	var defineProperty = (function() {
-	  try {
-	    var func = getNative(Object, 'defineProperty');
-	    func({}, '', {});
-	    return func;
-	  } catch (e) {}
-	}());
-
-	module.exports = defineProperty;
-
-
-/***/ }),
 /* 153 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var assignValue = __webpack_require__(150),
-	    baseAssignValue = __webpack_require__(151);
+	var assignValue = __webpack_require__(152),
+	    baseAssignValue = __webpack_require__(148);
 
 	/**
 	 * Copies properties of `source` to `object`.
@@ -6943,7 +6646,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 /* 155 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var identity = __webpack_require__(138),
+	var identity = __webpack_require__(137),
 	    overRest = __webpack_require__(156),
 	    setToString = __webpack_require__(158);
 
@@ -7056,8 +6759,8 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 /***/ (function(module, exports, __webpack_require__) {
 
 	var constant = __webpack_require__(160),
-	    defineProperty = __webpack_require__(152),
-	    identity = __webpack_require__(138);
+	    defineProperty = __webpack_require__(149),
+	    identity = __webpack_require__(137);
 
 	/**
 	 * The base implementation of `setToString` without support for hot loop shorting.
@@ -7158,10 +6861,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 /* 162 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var eq = __webpack_require__(37),
-	    isArrayLike = __webpack_require__(114),
-	    isIndex = __webpack_require__(104),
-	    isObject = __webpack_require__(56);
+	var eq = __webpack_require__(36),
+	    isArrayLike = __webpack_require__(113),
+	    isIndex = __webpack_require__(103),
+	    isObject = __webpack_require__(55);
 
 	/**
 	 * Checks if the given arguments are from an iteratee call.
@@ -7201,15 +6904,15 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 	_isNumber = __webpack_require__(165);
 
-	_isArray = __webpack_require__(92);
+	_isArray = __webpack_require__(91);
 
 	_isBoolean = __webpack_require__(166);
 
-	_isObject = __webpack_require__(56);
+	_isObject = __webpack_require__(55);
 
 	_filter = __webpack_require__(167);
 
-	_map = __webpack_require__(27);
+	_map = __webpack_require__(26);
 
 	h = __webpack_require__(169);
 
@@ -7305,9 +7008,9 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 /* 164 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseGetTag = __webpack_require__(50),
-	    isArray = __webpack_require__(92),
-	    isObjectLike = __webpack_require__(101);
+	var baseGetTag = __webpack_require__(49),
+	    isArray = __webpack_require__(91),
+	    isObjectLike = __webpack_require__(100);
 
 	/** `Object#toString` result references. */
 	var stringTag = '[object String]';
@@ -7341,8 +7044,8 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 /* 165 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseGetTag = __webpack_require__(50),
-	    isObjectLike = __webpack_require__(101);
+	var baseGetTag = __webpack_require__(49),
+	    isObjectLike = __webpack_require__(100);
 
 	/** `Object#toString` result references. */
 	var numberTag = '[object Number]';
@@ -7385,8 +7088,8 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 /* 166 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseGetTag = __webpack_require__(50),
-	    isObjectLike = __webpack_require__(101);
+	var baseGetTag = __webpack_require__(49),
+	    isObjectLike = __webpack_require__(100);
 
 	/** `Object#toString` result references. */
 	var boolTag = '[object Boolean]';
@@ -7420,10 +7123,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 /* 167 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var arrayFilter = __webpack_require__(94),
+	var arrayFilter = __webpack_require__(93),
 	    baseFilter = __webpack_require__(168),
-	    baseIteratee = __webpack_require__(29),
-	    isArray = __webpack_require__(92);
+	    baseIteratee = __webpack_require__(28),
+	    isArray = __webpack_require__(91);
 
 	/**
 	 * Iterates over elements of `collection`, returning an array of all elements
@@ -7474,7 +7177,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 /* 168 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseEach = __webpack_require__(143);
+	var baseEach = __webpack_require__(142);
 
 	/**
 	 * The base implementation of `_.filter` without support for iteratee shorthands.
@@ -7961,7 +7664,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 	'use strict';
 
-	var EvStore = __webpack_require__(17);
+	var EvStore = __webpack_require__(16);
 
 	module.exports = EvHook;
 
@@ -7994,9 +7697,9 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 	var _isFunction, _isObject, isThunk;
 
-	_isObject = __webpack_require__(56);
+	_isObject = __webpack_require__(55);
 
-	_isFunction = __webpack_require__(49);
+	_isFunction = __webpack_require__(48);
 
 	isThunk = __webpack_require__(176);
 
@@ -8012,13 +7715,13 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	var ZThunk, _difference, _isArray, _isEqual, _map, getZThunks, h, hook, isComponent, isThunk,
 	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
 
-	_map = __webpack_require__(27);
+	_map = __webpack_require__(26);
 
 	_difference = __webpack_require__(185);
 
 	_isEqual = __webpack_require__(196);
 
-	_isArray = __webpack_require__(92);
+	_isArray = __webpack_require__(91);
 
 	h = __webpack_require__(169);
 
@@ -8209,12 +7912,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 /* 186 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var SetCache = __webpack_require__(79),
+	var SetCache = __webpack_require__(78),
 	    arrayIncludes = __webpack_require__(187),
 	    arrayIncludesWith = __webpack_require__(192),
-	    arrayMap = __webpack_require__(28),
-	    baseUnary = __webpack_require__(108),
-	    cacheHas = __webpack_require__(83);
+	    arrayMap = __webpack_require__(27),
+	    baseUnary = __webpack_require__(107),
+	    cacheHas = __webpack_require__(82);
 
 	/** Used as the size to enable large array optimizations. */
 	var LARGE_ARRAY_SIZE = 200;
@@ -8436,7 +8139,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 /* 193 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var arrayPush = __webpack_require__(91),
+	var arrayPush = __webpack_require__(90),
 	    isFlattenable = __webpack_require__(194);
 
 	/**
@@ -8480,9 +8183,9 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 /* 194 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var Symbol = __webpack_require__(51),
-	    isArguments = __webpack_require__(99),
-	    isArray = __webpack_require__(92);
+	var Symbol = __webpack_require__(50),
+	    isArguments = __webpack_require__(98),
+	    isArray = __webpack_require__(91);
 
 	/** Built-in value references. */
 	var spreadableSymbol = Symbol ? Symbol.isConcatSpreadable : undefined;
@@ -8506,8 +8209,8 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 /* 195 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var isArrayLike = __webpack_require__(114),
-	    isObjectLike = __webpack_require__(101);
+	var isArrayLike = __webpack_require__(113),
+	    isObjectLike = __webpack_require__(100);
 
 	/**
 	 * This method is like `_.isArrayLike` except that it also checks if `value`
@@ -8545,7 +8248,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 /* 196 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseIsEqual = __webpack_require__(76);
+	var baseIsEqual = __webpack_require__(75);
 
 	/**
 	 * Performs a deep comparison between two values to determine if they are
@@ -8590,7 +8293,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 	_flatten = __webpack_require__(198);
 
-	_map = __webpack_require__(27);
+	_map = __webpack_require__(26);
 
 	isZThunk = __webpack_require__(199);
 
@@ -8683,7 +8386,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 	_isEmpty = __webpack_require__(201);
 
-	_map = __webpack_require__(27);
+	_map = __webpack_require__(26);
 
 	_debounce = __webpack_require__(202);
 
@@ -8810,14 +8513,14 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 /* 201 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseKeys = __webpack_require__(110),
-	    getTag = __webpack_require__(115),
-	    isArguments = __webpack_require__(99),
-	    isArray = __webpack_require__(92),
-	    isArrayLike = __webpack_require__(114),
-	    isBuffer = __webpack_require__(102),
-	    isPrototype = __webpack_require__(111),
-	    isTypedArray = __webpack_require__(105);
+	var baseKeys = __webpack_require__(109),
+	    getTag = __webpack_require__(114),
+	    isArguments = __webpack_require__(98),
+	    isArray = __webpack_require__(91),
+	    isArrayLike = __webpack_require__(113),
+	    isBuffer = __webpack_require__(101),
+	    isPrototype = __webpack_require__(110),
+	    isTypedArray = __webpack_require__(104);
 
 	/** `Object#toString` result references. */
 	var mapTag = '[object Map]',
@@ -8893,7 +8596,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 /* 202 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var isObject = __webpack_require__(56),
+	var isObject = __webpack_require__(55),
 	    now = __webpack_require__(203),
 	    toNumber = __webpack_require__(204);
 
@@ -9003,11 +8706,9 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	  function remainingWait(time) {
 	    var timeSinceLastCall = time - lastCallTime,
 	        timeSinceLastInvoke = time - lastInvokeTime,
-	        timeWaiting = wait - timeSinceLastCall;
+	        result = wait - timeSinceLastCall;
 
-	    return maxing
-	      ? nativeMin(timeWaiting, maxWait - timeSinceLastInvoke)
-	      : timeWaiting;
+	    return maxing ? nativeMin(result, maxWait - timeSinceLastInvoke) : result;
 	  }
 
 	  function shouldInvoke(time) {
@@ -9089,7 +8790,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 /* 203 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var root = __webpack_require__(52);
+	var root = __webpack_require__(51);
 
 	/**
 	 * Gets the timestamp of the number of milliseconds that have elapsed since
@@ -9118,8 +8819,8 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 /* 204 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var isObject = __webpack_require__(56),
-	    isSymbol = __webpack_require__(128);
+	var isObject = __webpack_require__(55),
+	    isSymbol = __webpack_require__(127);
 
 	/** Used as references for various `Number` constants. */
 	var NAN = 0 / 0;
@@ -9790,7 +9491,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 /* 212 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var document = __webpack_require__(14)
+	var document = __webpack_require__(13)
 	var isArray = __webpack_require__(171)
 
 	var render = __webpack_require__(213)
@@ -9876,7 +9577,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 /* 213 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var document = __webpack_require__(14)
+	var document = __webpack_require__(13)
 
 	var applyProperties = __webpack_require__(214)
 
@@ -11243,7 +10944,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 	/* WEBPACK VAR INJECTION */(function(global) {var Promise, _map, _promiz, getZThunks, isComponent, isThunk, untilStable, z;
 
-	_map = __webpack_require__(27);
+	_map = __webpack_require__(26);
 
 	isThunk = __webpack_require__(176);
 
@@ -11316,9 +11017,9 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 	_defaults = __webpack_require__(233);
 
-	_once = __webpack_require__(237);
+	_once = __webpack_require__(239);
 
-	Qs = __webpack_require__(241);
+	Qs = __webpack_require__(243);
 
 	isThunk = __webpack_require__(176);
 
@@ -11328,11 +11029,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 	render = __webpack_require__(200);
 
-	isSimpleClick = __webpack_require__(246);
+	isSimpleClick = __webpack_require__(248);
 
-	ev = __webpack_require__(247);
+	ev = __webpack_require__(249);
 
-	bind = __webpack_require__(248);
+	bind = __webpack_require__(250);
 
 	getCurrentUrl = function(mode) {
 	  var hash, pathname, search;
@@ -11486,16 +11187,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 /* 233 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseRest = __webpack_require__(155),
-	    eq = __webpack_require__(37),
-	    isIterateeCall = __webpack_require__(162),
-	    keysIn = __webpack_require__(234);
-
-	/** Used for built-in method references. */
-	var objectProto = Object.prototype;
-
-	/** Used to check objects for own properties. */
-	var hasOwnProperty = objectProto.hasOwnProperty;
+	var apply = __webpack_require__(157),
+	    assignInWith = __webpack_require__(234),
+	    baseRest = __webpack_require__(155),
+	    customDefaultsAssignIn = __webpack_require__(238);
 
 	/**
 	 * Assigns own and inherited enumerable string keyed properties of source
@@ -11518,35 +11213,9 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	 * _.defaults({ 'a': 1 }, { 'b': 2 }, { 'a': 3 });
 	 * // => { 'a': 1, 'b': 2 }
 	 */
-	var defaults = baseRest(function(object, sources) {
-	  object = Object(object);
-
-	  var index = -1;
-	  var length = sources.length;
-	  var guard = length > 2 ? sources[2] : undefined;
-
-	  if (guard && isIterateeCall(sources[0], sources[1], guard)) {
-	    length = 1;
-	  }
-
-	  while (++index < length) {
-	    var source = sources[index];
-	    var props = keysIn(source);
-	    var propsIndex = -1;
-	    var propsLength = props.length;
-
-	    while (++propsIndex < propsLength) {
-	      var key = props[propsIndex];
-	      var value = object[key];
-
-	      if (value === undefined ||
-	          (eq(value, objectProto[key]) && !hasOwnProperty.call(object, key))) {
-	        object[key] = source[key];
-	      }
-	    }
-	  }
-
-	  return object;
+	var defaults = baseRest(function(args) {
+	  args.push(undefined, customDefaultsAssignIn);
+	  return apply(assignInWith, undefined, args);
 	});
 
 	module.exports = defaults;
@@ -11556,9 +11225,53 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 /* 234 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var arrayLikeKeys = __webpack_require__(97),
-	    baseKeysIn = __webpack_require__(235),
-	    isArrayLike = __webpack_require__(114);
+	var copyObject = __webpack_require__(153),
+	    createAssigner = __webpack_require__(154),
+	    keysIn = __webpack_require__(235);
+
+	/**
+	 * This method is like `_.assignIn` except that it accepts `customizer`
+	 * which is invoked to produce the assigned values. If `customizer` returns
+	 * `undefined`, assignment is handled by the method instead. The `customizer`
+	 * is invoked with five arguments: (objValue, srcValue, key, object, source).
+	 *
+	 * **Note:** This method mutates `object`.
+	 *
+	 * @static
+	 * @memberOf _
+	 * @since 4.0.0
+	 * @alias extendWith
+	 * @category Object
+	 * @param {Object} object The destination object.
+	 * @param {...Object} sources The source objects.
+	 * @param {Function} [customizer] The function to customize assigned values.
+	 * @returns {Object} Returns `object`.
+	 * @see _.assignWith
+	 * @example
+	 *
+	 * function customizer(objValue, srcValue) {
+	 *   return _.isUndefined(objValue) ? srcValue : objValue;
+	 * }
+	 *
+	 * var defaults = _.partialRight(_.assignInWith, customizer);
+	 *
+	 * defaults({ 'a': 1 }, { 'b': 2 }, { 'a': 3 });
+	 * // => { 'a': 1, 'b': 2 }
+	 */
+	var assignInWith = createAssigner(function(object, source, srcIndex, customizer) {
+	  copyObject(source, keysIn(source), object, customizer);
+	});
+
+	module.exports = assignInWith;
+
+
+/***/ }),
+/* 235 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var arrayLikeKeys = __webpack_require__(96),
+	    baseKeysIn = __webpack_require__(236),
+	    isArrayLike = __webpack_require__(113);
 
 	/**
 	 * Creates an array of the own and inherited enumerable property names of `object`.
@@ -11591,12 +11304,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 235 */
+/* 236 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var isObject = __webpack_require__(56),
-	    isPrototype = __webpack_require__(111),
-	    nativeKeysIn = __webpack_require__(236);
+	var isObject = __webpack_require__(55),
+	    isPrototype = __webpack_require__(110),
+	    nativeKeysIn = __webpack_require__(237);
 
 	/** Used for built-in method references. */
 	var objectProto = Object.prototype;
@@ -11630,7 +11343,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 236 */
+/* 237 */
 /***/ (function(module, exports) {
 
 	/**
@@ -11656,10 +11369,45 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 237 */
+/* 238 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var before = __webpack_require__(238);
+	var eq = __webpack_require__(36);
+
+	/** Used for built-in method references. */
+	var objectProto = Object.prototype;
+
+	/** Used to check objects for own properties. */
+	var hasOwnProperty = objectProto.hasOwnProperty;
+
+	/**
+	 * Used by `_.defaults` to customize its `_.assignIn` use to assign properties
+	 * of source objects to the destination object for all destination properties
+	 * that resolve to `undefined`.
+	 *
+	 * @private
+	 * @param {*} objValue The destination value.
+	 * @param {*} srcValue The source value.
+	 * @param {string} key The key of the property to assign.
+	 * @param {Object} object The parent object of `objValue`.
+	 * @returns {*} Returns the value to assign.
+	 */
+	function customDefaultsAssignIn(objValue, srcValue, key, object) {
+	  if (objValue === undefined ||
+	      (eq(objValue, objectProto[key]) && !hasOwnProperty.call(object, key))) {
+	    return srcValue;
+	  }
+	  return objValue;
+	}
+
+	module.exports = customDefaultsAssignIn;
+
+
+/***/ }),
+/* 239 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var before = __webpack_require__(240);
 
 	/**
 	 * Creates a function that is restricted to invoking `func` once. Repeat calls
@@ -11687,10 +11435,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 238 */
+/* 240 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var toInteger = __webpack_require__(239);
+	var toInteger = __webpack_require__(241);
 
 	/** Error message constants. */
 	var FUNC_ERROR_TEXT = 'Expected a function';
@@ -11733,10 +11481,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 239 */
+/* 241 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var toFinite = __webpack_require__(240);
+	var toFinite = __webpack_require__(242);
 
 	/**
 	 * Converts `value` to an integer.
@@ -11775,7 +11523,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 240 */
+/* 242 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var toNumber = __webpack_require__(204);
@@ -11823,20 +11571,20 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 241 */
+/* 243 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	module.exports = __webpack_require__(242);
+	module.exports = __webpack_require__(244);
 
 
 /***/ }),
-/* 242 */
+/* 244 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	// Load modules
 
-	var Stringify = __webpack_require__(243);
-	var Parse = __webpack_require__(245);
+	var Stringify = __webpack_require__(245);
+	var Parse = __webpack_require__(247);
 
 
 	// Declare internals
@@ -11851,12 +11599,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 243 */
+/* 245 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	// Load modules
 
-	var Utils = __webpack_require__(244);
+	var Utils = __webpack_require__(246);
 
 
 	// Declare internals
@@ -11954,7 +11702,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 244 */
+/* 246 */
 /***/ (function(module, exports) {
 
 	// Load modules
@@ -12092,12 +11840,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 245 */
+/* 247 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	// Load modules
 
-	var Utils = __webpack_require__(244);
+	var Utils = __webpack_require__(246);
 
 
 	// Declare internals
@@ -12255,7 +12003,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 246 */
+/* 248 */
 /***/ (function(module, exports) {
 
 	module.exports = function(e) {
@@ -12264,7 +12012,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 247 */
+/* 249 */
 /***/ (function(module, exports) {
 
 	module.exports = function(fn) {
@@ -12277,7 +12025,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 248 */
+/* 250 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var ZThunk, isComponent, isThunk, isZThunk, render, z;
@@ -12327,7 +12075,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 249 */
+/* 251 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(global) {var Promise, RxBehaviorSubject, RxObservable, _bind, _defaults, _flatten, _isFunction, _isPlainObject, _map, _mapValues, _promiz, assert, concat, forkJoin, subjectFromInitialState,
@@ -12335,27 +12083,31 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 	_flatten = __webpack_require__(198);
 
-	_mapValues = __webpack_require__(250);
+	_mapValues = __webpack_require__(147);
 
-	_isFunction = __webpack_require__(49);
+	_isFunction = __webpack_require__(48);
 
-	_isPlainObject = __webpack_require__(251);
+	_isPlainObject = __webpack_require__(252);
 
-	_map = __webpack_require__(27);
+	_map = __webpack_require__(26);
 
-	_bind = __webpack_require__(253);
+	_bind = __webpack_require__(254);
 
 	_defaults = __webpack_require__(233);
 
-	RxBehaviorSubject = __webpack_require__(288).BehaviorSubject;
+	RxBehaviorSubject = __webpack_require__(289).BehaviorSubject;
 
-	RxObservable = __webpack_require__(290).Observable;
+	RxObservable = __webpack_require__(291).Observable;
 
-	__webpack_require__(308);
+	__webpack_require__(307);
 
 	__webpack_require__(313);
 
-	concat = __webpack_require__(321).concat;
+	__webpack_require__(322);
+
+	__webpack_require__(324);
+
+	concat = __webpack_require__(326).concat;
 
 	RxObservable.prototype.concat = concat;
 
@@ -12487,61 +12239,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }())))
 
 /***/ }),
-/* 250 */
+/* 252 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseAssignValue = __webpack_require__(151),
-	    baseForOwn = __webpack_require__(144),
-	    baseIteratee = __webpack_require__(29);
-
-	/**
-	 * Creates an object with the same keys as `object` and values generated
-	 * by running each own enumerable string keyed property of `object` thru
-	 * `iteratee`. The iteratee is invoked with three arguments:
-	 * (value, key, object).
-	 *
-	 * @static
-	 * @memberOf _
-	 * @since 2.4.0
-	 * @category Object
-	 * @param {Object} object The object to iterate over.
-	 * @param {Function} [iteratee=_.identity] The function invoked per iteration.
-	 * @returns {Object} Returns the new mapped object.
-	 * @see _.mapKeys
-	 * @example
-	 *
-	 * var users = {
-	 *   'fred':    { 'user': 'fred',    'age': 40 },
-	 *   'pebbles': { 'user': 'pebbles', 'age': 1 }
-	 * };
-	 *
-	 * _.mapValues(users, function(o) { return o.age; });
-	 * // => { 'fred': 40, 'pebbles': 1 } (iteration order is not guaranteed)
-	 *
-	 * // The `_.property` iteratee shorthand.
-	 * _.mapValues(users, 'age');
-	 * // => { 'fred': 40, 'pebbles': 1 } (iteration order is not guaranteed)
-	 */
-	function mapValues(object, iteratee) {
-	  var result = {};
-	  iteratee = baseIteratee(iteratee, 3);
-
-	  baseForOwn(object, function(value, key, object) {
-	    baseAssignValue(result, key, iteratee(value, key, object));
-	  });
-	  return result;
-	}
-
-	module.exports = mapValues;
-
-
-/***/ }),
-/* 251 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var baseGetTag = __webpack_require__(50),
-	    getPrototype = __webpack_require__(252),
-	    isObjectLike = __webpack_require__(101);
+	var baseGetTag = __webpack_require__(49),
+	    getPrototype = __webpack_require__(253),
+	    isObjectLike = __webpack_require__(100);
 
 	/** `Object#toString` result references. */
 	var objectTag = '[object Object]';
@@ -12604,10 +12307,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 252 */
+/* 253 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var overArg = __webpack_require__(113);
+	var overArg = __webpack_require__(112);
 
 	/** Built-in value references. */
 	var getPrototype = overArg(Object.getPrototypeOf, Object);
@@ -12616,13 +12319,13 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 253 */
+/* 254 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var baseRest = __webpack_require__(155),
-	    createWrap = __webpack_require__(254),
-	    getHolder = __webpack_require__(283),
-	    replaceHolders = __webpack_require__(285);
+	    createWrap = __webpack_require__(255),
+	    getHolder = __webpack_require__(284),
+	    replaceHolders = __webpack_require__(286);
 
 	/** Used to compose bitmasks for function metadata. */
 	var WRAP_BIND_FLAG = 1,
@@ -12679,19 +12382,19 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 254 */
+/* 255 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseSetData = __webpack_require__(255),
-	    createBind = __webpack_require__(257),
-	    createCurry = __webpack_require__(260),
-	    createHybrid = __webpack_require__(261),
-	    createPartial = __webpack_require__(286),
-	    getData = __webpack_require__(269),
-	    mergeData = __webpack_require__(287),
-	    setData = __webpack_require__(277),
-	    setWrapToString = __webpack_require__(278),
-	    toInteger = __webpack_require__(239);
+	var baseSetData = __webpack_require__(256),
+	    createBind = __webpack_require__(258),
+	    createCurry = __webpack_require__(261),
+	    createHybrid = __webpack_require__(262),
+	    createPartial = __webpack_require__(287),
+	    getData = __webpack_require__(270),
+	    mergeData = __webpack_require__(288),
+	    setData = __webpack_require__(278),
+	    setWrapToString = __webpack_require__(279),
+	    toInteger = __webpack_require__(241);
 
 	/** Error message constants. */
 	var FUNC_ERROR_TEXT = 'Expected a function';
@@ -12791,11 +12494,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 255 */
+/* 256 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var identity = __webpack_require__(138),
-	    metaMap = __webpack_require__(256);
+	var identity = __webpack_require__(137),
+	    metaMap = __webpack_require__(257);
 
 	/**
 	 * The base implementation of `setData` without support for hot loop shorting.
@@ -12814,10 +12517,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 256 */
+/* 257 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var WeakMap = __webpack_require__(119);
+	var WeakMap = __webpack_require__(118);
 
 	/** Used to store function metadata. */
 	var metaMap = WeakMap && new WeakMap;
@@ -12826,11 +12529,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 257 */
+/* 258 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var createCtor = __webpack_require__(258),
-	    root = __webpack_require__(52);
+	var createCtor = __webpack_require__(259),
+	    root = __webpack_require__(51);
 
 	/** Used to compose bitmasks for function metadata. */
 	var WRAP_BIND_FLAG = 1;
@@ -12860,11 +12563,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 258 */
+/* 259 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseCreate = __webpack_require__(259),
-	    isObject = __webpack_require__(56);
+	var baseCreate = __webpack_require__(260),
+	    isObject = __webpack_require__(55);
 
 	/**
 	 * Creates a function that produces an instance of `Ctor` regardless of
@@ -12903,10 +12606,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 259 */
+/* 260 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var isObject = __webpack_require__(56);
+	var isObject = __webpack_require__(55);
 
 	/** Built-in value references. */
 	var objectCreate = Object.create;
@@ -12939,16 +12642,16 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 260 */
+/* 261 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var apply = __webpack_require__(157),
-	    createCtor = __webpack_require__(258),
-	    createHybrid = __webpack_require__(261),
-	    createRecurry = __webpack_require__(265),
-	    getHolder = __webpack_require__(283),
-	    replaceHolders = __webpack_require__(285),
-	    root = __webpack_require__(52);
+	    createCtor = __webpack_require__(259),
+	    createHybrid = __webpack_require__(262),
+	    createRecurry = __webpack_require__(266),
+	    getHolder = __webpack_require__(284),
+	    replaceHolders = __webpack_require__(286),
+	    root = __webpack_require__(51);
 
 	/**
 	 * Creates a function that wraps `func` to enable currying.
@@ -12991,18 +12694,18 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 261 */
+/* 262 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var composeArgs = __webpack_require__(262),
-	    composeArgsRight = __webpack_require__(263),
-	    countHolders = __webpack_require__(264),
-	    createCtor = __webpack_require__(258),
-	    createRecurry = __webpack_require__(265),
-	    getHolder = __webpack_require__(283),
-	    reorder = __webpack_require__(284),
-	    replaceHolders = __webpack_require__(285),
-	    root = __webpack_require__(52);
+	var composeArgs = __webpack_require__(263),
+	    composeArgsRight = __webpack_require__(264),
+	    countHolders = __webpack_require__(265),
+	    createCtor = __webpack_require__(259),
+	    createRecurry = __webpack_require__(266),
+	    getHolder = __webpack_require__(284),
+	    reorder = __webpack_require__(285),
+	    replaceHolders = __webpack_require__(286),
+	    root = __webpack_require__(51);
 
 	/** Used to compose bitmasks for function metadata. */
 	var WRAP_BIND_FLAG = 1,
@@ -13089,7 +12792,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 262 */
+/* 263 */
 /***/ (function(module, exports) {
 
 	/* Built-in method references for those with the same name as other `lodash` methods. */
@@ -13134,7 +12837,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 263 */
+/* 264 */
 /***/ (function(module, exports) {
 
 	/* Built-in method references for those with the same name as other `lodash` methods. */
@@ -13181,7 +12884,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 264 */
+/* 265 */
 /***/ (function(module, exports) {
 
 	/**
@@ -13208,12 +12911,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 265 */
+/* 266 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var isLaziable = __webpack_require__(266),
-	    setData = __webpack_require__(277),
-	    setWrapToString = __webpack_require__(278);
+	var isLaziable = __webpack_require__(267),
+	    setData = __webpack_require__(278),
+	    setWrapToString = __webpack_require__(279);
 
 	/** Used to compose bitmasks for function metadata. */
 	var WRAP_BIND_FLAG = 1,
@@ -13270,13 +12973,13 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 266 */
+/* 267 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var LazyWrapper = __webpack_require__(267),
-	    getData = __webpack_require__(269),
-	    getFuncName = __webpack_require__(271),
-	    lodash = __webpack_require__(273);
+	var LazyWrapper = __webpack_require__(268),
+	    getData = __webpack_require__(270),
+	    getFuncName = __webpack_require__(272),
+	    lodash = __webpack_require__(274);
 
 	/**
 	 * Checks if `func` has a lazy counterpart.
@@ -13304,11 +13007,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 267 */
+/* 268 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseCreate = __webpack_require__(259),
-	    baseLodash = __webpack_require__(268);
+	var baseCreate = __webpack_require__(260),
+	    baseLodash = __webpack_require__(269);
 
 	/** Used as references for the maximum length and index of an array. */
 	var MAX_ARRAY_LENGTH = 4294967295;
@@ -13338,7 +13041,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 268 */
+/* 269 */
 /***/ (function(module, exports) {
 
 	/**
@@ -13354,11 +13057,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 269 */
+/* 270 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var metaMap = __webpack_require__(256),
-	    noop = __webpack_require__(270);
+	var metaMap = __webpack_require__(257),
+	    noop = __webpack_require__(271);
 
 	/**
 	 * Gets metadata for `func`.
@@ -13375,7 +13078,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 270 */
+/* 271 */
 /***/ (function(module, exports) {
 
 	/**
@@ -13398,10 +13101,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 271 */
+/* 272 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var realNames = __webpack_require__(272);
+	var realNames = __webpack_require__(273);
 
 	/** Used for built-in method references. */
 	var objectProto = Object.prototype;
@@ -13435,7 +13138,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 272 */
+/* 273 */
 /***/ (function(module, exports) {
 
 	/** Used to lookup unminified function names. */
@@ -13445,15 +13148,15 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 273 */
+/* 274 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var LazyWrapper = __webpack_require__(267),
-	    LodashWrapper = __webpack_require__(274),
-	    baseLodash = __webpack_require__(268),
-	    isArray = __webpack_require__(92),
-	    isObjectLike = __webpack_require__(101),
-	    wrapperClone = __webpack_require__(275);
+	var LazyWrapper = __webpack_require__(268),
+	    LodashWrapper = __webpack_require__(275),
+	    baseLodash = __webpack_require__(269),
+	    isArray = __webpack_require__(91),
+	    isObjectLike = __webpack_require__(100),
+	    wrapperClone = __webpack_require__(276);
 
 	/** Used for built-in method references. */
 	var objectProto = Object.prototype;
@@ -13598,11 +13301,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 274 */
+/* 275 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseCreate = __webpack_require__(259),
-	    baseLodash = __webpack_require__(268);
+	var baseCreate = __webpack_require__(260),
+	    baseLodash = __webpack_require__(269);
 
 	/**
 	 * The base constructor for creating `lodash` wrapper objects.
@@ -13626,12 +13329,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 275 */
+/* 276 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var LazyWrapper = __webpack_require__(267),
-	    LodashWrapper = __webpack_require__(274),
-	    copyArray = __webpack_require__(276);
+	var LazyWrapper = __webpack_require__(268),
+	    LodashWrapper = __webpack_require__(275),
+	    copyArray = __webpack_require__(277);
 
 	/**
 	 * Creates a clone of `wrapper`.
@@ -13655,7 +13358,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 276 */
+/* 277 */
 /***/ (function(module, exports) {
 
 	/**
@@ -13681,10 +13384,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 277 */
+/* 278 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseSetData = __webpack_require__(255),
+	var baseSetData = __webpack_require__(256),
 	    shortOut = __webpack_require__(161);
 
 	/**
@@ -13707,13 +13410,13 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 278 */
+/* 279 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var getWrapDetails = __webpack_require__(279),
-	    insertWrapDetails = __webpack_require__(280),
+	var getWrapDetails = __webpack_require__(280),
+	    insertWrapDetails = __webpack_require__(281),
 	    setToString = __webpack_require__(158),
-	    updateWrapDetails = __webpack_require__(281);
+	    updateWrapDetails = __webpack_require__(282);
 
 	/**
 	 * Sets the `toString` method of `wrapper` to mimic the source of `reference`
@@ -13734,7 +13437,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 279 */
+/* 280 */
 /***/ (function(module, exports) {
 
 	/** Used to match wrap detail comments. */
@@ -13757,7 +13460,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 280 */
+/* 281 */
 /***/ (function(module, exports) {
 
 	/** Used to match wrap detail comments. */
@@ -13786,10 +13489,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 281 */
+/* 282 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var arrayEach = __webpack_require__(282),
+	var arrayEach = __webpack_require__(283),
 	    arrayIncludes = __webpack_require__(187);
 
 	/** Used to compose bitmasks for function metadata. */
@@ -13838,7 +13541,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 282 */
+/* 283 */
 /***/ (function(module, exports) {
 
 	/**
@@ -13866,7 +13569,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 283 */
+/* 284 */
 /***/ (function(module, exports) {
 
 	/**
@@ -13885,11 +13588,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 284 */
+/* 285 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var copyArray = __webpack_require__(276),
-	    isIndex = __webpack_require__(104);
+	var copyArray = __webpack_require__(277),
+	    isIndex = __webpack_require__(103);
 
 	/* Built-in method references for those with the same name as other `lodash` methods. */
 	var nativeMin = Math.min;
@@ -13920,7 +13623,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 285 */
+/* 286 */
 /***/ (function(module, exports) {
 
 	/** Used as the internal argument placeholder. */
@@ -13955,12 +13658,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 286 */
+/* 287 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var apply = __webpack_require__(157),
-	    createCtor = __webpack_require__(258),
-	    root = __webpack_require__(52);
+	    createCtor = __webpack_require__(259),
+	    root = __webpack_require__(51);
 
 	/** Used to compose bitmasks for function metadata. */
 	var WRAP_BIND_FLAG = 1;
@@ -14004,12 +13707,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 287 */
+/* 288 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var composeArgs = __webpack_require__(262),
-	    composeArgsRight = __webpack_require__(263),
-	    replaceHolders = __webpack_require__(285);
+	var composeArgs = __webpack_require__(263),
+	    composeArgsRight = __webpack_require__(264),
+	    replaceHolders = __webpack_require__(286);
 
 	/** Used as the internal argument placeholder. */
 	var PLACEHOLDER = '__lodash_placeholder__';
@@ -14100,7 +13803,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 288 */
+/* 289 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -14109,8 +13812,8 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    function __() { this.constructor = d; }
 	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 	};
-	var Subject_1 = __webpack_require__(289);
-	var ObjectUnsubscribedError_1 = __webpack_require__(306);
+	var Subject_1 = __webpack_require__(290);
+	var ObjectUnsubscribedError_1 = __webpack_require__(305);
 	/**
 	 * @class BehaviorSubject<T>
 	 */
@@ -14154,7 +13857,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=BehaviorSubject.js.map
 
 /***/ }),
-/* 289 */
+/* 290 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -14163,12 +13866,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    function __() { this.constructor = d; }
 	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 	};
-	var Observable_1 = __webpack_require__(290);
-	var Subscriber_1 = __webpack_require__(293);
-	var Subscription_1 = __webpack_require__(295);
-	var ObjectUnsubscribedError_1 = __webpack_require__(306);
-	var SubjectSubscription_1 = __webpack_require__(307);
-	var rxSubscriber_1 = __webpack_require__(302);
+	var Observable_1 = __webpack_require__(291);
+	var Subscriber_1 = __webpack_require__(294);
+	var Subscription_1 = __webpack_require__(296);
+	var ObjectUnsubscribedError_1 = __webpack_require__(305);
+	var SubjectSubscription_1 = __webpack_require__(306);
+	var rxSubscriber_1 = __webpack_require__(303);
 	/**
 	 * @class SubjectSubscriber<T>
 	 */
@@ -14327,14 +14030,13 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=Subject.js.map
 
 /***/ }),
-/* 290 */
+/* 291 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
-	var root_1 = __webpack_require__(291);
-	var toSubscriber_1 = __webpack_require__(292);
-	var observable_1 = __webpack_require__(303);
-	var pipe_1 = __webpack_require__(304);
+	var root_1 = __webpack_require__(292);
+	var toSubscriber_1 = __webpack_require__(293);
+	var observable_1 = __webpack_require__(304);
 	/**
 	 * A representation of any set of values over any amount of time. This is the most basic building block
 	 * of RxJS.
@@ -14489,7 +14191,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	            operator.call(sink, this.source);
 	        }
 	        else {
-	            sink.add(this.source || !sink.syncErrorThrowable ? this._subscribe(sink) : this._trySubscribe(sink));
+	            sink.add(this.source ? this._subscribe(sink) : this._trySubscribe(sink));
 	        }
 	        if (sink.syncErrorThrowable) {
 	            sink.syncErrorThrowable = false;
@@ -14570,54 +14272,6 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    Observable.prototype[observable_1.observable] = function () {
 	        return this;
 	    };
-	    /* tslint:enable:max-line-length */
-	    /**
-	     * Used to stitch together functional operators into a chain.
-	     * @method pipe
-	     * @return {Observable} the Observable result of all of the operators having
-	     * been called in the order they were passed in.
-	     *
-	     * @example
-	     *
-	     * import { map, filter, scan } from 'rxjs/operators';
-	     *
-	     * Rx.Observable.interval(1000)
-	     *   .pipe(
-	     *     filter(x => x % 2 === 0),
-	     *     map(x => x + x),
-	     *     scan((acc, x) => acc + x)
-	     *   )
-	     *   .subscribe(x => console.log(x))
-	     */
-	    Observable.prototype.pipe = function () {
-	        var operations = [];
-	        for (var _i = 0; _i < arguments.length; _i++) {
-	            operations[_i - 0] = arguments[_i];
-	        }
-	        if (operations.length === 0) {
-	            return this;
-	        }
-	        return pipe_1.pipeFromArray(operations)(this);
-	    };
-	    /* tslint:enable:max-line-length */
-	    Observable.prototype.toPromise = function (PromiseCtor) {
-	        var _this = this;
-	        if (!PromiseCtor) {
-	            if (root_1.root.Rx && root_1.root.Rx.config && root_1.root.Rx.config.Promise) {
-	                PromiseCtor = root_1.root.Rx.config.Promise;
-	            }
-	            else if (root_1.root.Promise) {
-	                PromiseCtor = root_1.root.Promise;
-	            }
-	        }
-	        if (!PromiseCtor) {
-	            throw new Error('no Promise impl found');
-	        }
-	        return new PromiseCtor(function (resolve, reject) {
-	            var value;
-	            _this.subscribe(function (x) { return value = x; }, function (err) { return reject(err); }, function () { return resolve(value); });
-	        });
-	    };
 	    // HACK: Since TypeScript inherits static properties too, we have to
 	    // fight against TypeScript here so Subject can have a different static create signature
 	    /**
@@ -14637,7 +14291,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=Observable.js.map
 
 /***/ }),
-/* 291 */
+/* 292 */
 /***/ (function(module, exports) {
 
 	/* WEBPACK VAR INJECTION */(function(global) {"use strict";
@@ -14662,13 +14316,13 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }())))
 
 /***/ }),
-/* 292 */
+/* 293 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
-	var Subscriber_1 = __webpack_require__(293);
-	var rxSubscriber_1 = __webpack_require__(302);
-	var Observer_1 = __webpack_require__(301);
+	var Subscriber_1 = __webpack_require__(294);
+	var rxSubscriber_1 = __webpack_require__(303);
+	var Observer_1 = __webpack_require__(302);
 	function toSubscriber(nextOrObserver, error, complete) {
 	    if (nextOrObserver) {
 	        if (nextOrObserver instanceof Subscriber_1.Subscriber) {
@@ -14687,7 +14341,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=toSubscriber.js.map
 
 /***/ }),
-/* 293 */
+/* 294 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -14696,10 +14350,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    function __() { this.constructor = d; }
 	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 	};
-	var isFunction_1 = __webpack_require__(294);
-	var Subscription_1 = __webpack_require__(295);
-	var Observer_1 = __webpack_require__(301);
-	var rxSubscriber_1 = __webpack_require__(302);
+	var isFunction_1 = __webpack_require__(295);
+	var Subscription_1 = __webpack_require__(296);
+	var Observer_1 = __webpack_require__(302);
+	var rxSubscriber_1 = __webpack_require__(303);
 	/**
 	 * Implements the {@link Observer} interface and extends the
 	 * {@link Subscription} class. While the {@link Observer} is the public API for
@@ -14736,13 +14390,9 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	                    break;
 	                }
 	                if (typeof destinationOrNext === 'object') {
-	                    // HACK(benlesh): To resolve an issue where Node users may have multiple
-	                    // copies of rxjs in their node_modules directory.
-	                    if (isTrustedSubscriber(destinationOrNext)) {
-	                        var trustedSubscriber = destinationOrNext[rxSubscriber_1.rxSubscriber]();
-	                        this.syncErrorThrowable = trustedSubscriber.syncErrorThrowable;
-	                        this.destination = trustedSubscriber;
-	                        trustedSubscriber.add(this);
+	                    if (destinationOrNext instanceof Subscriber) {
+	                        this.destination = destinationOrNext;
+	                        this.destination.add(this);
 	                    }
 	                    else {
 	                        this.syncErrorThrowable = true;
@@ -14957,13 +14607,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    };
 	    return SafeSubscriber;
 	}(Subscriber));
-	function isTrustedSubscriber(obj) {
-	    return obj instanceof Subscriber || ('syncErrorThrowable' in obj && obj[rxSubscriber_1.rxSubscriber]);
-	}
 	//# sourceMappingURL=Subscriber.js.map
 
 /***/ }),
-/* 294 */
+/* 295 */
 /***/ (function(module, exports) {
 
 	"use strict";
@@ -14974,16 +14621,16 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=isFunction.js.map
 
 /***/ }),
-/* 295 */
+/* 296 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
-	var isArray_1 = __webpack_require__(296);
-	var isObject_1 = __webpack_require__(297);
-	var isFunction_1 = __webpack_require__(294);
-	var tryCatch_1 = __webpack_require__(298);
-	var errorObject_1 = __webpack_require__(299);
-	var UnsubscriptionError_1 = __webpack_require__(300);
+	var isArray_1 = __webpack_require__(297);
+	var isObject_1 = __webpack_require__(298);
+	var isFunction_1 = __webpack_require__(295);
+	var tryCatch_1 = __webpack_require__(299);
+	var errorObject_1 = __webpack_require__(300);
+	var UnsubscriptionError_1 = __webpack_require__(301);
 	/**
 	 * Represents a disposable resource, such as the execution of an Observable. A
 	 * Subscription has one important method, `unsubscribe`, that takes no argument
@@ -15172,7 +14819,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=Subscription.js.map
 
 /***/ }),
-/* 296 */
+/* 297 */
 /***/ (function(module, exports) {
 
 	"use strict";
@@ -15180,7 +14827,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=isArray.js.map
 
 /***/ }),
-/* 297 */
+/* 298 */
 /***/ (function(module, exports) {
 
 	"use strict";
@@ -15191,11 +14838,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=isObject.js.map
 
 /***/ }),
-/* 298 */
+/* 299 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
-	var errorObject_1 = __webpack_require__(299);
+	var errorObject_1 = __webpack_require__(300);
 	var tryCatchTarget;
 	function tryCatcher() {
 	    try {
@@ -15215,7 +14862,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=tryCatch.js.map
 
 /***/ }),
-/* 299 */
+/* 300 */
 /***/ (function(module, exports) {
 
 	"use strict";
@@ -15224,7 +14871,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=errorObject.js.map
 
 /***/ }),
-/* 300 */
+/* 301 */
 /***/ (function(module, exports) {
 
 	"use strict";
@@ -15254,7 +14901,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=UnsubscriptionError.js.map
 
 /***/ }),
-/* 301 */
+/* 302 */
 /***/ (function(module, exports) {
 
 	"use strict";
@@ -15267,11 +14914,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=Observer.js.map
 
 /***/ }),
-/* 302 */
+/* 303 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
-	var root_1 = __webpack_require__(291);
+	var root_1 = __webpack_require__(292);
 	var Symbol = root_1.root.Symbol;
 	exports.rxSubscriber = (typeof Symbol === 'function' && typeof Symbol.for === 'function') ?
 	    Symbol.for('rxSubscriber') : '@@rxSubscriber';
@@ -15282,11 +14929,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=rxSubscriber.js.map
 
 /***/ }),
-/* 303 */
+/* 304 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
-	var root_1 = __webpack_require__(291);
+	var root_1 = __webpack_require__(292);
 	function getSymbolObservable(context) {
 	    var $$observable;
 	    var Symbol = context.Symbol;
@@ -15313,47 +14960,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=observable.js.map
 
 /***/ }),
-/* 304 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	"use strict";
-	var noop_1 = __webpack_require__(305);
-	/* tslint:enable:max-line-length */
-	function pipe() {
-	    var fns = [];
-	    for (var _i = 0; _i < arguments.length; _i++) {
-	        fns[_i - 0] = arguments[_i];
-	    }
-	    return pipeFromArray(fns);
-	}
-	exports.pipe = pipe;
-	/* @internal */
-	function pipeFromArray(fns) {
-	    if (!fns) {
-	        return noop_1.noop;
-	    }
-	    if (fns.length === 1) {
-	        return fns[0];
-	    }
-	    return function piped(input) {
-	        return fns.reduce(function (prev, fn) { return fn(prev); }, input);
-	    };
-	}
-	exports.pipeFromArray = pipeFromArray;
-	//# sourceMappingURL=pipe.js.map
-
-/***/ }),
 /* 305 */
-/***/ (function(module, exports) {
-
-	"use strict";
-	/* tslint:disable:no-empty */
-	function noop() { }
-	exports.noop = noop;
-	//# sourceMappingURL=noop.js.map
-
-/***/ }),
-/* 306 */
 /***/ (function(module, exports) {
 
 	"use strict";
@@ -15385,7 +14992,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=ObjectUnsubscribedError.js.map
 
 /***/ }),
-/* 307 */
+/* 306 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -15394,7 +15001,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    function __() { this.constructor = d; }
 	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 	};
-	var Subscription_1 = __webpack_require__(295);
+	var Subscription_1 = __webpack_require__(296);
 	/**
 	 * We need this JSDoc comment for affecting ESDoc.
 	 * @ignore
@@ -15430,6 +15037,16 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=SubjectSubscription.js.map
 
 /***/ }),
+/* 307 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	"use strict";
+	var Observable_1 = __webpack_require__(291);
+	var of_1 = __webpack_require__(308);
+	Observable_1.Observable.of = of_1.of;
+	//# sourceMappingURL=of.js.map
+
+/***/ }),
 /* 308 */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15448,7 +15065,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    function __() { this.constructor = d; }
 	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 	};
-	var Observable_1 = __webpack_require__(290);
+	var Observable_1 = __webpack_require__(291);
 	var ScalarObservable_1 = __webpack_require__(310);
 	var EmptyObservable_1 = __webpack_require__(311);
 	var isScheduler_1 = __webpack_require__(312);
@@ -15575,7 +15192,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    function __() { this.constructor = d; }
 	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 	};
-	var Observable_1 = __webpack_require__(290);
+	var Observable_1 = __webpack_require__(291);
 	/**
 	 * We need this JSDoc comment for affecting ESDoc.
 	 * @extends {Ignored}
@@ -15638,7 +15255,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    function __() { this.constructor = d; }
 	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 	};
-	var Observable_1 = __webpack_require__(290);
+	var Observable_1 = __webpack_require__(291);
 	/**
 	 * We need this JSDoc comment for affecting ESDoc.
 	 * @extends {Ignored}
@@ -15730,10 +15347,20 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
-	var isScheduler_1 = __webpack_require__(312);
-	var isArray_1 = __webpack_require__(296);
-	var ArrayObservable_1 = __webpack_require__(309);
+	var Observable_1 = __webpack_require__(291);
 	var combineLatest_1 = __webpack_require__(314);
+	Observable_1.Observable.combineLatest = combineLatest_1.combineLatest;
+	//# sourceMappingURL=combineLatest.js.map
+
+/***/ }),
+/* 314 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	"use strict";
+	var isScheduler_1 = __webpack_require__(312);
+	var isArray_1 = __webpack_require__(297);
+	var ArrayObservable_1 = __webpack_require__(309);
+	var combineLatest_1 = __webpack_require__(315);
 	/* tslint:enable:max-line-length */
 	/**
 	 * Combines multiple Observables to create an Observable whose values are
@@ -15867,7 +15494,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=combineLatest.js.map
 
 /***/ }),
-/* 314 */
+/* 315 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -15877,9 +15504,9 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 	};
 	var ArrayObservable_1 = __webpack_require__(309);
-	var isArray_1 = __webpack_require__(296);
-	var OuterSubscriber_1 = __webpack_require__(315);
-	var subscribeToResult_1 = __webpack_require__(316);
+	var isArray_1 = __webpack_require__(297);
+	var OuterSubscriber_1 = __webpack_require__(316);
+	var subscribeToResult_1 = __webpack_require__(317);
 	var none = {};
 	/* tslint:enable:max-line-length */
 	/**
@@ -15939,7 +15566,8 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    if (observables.length === 1 && isArray_1.isArray(observables[0])) {
 	        observables = observables[0].slice();
 	    }
-	    return function (source) { return source.lift.call(new ArrayObservable_1.ArrayObservable([source].concat(observables)), new CombineLatestOperator(project)); };
+	    observables.unshift(this);
+	    return this.lift.call(new ArrayObservable_1.ArrayObservable(observables), new CombineLatestOperator(project));
 	}
 	exports.combineLatest = combineLatest;
 	var CombineLatestOperator = (function () {
@@ -16023,7 +15651,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=combineLatest.js.map
 
 /***/ }),
-/* 315 */
+/* 316 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -16032,7 +15660,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    function __() { this.constructor = d; }
 	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 	};
-	var Subscriber_1 = __webpack_require__(293);
+	var Subscriber_1 = __webpack_require__(294);
 	/**
 	 * We need this JSDoc comment for affecting ESDoc.
 	 * @ignore
@@ -16058,18 +15686,18 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=OuterSubscriber.js.map
 
 /***/ }),
-/* 316 */
+/* 317 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
-	var root_1 = __webpack_require__(291);
-	var isArrayLike_1 = __webpack_require__(317);
-	var isPromise_1 = __webpack_require__(318);
-	var isObject_1 = __webpack_require__(297);
-	var Observable_1 = __webpack_require__(290);
-	var iterator_1 = __webpack_require__(319);
-	var InnerSubscriber_1 = __webpack_require__(320);
-	var observable_1 = __webpack_require__(303);
+	var root_1 = __webpack_require__(292);
+	var isArrayLike_1 = __webpack_require__(318);
+	var isPromise_1 = __webpack_require__(319);
+	var isObject_1 = __webpack_require__(298);
+	var Observable_1 = __webpack_require__(291);
+	var iterator_1 = __webpack_require__(320);
+	var InnerSubscriber_1 = __webpack_require__(321);
+	var observable_1 = __webpack_require__(304);
 	function subscribeToResult(outerSubscriber, result, outerValue, outerIndex) {
 	    var destination = new InnerSubscriber_1.InnerSubscriber(outerSubscriber, outerValue, outerIndex);
 	    if (destination.closed) {
@@ -16082,7 +15710,6 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	            return null;
 	        }
 	        else {
-	            destination.syncErrorThrowable = true;
 	            return result.subscribe(destination);
 	        }
 	    }
@@ -16142,7 +15769,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=subscribeToResult.js.map
 
 /***/ }),
-/* 317 */
+/* 318 */
 /***/ (function(module, exports) {
 
 	"use strict";
@@ -16150,7 +15777,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=isArrayLike.js.map
 
 /***/ }),
-/* 318 */
+/* 319 */
 /***/ (function(module, exports) {
 
 	"use strict";
@@ -16161,11 +15788,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=isPromise.js.map
 
 /***/ }),
-/* 319 */
+/* 320 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
-	var root_1 = __webpack_require__(291);
+	var root_1 = __webpack_require__(292);
 	function symbolIteratorPonyfill(root) {
 	    var Symbol = root.Symbol;
 	    if (typeof Symbol === 'function') {
@@ -16204,7 +15831,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=iterator.js.map
 
 /***/ }),
-/* 320 */
+/* 321 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -16213,7 +15840,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    function __() { this.constructor = d; }
 	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 	};
-	var Subscriber_1 = __webpack_require__(293);
+	var Subscriber_1 = __webpack_require__(294);
 	/**
 	 * We need this JSDoc comment for affecting ESDoc.
 	 * @ignore
@@ -16245,150 +15872,356 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=InnerSubscriber.js.map
 
 /***/ }),
-/* 321 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	"use strict";
-	var concat_1 = __webpack_require__(322);
-	var concat_2 = __webpack_require__(323);
-	exports.concatStatic = concat_2.concat;
-	/* tslint:enable:max-line-length */
-	/**
-	 * Creates an output Observable which sequentially emits all values from every
-	 * given input Observable after the current Observable.
-	 *
-	 * <span class="informal">Concatenates multiple Observables together by
-	 * sequentially emitting their values, one Observable after the other.</span>
-	 *
-	 * <img src="./img/concat.png" width="100%">
-	 *
-	 * Joins this Observable with multiple other Observables by subscribing to them
-	 * one at a time, starting with the source, and merging their results into the
-	 * output Observable. Will wait for each Observable to complete before moving
-	 * on to the next.
-	 *
-	 * @example <caption>Concatenate a timer counting from 0 to 3 with a synchronous sequence from 1 to 10</caption>
-	 * var timer = Rx.Observable.interval(1000).take(4);
-	 * var sequence = Rx.Observable.range(1, 10);
-	 * var result = timer.concat(sequence);
-	 * result.subscribe(x => console.log(x));
-	 *
-	 * // results in:
-	 * // 1000ms-> 0 -1000ms-> 1 -1000ms-> 2 -1000ms-> 3 -immediate-> 1 ... 10
-	 *
-	 * @example <caption>Concatenate 3 Observables</caption>
-	 * var timer1 = Rx.Observable.interval(1000).take(10);
-	 * var timer2 = Rx.Observable.interval(2000).take(6);
-	 * var timer3 = Rx.Observable.interval(500).take(10);
-	 * var result = timer1.concat(timer2, timer3);
-	 * result.subscribe(x => console.log(x));
-	 *
-	 * // results in the following:
-	 * // (Prints to console sequentially)
-	 * // -1000ms-> 0 -1000ms-> 1 -1000ms-> ... 9
-	 * // -2000ms-> 0 -2000ms-> 1 -2000ms-> ... 5
-	 * // -500ms-> 0 -500ms-> 1 -500ms-> ... 9
-	 *
-	 * @see {@link concatAll}
-	 * @see {@link concatMap}
-	 * @see {@link concatMapTo}
-	 *
-	 * @param {ObservableInput} other An input Observable to concatenate after the source
-	 * Observable. More than one input Observables may be given as argument.
-	 * @param {Scheduler} [scheduler=null] An optional IScheduler to schedule each
-	 * Observable subscription on.
-	 * @return {Observable} All values of each passed Observable merged into a
-	 * single Observable, in order, in serial fashion.
-	 * @method concat
-	 * @owner Observable
-	 */
-	function concat() {
-	    var observables = [];
-	    for (var _i = 0; _i < arguments.length; _i++) {
-	        observables[_i - 0] = arguments[_i];
-	    }
-	    return concat_1.concat.apply(void 0, observables)(this);
-	}
-	exports.concat = concat;
-	//# sourceMappingURL=concat.js.map
-
-/***/ }),
 /* 322 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
-	var concat_1 = __webpack_require__(323);
-	var concat_2 = __webpack_require__(323);
-	exports.concatStatic = concat_2.concat;
-	/* tslint:enable:max-line-length */
-	/**
-	 * Creates an output Observable which sequentially emits all values from every
-	 * given input Observable after the current Observable.
-	 *
-	 * <span class="informal">Concatenates multiple Observables together by
-	 * sequentially emitting their values, one Observable after the other.</span>
-	 *
-	 * <img src="./img/concat.png" width="100%">
-	 *
-	 * Joins this Observable with multiple other Observables by subscribing to them
-	 * one at a time, starting with the source, and merging their results into the
-	 * output Observable. Will wait for each Observable to complete before moving
-	 * on to the next.
-	 *
-	 * @example <caption>Concatenate a timer counting from 0 to 3 with a synchronous sequence from 1 to 10</caption>
-	 * var timer = Rx.Observable.interval(1000).take(4);
-	 * var sequence = Rx.Observable.range(1, 10);
-	 * var result = timer.concat(sequence);
-	 * result.subscribe(x => console.log(x));
-	 *
-	 * // results in:
-	 * // 1000ms-> 0 -1000ms-> 1 -1000ms-> 2 -1000ms-> 3 -immediate-> 1 ... 10
-	 *
-	 * @example <caption>Concatenate 3 Observables</caption>
-	 * var timer1 = Rx.Observable.interval(1000).take(10);
-	 * var timer2 = Rx.Observable.interval(2000).take(6);
-	 * var timer3 = Rx.Observable.interval(500).take(10);
-	 * var result = timer1.concat(timer2, timer3);
-	 * result.subscribe(x => console.log(x));
-	 *
-	 * // results in the following:
-	 * // (Prints to console sequentially)
-	 * // -1000ms-> 0 -1000ms-> 1 -1000ms-> ... 9
-	 * // -2000ms-> 0 -2000ms-> 1 -2000ms-> ... 5
-	 * // -500ms-> 0 -500ms-> 1 -500ms-> ... 9
-	 *
-	 * @see {@link concatAll}
-	 * @see {@link concatMap}
-	 * @see {@link concatMapTo}
-	 *
-	 * @param {ObservableInput} other An input Observable to concatenate after the source
-	 * Observable. More than one input Observables may be given as argument.
-	 * @param {Scheduler} [scheduler=null] An optional IScheduler to schedule each
-	 * Observable subscription on.
-	 * @return {Observable} All values of each passed Observable merged into a
-	 * single Observable, in order, in serial fashion.
-	 * @method concat
-	 * @owner Observable
-	 */
-	function concat() {
-	    var observables = [];
-	    for (var _i = 0; _i < arguments.length; _i++) {
-	        observables[_i - 0] = arguments[_i];
-	    }
-	    return function (source) { return source.lift.call(concat_1.concat.apply(void 0, [source].concat(observables))); };
-	}
-	exports.concat = concat;
-	//# sourceMappingURL=concat.js.map
+	var Observable_1 = __webpack_require__(291);
+	var switchMap_1 = __webpack_require__(323);
+	Observable_1.Observable.prototype.switchMap = switchMap_1.switchMap;
+	//# sourceMappingURL=switchMap.js.map
 
 /***/ }),
 /* 323 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
+	var __extends = (this && this.__extends) || function (d, b) {
+	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+	    function __() { this.constructor = d; }
+	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+	};
+	var OuterSubscriber_1 = __webpack_require__(316);
+	var subscribeToResult_1 = __webpack_require__(317);
+	/* tslint:enable:max-line-length */
+	/**
+	 * Projects each source value to an Observable which is merged in the output
+	 * Observable, emitting values only from the most recently projected Observable.
+	 *
+	 * <span class="informal">Maps each value to an Observable, then flattens all of
+	 * these inner Observables using {@link switch}.</span>
+	 *
+	 * <img src="./img/switchMap.png" width="100%">
+	 *
+	 * Returns an Observable that emits items based on applying a function that you
+	 * supply to each item emitted by the source Observable, where that function
+	 * returns an (so-called "inner") Observable. Each time it observes one of these
+	 * inner Observables, the output Observable begins emitting the items emitted by
+	 * that inner Observable. When a new inner Observable is emitted, `switchMap`
+	 * stops emitting items from the earlier-emitted inner Observable and begins
+	 * emitting items from the new one. It continues to behave like this for
+	 * subsequent inner Observables.
+	 *
+	 * @example <caption>Rerun an interval Observable on every click event</caption>
+	 * var clicks = Rx.Observable.fromEvent(document, 'click');
+	 * var result = clicks.switchMap((ev) => Rx.Observable.interval(1000));
+	 * result.subscribe(x => console.log(x));
+	 *
+	 * @see {@link concatMap}
+	 * @see {@link exhaustMap}
+	 * @see {@link mergeMap}
+	 * @see {@link switch}
+	 * @see {@link switchMapTo}
+	 *
+	 * @param {function(value: T, ?index: number): ObservableInput} project A function
+	 * that, when applied to an item emitted by the source Observable, returns an
+	 * Observable.
+	 * @param {function(outerValue: T, innerValue: I, outerIndex: number, innerIndex: number): any} [resultSelector]
+	 * A function to produce the value on the output Observable based on the values
+	 * and the indices of the source (outer) emission and the inner Observable
+	 * emission. The arguments passed to this function are:
+	 * - `outerValue`: the value that came from the source
+	 * - `innerValue`: the value that came from the projected Observable
+	 * - `outerIndex`: the "index" of the value that came from the source
+	 * - `innerIndex`: the "index" of the value from the projected Observable
+	 * @return {Observable} An Observable that emits the result of applying the
+	 * projection function (and the optional `resultSelector`) to each item emitted
+	 * by the source Observable and taking only the values from the most recently
+	 * projected inner Observable.
+	 * @method switchMap
+	 * @owner Observable
+	 */
+	function switchMap(project, resultSelector) {
+	    return this.lift(new SwitchMapOperator(project, resultSelector));
+	}
+	exports.switchMap = switchMap;
+	var SwitchMapOperator = (function () {
+	    function SwitchMapOperator(project, resultSelector) {
+	        this.project = project;
+	        this.resultSelector = resultSelector;
+	    }
+	    SwitchMapOperator.prototype.call = function (subscriber, source) {
+	        return source.subscribe(new SwitchMapSubscriber(subscriber, this.project, this.resultSelector));
+	    };
+	    return SwitchMapOperator;
+	}());
+	/**
+	 * We need this JSDoc comment for affecting ESDoc.
+	 * @ignore
+	 * @extends {Ignored}
+	 */
+	var SwitchMapSubscriber = (function (_super) {
+	    __extends(SwitchMapSubscriber, _super);
+	    function SwitchMapSubscriber(destination, project, resultSelector) {
+	        _super.call(this, destination);
+	        this.project = project;
+	        this.resultSelector = resultSelector;
+	        this.index = 0;
+	    }
+	    SwitchMapSubscriber.prototype._next = function (value) {
+	        var result;
+	        var index = this.index++;
+	        try {
+	            result = this.project(value, index);
+	        }
+	        catch (error) {
+	            this.destination.error(error);
+	            return;
+	        }
+	        this._innerSub(result, value, index);
+	    };
+	    SwitchMapSubscriber.prototype._innerSub = function (result, value, index) {
+	        var innerSubscription = this.innerSubscription;
+	        if (innerSubscription) {
+	            innerSubscription.unsubscribe();
+	        }
+	        this.add(this.innerSubscription = subscribeToResult_1.subscribeToResult(this, result, value, index));
+	    };
+	    SwitchMapSubscriber.prototype._complete = function () {
+	        var innerSubscription = this.innerSubscription;
+	        if (!innerSubscription || innerSubscription.closed) {
+	            _super.prototype._complete.call(this);
+	        }
+	    };
+	    SwitchMapSubscriber.prototype._unsubscribe = function () {
+	        this.innerSubscription = null;
+	    };
+	    SwitchMapSubscriber.prototype.notifyComplete = function (innerSub) {
+	        this.remove(innerSub);
+	        this.innerSubscription = null;
+	        if (this.isStopped) {
+	            _super.prototype._complete.call(this);
+	        }
+	    };
+	    SwitchMapSubscriber.prototype.notifyNext = function (outerValue, innerValue, outerIndex, innerIndex, innerSub) {
+	        if (this.resultSelector) {
+	            this._tryNotifyNext(outerValue, innerValue, outerIndex, innerIndex);
+	        }
+	        else {
+	            this.destination.next(innerValue);
+	        }
+	    };
+	    SwitchMapSubscriber.prototype._tryNotifyNext = function (outerValue, innerValue, outerIndex, innerIndex) {
+	        var result;
+	        try {
+	            result = this.resultSelector(outerValue, innerValue, outerIndex, innerIndex);
+	        }
+	        catch (err) {
+	            this.destination.error(err);
+	            return;
+	        }
+	        this.destination.next(result);
+	    };
+	    return SwitchMapSubscriber;
+	}(OuterSubscriber_1.OuterSubscriber));
+	//# sourceMappingURL=switchMap.js.map
+
+/***/ }),
+/* 324 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	"use strict";
+	var Observable_1 = __webpack_require__(291);
+	var do_1 = __webpack_require__(325);
+	Observable_1.Observable.prototype.do = do_1._do;
+	Observable_1.Observable.prototype._do = do_1._do;
+	//# sourceMappingURL=do.js.map
+
+/***/ }),
+/* 325 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	"use strict";
+	var __extends = (this && this.__extends) || function (d, b) {
+	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+	    function __() { this.constructor = d; }
+	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+	};
+	var Subscriber_1 = __webpack_require__(294);
+	/* tslint:enable:max-line-length */
+	/**
+	 * Perform a side effect for every emission on the source Observable, but return
+	 * an Observable that is identical to the source.
+	 *
+	 * <span class="informal">Intercepts each emission on the source and runs a
+	 * function, but returns an output which is identical to the source as long as errors don't occur.</span>
+	 *
+	 * <img src="./img/do.png" width="100%">
+	 *
+	 * Returns a mirrored Observable of the source Observable, but modified so that
+	 * the provided Observer is called to perform a side effect for every value,
+	 * error, and completion emitted by the source. Any errors that are thrown in
+	 * the aforementioned Observer or handlers are safely sent down the error path
+	 * of the output Observable.
+	 *
+	 * This operator is useful for debugging your Observables for the correct values
+	 * or performing other side effects.
+	 *
+	 * Note: this is different to a `subscribe` on the Observable. If the Observable
+	 * returned by `do` is not subscribed, the side effects specified by the
+	 * Observer will never happen. `do` therefore simply spies on existing
+	 * execution, it does not trigger an execution to happen like `subscribe` does.
+	 *
+	 * @example <caption>Map every click to the clientX position of that click, while also logging the click event</caption>
+	 * var clicks = Rx.Observable.fromEvent(document, 'click');
+	 * var positions = clicks
+	 *   .do(ev => console.log(ev))
+	 *   .map(ev => ev.clientX);
+	 * positions.subscribe(x => console.log(x));
+	 *
+	 * @see {@link map}
+	 * @see {@link subscribe}
+	 *
+	 * @param {Observer|function} [nextOrObserver] A normal Observer object or a
+	 * callback for `next`.
+	 * @param {function} [error] Callback for errors in the source.
+	 * @param {function} [complete] Callback for the completion of the source.
+	 * @return {Observable} An Observable identical to the source, but runs the
+	 * specified Observer or callback(s) for each item.
+	 * @method do
+	 * @name do
+	 * @owner Observable
+	 */
+	function _do(nextOrObserver, error, complete) {
+	    return this.lift(new DoOperator(nextOrObserver, error, complete));
+	}
+	exports._do = _do;
+	var DoOperator = (function () {
+	    function DoOperator(nextOrObserver, error, complete) {
+	        this.nextOrObserver = nextOrObserver;
+	        this.error = error;
+	        this.complete = complete;
+	    }
+	    DoOperator.prototype.call = function (subscriber, source) {
+	        return source.subscribe(new DoSubscriber(subscriber, this.nextOrObserver, this.error, this.complete));
+	    };
+	    return DoOperator;
+	}());
+	/**
+	 * We need this JSDoc comment for affecting ESDoc.
+	 * @ignore
+	 * @extends {Ignored}
+	 */
+	var DoSubscriber = (function (_super) {
+	    __extends(DoSubscriber, _super);
+	    function DoSubscriber(destination, nextOrObserver, error, complete) {
+	        _super.call(this, destination);
+	        var safeSubscriber = new Subscriber_1.Subscriber(nextOrObserver, error, complete);
+	        safeSubscriber.syncErrorThrowable = true;
+	        this.add(safeSubscriber);
+	        this.safeSubscriber = safeSubscriber;
+	    }
+	    DoSubscriber.prototype._next = function (value) {
+	        var safeSubscriber = this.safeSubscriber;
+	        safeSubscriber.next(value);
+	        if (safeSubscriber.syncErrorThrown) {
+	            this.destination.error(safeSubscriber.syncErrorValue);
+	        }
+	        else {
+	            this.destination.next(value);
+	        }
+	    };
+	    DoSubscriber.prototype._error = function (err) {
+	        var safeSubscriber = this.safeSubscriber;
+	        safeSubscriber.error(err);
+	        if (safeSubscriber.syncErrorThrown) {
+	            this.destination.error(safeSubscriber.syncErrorValue);
+	        }
+	        else {
+	            this.destination.error(err);
+	        }
+	    };
+	    DoSubscriber.prototype._complete = function () {
+	        var safeSubscriber = this.safeSubscriber;
+	        safeSubscriber.complete();
+	        if (safeSubscriber.syncErrorThrown) {
+	            this.destination.error(safeSubscriber.syncErrorValue);
+	        }
+	        else {
+	            this.destination.complete();
+	        }
+	    };
+	    return DoSubscriber;
+	}(Subscriber_1.Subscriber));
+	//# sourceMappingURL=do.js.map
+
+/***/ }),
+/* 326 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	"use strict";
+	var Observable_1 = __webpack_require__(291);
 	var isScheduler_1 = __webpack_require__(312);
-	var of_1 = __webpack_require__(308);
-	var from_1 = __webpack_require__(324);
-	var concatAll_1 = __webpack_require__(331);
+	var ArrayObservable_1 = __webpack_require__(309);
+	var mergeAll_1 = __webpack_require__(327);
+	/* tslint:enable:max-line-length */
+	/**
+	 * Creates an output Observable which sequentially emits all values from every
+	 * given input Observable after the current Observable.
+	 *
+	 * <span class="informal">Concatenates multiple Observables together by
+	 * sequentially emitting their values, one Observable after the other.</span>
+	 *
+	 * <img src="./img/concat.png" width="100%">
+	 *
+	 * Joins this Observable with multiple other Observables by subscribing to them
+	 * one at a time, starting with the source, and merging their results into the
+	 * output Observable. Will wait for each Observable to complete before moving
+	 * on to the next.
+	 *
+	 * @example <caption>Concatenate a timer counting from 0 to 3 with a synchronous sequence from 1 to 10</caption>
+	 * var timer = Rx.Observable.interval(1000).take(4);
+	 * var sequence = Rx.Observable.range(1, 10);
+	 * var result = timer.concat(sequence);
+	 * result.subscribe(x => console.log(x));
+	 *
+	 * // results in:
+	 * // 1000ms-> 0 -1000ms-> 1 -1000ms-> 2 -1000ms-> 3 -immediate-> 1 ... 10
+	 *
+	 * @example <caption>Concatenate 3 Observables</caption>
+	 * var timer1 = Rx.Observable.interval(1000).take(10);
+	 * var timer2 = Rx.Observable.interval(2000).take(6);
+	 * var timer3 = Rx.Observable.interval(500).take(10);
+	 * var result = timer1.concat(timer2, timer3);
+	 * result.subscribe(x => console.log(x));
+	 *
+	 * // results in the following:
+	 * // (Prints to console sequentially)
+	 * // -1000ms-> 0 -1000ms-> 1 -1000ms-> ... 9
+	 * // -2000ms-> 0 -2000ms-> 1 -2000ms-> ... 5
+	 * // -500ms-> 0 -500ms-> 1 -500ms-> ... 9
+	 *
+	 * @see {@link concatAll}
+	 * @see {@link concatMap}
+	 * @see {@link concatMapTo}
+	 *
+	 * @param {ObservableInput} other An input Observable to concatenate after the source
+	 * Observable. More than one input Observables may be given as argument.
+	 * @param {Scheduler} [scheduler=null] An optional IScheduler to schedule each
+	 * Observable subscription on.
+	 * @return {Observable} All values of each passed Observable merged into a
+	 * single Observable, in order, in serial fashion.
+	 * @method concat
+	 * @owner Observable
+	 */
+	function concat() {
+	    var observables = [];
+	    for (var _i = 0; _i < arguments.length; _i++) {
+	        observables[_i - 0] = arguments[_i];
+	    }
+	    return this.lift.call(concatStatic.apply(void 0, [this].concat(observables)));
+	}
+	exports.concat = concat;
 	/* tslint:enable:max-line-length */
 	/**
 	 * Creates an output Observable which sequentially emits all values from given
@@ -16483,280 +16316,23 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	 * @name concat
 	 * @owner Observable
 	 */
-	function concat() {
+	function concatStatic() {
 	    var observables = [];
 	    for (var _i = 0; _i < arguments.length; _i++) {
 	        observables[_i - 0] = arguments[_i];
 	    }
-	    if (observables.length === 1 || (observables.length === 2 && isScheduler_1.isScheduler(observables[1]))) {
-	        return from_1.from(observables[0]);
+	    var scheduler = null;
+	    var args = observables;
+	    if (isScheduler_1.isScheduler(args[observables.length - 1])) {
+	        scheduler = args.pop();
 	    }
-	    return concatAll_1.concatAll()(of_1.of.apply(void 0, observables));
+	    if (scheduler === null && observables.length === 1 && observables[0] instanceof Observable_1.Observable) {
+	        return observables[0];
+	    }
+	    return new ArrayObservable_1.ArrayObservable(observables, scheduler).lift(new mergeAll_1.MergeAllOperator(1));
 	}
-	exports.concat = concat;
+	exports.concatStatic = concatStatic;
 	//# sourceMappingURL=concat.js.map
-
-/***/ }),
-/* 324 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	"use strict";
-	var FromObservable_1 = __webpack_require__(325);
-	exports.from = FromObservable_1.FromObservable.create;
-	//# sourceMappingURL=from.js.map
-
-/***/ }),
-/* 325 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	"use strict";
-	var __extends = (this && this.__extends) || function (d, b) {
-	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
-	    function __() { this.constructor = d; }
-	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-	};
-	var isArray_1 = __webpack_require__(296);
-	var isArrayLike_1 = __webpack_require__(317);
-	var isPromise_1 = __webpack_require__(318);
-	var PromiseObservable_1 = __webpack_require__(326);
-	var IteratorObservable_1 = __webpack_require__(327);
-	var ArrayObservable_1 = __webpack_require__(309);
-	var ArrayLikeObservable_1 = __webpack_require__(328);
-	var iterator_1 = __webpack_require__(319);
-	var Observable_1 = __webpack_require__(290);
-	var observeOn_1 = __webpack_require__(329);
-	var observable_1 = __webpack_require__(303);
-	/**
-	 * We need this JSDoc comment for affecting ESDoc.
-	 * @extends {Ignored}
-	 * @hide true
-	 */
-	var FromObservable = (function (_super) {
-	    __extends(FromObservable, _super);
-	    function FromObservable(ish, scheduler) {
-	        _super.call(this, null);
-	        this.ish = ish;
-	        this.scheduler = scheduler;
-	    }
-	    /**
-	     * Creates an Observable from an Array, an array-like object, a Promise, an
-	     * iterable object, or an Observable-like object.
-	     *
-	     * <span class="informal">Converts almost anything to an Observable.</span>
-	     *
-	     * <img src="./img/from.png" width="100%">
-	     *
-	     * Convert various other objects and data types into Observables. `from`
-	     * converts a Promise or an array-like or an
-	     * [iterable](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols#iterable)
-	     * object into an Observable that emits the items in that promise or array or
-	     * iterable. A String, in this context, is treated as an array of characters.
-	     * Observable-like objects (contains a function named with the ES2015 Symbol
-	     * for Observable) can also be converted through this operator.
-	     *
-	     * @example <caption>Converts an array to an Observable</caption>
-	     * var array = [10, 20, 30];
-	     * var result = Rx.Observable.from(array);
-	     * result.subscribe(x => console.log(x));
-	     *
-	     * // Results in the following:
-	     * // 10 20 30
-	     *
-	     * @example <caption>Convert an infinite iterable (from a generator) to an Observable</caption>
-	     * function* generateDoubles(seed) {
-	     *   var i = seed;
-	     *   while (true) {
-	     *     yield i;
-	     *     i = 2 * i; // double it
-	     *   }
-	     * }
-	     *
-	     * var iterator = generateDoubles(3);
-	     * var result = Rx.Observable.from(iterator).take(10);
-	     * result.subscribe(x => console.log(x));
-	     *
-	     * // Results in the following:
-	     * // 3 6 12 24 48 96 192 384 768 1536
-	     *
-	     * @see {@link create}
-	     * @see {@link fromEvent}
-	     * @see {@link fromEventPattern}
-	     * @see {@link fromPromise}
-	     *
-	     * @param {ObservableInput<T>} ish A subscribable object, a Promise, an
-	     * Observable-like, an Array, an iterable or an array-like object to be
-	     * converted.
-	     * @param {Scheduler} [scheduler] The scheduler on which to schedule the
-	     * emissions of values.
-	     * @return {Observable<T>} The Observable whose values are originally from the
-	     * input object that was converted.
-	     * @static true
-	     * @name from
-	     * @owner Observable
-	     */
-	    FromObservable.create = function (ish, scheduler) {
-	        if (ish != null) {
-	            if (typeof ish[observable_1.observable] === 'function') {
-	                if (ish instanceof Observable_1.Observable && !scheduler) {
-	                    return ish;
-	                }
-	                return new FromObservable(ish, scheduler);
-	            }
-	            else if (isArray_1.isArray(ish)) {
-	                return new ArrayObservable_1.ArrayObservable(ish, scheduler);
-	            }
-	            else if (isPromise_1.isPromise(ish)) {
-	                return new PromiseObservable_1.PromiseObservable(ish, scheduler);
-	            }
-	            else if (typeof ish[iterator_1.iterator] === 'function' || typeof ish === 'string') {
-	                return new IteratorObservable_1.IteratorObservable(ish, scheduler);
-	            }
-	            else if (isArrayLike_1.isArrayLike(ish)) {
-	                return new ArrayLikeObservable_1.ArrayLikeObservable(ish, scheduler);
-	            }
-	        }
-	        throw new TypeError((ish !== null && typeof ish || ish) + ' is not observable');
-	    };
-	    FromObservable.prototype._subscribe = function (subscriber) {
-	        var ish = this.ish;
-	        var scheduler = this.scheduler;
-	        if (scheduler == null) {
-	            return ish[observable_1.observable]().subscribe(subscriber);
-	        }
-	        else {
-	            return ish[observable_1.observable]().subscribe(new observeOn_1.ObserveOnSubscriber(subscriber, scheduler, 0));
-	        }
-	    };
-	    return FromObservable;
-	}(Observable_1.Observable));
-	exports.FromObservable = FromObservable;
-	//# sourceMappingURL=FromObservable.js.map
-
-/***/ }),
-/* 326 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	"use strict";
-	var __extends = (this && this.__extends) || function (d, b) {
-	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
-	    function __() { this.constructor = d; }
-	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-	};
-	var root_1 = __webpack_require__(291);
-	var Observable_1 = __webpack_require__(290);
-	/**
-	 * We need this JSDoc comment for affecting ESDoc.
-	 * @extends {Ignored}
-	 * @hide true
-	 */
-	var PromiseObservable = (function (_super) {
-	    __extends(PromiseObservable, _super);
-	    function PromiseObservable(promise, scheduler) {
-	        _super.call(this);
-	        this.promise = promise;
-	        this.scheduler = scheduler;
-	    }
-	    /**
-	     * Converts a Promise to an Observable.
-	     *
-	     * <span class="informal">Returns an Observable that just emits the Promise's
-	     * resolved value, then completes.</span>
-	     *
-	     * Converts an ES2015 Promise or a Promises/A+ spec compliant Promise to an
-	     * Observable. If the Promise resolves with a value, the output Observable
-	     * emits that resolved value as a `next`, and then completes. If the Promise
-	     * is rejected, then the output Observable emits the corresponding Error.
-	     *
-	     * @example <caption>Convert the Promise returned by Fetch to an Observable</caption>
-	     * var result = Rx.Observable.fromPromise(fetch('http://myserver.com/'));
-	     * result.subscribe(x => console.log(x), e => console.error(e));
-	     *
-	     * @see {@link bindCallback}
-	     * @see {@link from}
-	     *
-	     * @param {PromiseLike<T>} promise The promise to be converted.
-	     * @param {Scheduler} [scheduler] An optional IScheduler to use for scheduling
-	     * the delivery of the resolved value (or the rejection).
-	     * @return {Observable<T>} An Observable which wraps the Promise.
-	     * @static true
-	     * @name fromPromise
-	     * @owner Observable
-	     */
-	    PromiseObservable.create = function (promise, scheduler) {
-	        return new PromiseObservable(promise, scheduler);
-	    };
-	    PromiseObservable.prototype._subscribe = function (subscriber) {
-	        var _this = this;
-	        var promise = this.promise;
-	        var scheduler = this.scheduler;
-	        if (scheduler == null) {
-	            if (this._isScalar) {
-	                if (!subscriber.closed) {
-	                    subscriber.next(this.value);
-	                    subscriber.complete();
-	                }
-	            }
-	            else {
-	                promise.then(function (value) {
-	                    _this.value = value;
-	                    _this._isScalar = true;
-	                    if (!subscriber.closed) {
-	                        subscriber.next(value);
-	                        subscriber.complete();
-	                    }
-	                }, function (err) {
-	                    if (!subscriber.closed) {
-	                        subscriber.error(err);
-	                    }
-	                })
-	                    .then(null, function (err) {
-	                    // escape the promise trap, throw unhandled errors
-	                    root_1.root.setTimeout(function () { throw err; });
-	                });
-	            }
-	        }
-	        else {
-	            if (this._isScalar) {
-	                if (!subscriber.closed) {
-	                    return scheduler.schedule(dispatchNext, 0, { value: this.value, subscriber: subscriber });
-	                }
-	            }
-	            else {
-	                promise.then(function (value) {
-	                    _this.value = value;
-	                    _this._isScalar = true;
-	                    if (!subscriber.closed) {
-	                        subscriber.add(scheduler.schedule(dispatchNext, 0, { value: value, subscriber: subscriber }));
-	                    }
-	                }, function (err) {
-	                    if (!subscriber.closed) {
-	                        subscriber.add(scheduler.schedule(dispatchError, 0, { err: err, subscriber: subscriber }));
-	                    }
-	                })
-	                    .then(null, function (err) {
-	                    // escape the promise trap, throw unhandled errors
-	                    root_1.root.setTimeout(function () { throw err; });
-	                });
-	            }
-	        }
-	    };
-	    return PromiseObservable;
-	}(Observable_1.Observable));
-	exports.PromiseObservable = PromiseObservable;
-	function dispatchNext(arg) {
-	    var value = arg.value, subscriber = arg.subscriber;
-	    if (!subscriber.closed) {
-	        subscriber.next(value);
-	        subscriber.complete();
-	    }
-	}
-	function dispatchError(arg) {
-	    var err = arg.err, subscriber = arg.subscriber;
-	    if (!subscriber.closed) {
-	        subscriber.error(err);
-	    }
-	}
-	//# sourceMappingURL=PromiseObservable.js.map
 
 /***/ }),
 /* 327 */
@@ -16768,558 +16344,8 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    function __() { this.constructor = d; }
 	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 	};
-	var root_1 = __webpack_require__(291);
-	var Observable_1 = __webpack_require__(290);
-	var iterator_1 = __webpack_require__(319);
-	/**
-	 * We need this JSDoc comment for affecting ESDoc.
-	 * @extends {Ignored}
-	 * @hide true
-	 */
-	var IteratorObservable = (function (_super) {
-	    __extends(IteratorObservable, _super);
-	    function IteratorObservable(iterator, scheduler) {
-	        _super.call(this);
-	        this.scheduler = scheduler;
-	        if (iterator == null) {
-	            throw new Error('iterator cannot be null.');
-	        }
-	        this.iterator = getIterator(iterator);
-	    }
-	    IteratorObservable.create = function (iterator, scheduler) {
-	        return new IteratorObservable(iterator, scheduler);
-	    };
-	    IteratorObservable.dispatch = function (state) {
-	        var index = state.index, hasError = state.hasError, iterator = state.iterator, subscriber = state.subscriber;
-	        if (hasError) {
-	            subscriber.error(state.error);
-	            return;
-	        }
-	        var result = iterator.next();
-	        if (result.done) {
-	            subscriber.complete();
-	            return;
-	        }
-	        subscriber.next(result.value);
-	        state.index = index + 1;
-	        if (subscriber.closed) {
-	            if (typeof iterator.return === 'function') {
-	                iterator.return();
-	            }
-	            return;
-	        }
-	        this.schedule(state);
-	    };
-	    IteratorObservable.prototype._subscribe = function (subscriber) {
-	        var index = 0;
-	        var _a = this, iterator = _a.iterator, scheduler = _a.scheduler;
-	        if (scheduler) {
-	            return scheduler.schedule(IteratorObservable.dispatch, 0, {
-	                index: index, iterator: iterator, subscriber: subscriber
-	            });
-	        }
-	        else {
-	            do {
-	                var result = iterator.next();
-	                if (result.done) {
-	                    subscriber.complete();
-	                    break;
-	                }
-	                else {
-	                    subscriber.next(result.value);
-	                }
-	                if (subscriber.closed) {
-	                    if (typeof iterator.return === 'function') {
-	                        iterator.return();
-	                    }
-	                    break;
-	                }
-	            } while (true);
-	        }
-	    };
-	    return IteratorObservable;
-	}(Observable_1.Observable));
-	exports.IteratorObservable = IteratorObservable;
-	var StringIterator = (function () {
-	    function StringIterator(str, idx, len) {
-	        if (idx === void 0) { idx = 0; }
-	        if (len === void 0) { len = str.length; }
-	        this.str = str;
-	        this.idx = idx;
-	        this.len = len;
-	    }
-	    StringIterator.prototype[iterator_1.iterator] = function () { return (this); };
-	    StringIterator.prototype.next = function () {
-	        return this.idx < this.len ? {
-	            done: false,
-	            value: this.str.charAt(this.idx++)
-	        } : {
-	            done: true,
-	            value: undefined
-	        };
-	    };
-	    return StringIterator;
-	}());
-	var ArrayIterator = (function () {
-	    function ArrayIterator(arr, idx, len) {
-	        if (idx === void 0) { idx = 0; }
-	        if (len === void 0) { len = toLength(arr); }
-	        this.arr = arr;
-	        this.idx = idx;
-	        this.len = len;
-	    }
-	    ArrayIterator.prototype[iterator_1.iterator] = function () { return this; };
-	    ArrayIterator.prototype.next = function () {
-	        return this.idx < this.len ? {
-	            done: false,
-	            value: this.arr[this.idx++]
-	        } : {
-	            done: true,
-	            value: undefined
-	        };
-	    };
-	    return ArrayIterator;
-	}());
-	function getIterator(obj) {
-	    var i = obj[iterator_1.iterator];
-	    if (!i && typeof obj === 'string') {
-	        return new StringIterator(obj);
-	    }
-	    if (!i && obj.length !== undefined) {
-	        return new ArrayIterator(obj);
-	    }
-	    if (!i) {
-	        throw new TypeError('object is not iterable');
-	    }
-	    return obj[iterator_1.iterator]();
-	}
-	var maxSafeInteger = Math.pow(2, 53) - 1;
-	function toLength(o) {
-	    var len = +o.length;
-	    if (isNaN(len)) {
-	        return 0;
-	    }
-	    if (len === 0 || !numberIsFinite(len)) {
-	        return len;
-	    }
-	    len = sign(len) * Math.floor(Math.abs(len));
-	    if (len <= 0) {
-	        return 0;
-	    }
-	    if (len > maxSafeInteger) {
-	        return maxSafeInteger;
-	    }
-	    return len;
-	}
-	function numberIsFinite(value) {
-	    return typeof value === 'number' && root_1.root.isFinite(value);
-	}
-	function sign(value) {
-	    var valueAsNumber = +value;
-	    if (valueAsNumber === 0) {
-	        return valueAsNumber;
-	    }
-	    if (isNaN(valueAsNumber)) {
-	        return valueAsNumber;
-	    }
-	    return valueAsNumber < 0 ? -1 : 1;
-	}
-	//# sourceMappingURL=IteratorObservable.js.map
-
-/***/ }),
-/* 328 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	"use strict";
-	var __extends = (this && this.__extends) || function (d, b) {
-	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
-	    function __() { this.constructor = d; }
-	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-	};
-	var Observable_1 = __webpack_require__(290);
-	var ScalarObservable_1 = __webpack_require__(310);
-	var EmptyObservable_1 = __webpack_require__(311);
-	/**
-	 * We need this JSDoc comment for affecting ESDoc.
-	 * @extends {Ignored}
-	 * @hide true
-	 */
-	var ArrayLikeObservable = (function (_super) {
-	    __extends(ArrayLikeObservable, _super);
-	    function ArrayLikeObservable(arrayLike, scheduler) {
-	        _super.call(this);
-	        this.arrayLike = arrayLike;
-	        this.scheduler = scheduler;
-	        if (!scheduler && arrayLike.length === 1) {
-	            this._isScalar = true;
-	            this.value = arrayLike[0];
-	        }
-	    }
-	    ArrayLikeObservable.create = function (arrayLike, scheduler) {
-	        var length = arrayLike.length;
-	        if (length === 0) {
-	            return new EmptyObservable_1.EmptyObservable();
-	        }
-	        else if (length === 1) {
-	            return new ScalarObservable_1.ScalarObservable(arrayLike[0], scheduler);
-	        }
-	        else {
-	            return new ArrayLikeObservable(arrayLike, scheduler);
-	        }
-	    };
-	    ArrayLikeObservable.dispatch = function (state) {
-	        var arrayLike = state.arrayLike, index = state.index, length = state.length, subscriber = state.subscriber;
-	        if (subscriber.closed) {
-	            return;
-	        }
-	        if (index >= length) {
-	            subscriber.complete();
-	            return;
-	        }
-	        subscriber.next(arrayLike[index]);
-	        state.index = index + 1;
-	        this.schedule(state);
-	    };
-	    ArrayLikeObservable.prototype._subscribe = function (subscriber) {
-	        var index = 0;
-	        var _a = this, arrayLike = _a.arrayLike, scheduler = _a.scheduler;
-	        var length = arrayLike.length;
-	        if (scheduler) {
-	            return scheduler.schedule(ArrayLikeObservable.dispatch, 0, {
-	                arrayLike: arrayLike, index: index, length: length, subscriber: subscriber
-	            });
-	        }
-	        else {
-	            for (var i = 0; i < length && !subscriber.closed; i++) {
-	                subscriber.next(arrayLike[i]);
-	            }
-	            subscriber.complete();
-	        }
-	    };
-	    return ArrayLikeObservable;
-	}(Observable_1.Observable));
-	exports.ArrayLikeObservable = ArrayLikeObservable;
-	//# sourceMappingURL=ArrayLikeObservable.js.map
-
-/***/ }),
-/* 329 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	"use strict";
-	var __extends = (this && this.__extends) || function (d, b) {
-	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
-	    function __() { this.constructor = d; }
-	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-	};
-	var Subscriber_1 = __webpack_require__(293);
-	var Notification_1 = __webpack_require__(330);
-	/**
-	 *
-	 * Re-emits all notifications from source Observable with specified scheduler.
-	 *
-	 * <span class="informal">Ensure a specific scheduler is used, from outside of an Observable.</span>
-	 *
-	 * `observeOn` is an operator that accepts a scheduler as a first parameter, which will be used to reschedule
-	 * notifications emitted by the source Observable. It might be useful, if you do not have control over
-	 * internal scheduler of a given Observable, but want to control when its values are emitted nevertheless.
-	 *
-	 * Returned Observable emits the same notifications (nexted values, complete and error events) as the source Observable,
-	 * but rescheduled with provided scheduler. Note that this doesn't mean that source Observables internal
-	 * scheduler will be replaced in any way. Original scheduler still will be used, but when the source Observable emits
-	 * notification, it will be immediately scheduled again - this time with scheduler passed to `observeOn`.
-	 * An anti-pattern would be calling `observeOn` on Observable that emits lots of values synchronously, to split
-	 * that emissions into asynchronous chunks. For this to happen, scheduler would have to be passed into the source
-	 * Observable directly (usually into the operator that creates it). `observeOn` simply delays notifications a
-	 * little bit more, to ensure that they are emitted at expected moments.
-	 *
-	 * As a matter of fact, `observeOn` accepts second parameter, which specifies in milliseconds with what delay notifications
-	 * will be emitted. The main difference between {@link delay} operator and `observeOn` is that `observeOn`
-	 * will delay all notifications - including error notifications - while `delay` will pass through error
-	 * from source Observable immediately when it is emitted. In general it is highly recommended to use `delay` operator
-	 * for any kind of delaying of values in the stream, while using `observeOn` to specify which scheduler should be used
-	 * for notification emissions in general.
-	 *
-	 * @example <caption>Ensure values in subscribe are called just before browser repaint.</caption>
-	 * const intervals = Rx.Observable.interval(10); // Intervals are scheduled
-	 *                                               // with async scheduler by default...
-	 *
-	 * intervals
-	 * .observeOn(Rx.Scheduler.animationFrame)       // ...but we will observe on animationFrame
-	 * .subscribe(val => {                           // scheduler to ensure smooth animation.
-	 *   someDiv.style.height = val + 'px';
-	 * });
-	 *
-	 * @see {@link delay}
-	 *
-	 * @param {IScheduler} scheduler Scheduler that will be used to reschedule notifications from source Observable.
-	 * @param {number} [delay] Number of milliseconds that states with what delay every notification should be rescheduled.
-	 * @return {Observable<T>} Observable that emits the same notifications as the source Observable,
-	 * but with provided scheduler.
-	 *
-	 * @method observeOn
-	 * @owner Observable
-	 */
-	function observeOn(scheduler, delay) {
-	    if (delay === void 0) { delay = 0; }
-	    return function observeOnOperatorFunction(source) {
-	        return source.lift(new ObserveOnOperator(scheduler, delay));
-	    };
-	}
-	exports.observeOn = observeOn;
-	var ObserveOnOperator = (function () {
-	    function ObserveOnOperator(scheduler, delay) {
-	        if (delay === void 0) { delay = 0; }
-	        this.scheduler = scheduler;
-	        this.delay = delay;
-	    }
-	    ObserveOnOperator.prototype.call = function (subscriber, source) {
-	        return source.subscribe(new ObserveOnSubscriber(subscriber, this.scheduler, this.delay));
-	    };
-	    return ObserveOnOperator;
-	}());
-	exports.ObserveOnOperator = ObserveOnOperator;
-	/**
-	 * We need this JSDoc comment for affecting ESDoc.
-	 * @ignore
-	 * @extends {Ignored}
-	 */
-	var ObserveOnSubscriber = (function (_super) {
-	    __extends(ObserveOnSubscriber, _super);
-	    function ObserveOnSubscriber(destination, scheduler, delay) {
-	        if (delay === void 0) { delay = 0; }
-	        _super.call(this, destination);
-	        this.scheduler = scheduler;
-	        this.delay = delay;
-	    }
-	    ObserveOnSubscriber.dispatch = function (arg) {
-	        var notification = arg.notification, destination = arg.destination;
-	        notification.observe(destination);
-	        this.unsubscribe();
-	    };
-	    ObserveOnSubscriber.prototype.scheduleMessage = function (notification) {
-	        this.add(this.scheduler.schedule(ObserveOnSubscriber.dispatch, this.delay, new ObserveOnMessage(notification, this.destination)));
-	    };
-	    ObserveOnSubscriber.prototype._next = function (value) {
-	        this.scheduleMessage(Notification_1.Notification.createNext(value));
-	    };
-	    ObserveOnSubscriber.prototype._error = function (err) {
-	        this.scheduleMessage(Notification_1.Notification.createError(err));
-	    };
-	    ObserveOnSubscriber.prototype._complete = function () {
-	        this.scheduleMessage(Notification_1.Notification.createComplete());
-	    };
-	    return ObserveOnSubscriber;
-	}(Subscriber_1.Subscriber));
-	exports.ObserveOnSubscriber = ObserveOnSubscriber;
-	var ObserveOnMessage = (function () {
-	    function ObserveOnMessage(notification, destination) {
-	        this.notification = notification;
-	        this.destination = destination;
-	    }
-	    return ObserveOnMessage;
-	}());
-	exports.ObserveOnMessage = ObserveOnMessage;
-	//# sourceMappingURL=observeOn.js.map
-
-/***/ }),
-/* 330 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	"use strict";
-	var Observable_1 = __webpack_require__(290);
-	/**
-	 * Represents a push-based event or value that an {@link Observable} can emit.
-	 * This class is particularly useful for operators that manage notifications,
-	 * like {@link materialize}, {@link dematerialize}, {@link observeOn}, and
-	 * others. Besides wrapping the actual delivered value, it also annotates it
-	 * with metadata of, for instance, what type of push message it is (`next`,
-	 * `error`, or `complete`).
-	 *
-	 * @see {@link materialize}
-	 * @see {@link dematerialize}
-	 * @see {@link observeOn}
-	 *
-	 * @class Notification<T>
-	 */
-	var Notification = (function () {
-	    function Notification(kind, value, error) {
-	        this.kind = kind;
-	        this.value = value;
-	        this.error = error;
-	        this.hasValue = kind === 'N';
-	    }
-	    /**
-	     * Delivers to the given `observer` the value wrapped by this Notification.
-	     * @param {Observer} observer
-	     * @return
-	     */
-	    Notification.prototype.observe = function (observer) {
-	        switch (this.kind) {
-	            case 'N':
-	                return observer.next && observer.next(this.value);
-	            case 'E':
-	                return observer.error && observer.error(this.error);
-	            case 'C':
-	                return observer.complete && observer.complete();
-	        }
-	    };
-	    /**
-	     * Given some {@link Observer} callbacks, deliver the value represented by the
-	     * current Notification to the correctly corresponding callback.
-	     * @param {function(value: T): void} next An Observer `next` callback.
-	     * @param {function(err: any): void} [error] An Observer `error` callback.
-	     * @param {function(): void} [complete] An Observer `complete` callback.
-	     * @return {any}
-	     */
-	    Notification.prototype.do = function (next, error, complete) {
-	        var kind = this.kind;
-	        switch (kind) {
-	            case 'N':
-	                return next && next(this.value);
-	            case 'E':
-	                return error && error(this.error);
-	            case 'C':
-	                return complete && complete();
-	        }
-	    };
-	    /**
-	     * Takes an Observer or its individual callback functions, and calls `observe`
-	     * or `do` methods accordingly.
-	     * @param {Observer|function(value: T): void} nextOrObserver An Observer or
-	     * the `next` callback.
-	     * @param {function(err: any): void} [error] An Observer `error` callback.
-	     * @param {function(): void} [complete] An Observer `complete` callback.
-	     * @return {any}
-	     */
-	    Notification.prototype.accept = function (nextOrObserver, error, complete) {
-	        if (nextOrObserver && typeof nextOrObserver.next === 'function') {
-	            return this.observe(nextOrObserver);
-	        }
-	        else {
-	            return this.do(nextOrObserver, error, complete);
-	        }
-	    };
-	    /**
-	     * Returns a simple Observable that just delivers the notification represented
-	     * by this Notification instance.
-	     * @return {any}
-	     */
-	    Notification.prototype.toObservable = function () {
-	        var kind = this.kind;
-	        switch (kind) {
-	            case 'N':
-	                return Observable_1.Observable.of(this.value);
-	            case 'E':
-	                return Observable_1.Observable.throw(this.error);
-	            case 'C':
-	                return Observable_1.Observable.empty();
-	        }
-	        throw new Error('unexpected notification kind value');
-	    };
-	    /**
-	     * A shortcut to create a Notification instance of the type `next` from a
-	     * given value.
-	     * @param {T} value The `next` value.
-	     * @return {Notification<T>} The "next" Notification representing the
-	     * argument.
-	     */
-	    Notification.createNext = function (value) {
-	        if (typeof value !== 'undefined') {
-	            return new Notification('N', value);
-	        }
-	        return Notification.undefinedValueNotification;
-	    };
-	    /**
-	     * A shortcut to create a Notification instance of the type `error` from a
-	     * given error.
-	     * @param {any} [err] The `error` error.
-	     * @return {Notification<T>} The "error" Notification representing the
-	     * argument.
-	     */
-	    Notification.createError = function (err) {
-	        return new Notification('E', undefined, err);
-	    };
-	    /**
-	     * A shortcut to create a Notification instance of the type `complete`.
-	     * @return {Notification<any>} The valueless "complete" Notification.
-	     */
-	    Notification.createComplete = function () {
-	        return Notification.completeNotification;
-	    };
-	    Notification.completeNotification = new Notification('C');
-	    Notification.undefinedValueNotification = new Notification('N', undefined);
-	    return Notification;
-	}());
-	exports.Notification = Notification;
-	//# sourceMappingURL=Notification.js.map
-
-/***/ }),
-/* 331 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	"use strict";
-	var mergeAll_1 = __webpack_require__(332);
-	/**
-	 * Converts a higher-order Observable into a first-order Observable by
-	 * concatenating the inner Observables in order.
-	 *
-	 * <span class="informal">Flattens an Observable-of-Observables by putting one
-	 * inner Observable after the other.</span>
-	 *
-	 * <img src="./img/concatAll.png" width="100%">
-	 *
-	 * Joins every Observable emitted by the source (a higher-order Observable), in
-	 * a serial fashion. It subscribes to each inner Observable only after the
-	 * previous inner Observable has completed, and merges all of their values into
-	 * the returned observable.
-	 *
-	 * __Warning:__ If the source Observable emits Observables quickly and
-	 * endlessly, and the inner Observables it emits generally complete slower than
-	 * the source emits, you can run into memory issues as the incoming Observables
-	 * collect in an unbounded buffer.
-	 *
-	 * Note: `concatAll` is equivalent to `mergeAll` with concurrency parameter set
-	 * to `1`.
-	 *
-	 * @example <caption>For each click event, tick every second from 0 to 3, with no concurrency</caption>
-	 * var clicks = Rx.Observable.fromEvent(document, 'click');
-	 * var higherOrder = clicks.map(ev => Rx.Observable.interval(1000).take(4));
-	 * var firstOrder = higherOrder.concatAll();
-	 * firstOrder.subscribe(x => console.log(x));
-	 *
-	 * // Results in the following:
-	 * // (results are not concurrent)
-	 * // For every click on the "document" it will emit values 0 to 3 spaced
-	 * // on a 1000ms interval
-	 * // one click = 1000ms-> 0 -1000ms-> 1 -1000ms-> 2 -1000ms-> 3
-	 *
-	 * @see {@link combineAll}
-	 * @see {@link concat}
-	 * @see {@link concatMap}
-	 * @see {@link concatMapTo}
-	 * @see {@link exhaust}
-	 * @see {@link mergeAll}
-	 * @see {@link switch}
-	 * @see {@link zipAll}
-	 *
-	 * @return {Observable} An Observable emitting values from all the inner
-	 * Observables concatenated.
-	 * @method concatAll
-	 * @owner Observable
-	 */
-	function concatAll() {
-	    return mergeAll_1.mergeAll(1);
-	}
-	exports.concatAll = concatAll;
-	//# sourceMappingURL=concatAll.js.map
-
-/***/ }),
-/* 332 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	"use strict";
-	var mergeMap_1 = __webpack_require__(333);
-	var identity_1 = __webpack_require__(334);
+	var OuterSubscriber_1 = __webpack_require__(316);
+	var subscribeToResult_1 = __webpack_require__(317);
 	/**
 	 * Converts a higher-order Observable into a first-order Observable which
 	 * concurrently delivers all values that are emitted on the inner Observables.
@@ -17366,174 +16392,49 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	 */
 	function mergeAll(concurrent) {
 	    if (concurrent === void 0) { concurrent = Number.POSITIVE_INFINITY; }
-	    return mergeMap_1.mergeMap(identity_1.identity, null, concurrent);
+	    return this.lift(new MergeAllOperator(concurrent));
 	}
 	exports.mergeAll = mergeAll;
-	//# sourceMappingURL=mergeAll.js.map
-
-/***/ }),
-/* 333 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	"use strict";
-	var __extends = (this && this.__extends) || function (d, b) {
-	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
-	    function __() { this.constructor = d; }
-	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-	};
-	var subscribeToResult_1 = __webpack_require__(316);
-	var OuterSubscriber_1 = __webpack_require__(315);
-	/* tslint:enable:max-line-length */
-	/**
-	 * Projects each source value to an Observable which is merged in the output
-	 * Observable.
-	 *
-	 * <span class="informal">Maps each value to an Observable, then flattens all of
-	 * these inner Observables using {@link mergeAll}.</span>
-	 *
-	 * <img src="./img/mergeMap.png" width="100%">
-	 *
-	 * Returns an Observable that emits items based on applying a function that you
-	 * supply to each item emitted by the source Observable, where that function
-	 * returns an Observable, and then merging those resulting Observables and
-	 * emitting the results of this merger.
-	 *
-	 * @example <caption>Map and flatten each letter to an Observable ticking every 1 second</caption>
-	 * var letters = Rx.Observable.of('a', 'b', 'c');
-	 * var result = letters.mergeMap(x =>
-	 *   Rx.Observable.interval(1000).map(i => x+i)
-	 * );
-	 * result.subscribe(x => console.log(x));
-	 *
-	 * // Results in the following:
-	 * // a0
-	 * // b0
-	 * // c0
-	 * // a1
-	 * // b1
-	 * // c1
-	 * // continues to list a,b,c with respective ascending integers
-	 *
-	 * @see {@link concatMap}
-	 * @see {@link exhaustMap}
-	 * @see {@link merge}
-	 * @see {@link mergeAll}
-	 * @see {@link mergeMapTo}
-	 * @see {@link mergeScan}
-	 * @see {@link switchMap}
-	 *
-	 * @param {function(value: T, ?index: number): ObservableInput} project A function
-	 * that, when applied to an item emitted by the source Observable, returns an
-	 * Observable.
-	 * @param {function(outerValue: T, innerValue: I, outerIndex: number, innerIndex: number): any} [resultSelector]
-	 * A function to produce the value on the output Observable based on the values
-	 * and the indices of the source (outer) emission and the inner Observable
-	 * emission. The arguments passed to this function are:
-	 * - `outerValue`: the value that came from the source
-	 * - `innerValue`: the value that came from the projected Observable
-	 * - `outerIndex`: the "index" of the value that came from the source
-	 * - `innerIndex`: the "index" of the value from the projected Observable
-	 * @param {number} [concurrent=Number.POSITIVE_INFINITY] Maximum number of input
-	 * Observables being subscribed to concurrently.
-	 * @return {Observable} An Observable that emits the result of applying the
-	 * projection function (and the optional `resultSelector`) to each item emitted
-	 * by the source Observable and merging the results of the Observables obtained
-	 * from this transformation.
-	 * @method mergeMap
-	 * @owner Observable
-	 */
-	function mergeMap(project, resultSelector, concurrent) {
-	    if (concurrent === void 0) { concurrent = Number.POSITIVE_INFINITY; }
-	    return function mergeMapOperatorFunction(source) {
-	        if (typeof resultSelector === 'number') {
-	            concurrent = resultSelector;
-	            resultSelector = null;
-	        }
-	        return source.lift(new MergeMapOperator(project, resultSelector, concurrent));
-	    };
-	}
-	exports.mergeMap = mergeMap;
-	var MergeMapOperator = (function () {
-	    function MergeMapOperator(project, resultSelector, concurrent) {
-	        if (concurrent === void 0) { concurrent = Number.POSITIVE_INFINITY; }
-	        this.project = project;
-	        this.resultSelector = resultSelector;
+	var MergeAllOperator = (function () {
+	    function MergeAllOperator(concurrent) {
 	        this.concurrent = concurrent;
 	    }
-	    MergeMapOperator.prototype.call = function (observer, source) {
-	        return source.subscribe(new MergeMapSubscriber(observer, this.project, this.resultSelector, this.concurrent));
+	    MergeAllOperator.prototype.call = function (observer, source) {
+	        return source.subscribe(new MergeAllSubscriber(observer, this.concurrent));
 	    };
-	    return MergeMapOperator;
+	    return MergeAllOperator;
 	}());
-	exports.MergeMapOperator = MergeMapOperator;
+	exports.MergeAllOperator = MergeAllOperator;
 	/**
 	 * We need this JSDoc comment for affecting ESDoc.
 	 * @ignore
 	 * @extends {Ignored}
 	 */
-	var MergeMapSubscriber = (function (_super) {
-	    __extends(MergeMapSubscriber, _super);
-	    function MergeMapSubscriber(destination, project, resultSelector, concurrent) {
-	        if (concurrent === void 0) { concurrent = Number.POSITIVE_INFINITY; }
+	var MergeAllSubscriber = (function (_super) {
+	    __extends(MergeAllSubscriber, _super);
+	    function MergeAllSubscriber(destination, concurrent) {
 	        _super.call(this, destination);
-	        this.project = project;
-	        this.resultSelector = resultSelector;
 	        this.concurrent = concurrent;
 	        this.hasCompleted = false;
 	        this.buffer = [];
 	        this.active = 0;
-	        this.index = 0;
 	    }
-	    MergeMapSubscriber.prototype._next = function (value) {
+	    MergeAllSubscriber.prototype._next = function (observable) {
 	        if (this.active < this.concurrent) {
-	            this._tryNext(value);
+	            this.active++;
+	            this.add(subscribeToResult_1.subscribeToResult(this, observable));
 	        }
 	        else {
-	            this.buffer.push(value);
+	            this.buffer.push(observable);
 	        }
 	    };
-	    MergeMapSubscriber.prototype._tryNext = function (value) {
-	        var result;
-	        var index = this.index++;
-	        try {
-	            result = this.project(value, index);
-	        }
-	        catch (err) {
-	            this.destination.error(err);
-	            return;
-	        }
-	        this.active++;
-	        this._innerSub(result, value, index);
-	    };
-	    MergeMapSubscriber.prototype._innerSub = function (ish, value, index) {
-	        this.add(subscribeToResult_1.subscribeToResult(this, ish, value, index));
-	    };
-	    MergeMapSubscriber.prototype._complete = function () {
+	    MergeAllSubscriber.prototype._complete = function () {
 	        this.hasCompleted = true;
 	        if (this.active === 0 && this.buffer.length === 0) {
 	            this.destination.complete();
 	        }
 	    };
-	    MergeMapSubscriber.prototype.notifyNext = function (outerValue, innerValue, outerIndex, innerIndex, innerSub) {
-	        if (this.resultSelector) {
-	            this._notifyResultSelector(outerValue, innerValue, outerIndex, innerIndex);
-	        }
-	        else {
-	            this.destination.next(innerValue);
-	        }
-	    };
-	    MergeMapSubscriber.prototype._notifyResultSelector = function (outerValue, innerValue, outerIndex, innerIndex) {
-	        var result;
-	        try {
-	            result = this.resultSelector(outerValue, innerValue, outerIndex, innerIndex);
-	        }
-	        catch (err) {
-	            this.destination.error(err);
-	            return;
-	        }
-	        this.destination.next(result);
-	    };
-	    MergeMapSubscriber.prototype.notifyComplete = function (innerSub) {
+	    MergeAllSubscriber.prototype.notifyComplete = function (innerSub) {
 	        var buffer = this.buffer;
 	        this.remove(innerSub);
 	        this.active--;
@@ -17544,37 +16445,26 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	            this.destination.complete();
 	        }
 	    };
-	    return MergeMapSubscriber;
+	    return MergeAllSubscriber;
 	}(OuterSubscriber_1.OuterSubscriber));
-	exports.MergeMapSubscriber = MergeMapSubscriber;
-	//# sourceMappingURL=mergeMap.js.map
+	exports.MergeAllSubscriber = MergeAllSubscriber;
+	//# sourceMappingURL=mergeAll.js.map
 
 /***/ }),
-/* 334 */
-/***/ (function(module, exports) {
-
-	"use strict";
-	function identity(x) {
-	    return x;
-	}
-	exports.identity = identity;
-	//# sourceMappingURL=identity.js.map
-
-/***/ }),
-/* 335 */
+/* 328 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var _identity, _kebabCase, _keys, _map, _pickBy;
 
-	_map = __webpack_require__(27);
+	_map = __webpack_require__(26);
 
-	_keys = __webpack_require__(96);
+	_keys = __webpack_require__(95);
 
-	_pickBy = __webpack_require__(336);
+	_pickBy = __webpack_require__(329);
 
-	_identity = __webpack_require__(138);
+	_identity = __webpack_require__(137);
 
-	_kebabCase = __webpack_require__(341);
+	_kebabCase = __webpack_require__(334);
 
 	module.exports = function(classes) {
 	  return _map(_keys(_pickBy(classes, _identity)), _kebabCase).join(' ');
@@ -17582,13 +16472,13 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 336 */
+/* 329 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var arrayMap = __webpack_require__(28),
-	    baseIteratee = __webpack_require__(29),
-	    basePickBy = __webpack_require__(337),
-	    getAllKeysIn = __webpack_require__(339);
+	var arrayMap = __webpack_require__(27),
+	    baseIteratee = __webpack_require__(28),
+	    basePickBy = __webpack_require__(330),
+	    getAllKeysIn = __webpack_require__(332);
 
 	/**
 	 * Creates an object composed of the `object` properties `predicate` returns
@@ -17625,12 +16515,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 337 */
+/* 330 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseGet = __webpack_require__(125),
-	    baseSet = __webpack_require__(338),
-	    castPath = __webpack_require__(126);
+	var baseGet = __webpack_require__(124),
+	    baseSet = __webpack_require__(331),
+	    castPath = __webpack_require__(125);
 
 	/**
 	 * The base implementation of  `_.pickBy` without support for iteratee shorthands.
@@ -17661,14 +16551,14 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 338 */
+/* 331 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var assignValue = __webpack_require__(150),
-	    castPath = __webpack_require__(126),
-	    isIndex = __webpack_require__(104),
-	    isObject = __webpack_require__(56),
-	    toKey = __webpack_require__(134);
+	var assignValue = __webpack_require__(152),
+	    castPath = __webpack_require__(125),
+	    isIndex = __webpack_require__(103),
+	    isObject = __webpack_require__(55),
+	    toKey = __webpack_require__(133);
 
 	/**
 	 * The base implementation of `_.set`.
@@ -17714,12 +16604,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 339 */
+/* 332 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseGetAllKeys = __webpack_require__(90),
-	    getSymbolsIn = __webpack_require__(340),
-	    keysIn = __webpack_require__(234);
+	var baseGetAllKeys = __webpack_require__(89),
+	    getSymbolsIn = __webpack_require__(333),
+	    keysIn = __webpack_require__(235);
 
 	/**
 	 * Creates an array of own and inherited enumerable property names and
@@ -17737,13 +16627,13 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 340 */
+/* 333 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var arrayPush = __webpack_require__(91),
-	    getPrototype = __webpack_require__(252),
-	    getSymbols = __webpack_require__(93),
-	    stubArray = __webpack_require__(95);
+	var arrayPush = __webpack_require__(90),
+	    getPrototype = __webpack_require__(253),
+	    getSymbols = __webpack_require__(92),
+	    stubArray = __webpack_require__(94);
 
 	/* Built-in method references for those with the same name as other `lodash` methods. */
 	var nativeGetSymbols = Object.getOwnPropertySymbols;
@@ -17768,10 +16658,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 341 */
+/* 334 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var createCompounder = __webpack_require__(342);
+	var createCompounder = __webpack_require__(335);
 
 	/**
 	 * Converts `string` to
@@ -17802,12 +16692,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 342 */
+/* 335 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var arrayReduce = __webpack_require__(343),
-	    deburr = __webpack_require__(344),
-	    words = __webpack_require__(347);
+	var arrayReduce = __webpack_require__(336),
+	    deburr = __webpack_require__(337),
+	    words = __webpack_require__(340);
 
 	/** Used to compose unicode capture groups. */
 	var rsApos = "['\u2019]";
@@ -17832,7 +16722,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 343 */
+/* 336 */
 /***/ (function(module, exports) {
 
 	/**
@@ -17864,11 +16754,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 344 */
+/* 337 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var deburrLetter = __webpack_require__(345),
-	    toString = __webpack_require__(132);
+	var deburrLetter = __webpack_require__(338),
+	    toString = __webpack_require__(131);
 
 	/** Used to match Latin Unicode letters (excluding mathematical operators). */
 	var reLatin = /[\xc0-\xd6\xd8-\xf6\xf8-\xff\u0100-\u017f]/g;
@@ -17915,10 +16805,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 345 */
+/* 338 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var basePropertyOf = __webpack_require__(346);
+	var basePropertyOf = __webpack_require__(339);
 
 	/** Used to map Latin Unicode letters to basic Latin letters. */
 	var deburredLetters = {
@@ -17992,7 +16882,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 346 */
+/* 339 */
 /***/ (function(module, exports) {
 
 	/**
@@ -18012,13 +16902,13 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 347 */
+/* 340 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var asciiWords = __webpack_require__(348),
-	    hasUnicodeWord = __webpack_require__(349),
-	    toString = __webpack_require__(132),
-	    unicodeWords = __webpack_require__(350);
+	var asciiWords = __webpack_require__(341),
+	    hasUnicodeWord = __webpack_require__(342),
+	    toString = __webpack_require__(131),
+	    unicodeWords = __webpack_require__(343);
 
 	/**
 	 * Splits `string` into an array of its words.
@@ -18053,7 +16943,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 348 */
+/* 341 */
 /***/ (function(module, exports) {
 
 	/** Used to match words composed of alphanumeric characters. */
@@ -18074,7 +16964,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 349 */
+/* 342 */
 /***/ (function(module, exports) {
 
 	/** Used to detect strings that need a more robust regexp to match words. */
@@ -18095,7 +16985,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 350 */
+/* 343 */
 /***/ (function(module, exports) {
 
 	/** Used to compose unicode character classes. */
@@ -18138,8 +17028,8 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    reOptMod = rsModifier + '?',
 	    rsOptVar = '[' + rsVarRange + ']?',
 	    rsOptJoin = '(?:' + rsZWJ + '(?:' + [rsNonAstral, rsRegional, rsSurrPair].join('|') + ')' + rsOptVar + reOptMod + ')*',
-	    rsOrdLower = '\\d*(?:1st|2nd|3rd|(?![123])\\dth)(?=\\b|[A-Z_])',
-	    rsOrdUpper = '\\d*(?:1ST|2ND|3RD|(?![123])\\dTH)(?=\\b|[a-z_])',
+	    rsOrdLower = '\\d*(?:(?:1st|2nd|3rd|(?![123])\\dth)\\b)',
+	    rsOrdUpper = '\\d*(?:(?:1ST|2ND|3RD|(?![123])\\dTH)\\b)',
 	    rsSeq = rsOptVar + reOptMod + rsOptJoin,
 	    rsEmoji = '(?:' + [rsDingbat, rsRegional, rsSurrPair].join('|') + ')' + rsSeq;
 
@@ -18170,7 +17060,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 351 */
+/* 344 */
 /***/ (function(module, exports) {
 
 	var isPlainObject, j, len, level, levels, listeners, log, logger,
@@ -18269,7 +17159,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 352 */
+/* 345 */
 /***/ (function(module, exports) {
 
 	/*!
@@ -18447,15 +17337,15 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 353 */
+/* 346 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var Qs, Router, RxBehaviorSubject, getCurrentUrl, parseUrl,
 	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
 
-	Qs = __webpack_require__(354);
+	Qs = __webpack_require__(347);
 
-	RxBehaviorSubject = __webpack_require__(288).BehaviorSubject;
+	RxBehaviorSubject = __webpack_require__(289).BehaviorSubject;
 
 	getCurrentUrl = function(mode) {
 	  var hash, pathname, search;
@@ -18542,13 +17432,13 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 354 */
+/* 347 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	// Load modules
 
-	var Stringify = __webpack_require__(355);
-	var Parse = __webpack_require__(357);
+	var Stringify = __webpack_require__(348);
+	var Parse = __webpack_require__(350);
 
 
 	// Declare internals
@@ -18563,12 +17453,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 355 */
+/* 348 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	// Load modules
 
-	var Utils = __webpack_require__(356);
+	var Utils = __webpack_require__(349);
 
 
 	// Declare internals
@@ -18723,7 +17613,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 356 */
+/* 349 */
 /***/ (function(module, exports) {
 
 	// Load modules
@@ -18919,12 +17809,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 357 */
+/* 350 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	// Load modules
 
-	var Utils = __webpack_require__(356);
+	var Utils = __webpack_require__(349);
 
 
 	// Declare internals
@@ -19107,13 +17997,13 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 358 */
+/* 351 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var Environment, _includes,
 	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
 
-	_includes = __webpack_require__(359);
+	_includes = __webpack_require__(352);
 
 	Environment = (function() {
 	  function Environment() {
@@ -19238,14 +18128,14 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 359 */
+/* 352 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var baseIndexOf = __webpack_require__(188),
-	    isArrayLike = __webpack_require__(114),
+	    isArrayLike = __webpack_require__(113),
 	    isString = __webpack_require__(164),
-	    toInteger = __webpack_require__(239),
-	    values = __webpack_require__(360);
+	    toInteger = __webpack_require__(241),
+	    values = __webpack_require__(353);
 
 	/* Built-in method references for those with the same name as other `lodash` methods. */
 	var nativeMax = Math.max;
@@ -19297,11 +18187,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 360 */
+/* 353 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseValues = __webpack_require__(361),
-	    keys = __webpack_require__(96);
+	var baseValues = __webpack_require__(354),
+	    keys = __webpack_require__(95);
 
 	/**
 	 * Creates an array of the own enumerable string keyed property values of `object`.
@@ -19337,10 +18227,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 361 */
+/* 354 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var arrayMap = __webpack_require__(28);
+	var arrayMap = __webpack_require__(27);
 
 	/**
 	 * The base implementation of `_.values` and `_.valuesIn` which creates an
@@ -19362,263 +18252,43 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 362 */
+/* 355 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	/*!
-	 * Socket.IO v2.1.0
-	 * (c) 2014-2018 Guillermo Rauch
-	 * Released under the MIT License.
-	 */
-	!function(t,e){ true?module.exports=e():"function"==typeof define&&define.amd?define([],e):"object"==typeof exports?exports.io=e():t.io=e()}(this,function(){return function(t){function e(n){if(r[n])return r[n].exports;var o=r[n]={exports:{},id:n,loaded:!1};return t[n].call(o.exports,o,o.exports,e),o.loaded=!0,o.exports}var r={};return e.m=t,e.c=r,e.p="",e(0)}([function(t,e,r){"use strict";function n(t,e){"object"===("undefined"==typeof t?"undefined":o(t))&&(e=t,t=void 0),e=e||{};var r,n=i(t),s=n.source,h=n.id,p=n.path,u=c[h]&&p in c[h].nsps,f=e.forceNew||e["force new connection"]||!1===e.multiplex||u;return f?r=a(s,e):(c[h]||(c[h]=a(s,e)),r=c[h]),n.query&&!e.query&&(e.query=n.query),r.socket(n.path,e)}var o="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t},i=r(1),s=r(4),a=r(9);r(3)("socket.io-client");t.exports=e=n;var c=e.managers={};e.protocol=s.protocol,e.connect=n,e.Manager=r(9),e.Socket=r(34)},function(t,e,r){(function(e){"use strict";function n(t,r){var n=t;r=r||e.location,null==t&&(t=r.protocol+"//"+r.host),"string"==typeof t&&("/"===t.charAt(0)&&(t="/"===t.charAt(1)?r.protocol+t:r.host+t),/^(https?|wss?):\/\//.test(t)||(t="undefined"!=typeof r?r.protocol+"//"+t:"https://"+t),n=o(t)),n.port||(/^(http|ws)$/.test(n.protocol)?n.port="80":/^(http|ws)s$/.test(n.protocol)&&(n.port="443")),n.path=n.path||"/";var i=n.host.indexOf(":")!==-1,s=i?"["+n.host+"]":n.host;return n.id=n.protocol+"://"+s+":"+n.port,n.href=n.protocol+"://"+s+(r&&r.port===n.port?"":":"+n.port),n}var o=r(2);r(3)("socket.io-client:url");t.exports=n}).call(e,function(){return this}())},function(t,e){var r=/^(?:(?![^:@]+:[^:@\/]*@)(http|https|ws|wss):\/\/)?((?:(([^:@]*)(?::([^:@]*))?)?@)?((?:[a-f0-9]{0,4}:){2,7}[a-f0-9]{0,4}|[^:\/?#]*)(?::(\d*))?)(((\/(?:[^?#](?![^?#\/]*\.[^?#\/.]+(?:[?#]|$)))*\/?)?([^?#\/]*))(?:\?([^#]*))?(?:#(.*))?)/,n=["source","protocol","authority","userInfo","user","password","host","port","relative","path","directory","file","query","anchor"];t.exports=function(t){var e=t,o=t.indexOf("["),i=t.indexOf("]");o!=-1&&i!=-1&&(t=t.substring(0,o)+t.substring(o,i).replace(/:/g,";")+t.substring(i,t.length));for(var s=r.exec(t||""),a={},c=14;c--;)a[n[c]]=s[c]||"";return o!=-1&&i!=-1&&(a.source=e,a.host=a.host.substring(1,a.host.length-1).replace(/;/g,":"),a.authority=a.authority.replace("[","").replace("]","").replace(/;/g,":"),a.ipv6uri=!0),a}},function(t,e){"use strict";t.exports=function(){return function(){}}},function(t,e,r){function n(){}function o(t){var r=""+t.type;if(e.BINARY_EVENT!==t.type&&e.BINARY_ACK!==t.type||(r+=t.attachments+"-"),t.nsp&&"/"!==t.nsp&&(r+=t.nsp+","),null!=t.id&&(r+=t.id),null!=t.data){var n=i(t.data);if(n===!1)return m;r+=n}return r}function i(t){try{return JSON.stringify(t)}catch(t){return!1}}function s(t,e){function r(t){var r=l.deconstructPacket(t),n=o(r.packet),i=r.buffers;i.unshift(n),e(i)}l.removeBlobs(t,r)}function a(){this.reconstructor=null}function c(t){var r=0,n={type:Number(t.charAt(0))};if(null==e.types[n.type])return u("unknown packet type "+n.type);if(e.BINARY_EVENT===n.type||e.BINARY_ACK===n.type){for(var o="";"-"!==t.charAt(++r)&&(o+=t.charAt(r),r!=t.length););if(o!=Number(o)||"-"!==t.charAt(r))throw new Error("Illegal attachments");n.attachments=Number(o)}if("/"===t.charAt(r+1))for(n.nsp="";++r;){var i=t.charAt(r);if(","===i)break;if(n.nsp+=i,r===t.length)break}else n.nsp="/";var s=t.charAt(r+1);if(""!==s&&Number(s)==s){for(n.id="";++r;){var i=t.charAt(r);if(null==i||Number(i)!=i){--r;break}if(n.id+=t.charAt(r),r===t.length)break}n.id=Number(n.id)}if(t.charAt(++r)){var a=h(t.substr(r)),c=a!==!1&&(n.type===e.ERROR||d(a));if(!c)return u("invalid payload");n.data=a}return n}function h(t){try{return JSON.parse(t)}catch(t){return!1}}function p(t){this.reconPack=t,this.buffers=[]}function u(t){return{type:e.ERROR,data:"parser error: "+t}}var f=(r(3)("socket.io-parser"),r(5)),l=r(6),d=r(7),y=r(8);e.protocol=4,e.types=["CONNECT","DISCONNECT","EVENT","ACK","ERROR","BINARY_EVENT","BINARY_ACK"],e.CONNECT=0,e.DISCONNECT=1,e.EVENT=2,e.ACK=3,e.ERROR=4,e.BINARY_EVENT=5,e.BINARY_ACK=6,e.Encoder=n,e.Decoder=a;var m=e.ERROR+'"encode error"';n.prototype.encode=function(t,r){if(e.BINARY_EVENT===t.type||e.BINARY_ACK===t.type)s(t,r);else{var n=o(t);r([n])}},f(a.prototype),a.prototype.add=function(t){var r;if("string"==typeof t)r=c(t),e.BINARY_EVENT===r.type||e.BINARY_ACK===r.type?(this.reconstructor=new p(r),0===this.reconstructor.reconPack.attachments&&this.emit("decoded",r)):this.emit("decoded",r);else{if(!y(t)&&!t.base64)throw new Error("Unknown type: "+t);if(!this.reconstructor)throw new Error("got binary data when not reconstructing a packet");r=this.reconstructor.takeBinaryData(t),r&&(this.reconstructor=null,this.emit("decoded",r))}},a.prototype.destroy=function(){this.reconstructor&&this.reconstructor.finishedReconstruction()},p.prototype.takeBinaryData=function(t){if(this.buffers.push(t),this.buffers.length===this.reconPack.attachments){var e=l.reconstructPacket(this.reconPack,this.buffers);return this.finishedReconstruction(),e}return null},p.prototype.finishedReconstruction=function(){this.reconPack=null,this.buffers=[]}},function(t,e,r){function n(t){if(t)return o(t)}function o(t){for(var e in n.prototype)t[e]=n.prototype[e];return t}t.exports=n,n.prototype.on=n.prototype.addEventListener=function(t,e){return this._callbacks=this._callbacks||{},(this._callbacks["$"+t]=this._callbacks["$"+t]||[]).push(e),this},n.prototype.once=function(t,e){function r(){this.off(t,r),e.apply(this,arguments)}return r.fn=e,this.on(t,r),this},n.prototype.off=n.prototype.removeListener=n.prototype.removeAllListeners=n.prototype.removeEventListener=function(t,e){if(this._callbacks=this._callbacks||{},0==arguments.length)return this._callbacks={},this;var r=this._callbacks["$"+t];if(!r)return this;if(1==arguments.length)return delete this._callbacks["$"+t],this;for(var n,o=0;o<r.length;o++)if(n=r[o],n===e||n.fn===e){r.splice(o,1);break}return this},n.prototype.emit=function(t){this._callbacks=this._callbacks||{};var e=[].slice.call(arguments,1),r=this._callbacks["$"+t];if(r){r=r.slice(0);for(var n=0,o=r.length;n<o;++n)r[n].apply(this,e)}return this},n.prototype.listeners=function(t){return this._callbacks=this._callbacks||{},this._callbacks["$"+t]||[]},n.prototype.hasListeners=function(t){return!!this.listeners(t).length}},function(t,e,r){(function(t){function n(t,e){if(!t)return t;if(s(t)){var r={_placeholder:!0,num:e.length};return e.push(t),r}if(i(t)){for(var o=new Array(t.length),a=0;a<t.length;a++)o[a]=n(t[a],e);return o}if("object"==typeof t&&!(t instanceof Date)){var o={};for(var c in t)o[c]=n(t[c],e);return o}return t}function o(t,e){if(!t)return t;if(t&&t._placeholder)return e[t.num];if(i(t))for(var r=0;r<t.length;r++)t[r]=o(t[r],e);else if("object"==typeof t)for(var n in t)t[n]=o(t[n],e);return t}var i=r(7),s=r(8),a=Object.prototype.toString,c="function"==typeof t.Blob||"[object BlobConstructor]"===a.call(t.Blob),h="function"==typeof t.File||"[object FileConstructor]"===a.call(t.File);e.deconstructPacket=function(t){var e=[],r=t.data,o=t;return o.data=n(r,e),o.attachments=e.length,{packet:o,buffers:e}},e.reconstructPacket=function(t,e){return t.data=o(t.data,e),t.attachments=void 0,t},e.removeBlobs=function(t,e){function r(t,a,p){if(!t)return t;if(c&&t instanceof Blob||h&&t instanceof File){n++;var u=new FileReader;u.onload=function(){p?p[a]=this.result:o=this.result,--n||e(o)},u.readAsArrayBuffer(t)}else if(i(t))for(var f=0;f<t.length;f++)r(t[f],f,t);else if("object"==typeof t&&!s(t))for(var l in t)r(t[l],l,t)}var n=0,o=t;r(o),n||e(o)}}).call(e,function(){return this}())},function(t,e){var r={}.toString;t.exports=Array.isArray||function(t){return"[object Array]"==r.call(t)}},function(t,e){(function(e){function r(t){return n&&e.Buffer.isBuffer(t)||o&&(t instanceof e.ArrayBuffer||i(t))}t.exports=r;var n="function"==typeof e.Buffer&&"function"==typeof e.Buffer.isBuffer,o="function"==typeof e.ArrayBuffer,i=function(){return o&&"function"==typeof e.ArrayBuffer.isView?e.ArrayBuffer.isView:function(t){return t.buffer instanceof e.ArrayBuffer}}()}).call(e,function(){return this}())},function(t,e,r){"use strict";function n(t,e){if(!(this instanceof n))return new n(t,e);t&&"object"===("undefined"==typeof t?"undefined":o(t))&&(e=t,t=void 0),e=e||{},e.path=e.path||"/socket.io",this.nsps={},this.subs=[],this.opts=e,this.reconnection(e.reconnection!==!1),this.reconnectionAttempts(e.reconnectionAttempts||1/0),this.reconnectionDelay(e.reconnectionDelay||1e3),this.reconnectionDelayMax(e.reconnectionDelayMax||5e3),this.randomizationFactor(e.randomizationFactor||.5),this.backoff=new f({min:this.reconnectionDelay(),max:this.reconnectionDelayMax(),jitter:this.randomizationFactor()}),this.timeout(null==e.timeout?2e4:e.timeout),this.readyState="closed",this.uri=t,this.connecting=[],this.lastPing=null,this.encoding=!1,this.packetBuffer=[];var r=e.parser||c;this.encoder=new r.Encoder,this.decoder=new r.Decoder,this.autoConnect=e.autoConnect!==!1,this.autoConnect&&this.open()}var o="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t},i=r(10),s=r(34),a=r(5),c=r(4),h=r(36),p=r(37),u=(r(3)("socket.io-client:manager"),r(33)),f=r(38),l=Object.prototype.hasOwnProperty;t.exports=n,n.prototype.emitAll=function(){this.emit.apply(this,arguments);for(var t in this.nsps)l.call(this.nsps,t)&&this.nsps[t].emit.apply(this.nsps[t],arguments)},n.prototype.updateSocketIds=function(){for(var t in this.nsps)l.call(this.nsps,t)&&(this.nsps[t].id=this.generateId(t))},n.prototype.generateId=function(t){return("/"===t?"":t+"#")+this.engine.id},a(n.prototype),n.prototype.reconnection=function(t){return arguments.length?(this._reconnection=!!t,this):this._reconnection},n.prototype.reconnectionAttempts=function(t){return arguments.length?(this._reconnectionAttempts=t,this):this._reconnectionAttempts},n.prototype.reconnectionDelay=function(t){return arguments.length?(this._reconnectionDelay=t,this.backoff&&this.backoff.setMin(t),this):this._reconnectionDelay},n.prototype.randomizationFactor=function(t){return arguments.length?(this._randomizationFactor=t,this.backoff&&this.backoff.setJitter(t),this):this._randomizationFactor},n.prototype.reconnectionDelayMax=function(t){return arguments.length?(this._reconnectionDelayMax=t,this.backoff&&this.backoff.setMax(t),this):this._reconnectionDelayMax},n.prototype.timeout=function(t){return arguments.length?(this._timeout=t,this):this._timeout},n.prototype.maybeReconnectOnOpen=function(){!this.reconnecting&&this._reconnection&&0===this.backoff.attempts&&this.reconnect()},n.prototype.open=n.prototype.connect=function(t,e){if(~this.readyState.indexOf("open"))return this;this.engine=i(this.uri,this.opts);var r=this.engine,n=this;this.readyState="opening",this.skipReconnect=!1;var o=h(r,"open",function(){n.onopen(),t&&t()}),s=h(r,"error",function(e){if(n.cleanup(),n.readyState="closed",n.emitAll("connect_error",e),t){var r=new Error("Connection error");r.data=e,t(r)}else n.maybeReconnectOnOpen()});if(!1!==this._timeout){var a=this._timeout,c=setTimeout(function(){o.destroy(),r.close(),r.emit("error","timeout"),n.emitAll("connect_timeout",a)},a);this.subs.push({destroy:function(){clearTimeout(c)}})}return this.subs.push(o),this.subs.push(s),this},n.prototype.onopen=function(){this.cleanup(),this.readyState="open",this.emit("open");var t=this.engine;this.subs.push(h(t,"data",p(this,"ondata"))),this.subs.push(h(t,"ping",p(this,"onping"))),this.subs.push(h(t,"pong",p(this,"onpong"))),this.subs.push(h(t,"error",p(this,"onerror"))),this.subs.push(h(t,"close",p(this,"onclose"))),this.subs.push(h(this.decoder,"decoded",p(this,"ondecoded")))},n.prototype.onping=function(){this.lastPing=new Date,this.emitAll("ping")},n.prototype.onpong=function(){this.emitAll("pong",new Date-this.lastPing)},n.prototype.ondata=function(t){this.decoder.add(t)},n.prototype.ondecoded=function(t){this.emit("packet",t)},n.prototype.onerror=function(t){this.emitAll("error",t)},n.prototype.socket=function(t,e){function r(){~u(o.connecting,n)||o.connecting.push(n)}var n=this.nsps[t];if(!n){n=new s(this,t,e),this.nsps[t]=n;var o=this;n.on("connecting",r),n.on("connect",function(){n.id=o.generateId(t)}),this.autoConnect&&r()}return n},n.prototype.destroy=function(t){var e=u(this.connecting,t);~e&&this.connecting.splice(e,1),this.connecting.length||this.close()},n.prototype.packet=function(t){var e=this;t.query&&0===t.type&&(t.nsp+="?"+t.query),e.encoding?e.packetBuffer.push(t):(e.encoding=!0,this.encoder.encode(t,function(r){for(var n=0;n<r.length;n++)e.engine.write(r[n],t.options);e.encoding=!1,e.processPacketQueue()}))},n.prototype.processPacketQueue=function(){if(this.packetBuffer.length>0&&!this.encoding){var t=this.packetBuffer.shift();this.packet(t)}},n.prototype.cleanup=function(){for(var t=this.subs.length,e=0;e<t;e++){var r=this.subs.shift();r.destroy()}this.packetBuffer=[],this.encoding=!1,this.lastPing=null,this.decoder.destroy()},n.prototype.close=n.prototype.disconnect=function(){this.skipReconnect=!0,this.reconnecting=!1,"opening"===this.readyState&&this.cleanup(),this.backoff.reset(),this.readyState="closed",this.engine&&this.engine.close()},n.prototype.onclose=function(t){this.cleanup(),this.backoff.reset(),this.readyState="closed",this.emit("close",t),this._reconnection&&!this.skipReconnect&&this.reconnect()},n.prototype.reconnect=function(){if(this.reconnecting||this.skipReconnect)return this;var t=this;if(this.backoff.attempts>=this._reconnectionAttempts)this.backoff.reset(),this.emitAll("reconnect_failed"),this.reconnecting=!1;else{var e=this.backoff.duration();this.reconnecting=!0;var r=setTimeout(function(){t.skipReconnect||(t.emitAll("reconnect_attempt",t.backoff.attempts),t.emitAll("reconnecting",t.backoff.attempts),t.skipReconnect||t.open(function(e){e?(t.reconnecting=!1,t.reconnect(),t.emitAll("reconnect_error",e.data)):t.onreconnect()}))},e);this.subs.push({destroy:function(){clearTimeout(r)}})}},n.prototype.onreconnect=function(){var t=this.backoff.attempts;this.reconnecting=!1,this.backoff.reset(),this.updateSocketIds(),this.emitAll("reconnect",t)}},function(t,e,r){t.exports=r(11),t.exports.parser=r(18)},function(t,e,r){(function(e){function n(t,r){if(!(this instanceof n))return new n(t,r);r=r||{},t&&"object"==typeof t&&(r=t,t=null),t?(t=h(t),r.hostname=t.host,r.secure="https"===t.protocol||"wss"===t.protocol,r.port=t.port,t.query&&(r.query=t.query)):r.host&&(r.hostname=h(r.host).host),this.secure=null!=r.secure?r.secure:e.location&&"https:"===location.protocol,r.hostname&&!r.port&&(r.port=this.secure?"443":"80"),this.agent=r.agent||!1,this.hostname=r.hostname||(e.location?location.hostname:"localhost"),this.port=r.port||(e.location&&location.port?location.port:this.secure?443:80),this.query=r.query||{},"string"==typeof this.query&&(this.query=p.decode(this.query)),this.upgrade=!1!==r.upgrade,this.path=(r.path||"/engine.io").replace(/\/$/,"")+"/",this.forceJSONP=!!r.forceJSONP,this.jsonp=!1!==r.jsonp,this.forceBase64=!!r.forceBase64,this.enablesXDR=!!r.enablesXDR,this.timestampParam=r.timestampParam||"t",this.timestampRequests=r.timestampRequests,this.transports=r.transports||["polling","websocket"],this.transportOptions=r.transportOptions||{},this.readyState="",this.writeBuffer=[],this.prevBufferLen=0,this.policyPort=r.policyPort||843,this.rememberUpgrade=r.rememberUpgrade||!1,this.binaryType=null,this.onlyBinaryUpgrades=r.onlyBinaryUpgrades,this.perMessageDeflate=!1!==r.perMessageDeflate&&(r.perMessageDeflate||{}),!0===this.perMessageDeflate&&(this.perMessageDeflate={}),this.perMessageDeflate&&null==this.perMessageDeflate.threshold&&(this.perMessageDeflate.threshold=1024),this.pfx=r.pfx||null,this.key=r.key||null,this.passphrase=r.passphrase||null,this.cert=r.cert||null,this.ca=r.ca||null,this.ciphers=r.ciphers||null,this.rejectUnauthorized=void 0===r.rejectUnauthorized||r.rejectUnauthorized,this.forceNode=!!r.forceNode;var o="object"==typeof e&&e;o.global===o&&(r.extraHeaders&&Object.keys(r.extraHeaders).length>0&&(this.extraHeaders=r.extraHeaders),r.localAddress&&(this.localAddress=r.localAddress)),this.id=null,this.upgrades=null,this.pingInterval=null,this.pingTimeout=null,this.pingIntervalTimer=null,this.pingTimeoutTimer=null,this.open()}function o(t){var e={};for(var r in t)t.hasOwnProperty(r)&&(e[r]=t[r]);return e}var i=r(12),s=r(5),a=(r(3)("engine.io-client:socket"),r(33)),c=r(18),h=r(2),p=r(27);t.exports=n,n.priorWebsocketSuccess=!1,s(n.prototype),n.protocol=c.protocol,n.Socket=n,n.Transport=r(17),n.transports=r(12),n.parser=r(18),n.prototype.createTransport=function(t){var e=o(this.query);e.EIO=c.protocol,e.transport=t;var r=this.transportOptions[t]||{};this.id&&(e.sid=this.id);var n=new i[t]({query:e,socket:this,agent:r.agent||this.agent,hostname:r.hostname||this.hostname,port:r.port||this.port,secure:r.secure||this.secure,path:r.path||this.path,forceJSONP:r.forceJSONP||this.forceJSONP,jsonp:r.jsonp||this.jsonp,forceBase64:r.forceBase64||this.forceBase64,enablesXDR:r.enablesXDR||this.enablesXDR,timestampRequests:r.timestampRequests||this.timestampRequests,timestampParam:r.timestampParam||this.timestampParam,policyPort:r.policyPort||this.policyPort,pfx:r.pfx||this.pfx,key:r.key||this.key,passphrase:r.passphrase||this.passphrase,cert:r.cert||this.cert,ca:r.ca||this.ca,ciphers:r.ciphers||this.ciphers,rejectUnauthorized:r.rejectUnauthorized||this.rejectUnauthorized,perMessageDeflate:r.perMessageDeflate||this.perMessageDeflate,extraHeaders:r.extraHeaders||this.extraHeaders,forceNode:r.forceNode||this.forceNode,localAddress:r.localAddress||this.localAddress,requestTimeout:r.requestTimeout||this.requestTimeout,protocols:r.protocols||void 0});return n},n.prototype.open=function(){var t;if(this.rememberUpgrade&&n.priorWebsocketSuccess&&this.transports.indexOf("websocket")!==-1)t="websocket";else{if(0===this.transports.length){var e=this;return void setTimeout(function(){e.emit("error","No transports available")},0)}t=this.transports[0]}this.readyState="opening";try{t=this.createTransport(t)}catch(t){return this.transports.shift(),void this.open()}t.open(),this.setTransport(t)},n.prototype.setTransport=function(t){var e=this;this.transport&&this.transport.removeAllListeners(),this.transport=t,t.on("drain",function(){e.onDrain()}).on("packet",function(t){e.onPacket(t)}).on("error",function(t){e.onError(t)}).on("close",function(){e.onClose("transport close")})},n.prototype.probe=function(t){function e(){if(u.onlyBinaryUpgrades){var t=!this.supportsBinary&&u.transport.supportsBinary;p=p||t}p||(h.send([{type:"ping",data:"probe"}]),h.once("packet",function(t){if(!p)if("pong"===t.type&&"probe"===t.data){if(u.upgrading=!0,u.emit("upgrading",h),!h)return;n.priorWebsocketSuccess="websocket"===h.name,u.transport.pause(function(){p||"closed"!==u.readyState&&(c(),u.setTransport(h),h.send([{type:"upgrade"}]),u.emit("upgrade",h),h=null,u.upgrading=!1,u.flush())})}else{var e=new Error("probe error");e.transport=h.name,u.emit("upgradeError",e)}}))}function r(){p||(p=!0,c(),h.close(),h=null)}function o(t){var e=new Error("probe error: "+t);e.transport=h.name,r(),u.emit("upgradeError",e)}function i(){o("transport closed")}function s(){o("socket closed")}function a(t){h&&t.name!==h.name&&r()}function c(){h.removeListener("open",e),h.removeListener("error",o),h.removeListener("close",i),u.removeListener("close",s),u.removeListener("upgrading",a)}var h=this.createTransport(t,{probe:1}),p=!1,u=this;n.priorWebsocketSuccess=!1,h.once("open",e),h.once("error",o),h.once("close",i),this.once("close",s),this.once("upgrading",a),h.open()},n.prototype.onOpen=function(){if(this.readyState="open",n.priorWebsocketSuccess="websocket"===this.transport.name,this.emit("open"),this.flush(),"open"===this.readyState&&this.upgrade&&this.transport.pause)for(var t=0,e=this.upgrades.length;t<e;t++)this.probe(this.upgrades[t])},n.prototype.onPacket=function(t){if("opening"===this.readyState||"open"===this.readyState||"closing"===this.readyState)switch(this.emit("packet",t),this.emit("heartbeat"),t.type){case"open":this.onHandshake(JSON.parse(t.data));break;case"pong":this.setPing(),this.emit("pong");break;case"error":var e=new Error("server error");e.code=t.data,this.onError(e);break;case"message":this.emit("data",t.data),this.emit("message",t.data)}},n.prototype.onHandshake=function(t){this.emit("handshake",t),this.id=t.sid,this.transport.query.sid=t.sid,this.upgrades=this.filterUpgrades(t.upgrades),this.pingInterval=t.pingInterval,this.pingTimeout=t.pingTimeout,this.onOpen(),"closed"!==this.readyState&&(this.setPing(),this.removeListener("heartbeat",this.onHeartbeat),this.on("heartbeat",this.onHeartbeat))},n.prototype.onHeartbeat=function(t){clearTimeout(this.pingTimeoutTimer);var e=this;e.pingTimeoutTimer=setTimeout(function(){"closed"!==e.readyState&&e.onClose("ping timeout")},t||e.pingInterval+e.pingTimeout)},n.prototype.setPing=function(){var t=this;clearTimeout(t.pingIntervalTimer),t.pingIntervalTimer=setTimeout(function(){t.ping(),t.onHeartbeat(t.pingTimeout)},t.pingInterval)},n.prototype.ping=function(){var t=this;this.sendPacket("ping",function(){t.emit("ping")})},n.prototype.onDrain=function(){this.writeBuffer.splice(0,this.prevBufferLen),this.prevBufferLen=0,0===this.writeBuffer.length?this.emit("drain"):this.flush()},n.prototype.flush=function(){"closed"!==this.readyState&&this.transport.writable&&!this.upgrading&&this.writeBuffer.length&&(this.transport.send(this.writeBuffer),this.prevBufferLen=this.writeBuffer.length,this.emit("flush"))},n.prototype.write=n.prototype.send=function(t,e,r){return this.sendPacket("message",t,e,r),this},n.prototype.sendPacket=function(t,e,r,n){if("function"==typeof e&&(n=e,e=void 0),"function"==typeof r&&(n=r,r=null),"closing"!==this.readyState&&"closed"!==this.readyState){r=r||{},r.compress=!1!==r.compress;var o={type:t,data:e,options:r};this.emit("packetCreate",o),this.writeBuffer.push(o),n&&this.once("flush",n),this.flush()}},n.prototype.close=function(){function t(){n.onClose("forced close"),n.transport.close()}function e(){n.removeListener("upgrade",e),n.removeListener("upgradeError",e),t()}function r(){n.once("upgrade",e),n.once("upgradeError",e)}if("opening"===this.readyState||"open"===this.readyState){this.readyState="closing";var n=this;this.writeBuffer.length?this.once("drain",function(){this.upgrading?r():t()}):this.upgrading?r():t()}return this},n.prototype.onError=function(t){n.priorWebsocketSuccess=!1,this.emit("error",t),this.onClose("transport error",t)},n.prototype.onClose=function(t,e){if("opening"===this.readyState||"open"===this.readyState||"closing"===this.readyState){var r=this;clearTimeout(this.pingIntervalTimer),clearTimeout(this.pingTimeoutTimer),this.transport.removeAllListeners("close"),this.transport.close(),this.transport.removeAllListeners(),this.readyState="closed",this.id=null,this.emit("close",t,e),r.writeBuffer=[],r.prevBufferLen=0}},n.prototype.filterUpgrades=function(t){for(var e=[],r=0,n=t.length;r<n;r++)~a(this.transports,t[r])&&e.push(t[r]);return e}}).call(e,function(){return this}())},function(t,e,r){(function(t){function n(e){var r,n=!1,a=!1,c=!1!==e.jsonp;if(t.location){var h="https:"===location.protocol,p=location.port;p||(p=h?443:80),n=e.hostname!==location.hostname||p!==e.port,a=e.secure!==h}if(e.xdomain=n,e.xscheme=a,r=new o(e),"open"in r&&!e.forceJSONP)return new i(e);if(!c)throw new Error("JSONP disabled");return new s(e)}var o=r(13),i=r(15),s=r(30),a=r(31);e.polling=n,e.websocket=a}).call(e,function(){return this}())},function(t,e,r){(function(e){var n=r(14);t.exports=function(t){var r=t.xdomain,o=t.xscheme,i=t.enablesXDR;try{if("undefined"!=typeof XMLHttpRequest&&(!r||n))return new XMLHttpRequest}catch(t){}try{if("undefined"!=typeof XDomainRequest&&!o&&i)return new XDomainRequest}catch(t){}if(!r)try{return new(e[["Active"].concat("Object").join("X")])("Microsoft.XMLHTTP")}catch(t){}}}).call(e,function(){return this}())},function(t,e){try{t.exports="undefined"!=typeof XMLHttpRequest&&"withCredentials"in new XMLHttpRequest}catch(e){t.exports=!1}},function(t,e,r){(function(e){function n(){}function o(t){if(c.call(this,t),this.requestTimeout=t.requestTimeout,this.extraHeaders=t.extraHeaders,e.location){var r="https:"===location.protocol,n=location.port;n||(n=r?443:80),this.xd=t.hostname!==e.location.hostname||n!==t.port,this.xs=t.secure!==r}}function i(t){this.method=t.method||"GET",this.uri=t.uri,this.xd=!!t.xd,this.xs=!!t.xs,this.async=!1!==t.async,this.data=void 0!==t.data?t.data:null,this.agent=t.agent,this.isBinary=t.isBinary,this.supportsBinary=t.supportsBinary,this.enablesXDR=t.enablesXDR,this.requestTimeout=t.requestTimeout,this.pfx=t.pfx,this.key=t.key,this.passphrase=t.passphrase,this.cert=t.cert,this.ca=t.ca,this.ciphers=t.ciphers,this.rejectUnauthorized=t.rejectUnauthorized,this.extraHeaders=t.extraHeaders,this.create()}function s(){for(var t in i.requests)i.requests.hasOwnProperty(t)&&i.requests[t].abort()}var a=r(13),c=r(16),h=r(5),p=r(28);r(3)("engine.io-client:polling-xhr");t.exports=o,t.exports.Request=i,p(o,c),o.prototype.supportsBinary=!0,o.prototype.request=function(t){return t=t||{},t.uri=this.uri(),t.xd=this.xd,t.xs=this.xs,t.agent=this.agent||!1,t.supportsBinary=this.supportsBinary,t.enablesXDR=this.enablesXDR,t.pfx=this.pfx,t.key=this.key,t.passphrase=this.passphrase,t.cert=this.cert,t.ca=this.ca,t.ciphers=this.ciphers,t.rejectUnauthorized=this.rejectUnauthorized,t.requestTimeout=this.requestTimeout,t.extraHeaders=this.extraHeaders,new i(t)},o.prototype.doWrite=function(t,e){var r="string"!=typeof t&&void 0!==t,n=this.request({method:"POST",data:t,isBinary:r}),o=this;n.on("success",e),n.on("error",function(t){o.onError("xhr post error",t)}),this.sendXhr=n},o.prototype.doPoll=function(){var t=this.request(),e=this;t.on("data",function(t){e.onData(t)}),t.on("error",function(t){e.onError("xhr poll error",t)}),this.pollXhr=t},h(i.prototype),i.prototype.create=function(){var t={agent:this.agent,xdomain:this.xd,xscheme:this.xs,enablesXDR:this.enablesXDR};t.pfx=this.pfx,t.key=this.key,t.passphrase=this.passphrase,t.cert=this.cert,t.ca=this.ca,t.ciphers=this.ciphers,t.rejectUnauthorized=this.rejectUnauthorized;var r=this.xhr=new a(t),n=this;try{r.open(this.method,this.uri,this.async);try{if(this.extraHeaders){r.setDisableHeaderCheck&&r.setDisableHeaderCheck(!0);for(var o in this.extraHeaders)this.extraHeaders.hasOwnProperty(o)&&r.setRequestHeader(o,this.extraHeaders[o])}}catch(t){}if("POST"===this.method)try{this.isBinary?r.setRequestHeader("Content-type","application/octet-stream"):r.setRequestHeader("Content-type","text/plain;charset=UTF-8")}catch(t){}try{r.setRequestHeader("Accept","*/*")}catch(t){}"withCredentials"in r&&(r.withCredentials=!0),this.requestTimeout&&(r.timeout=this.requestTimeout),this.hasXDR()?(r.onload=function(){n.onLoad()},r.onerror=function(){n.onError(r.responseText)}):r.onreadystatechange=function(){if(2===r.readyState)try{var t=r.getResponseHeader("Content-Type");n.supportsBinary&&"application/octet-stream"===t&&(r.responseType="arraybuffer")}catch(t){}4===r.readyState&&(200===r.status||1223===r.status?n.onLoad():setTimeout(function(){n.onError(r.status)},0))},r.send(this.data)}catch(t){return void setTimeout(function(){n.onError(t)},0)}e.document&&(this.index=i.requestsCount++,i.requests[this.index]=this)},i.prototype.onSuccess=function(){this.emit("success"),this.cleanup()},i.prototype.onData=function(t){this.emit("data",t),this.onSuccess()},i.prototype.onError=function(t){this.emit("error",t),this.cleanup(!0)},i.prototype.cleanup=function(t){if("undefined"!=typeof this.xhr&&null!==this.xhr){if(this.hasXDR()?this.xhr.onload=this.xhr.onerror=n:this.xhr.onreadystatechange=n,t)try{this.xhr.abort()}catch(t){}e.document&&delete i.requests[this.index],this.xhr=null}},i.prototype.onLoad=function(){var t;try{var e;try{e=this.xhr.getResponseHeader("Content-Type")}catch(t){}t="application/octet-stream"===e?this.xhr.response||this.xhr.responseText:this.xhr.responseText}catch(t){this.onError(t)}null!=t&&this.onData(t)},i.prototype.hasXDR=function(){return"undefined"!=typeof e.XDomainRequest&&!this.xs&&this.enablesXDR},i.prototype.abort=function(){this.cleanup()},i.requestsCount=0,i.requests={},e.document&&(e.attachEvent?e.attachEvent("onunload",s):e.addEventListener&&e.addEventListener("beforeunload",s,!1))}).call(e,function(){return this}())},function(t,e,r){function n(t){var e=t&&t.forceBase64;h&&!e||(this.supportsBinary=!1),o.call(this,t)}var o=r(17),i=r(27),s=r(18),a=r(28),c=r(29);r(3)("engine.io-client:polling");t.exports=n;var h=function(){var t=r(13),e=new t({xdomain:!1});return null!=e.responseType}();a(n,o),n.prototype.name="polling",n.prototype.doOpen=function(){this.poll()},n.prototype.pause=function(t){function e(){r.readyState="paused",t()}var r=this;if(this.readyState="pausing",this.polling||!this.writable){var n=0;this.polling&&(n++,this.once("pollComplete",function(){--n||e()})),this.writable||(n++,this.once("drain",function(){--n||e()}))}else e()},n.prototype.poll=function(){this.polling=!0,this.doPoll(),this.emit("poll")},n.prototype.onData=function(t){var e=this,r=function(t,r,n){return"opening"===e.readyState&&e.onOpen(),"close"===t.type?(e.onClose(),!1):void e.onPacket(t)};s.decodePayload(t,this.socket.binaryType,r),"closed"!==this.readyState&&(this.polling=!1,this.emit("pollComplete"),"open"===this.readyState&&this.poll())},n.prototype.doClose=function(){function t(){e.write([{type:"close"}])}var e=this;"open"===this.readyState?t():this.once("open",t)},n.prototype.write=function(t){var e=this;this.writable=!1;var r=function(){e.writable=!0,e.emit("drain")};s.encodePayload(t,this.supportsBinary,function(t){e.doWrite(t,r)})},n.prototype.uri=function(){var t=this.query||{},e=this.secure?"https":"http",r="";!1!==this.timestampRequests&&(t[this.timestampParam]=c()),this.supportsBinary||t.sid||(t.b64=1),t=i.encode(t),this.port&&("https"===e&&443!==Number(this.port)||"http"===e&&80!==Number(this.port))&&(r=":"+this.port),t.length&&(t="?"+t);var n=this.hostname.indexOf(":")!==-1;return e+"://"+(n?"["+this.hostname+"]":this.hostname)+r+this.path+t}},function(t,e,r){function n(t){this.path=t.path,this.hostname=t.hostname,this.port=t.port,this.secure=t.secure,this.query=t.query,this.timestampParam=t.timestampParam,this.timestampRequests=t.timestampRequests,this.readyState="",this.agent=t.agent||!1,this.socket=t.socket,this.enablesXDR=t.enablesXDR,this.pfx=t.pfx,this.key=t.key,this.passphrase=t.passphrase,this.cert=t.cert,this.ca=t.ca,this.ciphers=t.ciphers,this.rejectUnauthorized=t.rejectUnauthorized,this.forceNode=t.forceNode,this.extraHeaders=t.extraHeaders,this.localAddress=t.localAddress}var o=r(18),i=r(5);t.exports=n,i(n.prototype),n.prototype.onError=function(t,e){var r=new Error(t);return r.type="TransportError",r.description=e,this.emit("error",r),this},n.prototype.open=function(){return"closed"!==this.readyState&&""!==this.readyState||(this.readyState="opening",this.doOpen()),this},n.prototype.close=function(){return"opening"!==this.readyState&&"open"!==this.readyState||(this.doClose(),this.onClose()),this},n.prototype.send=function(t){if("open"!==this.readyState)throw new Error("Transport not open");this.write(t)},n.prototype.onOpen=function(){this.readyState="open",this.writable=!0,this.emit("open")},n.prototype.onData=function(t){var e=o.decodePacket(t,this.socket.binaryType);this.onPacket(e)},n.prototype.onPacket=function(t){this.emit("packet",t)},n.prototype.onClose=function(){this.readyState="closed",this.emit("close")}},function(t,e,r){(function(t){function n(t,r){var n="b"+e.packets[t.type]+t.data.data;return r(n)}function o(t,r,n){if(!r)return e.encodeBase64Packet(t,n);
-	var o=t.data,i=new Uint8Array(o),s=new Uint8Array(1+o.byteLength);s[0]=v[t.type];for(var a=0;a<i.length;a++)s[a+1]=i[a];return n(s.buffer)}function i(t,r,n){if(!r)return e.encodeBase64Packet(t,n);var o=new FileReader;return o.onload=function(){t.data=o.result,e.encodePacket(t,r,!0,n)},o.readAsArrayBuffer(t.data)}function s(t,r,n){if(!r)return e.encodeBase64Packet(t,n);if(g)return i(t,r,n);var o=new Uint8Array(1);o[0]=v[t.type];var s=new w([o.buffer,t.data]);return n(s)}function a(t){try{t=d.decode(t,{strict:!1})}catch(t){return!1}return t}function c(t,e,r){for(var n=new Array(t.length),o=l(t.length,r),i=function(t,r,o){e(r,function(e,r){n[t]=r,o(e,n)})},s=0;s<t.length;s++)i(s,t[s],o)}var h,p=r(19),u=r(20),f=r(21),l=r(22),d=r(23);t&&t.ArrayBuffer&&(h=r(25));var y="undefined"!=typeof navigator&&/Android/i.test(navigator.userAgent),m="undefined"!=typeof navigator&&/PhantomJS/i.test(navigator.userAgent),g=y||m;e.protocol=3;var v=e.packets={open:0,close:1,ping:2,pong:3,message:4,upgrade:5,noop:6},b=p(v),k={type:"error",data:"parser error"},w=r(26);e.encodePacket=function(e,r,i,a){"function"==typeof r&&(a=r,r=!1),"function"==typeof i&&(a=i,i=null);var c=void 0===e.data?void 0:e.data.buffer||e.data;if(t.ArrayBuffer&&c instanceof ArrayBuffer)return o(e,r,a);if(w&&c instanceof t.Blob)return s(e,r,a);if(c&&c.base64)return n(e,a);var h=v[e.type];return void 0!==e.data&&(h+=i?d.encode(String(e.data),{strict:!1}):String(e.data)),a(""+h)},e.encodeBase64Packet=function(r,n){var o="b"+e.packets[r.type];if(w&&r.data instanceof t.Blob){var i=new FileReader;return i.onload=function(){var t=i.result.split(",")[1];n(o+t)},i.readAsDataURL(r.data)}var s;try{s=String.fromCharCode.apply(null,new Uint8Array(r.data))}catch(t){for(var a=new Uint8Array(r.data),c=new Array(a.length),h=0;h<a.length;h++)c[h]=a[h];s=String.fromCharCode.apply(null,c)}return o+=t.btoa(s),n(o)},e.decodePacket=function(t,r,n){if(void 0===t)return k;if("string"==typeof t){if("b"===t.charAt(0))return e.decodeBase64Packet(t.substr(1),r);if(n&&(t=a(t),t===!1))return k;var o=t.charAt(0);return Number(o)==o&&b[o]?t.length>1?{type:b[o],data:t.substring(1)}:{type:b[o]}:k}var i=new Uint8Array(t),o=i[0],s=f(t,1);return w&&"blob"===r&&(s=new w([s])),{type:b[o],data:s}},e.decodeBase64Packet=function(t,e){var r=b[t.charAt(0)];if(!h)return{type:r,data:{base64:!0,data:t.substr(1)}};var n=h.decode(t.substr(1));return"blob"===e&&w&&(n=new w([n])),{type:r,data:n}},e.encodePayload=function(t,r,n){function o(t){return t.length+":"+t}function i(t,n){e.encodePacket(t,!!s&&r,!1,function(t){n(null,o(t))})}"function"==typeof r&&(n=r,r=null);var s=u(t);return r&&s?w&&!g?e.encodePayloadAsBlob(t,n):e.encodePayloadAsArrayBuffer(t,n):t.length?void c(t,i,function(t,e){return n(e.join(""))}):n("0:")},e.decodePayload=function(t,r,n){if("string"!=typeof t)return e.decodePayloadAsBinary(t,r,n);"function"==typeof r&&(n=r,r=null);var o;if(""===t)return n(k,0,1);for(var i,s,a="",c=0,h=t.length;c<h;c++){var p=t.charAt(c);if(":"===p){if(""===a||a!=(i=Number(a)))return n(k,0,1);if(s=t.substr(c+1,i),a!=s.length)return n(k,0,1);if(s.length){if(o=e.decodePacket(s,r,!1),k.type===o.type&&k.data===o.data)return n(k,0,1);var u=n(o,c+i,h);if(!1===u)return}c+=i,a=""}else a+=p}return""!==a?n(k,0,1):void 0},e.encodePayloadAsArrayBuffer=function(t,r){function n(t,r){e.encodePacket(t,!0,!0,function(t){return r(null,t)})}return t.length?void c(t,n,function(t,e){var n=e.reduce(function(t,e){var r;return r="string"==typeof e?e.length:e.byteLength,t+r.toString().length+r+2},0),o=new Uint8Array(n),i=0;return e.forEach(function(t){var e="string"==typeof t,r=t;if(e){for(var n=new Uint8Array(t.length),s=0;s<t.length;s++)n[s]=t.charCodeAt(s);r=n.buffer}e?o[i++]=0:o[i++]=1;for(var a=r.byteLength.toString(),s=0;s<a.length;s++)o[i++]=parseInt(a[s]);o[i++]=255;for(var n=new Uint8Array(r),s=0;s<n.length;s++)o[i++]=n[s]}),r(o.buffer)}):r(new ArrayBuffer(0))},e.encodePayloadAsBlob=function(t,r){function n(t,r){e.encodePacket(t,!0,!0,function(t){var e=new Uint8Array(1);if(e[0]=1,"string"==typeof t){for(var n=new Uint8Array(t.length),o=0;o<t.length;o++)n[o]=t.charCodeAt(o);t=n.buffer,e[0]=0}for(var i=t instanceof ArrayBuffer?t.byteLength:t.size,s=i.toString(),a=new Uint8Array(s.length+1),o=0;o<s.length;o++)a[o]=parseInt(s[o]);if(a[s.length]=255,w){var c=new w([e.buffer,a.buffer,t]);r(null,c)}})}c(t,n,function(t,e){return r(new w(e))})},e.decodePayloadAsBinary=function(t,r,n){"function"==typeof r&&(n=r,r=null);for(var o=t,i=[];o.byteLength>0;){for(var s=new Uint8Array(o),a=0===s[0],c="",h=1;255!==s[h];h++){if(c.length>310)return n(k,0,1);c+=s[h]}o=f(o,2+c.length),c=parseInt(c);var p=f(o,0,c);if(a)try{p=String.fromCharCode.apply(null,new Uint8Array(p))}catch(t){var u=new Uint8Array(p);p="";for(var h=0;h<u.length;h++)p+=String.fromCharCode(u[h])}i.push(p),o=f(o,c)}var l=i.length;i.forEach(function(t,o){n(e.decodePacket(t,r,!0),o,l)})}}).call(e,function(){return this}())},function(t,e){t.exports=Object.keys||function(t){var e=[],r=Object.prototype.hasOwnProperty;for(var n in t)r.call(t,n)&&e.push(n);return e}},function(t,e,r){(function(e){function n(t){if(!t||"object"!=typeof t)return!1;if(o(t)){for(var r=0,i=t.length;r<i;r++)if(n(t[r]))return!0;return!1}if("function"==typeof e.Buffer&&e.Buffer.isBuffer&&e.Buffer.isBuffer(t)||"function"==typeof e.ArrayBuffer&&t instanceof ArrayBuffer||s&&t instanceof Blob||a&&t instanceof File)return!0;if(t.toJSON&&"function"==typeof t.toJSON&&1===arguments.length)return n(t.toJSON(),!0);for(var c in t)if(Object.prototype.hasOwnProperty.call(t,c)&&n(t[c]))return!0;return!1}var o=r(7),i=Object.prototype.toString,s="function"==typeof e.Blob||"[object BlobConstructor]"===i.call(e.Blob),a="function"==typeof e.File||"[object FileConstructor]"===i.call(e.File);t.exports=n}).call(e,function(){return this}())},function(t,e){t.exports=function(t,e,r){var n=t.byteLength;if(e=e||0,r=r||n,t.slice)return t.slice(e,r);if(e<0&&(e+=n),r<0&&(r+=n),r>n&&(r=n),e>=n||e>=r||0===n)return new ArrayBuffer(0);for(var o=new Uint8Array(t),i=new Uint8Array(r-e),s=e,a=0;s<r;s++,a++)i[a]=o[s];return i.buffer}},function(t,e){function r(t,e,r){function o(t,n){if(o.count<=0)throw new Error("after called too many times");--o.count,t?(i=!0,e(t),e=r):0!==o.count||i||e(null,n)}var i=!1;return r=r||n,o.count=t,0===t?e():o}function n(){}t.exports=r},function(t,e,r){var n;(function(t,o){!function(i){function s(t){for(var e,r,n=[],o=0,i=t.length;o<i;)e=t.charCodeAt(o++),e>=55296&&e<=56319&&o<i?(r=t.charCodeAt(o++),56320==(64512&r)?n.push(((1023&e)<<10)+(1023&r)+65536):(n.push(e),o--)):n.push(e);return n}function a(t){for(var e,r=t.length,n=-1,o="";++n<r;)e=t[n],e>65535&&(e-=65536,o+=k(e>>>10&1023|55296),e=56320|1023&e),o+=k(e);return o}function c(t,e){if(t>=55296&&t<=57343){if(e)throw Error("Lone surrogate U+"+t.toString(16).toUpperCase()+" is not a scalar value");return!1}return!0}function h(t,e){return k(t>>e&63|128)}function p(t,e){if(0==(4294967168&t))return k(t);var r="";return 0==(4294965248&t)?r=k(t>>6&31|192):0==(4294901760&t)?(c(t,e)||(t=65533),r=k(t>>12&15|224),r+=h(t,6)):0==(4292870144&t)&&(r=k(t>>18&7|240),r+=h(t,12),r+=h(t,6)),r+=k(63&t|128)}function u(t,e){e=e||{};for(var r,n=!1!==e.strict,o=s(t),i=o.length,a=-1,c="";++a<i;)r=o[a],c+=p(r,n);return c}function f(){if(b>=v)throw Error("Invalid byte index");var t=255&g[b];if(b++,128==(192&t))return 63&t;throw Error("Invalid continuation byte")}function l(t){var e,r,n,o,i;if(b>v)throw Error("Invalid byte index");if(b==v)return!1;if(e=255&g[b],b++,0==(128&e))return e;if(192==(224&e)){if(r=f(),i=(31&e)<<6|r,i>=128)return i;throw Error("Invalid continuation byte")}if(224==(240&e)){if(r=f(),n=f(),i=(15&e)<<12|r<<6|n,i>=2048)return c(i,t)?i:65533;throw Error("Invalid continuation byte")}if(240==(248&e)&&(r=f(),n=f(),o=f(),i=(7&e)<<18|r<<12|n<<6|o,i>=65536&&i<=1114111))return i;throw Error("Invalid UTF-8 detected")}function d(t,e){e=e||{};var r=!1!==e.strict;g=s(t),v=g.length,b=0;for(var n,o=[];(n=l(r))!==!1;)o.push(n);return a(o)}var y="object"==typeof e&&e,m=("object"==typeof t&&t&&t.exports==y&&t,"object"==typeof o&&o);m.global!==m&&m.window!==m||(i=m);var g,v,b,k=String.fromCharCode,w={version:"2.1.2",encode:u,decode:d};n=function(){return w}.call(e,r,e,t),!(void 0!==n&&(t.exports=n))}(this)}).call(e,r(24)(t),function(){return this}())},function(t,e){t.exports=function(t){return t.webpackPolyfill||(t.deprecate=function(){},t.paths=[],t.children=[],t.webpackPolyfill=1),t}},function(t,e){!function(){"use strict";for(var t="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/",r=new Uint8Array(256),n=0;n<t.length;n++)r[t.charCodeAt(n)]=n;e.encode=function(e){var r,n=new Uint8Array(e),o=n.length,i="";for(r=0;r<o;r+=3)i+=t[n[r]>>2],i+=t[(3&n[r])<<4|n[r+1]>>4],i+=t[(15&n[r+1])<<2|n[r+2]>>6],i+=t[63&n[r+2]];return o%3===2?i=i.substring(0,i.length-1)+"=":o%3===1&&(i=i.substring(0,i.length-2)+"=="),i},e.decode=function(t){var e,n,o,i,s,a=.75*t.length,c=t.length,h=0;"="===t[t.length-1]&&(a--,"="===t[t.length-2]&&a--);var p=new ArrayBuffer(a),u=new Uint8Array(p);for(e=0;e<c;e+=4)n=r[t.charCodeAt(e)],o=r[t.charCodeAt(e+1)],i=r[t.charCodeAt(e+2)],s=r[t.charCodeAt(e+3)],u[h++]=n<<2|o>>4,u[h++]=(15&o)<<4|i>>2,u[h++]=(3&i)<<6|63&s;return p}}()},function(t,e){(function(e){function r(t){for(var e=0;e<t.length;e++){var r=t[e];if(r.buffer instanceof ArrayBuffer){var n=r.buffer;if(r.byteLength!==n.byteLength){var o=new Uint8Array(r.byteLength);o.set(new Uint8Array(n,r.byteOffset,r.byteLength)),n=o.buffer}t[e]=n}}}function n(t,e){e=e||{};var n=new i;r(t);for(var o=0;o<t.length;o++)n.append(t[o]);return e.type?n.getBlob(e.type):n.getBlob()}function o(t,e){return r(t),new Blob(t,e||{})}var i=e.BlobBuilder||e.WebKitBlobBuilder||e.MSBlobBuilder||e.MozBlobBuilder,s=function(){try{var t=new Blob(["hi"]);return 2===t.size}catch(t){return!1}}(),a=s&&function(){try{var t=new Blob([new Uint8Array([1,2])]);return 2===t.size}catch(t){return!1}}(),c=i&&i.prototype.append&&i.prototype.getBlob;t.exports=function(){return s?a?e.Blob:o:c?n:void 0}()}).call(e,function(){return this}())},function(t,e){e.encode=function(t){var e="";for(var r in t)t.hasOwnProperty(r)&&(e.length&&(e+="&"),e+=encodeURIComponent(r)+"="+encodeURIComponent(t[r]));return e},e.decode=function(t){for(var e={},r=t.split("&"),n=0,o=r.length;n<o;n++){var i=r[n].split("=");e[decodeURIComponent(i[0])]=decodeURIComponent(i[1])}return e}},function(t,e){t.exports=function(t,e){var r=function(){};r.prototype=e.prototype,t.prototype=new r,t.prototype.constructor=t}},function(t,e){"use strict";function r(t){var e="";do e=s[t%a]+e,t=Math.floor(t/a);while(t>0);return e}function n(t){var e=0;for(p=0;p<t.length;p++)e=e*a+c[t.charAt(p)];return e}function o(){var t=r(+new Date);return t!==i?(h=0,i=t):t+"."+r(h++)}for(var i,s="0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-_".split(""),a=64,c={},h=0,p=0;p<a;p++)c[s[p]]=p;o.encode=r,o.decode=n,t.exports=o},function(t,e,r){(function(e){function n(){}function o(t){i.call(this,t),this.query=this.query||{},a||(e.___eio||(e.___eio=[]),a=e.___eio),this.index=a.length;var r=this;a.push(function(t){r.onData(t)}),this.query.j=this.index,e.document&&e.addEventListener&&e.addEventListener("beforeunload",function(){r.script&&(r.script.onerror=n)},!1)}var i=r(16),s=r(28);t.exports=o;var a,c=/\n/g,h=/\\n/g;s(o,i),o.prototype.supportsBinary=!1,o.prototype.doClose=function(){this.script&&(this.script.parentNode.removeChild(this.script),this.script=null),this.form&&(this.form.parentNode.removeChild(this.form),this.form=null,this.iframe=null),i.prototype.doClose.call(this)},o.prototype.doPoll=function(){var t=this,e=document.createElement("script");this.script&&(this.script.parentNode.removeChild(this.script),this.script=null),e.async=!0,e.src=this.uri(),e.onerror=function(e){t.onError("jsonp poll error",e)};var r=document.getElementsByTagName("script")[0];r?r.parentNode.insertBefore(e,r):(document.head||document.body).appendChild(e),this.script=e;var n="undefined"!=typeof navigator&&/gecko/i.test(navigator.userAgent);n&&setTimeout(function(){var t=document.createElement("iframe");document.body.appendChild(t),document.body.removeChild(t)},100)},o.prototype.doWrite=function(t,e){function r(){n(),e()}function n(){if(o.iframe)try{o.form.removeChild(o.iframe)}catch(t){o.onError("jsonp polling iframe removal error",t)}try{var t='<iframe src="javascript:0" name="'+o.iframeId+'">';i=document.createElement(t)}catch(t){i=document.createElement("iframe"),i.name=o.iframeId,i.src="javascript:0"}i.id=o.iframeId,o.form.appendChild(i),o.iframe=i}var o=this;if(!this.form){var i,s=document.createElement("form"),a=document.createElement("textarea"),p=this.iframeId="eio_iframe_"+this.index;s.className="socketio",s.style.position="absolute",s.style.top="-1000px",s.style.left="-1000px",s.target=p,s.method="POST",s.setAttribute("accept-charset","utf-8"),a.name="d",s.appendChild(a),document.body.appendChild(s),this.form=s,this.area=a}this.form.action=this.uri(),n(),t=t.replace(h,"\\\n"),this.area.value=t.replace(c,"\\n");try{this.form.submit()}catch(t){}this.iframe.attachEvent?this.iframe.onreadystatechange=function(){"complete"===o.iframe.readyState&&r()}:this.iframe.onload=r}}).call(e,function(){return this}())},function(t,e,r){(function(e){function n(t){var e=t&&t.forceBase64;e&&(this.supportsBinary=!1),this.perMessageDeflate=t.perMessageDeflate,this.usingBrowserWebSocket=p&&!t.forceNode,this.protocols=t.protocols,this.usingBrowserWebSocket||(u=o),i.call(this,t)}var o,i=r(17),s=r(18),a=r(27),c=r(28),h=r(29),p=(r(3)("engine.io-client:websocket"),e.WebSocket||e.MozWebSocket);if("undefined"==typeof window)try{o=r(32)}catch(t){}var u=p;u||"undefined"!=typeof window||(u=o),t.exports=n,c(n,i),n.prototype.name="websocket",n.prototype.supportsBinary=!0,n.prototype.doOpen=function(){if(this.check()){var t=this.uri(),e=this.protocols,r={agent:this.agent,perMessageDeflate:this.perMessageDeflate};r.pfx=this.pfx,r.key=this.key,r.passphrase=this.passphrase,r.cert=this.cert,r.ca=this.ca,r.ciphers=this.ciphers,r.rejectUnauthorized=this.rejectUnauthorized,this.extraHeaders&&(r.headers=this.extraHeaders),this.localAddress&&(r.localAddress=this.localAddress);try{this.ws=this.usingBrowserWebSocket?e?new u(t,e):new u(t):new u(t,e,r)}catch(t){return this.emit("error",t)}void 0===this.ws.binaryType&&(this.supportsBinary=!1),this.ws.supports&&this.ws.supports.binary?(this.supportsBinary=!0,this.ws.binaryType="nodebuffer"):this.ws.binaryType="arraybuffer",this.addEventListeners()}},n.prototype.addEventListeners=function(){var t=this;this.ws.onopen=function(){t.onOpen()},this.ws.onclose=function(){t.onClose()},this.ws.onmessage=function(e){t.onData(e.data)},this.ws.onerror=function(e){t.onError("websocket error",e)}},n.prototype.write=function(t){function r(){n.emit("flush"),setTimeout(function(){n.writable=!0,n.emit("drain")},0)}var n=this;this.writable=!1;for(var o=t.length,i=0,a=o;i<a;i++)!function(t){s.encodePacket(t,n.supportsBinary,function(i){if(!n.usingBrowserWebSocket){var s={};if(t.options&&(s.compress=t.options.compress),n.perMessageDeflate){var a="string"==typeof i?e.Buffer.byteLength(i):i.length;a<n.perMessageDeflate.threshold&&(s.compress=!1)}}try{n.usingBrowserWebSocket?n.ws.send(i):n.ws.send(i,s)}catch(t){}--o||r()})}(t[i])},n.prototype.onClose=function(){i.prototype.onClose.call(this)},n.prototype.doClose=function(){"undefined"!=typeof this.ws&&this.ws.close()},n.prototype.uri=function(){var t=this.query||{},e=this.secure?"wss":"ws",r="";this.port&&("wss"===e&&443!==Number(this.port)||"ws"===e&&80!==Number(this.port))&&(r=":"+this.port),this.timestampRequests&&(t[this.timestampParam]=h()),this.supportsBinary||(t.b64=1),t=a.encode(t),t.length&&(t="?"+t);var n=this.hostname.indexOf(":")!==-1;return e+"://"+(n?"["+this.hostname+"]":this.hostname)+r+this.path+t},n.prototype.check=function(){return!(!u||"__initialize"in u&&this.name===n.prototype.name)}}).call(e,function(){return this}())},function(t,e){},function(t,e){var r=[].indexOf;t.exports=function(t,e){if(r)return t.indexOf(e);for(var n=0;n<t.length;++n)if(t[n]===e)return n;return-1}},function(t,e,r){"use strict";function n(t,e,r){this.io=t,this.nsp=e,this.json=this,this.ids=0,this.acks={},this.receiveBuffer=[],this.sendBuffer=[],this.connected=!1,this.disconnected=!0,this.flags={},r&&r.query&&(this.query=r.query),this.io.autoConnect&&this.open()}var o="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t},i=r(4),s=r(5),a=r(35),c=r(36),h=r(37),p=(r(3)("socket.io-client:socket"),r(27)),u=r(20);t.exports=e=n;var f={connect:1,connect_error:1,connect_timeout:1,connecting:1,disconnect:1,error:1,reconnect:1,reconnect_attempt:1,reconnect_failed:1,reconnect_error:1,reconnecting:1,ping:1,pong:1},l=s.prototype.emit;s(n.prototype),n.prototype.subEvents=function(){if(!this.subs){var t=this.io;this.subs=[c(t,"open",h(this,"onopen")),c(t,"packet",h(this,"onpacket")),c(t,"close",h(this,"onclose"))]}},n.prototype.open=n.prototype.connect=function(){return this.connected?this:(this.subEvents(),this.io.open(),"open"===this.io.readyState&&this.onopen(),this.emit("connecting"),this)},n.prototype.send=function(){var t=a(arguments);return t.unshift("message"),this.emit.apply(this,t),this},n.prototype.emit=function(t){if(f.hasOwnProperty(t))return l.apply(this,arguments),this;var e=a(arguments),r={type:(void 0!==this.flags.binary?this.flags.binary:u(e))?i.BINARY_EVENT:i.EVENT,data:e};return r.options={},r.options.compress=!this.flags||!1!==this.flags.compress,"function"==typeof e[e.length-1]&&(this.acks[this.ids]=e.pop(),r.id=this.ids++),this.connected?this.packet(r):this.sendBuffer.push(r),this.flags={},this},n.prototype.packet=function(t){t.nsp=this.nsp,this.io.packet(t)},n.prototype.onopen=function(){if("/"!==this.nsp)if(this.query){var t="object"===o(this.query)?p.encode(this.query):this.query;this.packet({type:i.CONNECT,query:t})}else this.packet({type:i.CONNECT})},n.prototype.onclose=function(t){this.connected=!1,this.disconnected=!0,delete this.id,this.emit("disconnect",t)},n.prototype.onpacket=function(t){if(t.nsp===this.nsp)switch(t.type){case i.CONNECT:this.onconnect();break;case i.EVENT:this.onevent(t);break;case i.BINARY_EVENT:this.onevent(t);break;case i.ACK:this.onack(t);break;case i.BINARY_ACK:this.onack(t);break;case i.DISCONNECT:this.ondisconnect();break;case i.ERROR:this.emit("error",t.data)}},n.prototype.onevent=function(t){var e=t.data||[];null!=t.id&&e.push(this.ack(t.id)),this.connected?l.apply(this,e):this.receiveBuffer.push(e)},n.prototype.ack=function(t){var e=this,r=!1;return function(){if(!r){r=!0;var n=a(arguments);e.packet({type:u(n)?i.BINARY_ACK:i.ACK,id:t,data:n})}}},n.prototype.onack=function(t){var e=this.acks[t.id];"function"==typeof e&&(e.apply(this,t.data),delete this.acks[t.id])},n.prototype.onconnect=function(){this.connected=!0,this.disconnected=!1,this.emit("connect"),this.emitBuffered()},n.prototype.emitBuffered=function(){var t;for(t=0;t<this.receiveBuffer.length;t++)l.apply(this,this.receiveBuffer[t]);for(this.receiveBuffer=[],t=0;t<this.sendBuffer.length;t++)this.packet(this.sendBuffer[t]);this.sendBuffer=[]},n.prototype.ondisconnect=function(){this.destroy(),this.onclose("io server disconnect")},n.prototype.destroy=function(){if(this.subs){for(var t=0;t<this.subs.length;t++)this.subs[t].destroy();this.subs=null}this.io.destroy(this)},n.prototype.close=n.prototype.disconnect=function(){return this.connected&&this.packet({type:i.DISCONNECT}),this.destroy(),this.connected&&this.onclose("io client disconnect"),this},n.prototype.compress=function(t){return this.flags.compress=t,this},n.prototype.binary=function(t){return this.flags.binary=t,this}},function(t,e){function r(t,e){var r=[];e=e||0;for(var n=e||0;n<t.length;n++)r[n-e]=t[n];return r}t.exports=r},function(t,e){"use strict";function r(t,e,r){return t.on(e,r),{destroy:function(){t.removeListener(e,r)}}}t.exports=r},function(t,e){var r=[].slice;t.exports=function(t,e){if("string"==typeof e&&(e=t[e]),"function"!=typeof e)throw new Error("bind() requires a function");var n=r.call(arguments,2);return function(){return e.apply(t,n.concat(r.call(arguments)))}}},function(t,e){function r(t){t=t||{},this.ms=t.min||100,this.max=t.max||1e4,this.factor=t.factor||2,this.jitter=t.jitter>0&&t.jitter<=1?t.jitter:0,this.attempts=0}t.exports=r,r.prototype.duration=function(){var t=this.ms*Math.pow(this.factor,this.attempts++);if(this.jitter){var e=Math.random(),r=Math.floor(e*this.jitter*t);t=0==(1&Math.floor(10*e))?t-r:t+r}return 0|Math.min(t,this.max)},r.prototype.reset=function(){this.attempts=0},r.prototype.setMin=function(t){this.ms=t},r.prototype.setMax=function(t){this.max=t},r.prototype.setJitter=function(t){this.jitter=t}}])});
+	!function(t,e){ true?module.exports=e():"function"==typeof define&&define.amd?define([],e):"object"==typeof exports?exports.io=e():t.io=e()}(this,function(){return function(t){function e(n){if(r[n])return r[n].exports;var o=r[n]={exports:{},id:n,loaded:!1};return t[n].call(o.exports,o,o.exports,e),o.loaded=!0,o.exports}var r={};return e.m=t,e.c=r,e.p="",e(0)}([function(t,e,r){"use strict";function n(t,e){"object"===("undefined"==typeof t?"undefined":o(t))&&(e=t,t=void 0),e=e||{};var r,n=i(t),s=n.source,h=n.id,p=n.path,u=c[h]&&p in c[h].nsps,f=e.forceNew||e["force new connection"]||!1===e.multiplex||u;return f?r=a(s,e):(c[h]||(c[h]=a(s,e)),r=c[h]),n.query&&!e.query&&(e.query=n.query),r.socket(n.path,e)}var o="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t},i=r(1),s=r(4),a=r(10);r(3)("socket.io-client");t.exports=e=n;var c=e.managers={};e.protocol=s.protocol,e.connect=n,e.Manager=r(10),e.Socket=r(34)},function(t,e,r){(function(e){"use strict";function n(t,r){var n=t;r=r||e.location,null==t&&(t=r.protocol+"//"+r.host),"string"==typeof t&&("/"===t.charAt(0)&&(t="/"===t.charAt(1)?r.protocol+t:r.host+t),/^(https?|wss?):\/\//.test(t)||(t="undefined"!=typeof r?r.protocol+"//"+t:"https://"+t),n=o(t)),n.port||(/^(http|ws)$/.test(n.protocol)?n.port="80":/^(http|ws)s$/.test(n.protocol)&&(n.port="443")),n.path=n.path||"/";var i=n.host.indexOf(":")!==-1,s=i?"["+n.host+"]":n.host;return n.id=n.protocol+"://"+s+":"+n.port,n.href=n.protocol+"://"+s+(r&&r.port===n.port?"":":"+n.port),n}var o=r(2);r(3)("socket.io-client:url");t.exports=n}).call(e,function(){return this}())},function(t,e){var r=/^(?:(?![^:@]+:[^:@\/]*@)(http|https|ws|wss):\/\/)?((?:(([^:@]*)(?::([^:@]*))?)?@)?((?:[a-f0-9]{0,4}:){2,7}[a-f0-9]{0,4}|[^:\/?#]*)(?::(\d*))?)(((\/(?:[^?#](?![^?#\/]*\.[^?#\/.]+(?:[?#]|$)))*\/?)?([^?#\/]*))(?:\?([^#]*))?(?:#(.*))?)/,n=["source","protocol","authority","userInfo","user","password","host","port","relative","path","directory","file","query","anchor"];t.exports=function(t){var e=t,o=t.indexOf("["),i=t.indexOf("]");o!=-1&&i!=-1&&(t=t.substring(0,o)+t.substring(o,i).replace(/:/g,";")+t.substring(i,t.length));for(var s=r.exec(t||""),a={},c=14;c--;)a[n[c]]=s[c]||"";return o!=-1&&i!=-1&&(a.source=e,a.host=a.host.substring(1,a.host.length-1).replace(/;/g,":"),a.authority=a.authority.replace("[","").replace("]","").replace(/;/g,":"),a.ipv6uri=!0),a}},function(t,e){"use strict";t.exports=function(){return function(){}}},function(t,e,r){function n(){}function o(t){var r=""+t.type;return e.BINARY_EVENT!==t.type&&e.BINARY_ACK!==t.type||(r+=t.attachments+"-"),t.nsp&&"/"!==t.nsp&&(r+=t.nsp+","),null!=t.id&&(r+=t.id),null!=t.data&&(r+=JSON.stringify(t.data)),r}function i(t,e){function r(t){var r=l.deconstructPacket(t),n=o(r.packet),i=r.buffers;i.unshift(n),e(i)}l.removeBlobs(t,r)}function s(){this.reconstructor=null}function a(t){var r=0,n={type:Number(t.charAt(0))};if(null==e.types[n.type])return p();if(e.BINARY_EVENT===n.type||e.BINARY_ACK===n.type){for(var o="";"-"!==t.charAt(++r)&&(o+=t.charAt(r),r!=t.length););if(o!=Number(o)||"-"!==t.charAt(r))throw new Error("Illegal attachments");n.attachments=Number(o)}if("/"===t.charAt(r+1))for(n.nsp="";++r;){var i=t.charAt(r);if(","===i)break;if(n.nsp+=i,r===t.length)break}else n.nsp="/";var s=t.charAt(r+1);if(""!==s&&Number(s)==s){for(n.id="";++r;){var i=t.charAt(r);if(null==i||Number(i)!=i){--r;break}if(n.id+=t.charAt(r),r===t.length)break}n.id=Number(n.id)}return t.charAt(++r)&&(n=c(n,t.substr(r))),n}function c(t,e){try{t.data=JSON.parse(e)}catch(t){return p()}return t}function h(t){this.reconPack=t,this.buffers=[]}function p(){return{type:e.ERROR,data:"parser error"}}var u=(r(3)("socket.io-parser"),r(5)),f=r(6),l=r(8),d=r(9);e.protocol=4,e.types=["CONNECT","DISCONNECT","EVENT","ACK","ERROR","BINARY_EVENT","BINARY_ACK"],e.CONNECT=0,e.DISCONNECT=1,e.EVENT=2,e.ACK=3,e.ERROR=4,e.BINARY_EVENT=5,e.BINARY_ACK=6,e.Encoder=n,e.Decoder=s,n.prototype.encode=function(t,r){if(t.type!==e.EVENT&&t.type!==e.ACK||!f(t.data)||(t.type=t.type===e.EVENT?e.BINARY_EVENT:e.BINARY_ACK),e.BINARY_EVENT===t.type||e.BINARY_ACK===t.type)i(t,r);else{var n=o(t);r([n])}},u(s.prototype),s.prototype.add=function(t){var r;if("string"==typeof t)r=a(t),e.BINARY_EVENT===r.type||e.BINARY_ACK===r.type?(this.reconstructor=new h(r),0===this.reconstructor.reconPack.attachments&&this.emit("decoded",r)):this.emit("decoded",r);else{if(!d(t)&&!t.base64)throw new Error("Unknown type: "+t);if(!this.reconstructor)throw new Error("got binary data when not reconstructing a packet");r=this.reconstructor.takeBinaryData(t),r&&(this.reconstructor=null,this.emit("decoded",r))}},s.prototype.destroy=function(){this.reconstructor&&this.reconstructor.finishedReconstruction()},h.prototype.takeBinaryData=function(t){if(this.buffers.push(t),this.buffers.length===this.reconPack.attachments){var e=l.reconstructPacket(this.reconPack,this.buffers);return this.finishedReconstruction(),e}return null},h.prototype.finishedReconstruction=function(){this.reconPack=null,this.buffers=[]}},function(t,e,r){function n(t){if(t)return o(t)}function o(t){for(var e in n.prototype)t[e]=n.prototype[e];return t}t.exports=n,n.prototype.on=n.prototype.addEventListener=function(t,e){return this._callbacks=this._callbacks||{},(this._callbacks["$"+t]=this._callbacks["$"+t]||[]).push(e),this},n.prototype.once=function(t,e){function r(){this.off(t,r),e.apply(this,arguments)}return r.fn=e,this.on(t,r),this},n.prototype.off=n.prototype.removeListener=n.prototype.removeAllListeners=n.prototype.removeEventListener=function(t,e){if(this._callbacks=this._callbacks||{},0==arguments.length)return this._callbacks={},this;var r=this._callbacks["$"+t];if(!r)return this;if(1==arguments.length)return delete this._callbacks["$"+t],this;for(var n,o=0;o<r.length;o++)if(n=r[o],n===e||n.fn===e){r.splice(o,1);break}return this},n.prototype.emit=function(t){this._callbacks=this._callbacks||{};var e=[].slice.call(arguments,1),r=this._callbacks["$"+t];if(r){r=r.slice(0);for(var n=0,o=r.length;n<o;++n)r[n].apply(this,e)}return this},n.prototype.listeners=function(t){return this._callbacks=this._callbacks||{},this._callbacks["$"+t]||[]},n.prototype.hasListeners=function(t){return!!this.listeners(t).length}},function(t,e,r){(function(e){function n(t){if(!t||"object"!=typeof t)return!1;if(o(t)){for(var r=0,i=t.length;r<i;r++)if(n(t[r]))return!0;return!1}if("function"==typeof e.Buffer&&e.Buffer.isBuffer&&e.Buffer.isBuffer(t)||"function"==typeof e.ArrayBuffer&&t instanceof ArrayBuffer||s&&t instanceof Blob||a&&t instanceof File)return!0;if(t.toJSON&&"function"==typeof t.toJSON&&1===arguments.length)return n(t.toJSON(),!0);for(var c in t)if(Object.prototype.hasOwnProperty.call(t,c)&&n(t[c]))return!0;return!1}var o=r(7),i=Object.prototype.toString,s="function"==typeof e.Blob||"[object BlobConstructor]"===i.call(e.Blob),a="function"==typeof e.File||"[object FileConstructor]"===i.call(e.File);t.exports=n}).call(e,function(){return this}())},function(t,e){var r={}.toString;t.exports=Array.isArray||function(t){return"[object Array]"==r.call(t)}},function(t,e,r){(function(t){function n(t,e){if(!t)return t;if(s(t)){var r={_placeholder:!0,num:e.length};return e.push(t),r}if(i(t)){for(var o=new Array(t.length),a=0;a<t.length;a++)o[a]=n(t[a],e);return o}if("object"==typeof t&&!(t instanceof Date)){var o={};for(var c in t)o[c]=n(t[c],e);return o}return t}function o(t,e){if(!t)return t;if(t&&t._placeholder)return e[t.num];if(i(t))for(var r=0;r<t.length;r++)t[r]=o(t[r],e);else if("object"==typeof t)for(var n in t)t[n]=o(t[n],e);return t}var i=r(7),s=r(9),a=Object.prototype.toString,c="function"==typeof t.Blob||"[object BlobConstructor]"===a.call(t.Blob),h="function"==typeof t.File||"[object FileConstructor]"===a.call(t.File);e.deconstructPacket=function(t){var e=[],r=t.data,o=t;return o.data=n(r,e),o.attachments=e.length,{packet:o,buffers:e}},e.reconstructPacket=function(t,e){return t.data=o(t.data,e),t.attachments=void 0,t},e.removeBlobs=function(t,e){function r(t,a,p){if(!t)return t;if(c&&t instanceof Blob||h&&t instanceof File){n++;var u=new FileReader;u.onload=function(){p?p[a]=this.result:o=this.result,--n||e(o)},u.readAsArrayBuffer(t)}else if(i(t))for(var f=0;f<t.length;f++)r(t[f],f,t);else if("object"==typeof t&&!s(t))for(var l in t)r(t[l],l,t)}var n=0,o=t;r(o),n||e(o)}}).call(e,function(){return this}())},function(t,e){(function(e){function r(t){return e.Buffer&&e.Buffer.isBuffer(t)||e.ArrayBuffer&&t instanceof ArrayBuffer}t.exports=r}).call(e,function(){return this}())},function(t,e,r){"use strict";function n(t,e){if(!(this instanceof n))return new n(t,e);t&&"object"===("undefined"==typeof t?"undefined":o(t))&&(e=t,t=void 0),e=e||{},e.path=e.path||"/socket.io",this.nsps={},this.subs=[],this.opts=e,this.reconnection(e.reconnection!==!1),this.reconnectionAttempts(e.reconnectionAttempts||1/0),this.reconnectionDelay(e.reconnectionDelay||1e3),this.reconnectionDelayMax(e.reconnectionDelayMax||5e3),this.randomizationFactor(e.randomizationFactor||.5),this.backoff=new f({min:this.reconnectionDelay(),max:this.reconnectionDelayMax(),jitter:this.randomizationFactor()}),this.timeout(null==e.timeout?2e4:e.timeout),this.readyState="closed",this.uri=t,this.connecting=[],this.lastPing=null,this.encoding=!1,this.packetBuffer=[];var r=e.parser||c;this.encoder=new r.Encoder,this.decoder=new r.Decoder,this.autoConnect=e.autoConnect!==!1,this.autoConnect&&this.open()}var o="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t},i=r(11),s=r(34),a=r(5),c=r(4),h=r(36),p=r(37),u=(r(3)("socket.io-client:manager"),r(33)),f=r(38),l=Object.prototype.hasOwnProperty;t.exports=n,n.prototype.emitAll=function(){this.emit.apply(this,arguments);for(var t in this.nsps)l.call(this.nsps,t)&&this.nsps[t].emit.apply(this.nsps[t],arguments)},n.prototype.updateSocketIds=function(){for(var t in this.nsps)l.call(this.nsps,t)&&(this.nsps[t].id=this.generateId(t))},n.prototype.generateId=function(t){return("/"===t?"":t+"#")+this.engine.id},a(n.prototype),n.prototype.reconnection=function(t){return arguments.length?(this._reconnection=!!t,this):this._reconnection},n.prototype.reconnectionAttempts=function(t){return arguments.length?(this._reconnectionAttempts=t,this):this._reconnectionAttempts},n.prototype.reconnectionDelay=function(t){return arguments.length?(this._reconnectionDelay=t,this.backoff&&this.backoff.setMin(t),this):this._reconnectionDelay},n.prototype.randomizationFactor=function(t){return arguments.length?(this._randomizationFactor=t,this.backoff&&this.backoff.setJitter(t),this):this._randomizationFactor},n.prototype.reconnectionDelayMax=function(t){return arguments.length?(this._reconnectionDelayMax=t,this.backoff&&this.backoff.setMax(t),this):this._reconnectionDelayMax},n.prototype.timeout=function(t){return arguments.length?(this._timeout=t,this):this._timeout},n.prototype.maybeReconnectOnOpen=function(){!this.reconnecting&&this._reconnection&&0===this.backoff.attempts&&this.reconnect()},n.prototype.open=n.prototype.connect=function(t,e){if(~this.readyState.indexOf("open"))return this;this.engine=i(this.uri,this.opts);var r=this.engine,n=this;this.readyState="opening",this.skipReconnect=!1;var o=h(r,"open",function(){n.onopen(),t&&t()}),s=h(r,"error",function(e){if(n.cleanup(),n.readyState="closed",n.emitAll("connect_error",e),t){var r=new Error("Connection error");r.data=e,t(r)}else n.maybeReconnectOnOpen()});if(!1!==this._timeout){var a=this._timeout,c=setTimeout(function(){o.destroy(),r.close(),r.emit("error","timeout"),n.emitAll("connect_timeout",a)},a);this.subs.push({destroy:function(){clearTimeout(c)}})}return this.subs.push(o),this.subs.push(s),this},n.prototype.onopen=function(){this.cleanup(),this.readyState="open",this.emit("open");var t=this.engine;this.subs.push(h(t,"data",p(this,"ondata"))),this.subs.push(h(t,"ping",p(this,"onping"))),this.subs.push(h(t,"pong",p(this,"onpong"))),this.subs.push(h(t,"error",p(this,"onerror"))),this.subs.push(h(t,"close",p(this,"onclose"))),this.subs.push(h(this.decoder,"decoded",p(this,"ondecoded")))},n.prototype.onping=function(){this.lastPing=new Date,this.emitAll("ping")},n.prototype.onpong=function(){this.emitAll("pong",new Date-this.lastPing)},n.prototype.ondata=function(t){this.decoder.add(t)},n.prototype.ondecoded=function(t){this.emit("packet",t)},n.prototype.onerror=function(t){this.emitAll("error",t)},n.prototype.socket=function(t,e){function r(){~u(o.connecting,n)||o.connecting.push(n)}var n=this.nsps[t];if(!n){n=new s(this,t,e),this.nsps[t]=n;var o=this;n.on("connecting",r),n.on("connect",function(){n.id=o.generateId(t)}),this.autoConnect&&r()}return n},n.prototype.destroy=function(t){var e=u(this.connecting,t);~e&&this.connecting.splice(e,1),this.connecting.length||this.close()},n.prototype.packet=function(t){var e=this;t.query&&0===t.type&&(t.nsp+="?"+t.query),e.encoding?e.packetBuffer.push(t):(e.encoding=!0,this.encoder.encode(t,function(r){for(var n=0;n<r.length;n++)e.engine.write(r[n],t.options);e.encoding=!1,e.processPacketQueue()}))},n.prototype.processPacketQueue=function(){if(this.packetBuffer.length>0&&!this.encoding){var t=this.packetBuffer.shift();this.packet(t)}},n.prototype.cleanup=function(){for(var t=this.subs.length,e=0;e<t;e++){var r=this.subs.shift();r.destroy()}this.packetBuffer=[],this.encoding=!1,this.lastPing=null,this.decoder.destroy()},n.prototype.close=n.prototype.disconnect=function(){this.skipReconnect=!0,this.reconnecting=!1,"opening"===this.readyState&&this.cleanup(),this.backoff.reset(),this.readyState="closed",this.engine&&this.engine.close()},n.prototype.onclose=function(t){this.cleanup(),this.backoff.reset(),this.readyState="closed",this.emit("close",t),this._reconnection&&!this.skipReconnect&&this.reconnect()},n.prototype.reconnect=function(){if(this.reconnecting||this.skipReconnect)return this;var t=this;if(this.backoff.attempts>=this._reconnectionAttempts)this.backoff.reset(),this.emitAll("reconnect_failed"),this.reconnecting=!1;else{var e=this.backoff.duration();this.reconnecting=!0;var r=setTimeout(function(){t.skipReconnect||(t.emitAll("reconnect_attempt",t.backoff.attempts),t.emitAll("reconnecting",t.backoff.attempts),t.skipReconnect||t.open(function(e){e?(t.reconnecting=!1,t.reconnect(),t.emitAll("reconnect_error",e.data)):t.onreconnect()}))},e);this.subs.push({destroy:function(){clearTimeout(r)}})}},n.prototype.onreconnect=function(){var t=this.backoff.attempts;this.reconnecting=!1,this.backoff.reset(),this.updateSocketIds(),this.emitAll("reconnect",t)}},function(t,e,r){t.exports=r(12),t.exports.parser=r(19)},function(t,e,r){(function(e){function n(t,r){if(!(this instanceof n))return new n(t,r);r=r||{},t&&"object"==typeof t&&(r=t,t=null),t?(t=h(t),r.hostname=t.host,r.secure="https"===t.protocol||"wss"===t.protocol,r.port=t.port,t.query&&(r.query=t.query)):r.host&&(r.hostname=h(r.host).host),this.secure=null!=r.secure?r.secure:e.location&&"https:"===location.protocol,r.hostname&&!r.port&&(r.port=this.secure?"443":"80"),this.agent=r.agent||!1,this.hostname=r.hostname||(e.location?location.hostname:"localhost"),this.port=r.port||(e.location&&location.port?location.port:this.secure?443:80),this.query=r.query||{},"string"==typeof this.query&&(this.query=p.decode(this.query)),this.upgrade=!1!==r.upgrade,this.path=(r.path||"/engine.io").replace(/\/$/,"")+"/",this.forceJSONP=!!r.forceJSONP,this.jsonp=!1!==r.jsonp,this.forceBase64=!!r.forceBase64,this.enablesXDR=!!r.enablesXDR,this.timestampParam=r.timestampParam||"t",this.timestampRequests=r.timestampRequests,this.transports=r.transports||["polling","websocket"],this.transportOptions=r.transportOptions||{},this.readyState="",this.writeBuffer=[],this.prevBufferLen=0,this.policyPort=r.policyPort||843,this.rememberUpgrade=r.rememberUpgrade||!1,this.binaryType=null,this.onlyBinaryUpgrades=r.onlyBinaryUpgrades,this.perMessageDeflate=!1!==r.perMessageDeflate&&(r.perMessageDeflate||{}),!0===this.perMessageDeflate&&(this.perMessageDeflate={}),this.perMessageDeflate&&null==this.perMessageDeflate.threshold&&(this.perMessageDeflate.threshold=1024),this.pfx=r.pfx||null,this.key=r.key||null,this.passphrase=r.passphrase||null,this.cert=r.cert||null,this.ca=r.ca||null,this.ciphers=r.ciphers||null,this.rejectUnauthorized=void 0===r.rejectUnauthorized||r.rejectUnauthorized,this.forceNode=!!r.forceNode;var o="object"==typeof e&&e;o.global===o&&(r.extraHeaders&&Object.keys(r.extraHeaders).length>0&&(this.extraHeaders=r.extraHeaders),r.localAddress&&(this.localAddress=r.localAddress)),this.id=null,this.upgrades=null,this.pingInterval=null,this.pingTimeout=null,this.pingIntervalTimer=null,this.pingTimeoutTimer=null,this.open()}function o(t){var e={};for(var r in t)t.hasOwnProperty(r)&&(e[r]=t[r]);return e}var i=r(13),s=r(5),a=(r(3)("engine.io-client:socket"),r(33)),c=r(19),h=r(2),p=r(27);t.exports=n,n.priorWebsocketSuccess=!1,s(n.prototype),n.protocol=c.protocol,n.Socket=n,n.Transport=r(18),n.transports=r(13),n.parser=r(19),n.prototype.createTransport=function(t){var e=o(this.query);e.EIO=c.protocol,e.transport=t;var r=this.transportOptions[t]||{};this.id&&(e.sid=this.id);var n=new i[t]({query:e,socket:this,agent:r.agent||this.agent,hostname:r.hostname||this.hostname,port:r.port||this.port,secure:r.secure||this.secure,path:r.path||this.path,forceJSONP:r.forceJSONP||this.forceJSONP,jsonp:r.jsonp||this.jsonp,forceBase64:r.forceBase64||this.forceBase64,enablesXDR:r.enablesXDR||this.enablesXDR,timestampRequests:r.timestampRequests||this.timestampRequests,timestampParam:r.timestampParam||this.timestampParam,policyPort:r.policyPort||this.policyPort,pfx:r.pfx||this.pfx,key:r.key||this.key,passphrase:r.passphrase||this.passphrase,cert:r.cert||this.cert,ca:r.ca||this.ca,ciphers:r.ciphers||this.ciphers,rejectUnauthorized:r.rejectUnauthorized||this.rejectUnauthorized,perMessageDeflate:r.perMessageDeflate||this.perMessageDeflate,extraHeaders:r.extraHeaders||this.extraHeaders,forceNode:r.forceNode||this.forceNode,localAddress:r.localAddress||this.localAddress,requestTimeout:r.requestTimeout||this.requestTimeout,protocols:r.protocols||void 0});return n},n.prototype.open=function(){var t;if(this.rememberUpgrade&&n.priorWebsocketSuccess&&this.transports.indexOf("websocket")!==-1)t="websocket";else{if(0===this.transports.length){var e=this;return void setTimeout(function(){e.emit("error","No transports available")},0)}t=this.transports[0]}this.readyState="opening";try{t=this.createTransport(t)}catch(t){return this.transports.shift(),void this.open()}t.open(),this.setTransport(t)},n.prototype.setTransport=function(t){var e=this;this.transport&&this.transport.removeAllListeners(),this.transport=t,t.on("drain",function(){e.onDrain()}).on("packet",function(t){e.onPacket(t)}).on("error",function(t){e.onError(t)}).on("close",function(){e.onClose("transport close")})},n.prototype.probe=function(t){function e(){if(u.onlyBinaryUpgrades){var t=!this.supportsBinary&&u.transport.supportsBinary;p=p||t}p||(h.send([{type:"ping",data:"probe"}]),h.once("packet",function(t){if(!p)if("pong"===t.type&&"probe"===t.data){if(u.upgrading=!0,u.emit("upgrading",h),!h)return;n.priorWebsocketSuccess="websocket"===h.name,u.transport.pause(function(){p||"closed"!==u.readyState&&(c(),u.setTransport(h),h.send([{type:"upgrade"}]),u.emit("upgrade",h),h=null,u.upgrading=!1,u.flush())})}else{var e=new Error("probe error");e.transport=h.name,u.emit("upgradeError",e)}}))}function r(){p||(p=!0,c(),h.close(),h=null)}function o(t){var e=new Error("probe error: "+t);e.transport=h.name,r(),u.emit("upgradeError",e)}function i(){o("transport closed")}function s(){o("socket closed")}function a(t){h&&t.name!==h.name&&r()}function c(){h.removeListener("open",e),h.removeListener("error",o),h.removeListener("close",i),u.removeListener("close",s),u.removeListener("upgrading",a)}var h=this.createTransport(t,{probe:1}),p=!1,u=this;n.priorWebsocketSuccess=!1,h.once("open",e),h.once("error",o),h.once("close",i),this.once("close",s),this.once("upgrading",a),h.open()},n.prototype.onOpen=function(){if(this.readyState="open",n.priorWebsocketSuccess="websocket"===this.transport.name,this.emit("open"),this.flush(),"open"===this.readyState&&this.upgrade&&this.transport.pause)for(var t=0,e=this.upgrades.length;t<e;t++)this.probe(this.upgrades[t])},n.prototype.onPacket=function(t){if("opening"===this.readyState||"open"===this.readyState||"closing"===this.readyState)switch(this.emit("packet",t),this.emit("heartbeat"),t.type){case"open":this.onHandshake(JSON.parse(t.data));break;case"pong":this.setPing(),this.emit("pong");break;case"error":var e=new Error("server error");e.code=t.data,this.onError(e);break;case"message":this.emit("data",t.data),this.emit("message",t.data)}},n.prototype.onHandshake=function(t){this.emit("handshake",t),this.id=t.sid,this.transport.query.sid=t.sid,this.upgrades=this.filterUpgrades(t.upgrades),this.pingInterval=t.pingInterval,this.pingTimeout=t.pingTimeout,this.onOpen(),"closed"!==this.readyState&&(this.setPing(),this.removeListener("heartbeat",this.onHeartbeat),this.on("heartbeat",this.onHeartbeat))},n.prototype.onHeartbeat=function(t){clearTimeout(this.pingTimeoutTimer);var e=this;e.pingTimeoutTimer=setTimeout(function(){"closed"!==e.readyState&&e.onClose("ping timeout")},t||e.pingInterval+e.pingTimeout)},n.prototype.setPing=function(){var t=this;clearTimeout(t.pingIntervalTimer),t.pingIntervalTimer=setTimeout(function(){t.ping(),t.onHeartbeat(t.pingTimeout)},t.pingInterval)},n.prototype.ping=function(){var t=this;this.sendPacket("ping",function(){t.emit("ping")})},n.prototype.onDrain=function(){this.writeBuffer.splice(0,this.prevBufferLen),this.prevBufferLen=0,0===this.writeBuffer.length?this.emit("drain"):this.flush()},n.prototype.flush=function(){"closed"!==this.readyState&&this.transport.writable&&!this.upgrading&&this.writeBuffer.length&&(this.transport.send(this.writeBuffer),this.prevBufferLen=this.writeBuffer.length,this.emit("flush"))},n.prototype.write=n.prototype.send=function(t,e,r){return this.sendPacket("message",t,e,r),this},n.prototype.sendPacket=function(t,e,r,n){if("function"==typeof e&&(n=e,e=void 0),"function"==typeof r&&(n=r,r=null),"closing"!==this.readyState&&"closed"!==this.readyState){r=r||{},r.compress=!1!==r.compress;var o={type:t,data:e,options:r};this.emit("packetCreate",o),this.writeBuffer.push(o),n&&this.once("flush",n),this.flush()}},n.prototype.close=function(){function t(){n.onClose("forced close"),n.transport.close()}function e(){n.removeListener("upgrade",e),n.removeListener("upgradeError",e),t()}function r(){n.once("upgrade",e),n.once("upgradeError",e)}if("opening"===this.readyState||"open"===this.readyState){this.readyState="closing";var n=this;this.writeBuffer.length?this.once("drain",function(){this.upgrading?r():t()}):this.upgrading?r():t()}return this},n.prototype.onError=function(t){n.priorWebsocketSuccess=!1,this.emit("error",t),this.onClose("transport error",t)},n.prototype.onClose=function(t,e){if("opening"===this.readyState||"open"===this.readyState||"closing"===this.readyState){var r=this;clearTimeout(this.pingIntervalTimer),clearTimeout(this.pingTimeoutTimer),this.transport.removeAllListeners("close"),this.transport.close(),this.transport.removeAllListeners(),this.readyState="closed",this.id=null,this.emit("close",t,e),r.writeBuffer=[],r.prevBufferLen=0}},n.prototype.filterUpgrades=function(t){for(var e=[],r=0,n=t.length;r<n;r++)~a(this.transports,t[r])&&e.push(t[r]);return e}}).call(e,function(){return this}())},function(t,e,r){(function(t){function n(e){var r,n=!1,a=!1,c=!1!==e.jsonp;if(t.location){var h="https:"===location.protocol,p=location.port;p||(p=h?443:80),n=e.hostname!==location.hostname||p!==e.port,a=e.secure!==h}if(e.xdomain=n,e.xscheme=a,r=new o(e),"open"in r&&!e.forceJSONP)return new i(e);if(!c)throw new Error("JSONP disabled");return new s(e)}var o=r(14),i=r(16),s=r(30),a=r(31);e.polling=n,e.websocket=a}).call(e,function(){return this}())},function(t,e,r){(function(e){var n=r(15);t.exports=function(t){var r=t.xdomain,o=t.xscheme,i=t.enablesXDR;try{if("undefined"!=typeof XMLHttpRequest&&(!r||n))return new XMLHttpRequest}catch(t){}try{if("undefined"!=typeof XDomainRequest&&!o&&i)return new XDomainRequest}catch(t){}if(!r)try{return new(e[["Active"].concat("Object").join("X")])("Microsoft.XMLHTTP")}catch(t){}}}).call(e,function(){return this}())},function(t,e){try{t.exports="undefined"!=typeof XMLHttpRequest&&"withCredentials"in new XMLHttpRequest}catch(e){t.exports=!1}},function(t,e,r){(function(e){function n(){}function o(t){if(c.call(this,t),this.requestTimeout=t.requestTimeout,this.extraHeaders=t.extraHeaders,e.location){var r="https:"===location.protocol,n=location.port;n||(n=r?443:80),this.xd=t.hostname!==e.location.hostname||n!==t.port,this.xs=t.secure!==r}}function i(t){this.method=t.method||"GET",this.uri=t.uri,this.xd=!!t.xd,this.xs=!!t.xs,this.async=!1!==t.async,this.data=void 0!==t.data?t.data:null,this.agent=t.agent,this.isBinary=t.isBinary,this.supportsBinary=t.supportsBinary,this.enablesXDR=t.enablesXDR,this.requestTimeout=t.requestTimeout,this.pfx=t.pfx,this.key=t.key,this.passphrase=t.passphrase,this.cert=t.cert,this.ca=t.ca,this.ciphers=t.ciphers,this.rejectUnauthorized=t.rejectUnauthorized,this.extraHeaders=t.extraHeaders,this.create()}function s(){for(var t in i.requests)i.requests.hasOwnProperty(t)&&i.requests[t].abort()}var a=r(14),c=r(17),h=r(5),p=r(28);r(3)("engine.io-client:polling-xhr");t.exports=o,t.exports.Request=i,p(o,c),o.prototype.supportsBinary=!0,o.prototype.request=function(t){return t=t||{},t.uri=this.uri(),t.xd=this.xd,t.xs=this.xs,t.agent=this.agent||!1,t.supportsBinary=this.supportsBinary,t.enablesXDR=this.enablesXDR,t.pfx=this.pfx,t.key=this.key,t.passphrase=this.passphrase,t.cert=this.cert,t.ca=this.ca,t.ciphers=this.ciphers,t.rejectUnauthorized=this.rejectUnauthorized,t.requestTimeout=this.requestTimeout,t.extraHeaders=this.extraHeaders,new i(t)},o.prototype.doWrite=function(t,e){var r="string"!=typeof t&&void 0!==t,n=this.request({method:"POST",data:t,isBinary:r}),o=this;n.on("success",e),n.on("error",function(t){o.onError("xhr post error",t)}),this.sendXhr=n},o.prototype.doPoll=function(){var t=this.request(),e=this;t.on("data",function(t){e.onData(t)}),t.on("error",function(t){e.onError("xhr poll error",t)}),this.pollXhr=t},h(i.prototype),i.prototype.create=function(){var t={agent:this.agent,xdomain:this.xd,xscheme:this.xs,enablesXDR:this.enablesXDR};t.pfx=this.pfx,t.key=this.key,t.passphrase=this.passphrase,t.cert=this.cert,t.ca=this.ca,t.ciphers=this.ciphers,t.rejectUnauthorized=this.rejectUnauthorized;var r=this.xhr=new a(t),n=this;try{r.open(this.method,this.uri,this.async);try{if(this.extraHeaders){r.setDisableHeaderCheck&&r.setDisableHeaderCheck(!0);for(var o in this.extraHeaders)this.extraHeaders.hasOwnProperty(o)&&r.setRequestHeader(o,this.extraHeaders[o])}}catch(t){}if("POST"===this.method)try{this.isBinary?r.setRequestHeader("Content-type","application/octet-stream"):r.setRequestHeader("Content-type","text/plain;charset=UTF-8")}catch(t){}try{r.setRequestHeader("Accept","*/*")}catch(t){}"withCredentials"in r&&(r.withCredentials=!0),this.requestTimeout&&(r.timeout=this.requestTimeout),this.hasXDR()?(r.onload=function(){n.onLoad()},r.onerror=function(){n.onError(r.responseText)}):r.onreadystatechange=function(){if(2===r.readyState){var t;try{t=r.getResponseHeader("Content-Type")}catch(t){}"application/octet-stream"===t&&(r.responseType="arraybuffer")}4===r.readyState&&(200===r.status||1223===r.status?n.onLoad():setTimeout(function(){n.onError(r.status)},0))},r.send(this.data)}catch(t){return void setTimeout(function(){n.onError(t)},0)}e.document&&(this.index=i.requestsCount++,i.requests[this.index]=this)},i.prototype.onSuccess=function(){this.emit("success"),this.cleanup()},i.prototype.onData=function(t){this.emit("data",t),this.onSuccess()},i.prototype.onError=function(t){this.emit("error",t),this.cleanup(!0)},i.prototype.cleanup=function(t){if("undefined"!=typeof this.xhr&&null!==this.xhr){if(this.hasXDR()?this.xhr.onload=this.xhr.onerror=n:this.xhr.onreadystatechange=n,t)try{this.xhr.abort()}catch(t){}e.document&&delete i.requests[this.index],this.xhr=null}},i.prototype.onLoad=function(){var t;try{var e;try{e=this.xhr.getResponseHeader("Content-Type")}catch(t){}t="application/octet-stream"===e?this.xhr.response||this.xhr.responseText:this.xhr.responseText}catch(t){this.onError(t)}null!=t&&this.onData(t)},i.prototype.hasXDR=function(){return"undefined"!=typeof e.XDomainRequest&&!this.xs&&this.enablesXDR},i.prototype.abort=function(){this.cleanup()},i.requestsCount=0,i.requests={},e.document&&(e.attachEvent?e.attachEvent("onunload",s):e.addEventListener&&e.addEventListener("beforeunload",s,!1))}).call(e,function(){return this}())},function(t,e,r){function n(t){var e=t&&t.forceBase64;h&&!e||(this.supportsBinary=!1),o.call(this,t)}var o=r(18),i=r(27),s=r(19),a=r(28),c=r(29);r(3)("engine.io-client:polling");t.exports=n;var h=function(){var t=r(14),e=new t({xdomain:!1});return null!=e.responseType}();a(n,o),n.prototype.name="polling",n.prototype.doOpen=function(){this.poll()},n.prototype.pause=function(t){function e(){r.readyState="paused",t()}var r=this;if(this.readyState="pausing",this.polling||!this.writable){var n=0;this.polling&&(n++,this.once("pollComplete",function(){--n||e()})),this.writable||(n++,this.once("drain",function(){--n||e()}))}else e()},n.prototype.poll=function(){this.polling=!0,this.doPoll(),this.emit("poll")},n.prototype.onData=function(t){var e=this,r=function(t,r,n){return"opening"===e.readyState&&e.onOpen(),"close"===t.type?(e.onClose(),!1):void e.onPacket(t)};s.decodePayload(t,this.socket.binaryType,r),"closed"!==this.readyState&&(this.polling=!1,this.emit("pollComplete"),"open"===this.readyState&&this.poll())},n.prototype.doClose=function(){function t(){e.write([{type:"close"}])}var e=this;"open"===this.readyState?t():this.once("open",t)},n.prototype.write=function(t){var e=this;this.writable=!1;var r=function(){e.writable=!0,e.emit("drain")};s.encodePayload(t,this.supportsBinary,function(t){e.doWrite(t,r)})},n.prototype.uri=function(){var t=this.query||{},e=this.secure?"https":"http",r="";!1!==this.timestampRequests&&(t[this.timestampParam]=c()),this.supportsBinary||t.sid||(t.b64=1),t=i.encode(t),this.port&&("https"===e&&443!==Number(this.port)||"http"===e&&80!==Number(this.port))&&(r=":"+this.port),t.length&&(t="?"+t);var n=this.hostname.indexOf(":")!==-1;return e+"://"+(n?"["+this.hostname+"]":this.hostname)+r+this.path+t}},function(t,e,r){function n(t){this.path=t.path,this.hostname=t.hostname,this.port=t.port,this.secure=t.secure,this.query=t.query,this.timestampParam=t.timestampParam,this.timestampRequests=t.timestampRequests,this.readyState="",this.agent=t.agent||!1,this.socket=t.socket,this.enablesXDR=t.enablesXDR,this.pfx=t.pfx,this.key=t.key,this.passphrase=t.passphrase,this.cert=t.cert,this.ca=t.ca,this.ciphers=t.ciphers,this.rejectUnauthorized=t.rejectUnauthorized,this.forceNode=t.forceNode,this.extraHeaders=t.extraHeaders,this.localAddress=t.localAddress}var o=r(19),i=r(5);t.exports=n,i(n.prototype),n.prototype.onError=function(t,e){var r=new Error(t);return r.type="TransportError",r.description=e,this.emit("error",r),this},n.prototype.open=function(){return"closed"!==this.readyState&&""!==this.readyState||(this.readyState="opening",this.doOpen()),this},n.prototype.close=function(){return"opening"!==this.readyState&&"open"!==this.readyState||(this.doClose(),this.onClose()),this},n.prototype.send=function(t){if("open"!==this.readyState)throw new Error("Transport not open");this.write(t)},n.prototype.onOpen=function(){this.readyState="open",this.writable=!0,this.emit("open");
+	},n.prototype.onData=function(t){var e=o.decodePacket(t,this.socket.binaryType);this.onPacket(e)},n.prototype.onPacket=function(t){this.emit("packet",t)},n.prototype.onClose=function(){this.readyState="closed",this.emit("close")}},function(t,e,r){(function(t){function n(t,r){var n="b"+e.packets[t.type]+t.data.data;return r(n)}function o(t,r,n){if(!r)return e.encodeBase64Packet(t,n);var o=t.data,i=new Uint8Array(o),s=new Uint8Array(1+o.byteLength);s[0]=v[t.type];for(var a=0;a<i.length;a++)s[a+1]=i[a];return n(s.buffer)}function i(t,r,n){if(!r)return e.encodeBase64Packet(t,n);var o=new FileReader;return o.onload=function(){t.data=o.result,e.encodePacket(t,r,!0,n)},o.readAsArrayBuffer(t.data)}function s(t,r,n){if(!r)return e.encodeBase64Packet(t,n);if(g)return i(t,r,n);var o=new Uint8Array(1);o[0]=v[t.type];var s=new w([o.buffer,t.data]);return n(s)}function a(t){try{t=d.decode(t,{strict:!1})}catch(t){return!1}return t}function c(t,e,r){for(var n=new Array(t.length),o=l(t.length,r),i=function(t,r,o){e(r,function(e,r){n[t]=r,o(e,n)})},s=0;s<t.length;s++)i(s,t[s],o)}var h,p=r(20),u=r(6),f=r(21),l=r(22),d=r(23);t&&t.ArrayBuffer&&(h=r(25));var y="undefined"!=typeof navigator&&/Android/i.test(navigator.userAgent),m="undefined"!=typeof navigator&&/PhantomJS/i.test(navigator.userAgent),g=y||m;e.protocol=3;var v=e.packets={open:0,close:1,ping:2,pong:3,message:4,upgrade:5,noop:6},b=p(v),k={type:"error",data:"parser error"},w=r(26);e.encodePacket=function(e,r,i,a){"function"==typeof r&&(a=r,r=!1),"function"==typeof i&&(a=i,i=null);var c=void 0===e.data?void 0:e.data.buffer||e.data;if(t.ArrayBuffer&&c instanceof ArrayBuffer)return o(e,r,a);if(w&&c instanceof t.Blob)return s(e,r,a);if(c&&c.base64)return n(e,a);var h=v[e.type];return void 0!==e.data&&(h+=i?d.encode(String(e.data),{strict:!1}):String(e.data)),a(""+h)},e.encodeBase64Packet=function(r,n){var o="b"+e.packets[r.type];if(w&&r.data instanceof t.Blob){var i=new FileReader;return i.onload=function(){var t=i.result.split(",")[1];n(o+t)},i.readAsDataURL(r.data)}var s;try{s=String.fromCharCode.apply(null,new Uint8Array(r.data))}catch(t){for(var a=new Uint8Array(r.data),c=new Array(a.length),h=0;h<a.length;h++)c[h]=a[h];s=String.fromCharCode.apply(null,c)}return o+=t.btoa(s),n(o)},e.decodePacket=function(t,r,n){if(void 0===t)return k;if("string"==typeof t){if("b"===t.charAt(0))return e.decodeBase64Packet(t.substr(1),r);if(n&&(t=a(t),t===!1))return k;var o=t.charAt(0);return Number(o)==o&&b[o]?t.length>1?{type:b[o],data:t.substring(1)}:{type:b[o]}:k}var i=new Uint8Array(t),o=i[0],s=f(t,1);return w&&"blob"===r&&(s=new w([s])),{type:b[o],data:s}},e.decodeBase64Packet=function(t,e){var r=b[t.charAt(0)];if(!h)return{type:r,data:{base64:!0,data:t.substr(1)}};var n=h.decode(t.substr(1));return"blob"===e&&w&&(n=new w([n])),{type:r,data:n}},e.encodePayload=function(t,r,n){function o(t){return t.length+":"+t}function i(t,n){e.encodePacket(t,!!s&&r,!1,function(t){n(null,o(t))})}"function"==typeof r&&(n=r,r=null);var s=u(t);return r&&s?w&&!g?e.encodePayloadAsBlob(t,n):e.encodePayloadAsArrayBuffer(t,n):t.length?void c(t,i,function(t,e){return n(e.join(""))}):n("0:")},e.decodePayload=function(t,r,n){if("string"!=typeof t)return e.decodePayloadAsBinary(t,r,n);"function"==typeof r&&(n=r,r=null);var o;if(""===t)return n(k,0,1);for(var i,s,a="",c=0,h=t.length;c<h;c++){var p=t.charAt(c);if(":"===p){if(""===a||a!=(i=Number(a)))return n(k,0,1);if(s=t.substr(c+1,i),a!=s.length)return n(k,0,1);if(s.length){if(o=e.decodePacket(s,r,!1),k.type===o.type&&k.data===o.data)return n(k,0,1);var u=n(o,c+i,h);if(!1===u)return}c+=i,a=""}else a+=p}return""!==a?n(k,0,1):void 0},e.encodePayloadAsArrayBuffer=function(t,r){function n(t,r){e.encodePacket(t,!0,!0,function(t){return r(null,t)})}return t.length?void c(t,n,function(t,e){var n=e.reduce(function(t,e){var r;return r="string"==typeof e?e.length:e.byteLength,t+r.toString().length+r+2},0),o=new Uint8Array(n),i=0;return e.forEach(function(t){var e="string"==typeof t,r=t;if(e){for(var n=new Uint8Array(t.length),s=0;s<t.length;s++)n[s]=t.charCodeAt(s);r=n.buffer}e?o[i++]=0:o[i++]=1;for(var a=r.byteLength.toString(),s=0;s<a.length;s++)o[i++]=parseInt(a[s]);o[i++]=255;for(var n=new Uint8Array(r),s=0;s<n.length;s++)o[i++]=n[s]}),r(o.buffer)}):r(new ArrayBuffer(0))},e.encodePayloadAsBlob=function(t,r){function n(t,r){e.encodePacket(t,!0,!0,function(t){var e=new Uint8Array(1);if(e[0]=1,"string"==typeof t){for(var n=new Uint8Array(t.length),o=0;o<t.length;o++)n[o]=t.charCodeAt(o);t=n.buffer,e[0]=0}for(var i=t instanceof ArrayBuffer?t.byteLength:t.size,s=i.toString(),a=new Uint8Array(s.length+1),o=0;o<s.length;o++)a[o]=parseInt(s[o]);if(a[s.length]=255,w){var c=new w([e.buffer,a.buffer,t]);r(null,c)}})}c(t,n,function(t,e){return r(new w(e))})},e.decodePayloadAsBinary=function(t,r,n){"function"==typeof r&&(n=r,r=null);for(var o=t,i=[];o.byteLength>0;){for(var s=new Uint8Array(o),a=0===s[0],c="",h=1;255!==s[h];h++){if(c.length>310)return n(k,0,1);c+=s[h]}o=f(o,2+c.length),c=parseInt(c);var p=f(o,0,c);if(a)try{p=String.fromCharCode.apply(null,new Uint8Array(p))}catch(t){var u=new Uint8Array(p);p="";for(var h=0;h<u.length;h++)p+=String.fromCharCode(u[h])}i.push(p),o=f(o,c)}var l=i.length;i.forEach(function(t,o){n(e.decodePacket(t,r,!0),o,l)})}}).call(e,function(){return this}())},function(t,e){t.exports=Object.keys||function(t){var e=[],r=Object.prototype.hasOwnProperty;for(var n in t)r.call(t,n)&&e.push(n);return e}},function(t,e){t.exports=function(t,e,r){var n=t.byteLength;if(e=e||0,r=r||n,t.slice)return t.slice(e,r);if(e<0&&(e+=n),r<0&&(r+=n),r>n&&(r=n),e>=n||e>=r||0===n)return new ArrayBuffer(0);for(var o=new Uint8Array(t),i=new Uint8Array(r-e),s=e,a=0;s<r;s++,a++)i[a]=o[s];return i.buffer}},function(t,e){function r(t,e,r){function o(t,n){if(o.count<=0)throw new Error("after called too many times");--o.count,t?(i=!0,e(t),e=r):0!==o.count||i||e(null,n)}var i=!1;return r=r||n,o.count=t,0===t?e():o}function n(){}t.exports=r},function(t,e,r){var n;(function(t,o){!function(i){function s(t){for(var e,r,n=[],o=0,i=t.length;o<i;)e=t.charCodeAt(o++),e>=55296&&e<=56319&&o<i?(r=t.charCodeAt(o++),56320==(64512&r)?n.push(((1023&e)<<10)+(1023&r)+65536):(n.push(e),o--)):n.push(e);return n}function a(t){for(var e,r=t.length,n=-1,o="";++n<r;)e=t[n],e>65535&&(e-=65536,o+=k(e>>>10&1023|55296),e=56320|1023&e),o+=k(e);return o}function c(t,e){if(t>=55296&&t<=57343){if(e)throw Error("Lone surrogate U+"+t.toString(16).toUpperCase()+" is not a scalar value");return!1}return!0}function h(t,e){return k(t>>e&63|128)}function p(t,e){if(0==(4294967168&t))return k(t);var r="";return 0==(4294965248&t)?r=k(t>>6&31|192):0==(4294901760&t)?(c(t,e)||(t=65533),r=k(t>>12&15|224),r+=h(t,6)):0==(4292870144&t)&&(r=k(t>>18&7|240),r+=h(t,12),r+=h(t,6)),r+=k(63&t|128)}function u(t,e){e=e||{};for(var r,n=!1!==e.strict,o=s(t),i=o.length,a=-1,c="";++a<i;)r=o[a],c+=p(r,n);return c}function f(){if(b>=v)throw Error("Invalid byte index");var t=255&g[b];if(b++,128==(192&t))return 63&t;throw Error("Invalid continuation byte")}function l(t){var e,r,n,o,i;if(b>v)throw Error("Invalid byte index");if(b==v)return!1;if(e=255&g[b],b++,0==(128&e))return e;if(192==(224&e)){if(r=f(),i=(31&e)<<6|r,i>=128)return i;throw Error("Invalid continuation byte")}if(224==(240&e)){if(r=f(),n=f(),i=(15&e)<<12|r<<6|n,i>=2048)return c(i,t)?i:65533;throw Error("Invalid continuation byte")}if(240==(248&e)&&(r=f(),n=f(),o=f(),i=(7&e)<<18|r<<12|n<<6|o,i>=65536&&i<=1114111))return i;throw Error("Invalid UTF-8 detected")}function d(t,e){e=e||{};var r=!1!==e.strict;g=s(t),v=g.length,b=0;for(var n,o=[];(n=l(r))!==!1;)o.push(n);return a(o)}var y="object"==typeof e&&e,m=("object"==typeof t&&t&&t.exports==y&&t,"object"==typeof o&&o);m.global!==m&&m.window!==m||(i=m);var g,v,b,k=String.fromCharCode,w={version:"2.1.2",encode:u,decode:d};n=function(){return w}.call(e,r,e,t),!(void 0!==n&&(t.exports=n))}(this)}).call(e,r(24)(t),function(){return this}())},function(t,e){t.exports=function(t){return t.webpackPolyfill||(t.deprecate=function(){},t.paths=[],t.children=[],t.webpackPolyfill=1),t}},function(t,e){!function(){"use strict";for(var t="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/",r=new Uint8Array(256),n=0;n<t.length;n++)r[t.charCodeAt(n)]=n;e.encode=function(e){var r,n=new Uint8Array(e),o=n.length,i="";for(r=0;r<o;r+=3)i+=t[n[r]>>2],i+=t[(3&n[r])<<4|n[r+1]>>4],i+=t[(15&n[r+1])<<2|n[r+2]>>6],i+=t[63&n[r+2]];return o%3===2?i=i.substring(0,i.length-1)+"=":o%3===1&&(i=i.substring(0,i.length-2)+"=="),i},e.decode=function(t){var e,n,o,i,s,a=.75*t.length,c=t.length,h=0;"="===t[t.length-1]&&(a--,"="===t[t.length-2]&&a--);var p=new ArrayBuffer(a),u=new Uint8Array(p);for(e=0;e<c;e+=4)n=r[t.charCodeAt(e)],o=r[t.charCodeAt(e+1)],i=r[t.charCodeAt(e+2)],s=r[t.charCodeAt(e+3)],u[h++]=n<<2|o>>4,u[h++]=(15&o)<<4|i>>2,u[h++]=(3&i)<<6|63&s;return p}}()},function(t,e){(function(e){function r(t){for(var e=0;e<t.length;e++){var r=t[e];if(r.buffer instanceof ArrayBuffer){var n=r.buffer;if(r.byteLength!==n.byteLength){var o=new Uint8Array(r.byteLength);o.set(new Uint8Array(n,r.byteOffset,r.byteLength)),n=o.buffer}t[e]=n}}}function n(t,e){e=e||{};var n=new i;r(t);for(var o=0;o<t.length;o++)n.append(t[o]);return e.type?n.getBlob(e.type):n.getBlob()}function o(t,e){return r(t),new Blob(t,e||{})}var i=e.BlobBuilder||e.WebKitBlobBuilder||e.MSBlobBuilder||e.MozBlobBuilder,s=function(){try{var t=new Blob(["hi"]);return 2===t.size}catch(t){return!1}}(),a=s&&function(){try{var t=new Blob([new Uint8Array([1,2])]);return 2===t.size}catch(t){return!1}}(),c=i&&i.prototype.append&&i.prototype.getBlob;t.exports=function(){return s?a?e.Blob:o:c?n:void 0}()}).call(e,function(){return this}())},function(t,e){e.encode=function(t){var e="";for(var r in t)t.hasOwnProperty(r)&&(e.length&&(e+="&"),e+=encodeURIComponent(r)+"="+encodeURIComponent(t[r]));return e},e.decode=function(t){for(var e={},r=t.split("&"),n=0,o=r.length;n<o;n++){var i=r[n].split("=");e[decodeURIComponent(i[0])]=decodeURIComponent(i[1])}return e}},function(t,e){t.exports=function(t,e){var r=function(){};r.prototype=e.prototype,t.prototype=new r,t.prototype.constructor=t}},function(t,e){"use strict";function r(t){var e="";do e=s[t%a]+e,t=Math.floor(t/a);while(t>0);return e}function n(t){var e=0;for(p=0;p<t.length;p++)e=e*a+c[t.charAt(p)];return e}function o(){var t=r(+new Date);return t!==i?(h=0,i=t):t+"."+r(h++)}for(var i,s="0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-_".split(""),a=64,c={},h=0,p=0;p<a;p++)c[s[p]]=p;o.encode=r,o.decode=n,t.exports=o},function(t,e,r){(function(e){function n(){}function o(t){i.call(this,t),this.query=this.query||{},a||(e.___eio||(e.___eio=[]),a=e.___eio),this.index=a.length;var r=this;a.push(function(t){r.onData(t)}),this.query.j=this.index,e.document&&e.addEventListener&&e.addEventListener("beforeunload",function(){r.script&&(r.script.onerror=n)},!1)}var i=r(17),s=r(28);t.exports=o;var a,c=/\n/g,h=/\\n/g;s(o,i),o.prototype.supportsBinary=!1,o.prototype.doClose=function(){this.script&&(this.script.parentNode.removeChild(this.script),this.script=null),this.form&&(this.form.parentNode.removeChild(this.form),this.form=null,this.iframe=null),i.prototype.doClose.call(this)},o.prototype.doPoll=function(){var t=this,e=document.createElement("script");this.script&&(this.script.parentNode.removeChild(this.script),this.script=null),e.async=!0,e.src=this.uri(),e.onerror=function(e){t.onError("jsonp poll error",e)};var r=document.getElementsByTagName("script")[0];r?r.parentNode.insertBefore(e,r):(document.head||document.body).appendChild(e),this.script=e;var n="undefined"!=typeof navigator&&/gecko/i.test(navigator.userAgent);n&&setTimeout(function(){var t=document.createElement("iframe");document.body.appendChild(t),document.body.removeChild(t)},100)},o.prototype.doWrite=function(t,e){function r(){n(),e()}function n(){if(o.iframe)try{o.form.removeChild(o.iframe)}catch(t){o.onError("jsonp polling iframe removal error",t)}try{var t='<iframe src="javascript:0" name="'+o.iframeId+'">';i=document.createElement(t)}catch(t){i=document.createElement("iframe"),i.name=o.iframeId,i.src="javascript:0"}i.id=o.iframeId,o.form.appendChild(i),o.iframe=i}var o=this;if(!this.form){var i,s=document.createElement("form"),a=document.createElement("textarea"),p=this.iframeId="eio_iframe_"+this.index;s.className="socketio",s.style.position="absolute",s.style.top="-1000px",s.style.left="-1000px",s.target=p,s.method="POST",s.setAttribute("accept-charset","utf-8"),a.name="d",s.appendChild(a),document.body.appendChild(s),this.form=s,this.area=a}this.form.action=this.uri(),n(),t=t.replace(h,"\\\n"),this.area.value=t.replace(c,"\\n");try{this.form.submit()}catch(t){}this.iframe.attachEvent?this.iframe.onreadystatechange=function(){"complete"===o.iframe.readyState&&r()}:this.iframe.onload=r}}).call(e,function(){return this}())},function(t,e,r){(function(e){function n(t){var e=t&&t.forceBase64;e&&(this.supportsBinary=!1),this.perMessageDeflate=t.perMessageDeflate,this.usingBrowserWebSocket=p&&!t.forceNode,this.protocols=t.protocols,this.usingBrowserWebSocket||(u=o),i.call(this,t)}var o,i=r(18),s=r(19),a=r(27),c=r(28),h=r(29),p=(r(3)("engine.io-client:websocket"),e.WebSocket||e.MozWebSocket);if("undefined"==typeof window)try{o=r(32)}catch(t){}var u=p;u||"undefined"!=typeof window||(u=o),t.exports=n,c(n,i),n.prototype.name="websocket",n.prototype.supportsBinary=!0,n.prototype.doOpen=function(){if(this.check()){var t=this.uri(),e=this.protocols,r={agent:this.agent,perMessageDeflate:this.perMessageDeflate};r.pfx=this.pfx,r.key=this.key,r.passphrase=this.passphrase,r.cert=this.cert,r.ca=this.ca,r.ciphers=this.ciphers,r.rejectUnauthorized=this.rejectUnauthorized,this.extraHeaders&&(r.headers=this.extraHeaders),this.localAddress&&(r.localAddress=this.localAddress);try{this.ws=this.usingBrowserWebSocket?e?new u(t,e):new u(t):new u(t,e,r)}catch(t){return this.emit("error",t)}void 0===this.ws.binaryType&&(this.supportsBinary=!1),this.ws.supports&&this.ws.supports.binary?(this.supportsBinary=!0,this.ws.binaryType="nodebuffer"):this.ws.binaryType="arraybuffer",this.addEventListeners()}},n.prototype.addEventListeners=function(){var t=this;this.ws.onopen=function(){t.onOpen()},this.ws.onclose=function(){t.onClose()},this.ws.onmessage=function(e){t.onData(e.data)},this.ws.onerror=function(e){t.onError("websocket error",e)}},n.prototype.write=function(t){function r(){n.emit("flush"),setTimeout(function(){n.writable=!0,n.emit("drain")},0)}var n=this;this.writable=!1;for(var o=t.length,i=0,a=o;i<a;i++)!function(t){s.encodePacket(t,n.supportsBinary,function(i){if(!n.usingBrowserWebSocket){var s={};if(t.options&&(s.compress=t.options.compress),n.perMessageDeflate){var a="string"==typeof i?e.Buffer.byteLength(i):i.length;a<n.perMessageDeflate.threshold&&(s.compress=!1)}}try{n.usingBrowserWebSocket?n.ws.send(i):n.ws.send(i,s)}catch(t){}--o||r()})}(t[i])},n.prototype.onClose=function(){i.prototype.onClose.call(this)},n.prototype.doClose=function(){"undefined"!=typeof this.ws&&this.ws.close()},n.prototype.uri=function(){var t=this.query||{},e=this.secure?"wss":"ws",r="";this.port&&("wss"===e&&443!==Number(this.port)||"ws"===e&&80!==Number(this.port))&&(r=":"+this.port),this.timestampRequests&&(t[this.timestampParam]=h()),this.supportsBinary||(t.b64=1),t=a.encode(t),t.length&&(t="?"+t);var n=this.hostname.indexOf(":")!==-1;return e+"://"+(n?"["+this.hostname+"]":this.hostname)+r+this.path+t},n.prototype.check=function(){return!(!u||"__initialize"in u&&this.name===n.prototype.name)}}).call(e,function(){return this}())},function(t,e){},function(t,e){var r=[].indexOf;t.exports=function(t,e){if(r)return t.indexOf(e);for(var n=0;n<t.length;++n)if(t[n]===e)return n;return-1}},function(t,e,r){"use strict";function n(t,e,r){this.io=t,this.nsp=e,this.json=this,this.ids=0,this.acks={},this.receiveBuffer=[],this.sendBuffer=[],this.connected=!1,this.disconnected=!0,r&&r.query&&(this.query=r.query),this.io.autoConnect&&this.open()}var o="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t},i=r(4),s=r(5),a=r(35),c=r(36),h=r(37),p=(r(3)("socket.io-client:socket"),r(27));t.exports=e=n;var u={connect:1,connect_error:1,connect_timeout:1,connecting:1,disconnect:1,error:1,reconnect:1,reconnect_attempt:1,reconnect_failed:1,reconnect_error:1,reconnecting:1,ping:1,pong:1},f=s.prototype.emit;s(n.prototype),n.prototype.subEvents=function(){if(!this.subs){var t=this.io;this.subs=[c(t,"open",h(this,"onopen")),c(t,"packet",h(this,"onpacket")),c(t,"close",h(this,"onclose"))]}},n.prototype.open=n.prototype.connect=function(){return this.connected?this:(this.subEvents(),this.io.open(),"open"===this.io.readyState&&this.onopen(),this.emit("connecting"),this)},n.prototype.send=function(){var t=a(arguments);return t.unshift("message"),this.emit.apply(this,t),this},n.prototype.emit=function(t){if(u.hasOwnProperty(t))return f.apply(this,arguments),this;var e=a(arguments),r={type:i.EVENT,data:e};return r.options={},r.options.compress=!this.flags||!1!==this.flags.compress,"function"==typeof e[e.length-1]&&(this.acks[this.ids]=e.pop(),r.id=this.ids++),this.connected?this.packet(r):this.sendBuffer.push(r),delete this.flags,this},n.prototype.packet=function(t){t.nsp=this.nsp,this.io.packet(t)},n.prototype.onopen=function(){if("/"!==this.nsp)if(this.query){var t="object"===o(this.query)?p.encode(this.query):this.query;this.packet({type:i.CONNECT,query:t})}else this.packet({type:i.CONNECT})},n.prototype.onclose=function(t){this.connected=!1,this.disconnected=!0,delete this.id,this.emit("disconnect",t)},n.prototype.onpacket=function(t){if(t.nsp===this.nsp)switch(t.type){case i.CONNECT:this.onconnect();break;case i.EVENT:this.onevent(t);break;case i.BINARY_EVENT:this.onevent(t);break;case i.ACK:this.onack(t);break;case i.BINARY_ACK:this.onack(t);break;case i.DISCONNECT:this.ondisconnect();break;case i.ERROR:this.emit("error",t.data)}},n.prototype.onevent=function(t){var e=t.data||[];null!=t.id&&e.push(this.ack(t.id)),this.connected?f.apply(this,e):this.receiveBuffer.push(e)},n.prototype.ack=function(t){var e=this,r=!1;return function(){if(!r){r=!0;var n=a(arguments);e.packet({type:i.ACK,id:t,data:n})}}},n.prototype.onack=function(t){var e=this.acks[t.id];"function"==typeof e&&(e.apply(this,t.data),delete this.acks[t.id])},n.prototype.onconnect=function(){this.connected=!0,this.disconnected=!1,this.emit("connect"),this.emitBuffered()},n.prototype.emitBuffered=function(){var t;for(t=0;t<this.receiveBuffer.length;t++)f.apply(this,this.receiveBuffer[t]);for(this.receiveBuffer=[],t=0;t<this.sendBuffer.length;t++)this.packet(this.sendBuffer[t]);this.sendBuffer=[]},n.prototype.ondisconnect=function(){this.destroy(),this.onclose("io server disconnect")},n.prototype.destroy=function(){if(this.subs){for(var t=0;t<this.subs.length;t++)this.subs[t].destroy();this.subs=null}this.io.destroy(this)},n.prototype.close=n.prototype.disconnect=function(){return this.connected&&this.packet({type:i.DISCONNECT}),this.destroy(),this.connected&&this.onclose("io client disconnect"),this},n.prototype.compress=function(t){return this.flags=this.flags||{},this.flags.compress=t,this}},function(t,e){function r(t,e){var r=[];e=e||0;for(var n=e||0;n<t.length;n++)r[n-e]=t[n];return r}t.exports=r},function(t,e){"use strict";function r(t,e,r){return t.on(e,r),{destroy:function(){t.removeListener(e,r)}}}t.exports=r},function(t,e){var r=[].slice;t.exports=function(t,e){if("string"==typeof e&&(e=t[e]),"function"!=typeof e)throw new Error("bind() requires a function");var n=r.call(arguments,2);return function(){return e.apply(t,n.concat(r.call(arguments)))}}},function(t,e){function r(t){t=t||{},this.ms=t.min||100,this.max=t.max||1e4,this.factor=t.factor||2,this.jitter=t.jitter>0&&t.jitter<=1?t.jitter:0,this.attempts=0}t.exports=r,r.prototype.duration=function(){var t=this.ms*Math.pow(this.factor,this.attempts++);if(this.jitter){var e=Math.random(),r=Math.floor(e*this.jitter*t);t=0==(1&Math.floor(10*e))?t-r:t+r}return 0|Math.min(t,this.max)},r.prototype.reset=function(){this.attempts=0},r.prototype.setMin=function(t){this.ms=t},r.prototype.setMax=function(t){this.max=t},r.prototype.setJitter=function(t){this.jitter=t}}])});
 	//# sourceMappingURL=socket.io.slim.js.map
 
 /***/ }),
-/* 363 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	"use strict";
-	var Observable_1 = __webpack_require__(290);
-	var do_1 = __webpack_require__(364);
-	Observable_1.Observable.prototype.do = do_1._do;
-	Observable_1.Observable.prototype._do = do_1._do;
-	//# sourceMappingURL=do.js.map
-
-/***/ }),
-/* 364 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	"use strict";
-	var tap_1 = __webpack_require__(365);
-	/* tslint:enable:max-line-length */
-	/**
-	 * Perform a side effect for every emission on the source Observable, but return
-	 * an Observable that is identical to the source.
-	 *
-	 * <span class="informal">Intercepts each emission on the source and runs a
-	 * function, but returns an output which is identical to the source as long as errors don't occur.</span>
-	 *
-	 * <img src="./img/do.png" width="100%">
-	 *
-	 * Returns a mirrored Observable of the source Observable, but modified so that
-	 * the provided Observer is called to perform a side effect for every value,
-	 * error, and completion emitted by the source. Any errors that are thrown in
-	 * the aforementioned Observer or handlers are safely sent down the error path
-	 * of the output Observable.
-	 *
-	 * This operator is useful for debugging your Observables for the correct values
-	 * or performing other side effects.
-	 *
-	 * Note: this is different to a `subscribe` on the Observable. If the Observable
-	 * returned by `do` is not subscribed, the side effects specified by the
-	 * Observer will never happen. `do` therefore simply spies on existing
-	 * execution, it does not trigger an execution to happen like `subscribe` does.
-	 *
-	 * @example <caption>Map every click to the clientX position of that click, while also logging the click event</caption>
-	 * var clicks = Rx.Observable.fromEvent(document, 'click');
-	 * var positions = clicks
-	 *   .do(ev => console.log(ev))
-	 *   .map(ev => ev.clientX);
-	 * positions.subscribe(x => console.log(x));
-	 *
-	 * @see {@link map}
-	 * @see {@link subscribe}
-	 *
-	 * @param {Observer|function} [nextOrObserver] A normal Observer object or a
-	 * callback for `next`.
-	 * @param {function} [error] Callback for errors in the source.
-	 * @param {function} [complete] Callback for the completion of the source.
-	 * @return {Observable} An Observable identical to the source, but runs the
-	 * specified Observer or callback(s) for each item.
-	 * @method do
-	 * @name do
-	 * @owner Observable
-	 */
-	function _do(nextOrObserver, error, complete) {
-	    return tap_1.tap(nextOrObserver, error, complete)(this);
-	}
-	exports._do = _do;
-	//# sourceMappingURL=do.js.map
-
-/***/ }),
-/* 365 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	"use strict";
-	var __extends = (this && this.__extends) || function (d, b) {
-	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
-	    function __() { this.constructor = d; }
-	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-	};
-	var Subscriber_1 = __webpack_require__(293);
-	/* tslint:enable:max-line-length */
-	/**
-	 * Perform a side effect for every emission on the source Observable, but return
-	 * an Observable that is identical to the source.
-	 *
-	 * <span class="informal">Intercepts each emission on the source and runs a
-	 * function, but returns an output which is identical to the source as long as errors don't occur.</span>
-	 *
-	 * <img src="./img/do.png" width="100%">
-	 *
-	 * Returns a mirrored Observable of the source Observable, but modified so that
-	 * the provided Observer is called to perform a side effect for every value,
-	 * error, and completion emitted by the source. Any errors that are thrown in
-	 * the aforementioned Observer or handlers are safely sent down the error path
-	 * of the output Observable.
-	 *
-	 * This operator is useful for debugging your Observables for the correct values
-	 * or performing other side effects.
-	 *
-	 * Note: this is different to a `subscribe` on the Observable. If the Observable
-	 * returned by `do` is not subscribed, the side effects specified by the
-	 * Observer will never happen. `do` therefore simply spies on existing
-	 * execution, it does not trigger an execution to happen like `subscribe` does.
-	 *
-	 * @example <caption>Map every click to the clientX position of that click, while also logging the click event</caption>
-	 * var clicks = Rx.Observable.fromEvent(document, 'click');
-	 * var positions = clicks
-	 *   .do(ev => console.log(ev))
-	 *   .map(ev => ev.clientX);
-	 * positions.subscribe(x => console.log(x));
-	 *
-	 * @see {@link map}
-	 * @see {@link subscribe}
-	 *
-	 * @param {Observer|function} [nextOrObserver] A normal Observer object or a
-	 * callback for `next`.
-	 * @param {function} [error] Callback for errors in the source.
-	 * @param {function} [complete] Callback for the completion of the source.
-	 * @return {Observable} An Observable identical to the source, but runs the
-	 * specified Observer or callback(s) for each item.
-	 * @name tap
-	 */
-	function tap(nextOrObserver, error, complete) {
-	    return function tapOperatorFunction(source) {
-	        return source.lift(new DoOperator(nextOrObserver, error, complete));
-	    };
-	}
-	exports.tap = tap;
-	var DoOperator = (function () {
-	    function DoOperator(nextOrObserver, error, complete) {
-	        this.nextOrObserver = nextOrObserver;
-	        this.error = error;
-	        this.complete = complete;
-	    }
-	    DoOperator.prototype.call = function (subscriber, source) {
-	        return source.subscribe(new DoSubscriber(subscriber, this.nextOrObserver, this.error, this.complete));
-	    };
-	    return DoOperator;
-	}());
-	/**
-	 * We need this JSDoc comment for affecting ESDoc.
-	 * @ignore
-	 * @extends {Ignored}
-	 */
-	var DoSubscriber = (function (_super) {
-	    __extends(DoSubscriber, _super);
-	    function DoSubscriber(destination, nextOrObserver, error, complete) {
-	        _super.call(this, destination);
-	        var safeSubscriber = new Subscriber_1.Subscriber(nextOrObserver, error, complete);
-	        safeSubscriber.syncErrorThrowable = true;
-	        this.add(safeSubscriber);
-	        this.safeSubscriber = safeSubscriber;
-	    }
-	    DoSubscriber.prototype._next = function (value) {
-	        var safeSubscriber = this.safeSubscriber;
-	        safeSubscriber.next(value);
-	        if (safeSubscriber.syncErrorThrown) {
-	            this.destination.error(safeSubscriber.syncErrorValue);
-	        }
-	        else {
-	            this.destination.next(value);
-	        }
-	    };
-	    DoSubscriber.prototype._error = function (err) {
-	        var safeSubscriber = this.safeSubscriber;
-	        safeSubscriber.error(err);
-	        if (safeSubscriber.syncErrorThrown) {
-	            this.destination.error(safeSubscriber.syncErrorValue);
-	        }
-	        else {
-	            this.destination.error(err);
-	        }
-	    };
-	    DoSubscriber.prototype._complete = function () {
-	        var safeSubscriber = this.safeSubscriber;
-	        safeSubscriber.complete();
-	        if (safeSubscriber.syncErrorThrown) {
-	            this.destination.error(safeSubscriber.syncErrorValue);
-	        }
-	        else {
-	            this.destination.complete();
-	        }
-	    };
-	    return DoSubscriber;
-	}(Subscriber_1.Subscriber));
-	//# sourceMappingURL=tap.js.map
-
-/***/ }),
-/* 366 */
+/* 356 */
 /***/ (function(module, exports) {
 
 	// removed by extract-text-webpack-plugin
 
 /***/ }),
-/* 367 */,
-/* 368 */,
-/* 369 */,
-/* 370 */
+/* 357 */,
+/* 358 */,
+/* 359 */,
+/* 360 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	/* WEBPACK VAR INJECTION */(function(process) {var API_HOST, API_HOST_ARRAY, API_PATH, API_URL, DEV_USE_HTTPS, EIGHT_HOURS_SECONDS, FOUR_HOURS_SECONDS, HOST, HOSTNAME, IMAGE_REGEX_BASE_STR, IMAGE_REGEX_STR, LOCAL_IMAGE_REGEX_STR, MENTION_REGEX_STR, ONE_DAY_SECONDS, ONE_HOUR_SECONDS, PORT, STICKER_REGEX_STR, THREE_DAYS_SECONDS, THREE_HOURS_SECONDS, TWO_DAYS_SECONDS, TWO_HOURS_SECONDS, URL_REGEX_STR, WEBPACK_DEV_PORT, WEBPACK_DEV_PROTOCOL, YOUTUBE_ID_REGEX_STR, _map, _merge, _range, assertNoneMissing, colors, isUrl, isomorphic, server, serverEnv;
+	/* WEBPACK VAR INJECTION */(function(process) {var API_HOST, API_HOST_ARRAY, API_PATH, API_URL, DEV_USE_HTTPS, HOST, HOSTNAME, PORT, WEBPACK_DEV_PORT, WEBPACK_DEV_PROTOCOL, _map, _merge, _range, assertNoneMissing, colors, isUrl, isomorphic, server, serverEnv;
 
-	_map = __webpack_require__(27);
+	_map = __webpack_require__(26);
 
-	_range = __webpack_require__(371);
+	_range = __webpack_require__(361);
 
-	_merge = __webpack_require__(374);
+	_merge = __webpack_require__(364);
 
-	assertNoneMissing = __webpack_require__(384);
+	assertNoneMissing = __webpack_require__(373);
 
-	colors = __webpack_require__(387);
+	colors = __webpack_require__(376);
 
 	serverEnv = process.env;
 
 	HOST = 'openfam.com' || '127.0.0.1';
 
 	HOSTNAME = HOST.split(':')[0];
-
-	URL_REGEX_STR = '(\\bhttps?://[-A-Z0-9+&@#/%?=~_|!:,.;]*[A-Z0-9+&@#/%=~_|])';
-
-	STICKER_REGEX_STR = '(:[a-z_]+:)';
-
-	IMAGE_REGEX_STR = '(\\!\\[(.*?)\\]\\((.*?)\\=([0-9.]+)x([0-9.]+)\\))';
-
-	IMAGE_REGEX_BASE_STR = '(\\!\\[(?:.*?)\\]\\((?:.*?)\\))';
-
-	LOCAL_IMAGE_REGEX_STR = '(\\!\\[(.*?)\\]\\(local://(.*?) \\=([0-9.]+)x([0-9.]+)\\))';
-
-	MENTION_REGEX_STR = '\\@[a-zA-Z0-9_-]+';
-
-	YOUTUBE_ID_REGEX_STR = '(?:youtube\\.com\\/(?:[^\\/]+\\/.+\\/|(?:v|e(?:mbed)?)\\/|.*[?&]v=)|youtu\\.be\\/)([^"&?\\/ ]{11})';
-
-	ONE_HOUR_SECONDS = 3600 * 1;
-
-	TWO_HOURS_SECONDS = 3600 * 2;
-
-	THREE_HOURS_SECONDS = 3600 * 3;
-
-	FOUR_HOURS_SECONDS = 3600 * 4;
-
-	EIGHT_HOURS_SECONDS = 3600 * 8;
-
-	ONE_DAY_SECONDS = 3600 * 24 * 1;
-
-	TWO_DAYS_SECONDS = 3600 * 24 * 2;
-
-	THREE_DAYS_SECONDS = 3600 * 24 * 3;
 
 	API_URL = serverEnv.RADIOACTIVE_API_URL || 'https://radioactive.openfam.com';
 
@@ -19654,7 +18324,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	  VAPID_PUBLIC_KEY: 'BPyqv7Z8fQxq4sfixJ6a_potx8_bZyQzJe79ov6H4Q0wsJUxlZNIfQTg0ZYvxyJztG-wtSSvjiJkkqZGZjJUEgQ',
 	  DEV_USE_HTTPS: DEV_USE_HTTPS,
 	  AUTH_COOKIE: 'accessToken',
-	  ENV: serverEnv.NODE_ENV || 'development',
+	  ENV: serverEnv.NODE_ENV || 'production',
 	  ENVS: {
 	    DEV: 'development',
 	    PROD: 'production',
@@ -19692,10 +18362,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(5)))
 
 /***/ }),
-/* 371 */
+/* 361 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var createRange = __webpack_require__(372);
+	var createRange = __webpack_require__(362);
 
 	/**
 	 * Creates an array of numbers (positive and/or negative) progressing from
@@ -19744,12 +18414,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 372 */
+/* 362 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseRange = __webpack_require__(373),
+	var baseRange = __webpack_require__(363),
 	    isIterateeCall = __webpack_require__(162),
-	    toFinite = __webpack_require__(240);
+	    toFinite = __webpack_require__(242);
 
 	/**
 	 * Creates a `_.range` or `_.rangeRight` function.
@@ -19780,7 +18450,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 373 */
+/* 363 */
 /***/ (function(module, exports) {
 
 	/* Built-in method references for those with the same name as other `lodash` methods. */
@@ -19814,10 +18484,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 374 */
+/* 364 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseMerge = __webpack_require__(375),
+	var baseMerge = __webpack_require__(365),
 	    createAssigner = __webpack_require__(154);
 
 	/**
@@ -19859,16 +18529,15 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 375 */
+/* 365 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var Stack = __webpack_require__(32),
-	    assignMergeValue = __webpack_require__(376),
-	    baseFor = __webpack_require__(145),
-	    baseMergeDeep = __webpack_require__(377),
-	    isObject = __webpack_require__(56),
-	    keysIn = __webpack_require__(234),
-	    safeGet = __webpack_require__(382);
+	var Stack = __webpack_require__(31),
+	    assignMergeValue = __webpack_require__(366),
+	    baseFor = __webpack_require__(144),
+	    baseMergeDeep = __webpack_require__(367),
+	    isObject = __webpack_require__(55),
+	    keysIn = __webpack_require__(235);
 
 	/**
 	 * The base implementation of `_.merge` without support for multiple sources.
@@ -19892,7 +18561,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    }
 	    else {
 	      var newValue = customizer
-	        ? customizer(safeGet(object, key), srcValue, (key + ''), object, source, stack)
+	        ? customizer(object[key], srcValue, (key + ''), object, source, stack)
 	        : undefined;
 
 	      if (newValue === undefined) {
@@ -19907,11 +18576,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 376 */
+/* 366 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseAssignValue = __webpack_require__(151),
-	    eq = __webpack_require__(37);
+	var baseAssignValue = __webpack_require__(148),
+	    eq = __webpack_require__(36);
 
 	/**
 	 * This function is like `assignValue` except that it doesn't assign
@@ -19933,24 +18602,23 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 377 */
+/* 367 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var assignMergeValue = __webpack_require__(376),
-	    cloneBuffer = __webpack_require__(378),
-	    cloneTypedArray = __webpack_require__(379),
-	    copyArray = __webpack_require__(276),
-	    initCloneObject = __webpack_require__(381),
-	    isArguments = __webpack_require__(99),
-	    isArray = __webpack_require__(92),
+	var assignMergeValue = __webpack_require__(366),
+	    cloneBuffer = __webpack_require__(368),
+	    cloneTypedArray = __webpack_require__(369),
+	    copyArray = __webpack_require__(277),
+	    initCloneObject = __webpack_require__(371),
+	    isArguments = __webpack_require__(98),
+	    isArray = __webpack_require__(91),
 	    isArrayLikeObject = __webpack_require__(195),
-	    isBuffer = __webpack_require__(102),
-	    isFunction = __webpack_require__(49),
-	    isObject = __webpack_require__(56),
-	    isPlainObject = __webpack_require__(251),
-	    isTypedArray = __webpack_require__(105),
-	    safeGet = __webpack_require__(382),
-	    toPlainObject = __webpack_require__(383);
+	    isBuffer = __webpack_require__(101),
+	    isFunction = __webpack_require__(48),
+	    isObject = __webpack_require__(55),
+	    isPlainObject = __webpack_require__(252),
+	    isTypedArray = __webpack_require__(104),
+	    toPlainObject = __webpack_require__(372);
 
 	/**
 	 * A specialized version of `baseMerge` for arrays and objects which performs
@@ -19968,8 +18636,8 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	 *  counterparts.
 	 */
 	function baseMergeDeep(object, source, key, srcIndex, mergeFunc, customizer, stack) {
-	  var objValue = safeGet(object, key),
-	      srcValue = safeGet(source, key),
+	  var objValue = object[key],
+	      srcValue = source[key],
 	      stacked = stack.get(srcValue);
 
 	  if (stacked) {
@@ -20033,10 +18701,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 378 */
+/* 368 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	/* WEBPACK VAR INJECTION */(function(module) {var root = __webpack_require__(52);
+	/* WEBPACK VAR INJECTION */(function(module) {var root = __webpack_require__(51);
 
 	/** Detect free variable `exports`. */
 	var freeExports = typeof exports == 'object' && exports && !exports.nodeType && exports;
@@ -20075,10 +18743,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(6)(module)))
 
 /***/ }),
-/* 379 */
+/* 369 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var cloneArrayBuffer = __webpack_require__(380);
+	var cloneArrayBuffer = __webpack_require__(370);
 
 	/**
 	 * Creates a clone of `typedArray`.
@@ -20097,10 +18765,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 380 */
+/* 370 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var Uint8Array = __webpack_require__(85);
+	var Uint8Array = __webpack_require__(84);
 
 	/**
 	 * Creates a clone of `arrayBuffer`.
@@ -20119,12 +18787,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 381 */
+/* 371 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseCreate = __webpack_require__(259),
-	    getPrototype = __webpack_require__(252),
-	    isPrototype = __webpack_require__(111);
+	var baseCreate = __webpack_require__(260),
+	    getPrototype = __webpack_require__(253),
+	    isPrototype = __webpack_require__(110);
 
 	/**
 	 * Initializes an object clone.
@@ -20143,32 +18811,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 382 */
-/***/ (function(module, exports) {
-
-	/**
-	 * Gets the value at `key`, unless `key` is "__proto__".
-	 *
-	 * @private
-	 * @param {Object} object The object to query.
-	 * @param {string} key The key of the property to get.
-	 * @returns {*} Returns the property value.
-	 */
-	function safeGet(object, key) {
-	  return key == '__proto__'
-	    ? undefined
-	    : object[key];
-	}
-
-	module.exports = safeGet;
-
-
-/***/ }),
-/* 383 */
+/* 372 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var copyObject = __webpack_require__(153),
-	    keysIn = __webpack_require__(234);
+	    keysIn = __webpack_require__(235);
 
 	/**
 	 * Converts `value` to a plain object flattening inherited enumerable string
@@ -20202,14 +18849,14 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 384 */
+/* 373 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var _isEmpty, _isPlainObject, _reduce;
 
-	_reduce = __webpack_require__(385);
+	_reduce = __webpack_require__(374);
 
-	_isPlainObject = __webpack_require__(251);
+	_isPlainObject = __webpack_require__(252);
 
 	_isEmpty = __webpack_require__(201);
 
@@ -20237,14 +18884,14 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 385 */
+/* 374 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var arrayReduce = __webpack_require__(343),
-	    baseEach = __webpack_require__(143),
-	    baseIteratee = __webpack_require__(29),
-	    baseReduce = __webpack_require__(386),
-	    isArray = __webpack_require__(92);
+	var arrayReduce = __webpack_require__(336),
+	    baseEach = __webpack_require__(142),
+	    baseIteratee = __webpack_require__(28),
+	    baseReduce = __webpack_require__(375),
+	    isArray = __webpack_require__(91);
 
 	/**
 	 * Reduces `collection` to a value which is the accumulated result of running
@@ -20294,7 +18941,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 386 */
+/* 375 */
 /***/ (function(module, exports) {
 
 	/**
@@ -20323,16 +18970,16 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 387 */
+/* 376 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var $$el, _defaults, _mapValues, colors, getChromeVersion, isCssVariableSupported, materialColors, ref, ref1;
 
 	_defaults = __webpack_require__(233);
 
-	_mapValues = __webpack_require__(250);
+	_mapValues = __webpack_require__(147);
 
-	materialColors = __webpack_require__(388);
+	materialColors = __webpack_require__(377);
 
 	colors = _defaults({
 	  playhard: {
@@ -20747,6 +19394,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	  }
 	};
 
+	colors.getByGroupKey = function(groupKey, color) {
+	  return colors[groupKey][color];
+	};
+
 	if (typeof window !== "undefined" && window !== null) {
 	  $$el = document.getElementById('css-variable-test');
 	  isCssVariableSupported = !$$el || ((ref = window.CSS) != null ? typeof ref.supports === "function" ? ref.supports('--fake-var', 0) : void 0 : void 0) || ((ref1 = getComputedStyle($$el, null)) != null ? ref1.backgroundColor : void 0) === 'rgb(0, 0, 0)';
@@ -20766,7 +19417,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 388 */
+/* 377 */
 /***/ (function(module, exports) {
 
 	module.exports = {
@@ -20874,33 +19525,33 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 389 */
+/* 378 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var Environment, RouterService, SemverService, _defaults, _forEach, _isEmpty, _kebabCase, _reduce, colors, config, ev, isSimpleClick, qs,
 	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
 
-	qs = __webpack_require__(354);
+	qs = __webpack_require__(347);
 
-	_forEach = __webpack_require__(390);
+	_forEach = __webpack_require__(379);
 
 	_isEmpty = __webpack_require__(201);
 
 	_defaults = __webpack_require__(233);
 
-	_forEach = __webpack_require__(390);
+	_forEach = __webpack_require__(379);
 
-	_reduce = __webpack_require__(385);
+	_reduce = __webpack_require__(374);
 
-	_kebabCase = __webpack_require__(341);
+	_kebabCase = __webpack_require__(334);
 
-	Environment = __webpack_require__(358);
+	Environment = __webpack_require__(351);
 
-	SemverService = __webpack_require__(392);
+	SemverService = __webpack_require__(381);
 
-	colors = __webpack_require__(387);
+	colors = __webpack_require__(376);
 
-	config = __webpack_require__(370);
+	config = __webpack_require__(360);
 
 	ev = function(fn) {
 	  return function(e) {
@@ -20924,7 +19575,6 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    this.onBack = bind(this.onBack, this);
 	    this.back = bind(this.back, this);
 	    this.openLink = bind(this.openLink, this);
-	    this.get = bind(this.get, this);
 	    this.go = bind(this.go, this);
 	    this.goPath = bind(this.goPath, this);
 	    this.history = [];
@@ -20937,7 +19587,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    if (!ignoreHistory) {
 	      this.history.push(path || (typeof window !== "undefined" && window !== null ? window.location.pathname : void 0));
 	    }
-	    if (this.history[0] === '/' || this.history[0] === this.get('siteHome') || reset) {
+	    if (this.history[0] === '/' || this.history[0]) {
 	      this.history = [path];
 	    }
 	    if (path) {
@@ -20948,30 +19598,15 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    }
 	  };
 
-	  RouterService.prototype.go = function(routeKey, replacements, options) {
-	    var path;
+	  RouterService.prototype.go = function(path, replacements, options) {
 	    if (options == null) {
 	      options = {};
 	    }
-	    path = this.get(routeKey, replacements);
 	    if (options.qs) {
 	      return this.goPath(path + "?" + (qs.stringify(options.qs)), options);
 	    } else {
 	      return this.goPath(path, options);
 	    }
-	  };
-
-	  RouterService.prototype.get = function(routeKey, replacements, arg) {
-	    var language, route;
-	    language = (arg != null ? arg : {}).language;
-	    route = this.model.l.get(routeKey, {
-	      file: 'paths',
-	      language: language
-	    });
-	    _forEach(replacements, function(value, key) {
-	      return route = route.replace(":" + key, value);
-	    });
-	    return route;
 	  };
 
 	  RouterService.prototype.openLink = function(url) {
@@ -21001,7 +19636,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    if (this.model.drawer.isOpen().getValue()) {
 	      return this.model.drawer.close();
 	    }
-	    if (this.history.length === 1 && fromNative && (this.history[0] === '/' || this.history[0] === this.get('siteHome'))) {
+	    if (this.history.length === 1 && fromNative && (this.history[0] === '/')) {
 	      return this.model.portal.call('app.exit');
 	    } else if (this.history.length > 1 && window.history.length > 0) {
 	      window.history.back();
@@ -21117,13 +19752,13 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 390 */
+/* 379 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var arrayEach = __webpack_require__(282),
-	    baseEach = __webpack_require__(143),
-	    castFunction = __webpack_require__(391),
-	    isArray = __webpack_require__(92);
+	var arrayEach = __webpack_require__(283),
+	    baseEach = __webpack_require__(142),
+	    castFunction = __webpack_require__(380),
+	    isArray = __webpack_require__(91);
 
 	/**
 	 * Iterates over elements of `collection` and invokes `iteratee` for each element.
@@ -21164,10 +19799,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 391 */
+/* 380 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var identity = __webpack_require__(138);
+	var identity = __webpack_require__(137);
 
 	/**
 	 * Casts `value` to `identity` if it's not a function.
@@ -21184,12 +19819,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 392 */
+/* 381 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var SemverService, semverCompare;
 
-	semverCompare = __webpack_require__(393);
+	semverCompare = __webpack_require__(382);
 
 	SemverService = (function() {
 	  function SemverService() {}
@@ -21206,7 +19841,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 393 */
+/* 382 */
 /***/ (function(module, exports) {
 
 	module.exports = function cmp (a, b) {
@@ -21225,55 +19860,61 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 394 */
+/* 383 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var App, Environment, Head, HttpHash, Pages, RxBehaviorSubject, RxObservable, TIME_UNTIL_ADD_TO_HOME_PROMPT_MS, _defaults, _flatten, _forEach, _map, _values, colors, config, isUuid, z,
+	var App, BottomBar, Environment, Head, HttpHash, Pages, RxBehaviorSubject, RxObservable, TIME_UNTIL_ADD_TO_HOME_PROMPT_MS, TwitchSignInOverlay, _defaults, _flatten, _forEach, _map, _values, colors, config, isUuid, z,
 	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; },
 	  slice = [].slice;
 
-	z = __webpack_require__(148);
+	z = __webpack_require__(150);
 
-	HttpHash = __webpack_require__(395);
+	HttpHash = __webpack_require__(384);
 
-	_forEach = __webpack_require__(390);
+	_forEach = __webpack_require__(379);
 
-	_map = __webpack_require__(27);
+	_map = __webpack_require__(26);
 
-	_values = __webpack_require__(360);
+	_values = __webpack_require__(353);
 
 	_flatten = __webpack_require__(198);
 
 	_defaults = __webpack_require__(233);
 
-	Environment = __webpack_require__(358);
+	Environment = __webpack_require__(351);
 
-	isUuid = __webpack_require__(396);
+	isUuid = __webpack_require__(385);
 
-	RxObservable = __webpack_require__(290).Observable;
+	RxObservable = __webpack_require__(291).Observable;
 
-	RxBehaviorSubject = __webpack_require__(288).BehaviorSubject;
+	RxBehaviorSubject = __webpack_require__(289).BehaviorSubject;
 
-	__webpack_require__(397);
+	__webpack_require__(386);
 
-	__webpack_require__(400);
+	__webpack_require__(388);
 
-	__webpack_require__(403);
+	__webpack_require__(322);
 
-	__webpack_require__(406);
+	__webpack_require__(313);
 
-	__webpack_require__(407);
+	__webpack_require__(307);
 
-	__webpack_require__(408);
+	__webpack_require__(390);
 
-	Head = __webpack_require__(422);
+	Head = __webpack_require__(404);
 
-	config = __webpack_require__(370);
+	BottomBar = __webpack_require__(406);
 
-	colors = __webpack_require__(387);
+	TwitchSignInOverlay = __webpack_require__(419);
+
+	config = __webpack_require__(360);
+
+	colors = __webpack_require__(376);
 
 	Pages = {
-	  HomePage: __webpack_require__(424)
+	  EarnPage: __webpack_require__(422),
+	  ConfigPage: __webpack_require__(463),
+	  HeatMap: __webpack_require__(469)
 	};
 
 	TIME_UNTIL_ADD_TO_HOME_PROMPT_MS = 90000;
@@ -21317,6 +19958,16 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	        return _this.model.group.getByKey('nickatnyte');
 	      };
 	    })(this)).publishReplay(1).refCount();
+	    this.$bottomBar = new BottomBar({
+	      model: this.model,
+	      router: this.router,
+	      requests: this.requests,
+	      group: this.group
+	    });
+	    this.$twitchSignInOverlay = new TwitchSignInOverlay({
+	      model: this.model,
+	      router: this.router
+	    });
 	    this.$head = new Head({
 	      model: this.model,
 	      requests: this.requests,
@@ -21331,7 +19982,8 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	      me: me,
 	      isOffline: isOffline,
 	      request: this.requests,
-	      $backupPage: $backupPage
+	      $backupPage: $backupPage,
+	      twitchSignInOverlayIsOpen: this.model.signInDialog.isOpen()
 	    });
 	  }
 
@@ -21355,6 +20007,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	                router: _this.router,
 	                serverData: _this.serverData,
 	                group: _this.group,
+	                $bottomBar: Page.hasBottomBar ? _this.$bottomBar : void 0,
 	                requests: _this.requests.filter(function(arg) {
 	                  var $page;
 	                  $page = arg.$page;
@@ -21367,16 +20020,16 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	        });
 	      };
 	    })(this);
-	    route(['/*'], 'HomePage');
+	    route(['/heatmap'], 'HeatMap');
+	    route(['/*'], 'EarnPage');
 	    return routes;
 	  };
 
 	  App.prototype.render = function() {
-	    var $backupPage, $page, defaultInstallMessage, isIos, isOffline, me, ref, ref1, ref2, request, userAgent;
-	    ref = this.state.getValue(), request = ref.request, me = ref.me, isOffline = ref.isOffline, $backupPage = ref.$backupPage;
+	    var $backupPage, $page, isIos, isOffline, me, ref, ref1, ref2, request, twitchSignInOverlayIsOpen, userAgent;
+	    ref = this.state.getValue(), request = ref.request, me = ref.me, isOffline = ref.isOffline, twitchSignInOverlayIsOpen = ref.twitchSignInOverlayIsOpen, $backupPage = ref.$backupPage;
 	    userAgent = (request != null ? (ref1 = request.req) != null ? (ref2 = ref1.headers) != null ? ref2['user-agent'] : void 0 : void 0 : void 0) || (typeof navigator !== "undefined" && navigator !== null ? navigator.userAgent : void 0) || '';
 	    isIos = /iPad|iPhone|iPod/.test(userAgent);
-	    defaultInstallMessage = this.model.l.get('app.defaultInstallMessage');
 	    $page = (request != null ? request.$page : void 0) || $backupPage;
 	    return z('html', z(this.$head, {
 	      meta: $page != null ? typeof $page.getMeta === "function" ? $page.getMeta() : void 0 : void 0
@@ -21389,7 +20042,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	        display: 'none',
 	        backgroundColor: 'var(--test-color)'
 	      }
-	    })))));
+	    }), twitchSignInOverlayIsOpen ? z(this.$twitchSignInOverlay) : void 0))));
 	  };
 
 	  return App;
@@ -21398,7 +20051,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 395 */
+/* 384 */
 /***/ (function(module, exports) {
 
 	'use strict';
@@ -21579,7 +20232,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 396 */
+/* 385 */
 /***/ (function(module, exports) {
 
 	'use strict';
@@ -21594,62 +20247,17 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 397 */
+/* 386 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
-	var Observable_1 = __webpack_require__(290);
-	var map_1 = __webpack_require__(398);
+	var Observable_1 = __webpack_require__(291);
+	var map_1 = __webpack_require__(387);
 	Observable_1.Observable.prototype.map = map_1.map;
 	//# sourceMappingURL=map.js.map
 
 /***/ }),
-/* 398 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	"use strict";
-	var map_1 = __webpack_require__(399);
-	/**
-	 * Applies a given `project` function to each value emitted by the source
-	 * Observable, and emits the resulting values as an Observable.
-	 *
-	 * <span class="informal">Like [Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map),
-	 * it passes each source value through a transformation function to get
-	 * corresponding output values.</span>
-	 *
-	 * <img src="./img/map.png" width="100%">
-	 *
-	 * Similar to the well known `Array.prototype.map` function, this operator
-	 * applies a projection to each value and emits that projection in the output
-	 * Observable.
-	 *
-	 * @example <caption>Map every click to the clientX position of that click</caption>
-	 * var clicks = Rx.Observable.fromEvent(document, 'click');
-	 * var positions = clicks.map(ev => ev.clientX);
-	 * positions.subscribe(x => console.log(x));
-	 *
-	 * @see {@link mapTo}
-	 * @see {@link pluck}
-	 *
-	 * @param {function(value: T, index: number): R} project The function to apply
-	 * to each `value` emitted by the source Observable. The `index` parameter is
-	 * the number `i` for the i-th emission that has happened since the
-	 * subscription, starting from the number `0`.
-	 * @param {any} [thisArg] An optional argument to define what `this` is in the
-	 * `project` function.
-	 * @return {Observable<R>} An Observable that emits the values from the source
-	 * Observable transformed by the given `project` function.
-	 * @method map
-	 * @owner Observable
-	 */
-	function map(project, thisArg) {
-	    return map_1.map(project, thisArg)(this);
-	}
-	exports.map = map;
-	//# sourceMappingURL=map.js.map
-
-/***/ }),
-/* 399 */
+/* 387 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -21658,7 +20266,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    function __() { this.constructor = d; }
 	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 	};
-	var Subscriber_1 = __webpack_require__(293);
+	var Subscriber_1 = __webpack_require__(294);
 	/**
 	 * Applies a given `project` function to each value emitted by the source
 	 * Observable, and emits the resulting values as an Observable.
@@ -21693,12 +20301,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	 * @owner Observable
 	 */
 	function map(project, thisArg) {
-	    return function mapOperation(source) {
-	        if (typeof project !== 'function') {
-	            throw new TypeError('argument is not a function. Are you looking for `mapTo()`?');
-	        }
-	        return source.lift(new MapOperator(project, thisArg));
-	    };
+	    if (typeof project !== 'function') {
+	        throw new TypeError('argument is not a function. Are you looking for `mapTo()`?');
+	    }
+	    return this.lift(new MapOperator(project, thisArg));
 	}
 	exports.map = map;
 	var MapOperator = (function () {
@@ -21743,69 +20349,17 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=map.js.map
 
 /***/ }),
-/* 400 */
+/* 388 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
-	var Observable_1 = __webpack_require__(290);
-	var filter_1 = __webpack_require__(401);
+	var Observable_1 = __webpack_require__(291);
+	var filter_1 = __webpack_require__(389);
 	Observable_1.Observable.prototype.filter = filter_1.filter;
 	//# sourceMappingURL=filter.js.map
 
 /***/ }),
-/* 401 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	"use strict";
-	var filter_1 = __webpack_require__(402);
-	/* tslint:enable:max-line-length */
-	/**
-	 * Filter items emitted by the source Observable by only emitting those that
-	 * satisfy a specified predicate.
-	 *
-	 * <span class="informal">Like
-	 * [Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter),
-	 * it only emits a value from the source if it passes a criterion function.</span>
-	 *
-	 * <img src="./img/filter.png" width="100%">
-	 *
-	 * Similar to the well-known `Array.prototype.filter` method, this operator
-	 * takes values from the source Observable, passes them through a `predicate`
-	 * function and only emits those values that yielded `true`.
-	 *
-	 * @example <caption>Emit only click events whose target was a DIV element</caption>
-	 * var clicks = Rx.Observable.fromEvent(document, 'click');
-	 * var clicksOnDivs = clicks.filter(ev => ev.target.tagName === 'DIV');
-	 * clicksOnDivs.subscribe(x => console.log(x));
-	 *
-	 * @see {@link distinct}
-	 * @see {@link distinctUntilChanged}
-	 * @see {@link distinctUntilKeyChanged}
-	 * @see {@link ignoreElements}
-	 * @see {@link partition}
-	 * @see {@link skip}
-	 *
-	 * @param {function(value: T, index: number): boolean} predicate A function that
-	 * evaluates each value emitted by the source Observable. If it returns `true`,
-	 * the value is emitted, if `false` the value is not passed to the output
-	 * Observable. The `index` parameter is the number `i` for the i-th source
-	 * emission that has happened since the subscription, starting from the number
-	 * `0`.
-	 * @param {any} [thisArg] An optional argument to determine the value of `this`
-	 * in the `predicate` function.
-	 * @return {Observable} An Observable of values from the source that were
-	 * allowed by the `predicate` function.
-	 * @method filter
-	 * @owner Observable
-	 */
-	function filter(predicate, thisArg) {
-	    return filter_1.filter(predicate, thisArg)(this);
-	}
-	exports.filter = filter;
-	//# sourceMappingURL=filter.js.map
-
-/***/ }),
-/* 402 */
+/* 389 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -21814,7 +20368,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    function __() { this.constructor = d; }
 	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 	};
-	var Subscriber_1 = __webpack_require__(293);
+	var Subscriber_1 = __webpack_require__(294);
 	/* tslint:enable:max-line-length */
 	/**
 	 * Filter items emitted by the source Observable by only emitting those that
@@ -21856,9 +20410,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	 * @owner Observable
 	 */
 	function filter(predicate, thisArg) {
-	    return function filterOperatorFunction(source) {
-	        return source.lift(new FilterOperator(predicate, thisArg));
-	    };
+	    return this.lift(new FilterOperator(predicate, thisArg));
 	}
 	exports.filter = filter;
 	var FilterOperator = (function () {
@@ -21904,295 +20456,40 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=filter.js.map
 
 /***/ }),
-/* 403 */
+/* 390 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
-	var Observable_1 = __webpack_require__(290);
-	var switchMap_1 = __webpack_require__(404);
-	Observable_1.Observable.prototype.switchMap = switchMap_1.switchMap;
-	//# sourceMappingURL=switchMap.js.map
-
-/***/ }),
-/* 404 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	"use strict";
-	var switchMap_1 = __webpack_require__(405);
-	/* tslint:enable:max-line-length */
-	/**
-	 * Projects each source value to an Observable which is merged in the output
-	 * Observable, emitting values only from the most recently projected Observable.
-	 *
-	 * <span class="informal">Maps each value to an Observable, then flattens all of
-	 * these inner Observables using {@link switch}.</span>
-	 *
-	 * <img src="./img/switchMap.png" width="100%">
-	 *
-	 * Returns an Observable that emits items based on applying a function that you
-	 * supply to each item emitted by the source Observable, where that function
-	 * returns an (so-called "inner") Observable. Each time it observes one of these
-	 * inner Observables, the output Observable begins emitting the items emitted by
-	 * that inner Observable. When a new inner Observable is emitted, `switchMap`
-	 * stops emitting items from the earlier-emitted inner Observable and begins
-	 * emitting items from the new one. It continues to behave like this for
-	 * subsequent inner Observables.
-	 *
-	 * @example <caption>Rerun an interval Observable on every click event</caption>
-	 * var clicks = Rx.Observable.fromEvent(document, 'click');
-	 * var result = clicks.switchMap((ev) => Rx.Observable.interval(1000));
-	 * result.subscribe(x => console.log(x));
-	 *
-	 * @see {@link concatMap}
-	 * @see {@link exhaustMap}
-	 * @see {@link mergeMap}
-	 * @see {@link switch}
-	 * @see {@link switchMapTo}
-	 *
-	 * @param {function(value: T, ?index: number): ObservableInput} project A function
-	 * that, when applied to an item emitted by the source Observable, returns an
-	 * Observable.
-	 * @param {function(outerValue: T, innerValue: I, outerIndex: number, innerIndex: number): any} [resultSelector]
-	 * A function to produce the value on the output Observable based on the values
-	 * and the indices of the source (outer) emission and the inner Observable
-	 * emission. The arguments passed to this function are:
-	 * - `outerValue`: the value that came from the source
-	 * - `innerValue`: the value that came from the projected Observable
-	 * - `outerIndex`: the "index" of the value that came from the source
-	 * - `innerIndex`: the "index" of the value from the projected Observable
-	 * @return {Observable} An Observable that emits the result of applying the
-	 * projection function (and the optional `resultSelector`) to each item emitted
-	 * by the source Observable and taking only the values from the most recently
-	 * projected inner Observable.
-	 * @method switchMap
-	 * @owner Observable
-	 */
-	function switchMap(project, resultSelector) {
-	    return switchMap_1.switchMap(project, resultSelector)(this);
-	}
-	exports.switchMap = switchMap;
-	//# sourceMappingURL=switchMap.js.map
-
-/***/ }),
-/* 405 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	"use strict";
-	var __extends = (this && this.__extends) || function (d, b) {
-	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
-	    function __() { this.constructor = d; }
-	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-	};
-	var OuterSubscriber_1 = __webpack_require__(315);
-	var subscribeToResult_1 = __webpack_require__(316);
-	/* tslint:enable:max-line-length */
-	/**
-	 * Projects each source value to an Observable which is merged in the output
-	 * Observable, emitting values only from the most recently projected Observable.
-	 *
-	 * <span class="informal">Maps each value to an Observable, then flattens all of
-	 * these inner Observables using {@link switch}.</span>
-	 *
-	 * <img src="./img/switchMap.png" width="100%">
-	 *
-	 * Returns an Observable that emits items based on applying a function that you
-	 * supply to each item emitted by the source Observable, where that function
-	 * returns an (so-called "inner") Observable. Each time it observes one of these
-	 * inner Observables, the output Observable begins emitting the items emitted by
-	 * that inner Observable. When a new inner Observable is emitted, `switchMap`
-	 * stops emitting items from the earlier-emitted inner Observable and begins
-	 * emitting items from the new one. It continues to behave like this for
-	 * subsequent inner Observables.
-	 *
-	 * @example <caption>Rerun an interval Observable on every click event</caption>
-	 * var clicks = Rx.Observable.fromEvent(document, 'click');
-	 * var result = clicks.switchMap((ev) => Rx.Observable.interval(1000));
-	 * result.subscribe(x => console.log(x));
-	 *
-	 * @see {@link concatMap}
-	 * @see {@link exhaustMap}
-	 * @see {@link mergeMap}
-	 * @see {@link switch}
-	 * @see {@link switchMapTo}
-	 *
-	 * @param {function(value: T, ?index: number): ObservableInput} project A function
-	 * that, when applied to an item emitted by the source Observable, returns an
-	 * Observable.
-	 * @param {function(outerValue: T, innerValue: I, outerIndex: number, innerIndex: number): any} [resultSelector]
-	 * A function to produce the value on the output Observable based on the values
-	 * and the indices of the source (outer) emission and the inner Observable
-	 * emission. The arguments passed to this function are:
-	 * - `outerValue`: the value that came from the source
-	 * - `innerValue`: the value that came from the projected Observable
-	 * - `outerIndex`: the "index" of the value that came from the source
-	 * - `innerIndex`: the "index" of the value from the projected Observable
-	 * @return {Observable} An Observable that emits the result of applying the
-	 * projection function (and the optional `resultSelector`) to each item emitted
-	 * by the source Observable and taking only the values from the most recently
-	 * projected inner Observable.
-	 * @method switchMap
-	 * @owner Observable
-	 */
-	function switchMap(project, resultSelector) {
-	    return function switchMapOperatorFunction(source) {
-	        return source.lift(new SwitchMapOperator(project, resultSelector));
-	    };
-	}
-	exports.switchMap = switchMap;
-	var SwitchMapOperator = (function () {
-	    function SwitchMapOperator(project, resultSelector) {
-	        this.project = project;
-	        this.resultSelector = resultSelector;
-	    }
-	    SwitchMapOperator.prototype.call = function (subscriber, source) {
-	        return source.subscribe(new SwitchMapSubscriber(subscriber, this.project, this.resultSelector));
-	    };
-	    return SwitchMapOperator;
-	}());
-	/**
-	 * We need this JSDoc comment for affecting ESDoc.
-	 * @ignore
-	 * @extends {Ignored}
-	 */
-	var SwitchMapSubscriber = (function (_super) {
-	    __extends(SwitchMapSubscriber, _super);
-	    function SwitchMapSubscriber(destination, project, resultSelector) {
-	        _super.call(this, destination);
-	        this.project = project;
-	        this.resultSelector = resultSelector;
-	        this.index = 0;
-	    }
-	    SwitchMapSubscriber.prototype._next = function (value) {
-	        var result;
-	        var index = this.index++;
-	        try {
-	            result = this.project(value, index);
-	        }
-	        catch (error) {
-	            this.destination.error(error);
-	            return;
-	        }
-	        this._innerSub(result, value, index);
-	    };
-	    SwitchMapSubscriber.prototype._innerSub = function (result, value, index) {
-	        var innerSubscription = this.innerSubscription;
-	        if (innerSubscription) {
-	            innerSubscription.unsubscribe();
-	        }
-	        this.add(this.innerSubscription = subscribeToResult_1.subscribeToResult(this, result, value, index));
-	    };
-	    SwitchMapSubscriber.prototype._complete = function () {
-	        var innerSubscription = this.innerSubscription;
-	        if (!innerSubscription || innerSubscription.closed) {
-	            _super.prototype._complete.call(this);
-	        }
-	    };
-	    SwitchMapSubscriber.prototype._unsubscribe = function () {
-	        this.innerSubscription = null;
-	    };
-	    SwitchMapSubscriber.prototype.notifyComplete = function (innerSub) {
-	        this.remove(innerSub);
-	        this.innerSubscription = null;
-	        if (this.isStopped) {
-	            _super.prototype._complete.call(this);
-	        }
-	    };
-	    SwitchMapSubscriber.prototype.notifyNext = function (outerValue, innerValue, outerIndex, innerIndex, innerSub) {
-	        if (this.resultSelector) {
-	            this._tryNotifyNext(outerValue, innerValue, outerIndex, innerIndex);
-	        }
-	        else {
-	            this.destination.next(innerValue);
-	        }
-	    };
-	    SwitchMapSubscriber.prototype._tryNotifyNext = function (outerValue, innerValue, outerIndex, innerIndex) {
-	        var result;
-	        try {
-	            result = this.resultSelector(outerValue, innerValue, outerIndex, innerIndex);
-	        }
-	        catch (err) {
-	            this.destination.error(err);
-	            return;
-	        }
-	        this.destination.next(result);
-	    };
-	    return SwitchMapSubscriber;
-	}(OuterSubscriber_1.OuterSubscriber));
-	//# sourceMappingURL=switchMap.js.map
-
-/***/ }),
-/* 406 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	"use strict";
-	var Observable_1 = __webpack_require__(290);
-	var combineLatest_1 = __webpack_require__(313);
-	Observable_1.Observable.combineLatest = combineLatest_1.combineLatest;
-	//# sourceMappingURL=combineLatest.js.map
-
-/***/ }),
-/* 407 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	"use strict";
-	var Observable_1 = __webpack_require__(290);
-	var of_1 = __webpack_require__(308);
-	Observable_1.Observable.of = of_1.of;
-	//# sourceMappingURL=of.js.map
-
-/***/ }),
-/* 408 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	"use strict";
-	var Observable_1 = __webpack_require__(290);
-	var publishReplay_1 = __webpack_require__(409);
+	var Observable_1 = __webpack_require__(291);
+	var publishReplay_1 = __webpack_require__(391);
 	Observable_1.Observable.prototype.publishReplay = publishReplay_1.publishReplay;
 	//# sourceMappingURL=publishReplay.js.map
 
 /***/ }),
-/* 409 */
+/* 391 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
-	var publishReplay_1 = __webpack_require__(410);
-	/* tslint:enable:max-line-length */
+	var ReplaySubject_1 = __webpack_require__(392);
+	var multicast_1 = __webpack_require__(402);
 	/**
 	 * @param bufferSize
 	 * @param windowTime
-	 * @param selectorOrScheduler
 	 * @param scheduler
-	 * @return {Observable<T> | ConnectableObservable<T>}
+	 * @return {ConnectableObservable<T>}
 	 * @method publishReplay
 	 * @owner Observable
 	 */
-	function publishReplay(bufferSize, windowTime, selectorOrScheduler, scheduler) {
-	    return publishReplay_1.publishReplay(bufferSize, windowTime, selectorOrScheduler, scheduler)(this);
+	function publishReplay(bufferSize, windowTime, scheduler) {
+	    if (bufferSize === void 0) { bufferSize = Number.POSITIVE_INFINITY; }
+	    if (windowTime === void 0) { windowTime = Number.POSITIVE_INFINITY; }
+	    return multicast_1.multicast.call(this, new ReplaySubject_1.ReplaySubject(bufferSize, windowTime, scheduler));
 	}
 	exports.publishReplay = publishReplay;
 	//# sourceMappingURL=publishReplay.js.map
 
 /***/ }),
-/* 410 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	"use strict";
-	var ReplaySubject_1 = __webpack_require__(411);
-	var multicast_1 = __webpack_require__(419);
-	/* tslint:enable:max-line-length */
-	function publishReplay(bufferSize, windowTime, selectorOrScheduler, scheduler) {
-	    if (selectorOrScheduler && typeof selectorOrScheduler !== 'function') {
-	        scheduler = selectorOrScheduler;
-	    }
-	    var selector = typeof selectorOrScheduler === 'function' ? selectorOrScheduler : undefined;
-	    var subject = new ReplaySubject_1.ReplaySubject(bufferSize, windowTime, scheduler);
-	    return function (source) { return multicast_1.multicast(function () { return subject; }, selector)(source); };
-	}
-	exports.publishReplay = publishReplay;
-	//# sourceMappingURL=publishReplay.js.map
-
-/***/ }),
-/* 411 */
+/* 392 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -22201,12 +20498,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    function __() { this.constructor = d; }
 	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 	};
-	var Subject_1 = __webpack_require__(289);
-	var queue_1 = __webpack_require__(412);
-	var Subscription_1 = __webpack_require__(295);
-	var observeOn_1 = __webpack_require__(329);
-	var ObjectUnsubscribedError_1 = __webpack_require__(306);
-	var SubjectSubscription_1 = __webpack_require__(307);
+	var Subject_1 = __webpack_require__(290);
+	var queue_1 = __webpack_require__(393);
+	var Subscription_1 = __webpack_require__(296);
+	var observeOn_1 = __webpack_require__(400);
+	var ObjectUnsubscribedError_1 = __webpack_require__(305);
+	var SubjectSubscription_1 = __webpack_require__(306);
 	/**
 	 * @class ReplaySubject<T>
 	 */
@@ -22299,12 +20596,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=ReplaySubject.js.map
 
 /***/ }),
-/* 412 */
+/* 393 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
-	var QueueAction_1 = __webpack_require__(413);
-	var QueueScheduler_1 = __webpack_require__(416);
+	var QueueAction_1 = __webpack_require__(394);
+	var QueueScheduler_1 = __webpack_require__(397);
 	/**
 	 *
 	 * Queue Scheduler
@@ -22370,7 +20667,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=queue.js.map
 
 /***/ }),
-/* 413 */
+/* 394 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -22379,7 +20676,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    function __() { this.constructor = d; }
 	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 	};
-	var AsyncAction_1 = __webpack_require__(414);
+	var AsyncAction_1 = __webpack_require__(395);
 	/**
 	 * We need this JSDoc comment for affecting ESDoc.
 	 * @ignore
@@ -22424,7 +20721,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=QueueAction.js.map
 
 /***/ }),
-/* 414 */
+/* 395 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -22433,8 +20730,8 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    function __() { this.constructor = d; }
 	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 	};
-	var root_1 = __webpack_require__(291);
-	var Action_1 = __webpack_require__(415);
+	var root_1 = __webpack_require__(292);
+	var Action_1 = __webpack_require__(396);
 	/**
 	 * We need this JSDoc comment for affecting ESDoc.
 	 * @ignore
@@ -22571,7 +20868,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=AsyncAction.js.map
 
 /***/ }),
-/* 415 */
+/* 396 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -22580,7 +20877,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    function __() { this.constructor = d; }
 	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 	};
-	var Subscription_1 = __webpack_require__(295);
+	var Subscription_1 = __webpack_require__(296);
 	/**
 	 * A unit of work to be executed in a {@link Scheduler}. An action is typically
 	 * created from within a Scheduler and an RxJS user does not need to concern
@@ -22620,7 +20917,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=Action.js.map
 
 /***/ }),
-/* 416 */
+/* 397 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -22629,7 +20926,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    function __() { this.constructor = d; }
 	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 	};
-	var AsyncScheduler_1 = __webpack_require__(417);
+	var AsyncScheduler_1 = __webpack_require__(398);
 	var QueueScheduler = (function (_super) {
 	    __extends(QueueScheduler, _super);
 	    function QueueScheduler() {
@@ -22641,7 +20938,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=QueueScheduler.js.map
 
 /***/ }),
-/* 417 */
+/* 398 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -22650,7 +20947,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    function __() { this.constructor = d; }
 	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 	};
-	var Scheduler_1 = __webpack_require__(418);
+	var Scheduler_1 = __webpack_require__(399);
 	var AsyncScheduler = (function (_super) {
 	    __extends(AsyncScheduler, _super);
 	    function AsyncScheduler() {
@@ -22697,7 +20994,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=AsyncScheduler.js.map
 
 /***/ }),
-/* 418 */
+/* 399 */
 /***/ (function(module, exports) {
 
 	"use strict";
@@ -22751,11 +21048,261 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=Scheduler.js.map
 
 /***/ }),
-/* 419 */
+/* 400 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
-	var ConnectableObservable_1 = __webpack_require__(420);
+	var __extends = (this && this.__extends) || function (d, b) {
+	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+	    function __() { this.constructor = d; }
+	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+	};
+	var Subscriber_1 = __webpack_require__(294);
+	var Notification_1 = __webpack_require__(401);
+	/**
+	 *
+	 * Re-emits all notifications from source Observable with specified scheduler.
+	 *
+	 * <span class="informal">Ensure a specific scheduler is used, from outside of an Observable.</span>
+	 *
+	 * `observeOn` is an operator that accepts a scheduler as a first parameter, which will be used to reschedule
+	 * notifications emitted by the source Observable. It might be useful, if you do not have control over
+	 * internal scheduler of a given Observable, but want to control when its values are emitted nevertheless.
+	 *
+	 * Returned Observable emits the same notifications (nexted values, complete and error events) as the source Observable,
+	 * but rescheduled with provided scheduler. Note that this doesn't mean that source Observables internal
+	 * scheduler will be replaced in any way. Original scheduler still will be used, but when the source Observable emits
+	 * notification, it will be immediately scheduled again - this time with scheduler passed to `observeOn`.
+	 * An anti-pattern would be calling `observeOn` on Observable that emits lots of values synchronously, to split
+	 * that emissions into asynchronous chunks. For this to happen, scheduler would have to be passed into the source
+	 * Observable directly (usually into the operator that creates it). `observeOn` simply delays notifications a
+	 * little bit more, to ensure that they are emitted at expected moments.
+	 *
+	 * As a matter of fact, `observeOn` accepts second parameter, which specifies in milliseconds with what delay notifications
+	 * will be emitted. The main difference between {@link delay} operator and `observeOn` is that `observeOn`
+	 * will delay all notifications - including error notifications - while `delay` will pass through error
+	 * from source Observable immediately when it is emitted. In general it is highly recommended to use `delay` operator
+	 * for any kind of delaying of values in the stream, while using `observeOn` to specify which scheduler should be used
+	 * for notification emissions in general.
+	 *
+	 * @example <caption>Ensure values in subscribe are called just before browser repaint.</caption>
+	 * const intervals = Rx.Observable.interval(10); // Intervals are scheduled
+	 *                                               // with async scheduler by default...
+	 *
+	 * intervals
+	 * .observeOn(Rx.Scheduler.animationFrame)       // ...but we will observe on animationFrame
+	 * .subscribe(val => {                           // scheduler to ensure smooth animation.
+	 *   someDiv.style.height = val + 'px';
+	 * });
+	 *
+	 * @see {@link delay}
+	 *
+	 * @param {IScheduler} scheduler Scheduler that will be used to reschedule notifications from source Observable.
+	 * @param {number} [delay] Number of milliseconds that states with what delay every notification should be rescheduled.
+	 * @return {Observable<T>} Observable that emits the same notifications as the source Observable,
+	 * but with provided scheduler.
+	 *
+	 * @method observeOn
+	 * @owner Observable
+	 */
+	function observeOn(scheduler, delay) {
+	    if (delay === void 0) { delay = 0; }
+	    return this.lift(new ObserveOnOperator(scheduler, delay));
+	}
+	exports.observeOn = observeOn;
+	var ObserveOnOperator = (function () {
+	    function ObserveOnOperator(scheduler, delay) {
+	        if (delay === void 0) { delay = 0; }
+	        this.scheduler = scheduler;
+	        this.delay = delay;
+	    }
+	    ObserveOnOperator.prototype.call = function (subscriber, source) {
+	        return source.subscribe(new ObserveOnSubscriber(subscriber, this.scheduler, this.delay));
+	    };
+	    return ObserveOnOperator;
+	}());
+	exports.ObserveOnOperator = ObserveOnOperator;
+	/**
+	 * We need this JSDoc comment for affecting ESDoc.
+	 * @ignore
+	 * @extends {Ignored}
+	 */
+	var ObserveOnSubscriber = (function (_super) {
+	    __extends(ObserveOnSubscriber, _super);
+	    function ObserveOnSubscriber(destination, scheduler, delay) {
+	        if (delay === void 0) { delay = 0; }
+	        _super.call(this, destination);
+	        this.scheduler = scheduler;
+	        this.delay = delay;
+	    }
+	    ObserveOnSubscriber.dispatch = function (arg) {
+	        var notification = arg.notification, destination = arg.destination;
+	        notification.observe(destination);
+	        this.unsubscribe();
+	    };
+	    ObserveOnSubscriber.prototype.scheduleMessage = function (notification) {
+	        this.add(this.scheduler.schedule(ObserveOnSubscriber.dispatch, this.delay, new ObserveOnMessage(notification, this.destination)));
+	    };
+	    ObserveOnSubscriber.prototype._next = function (value) {
+	        this.scheduleMessage(Notification_1.Notification.createNext(value));
+	    };
+	    ObserveOnSubscriber.prototype._error = function (err) {
+	        this.scheduleMessage(Notification_1.Notification.createError(err));
+	    };
+	    ObserveOnSubscriber.prototype._complete = function () {
+	        this.scheduleMessage(Notification_1.Notification.createComplete());
+	    };
+	    return ObserveOnSubscriber;
+	}(Subscriber_1.Subscriber));
+	exports.ObserveOnSubscriber = ObserveOnSubscriber;
+	var ObserveOnMessage = (function () {
+	    function ObserveOnMessage(notification, destination) {
+	        this.notification = notification;
+	        this.destination = destination;
+	    }
+	    return ObserveOnMessage;
+	}());
+	exports.ObserveOnMessage = ObserveOnMessage;
+	//# sourceMappingURL=observeOn.js.map
+
+/***/ }),
+/* 401 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	"use strict";
+	var Observable_1 = __webpack_require__(291);
+	/**
+	 * Represents a push-based event or value that an {@link Observable} can emit.
+	 * This class is particularly useful for operators that manage notifications,
+	 * like {@link materialize}, {@link dematerialize}, {@link observeOn}, and
+	 * others. Besides wrapping the actual delivered value, it also annotates it
+	 * with metadata of, for instance, what type of push message it is (`next`,
+	 * `error`, or `complete`).
+	 *
+	 * @see {@link materialize}
+	 * @see {@link dematerialize}
+	 * @see {@link observeOn}
+	 *
+	 * @class Notification<T>
+	 */
+	var Notification = (function () {
+	    function Notification(kind, value, error) {
+	        this.kind = kind;
+	        this.value = value;
+	        this.error = error;
+	        this.hasValue = kind === 'N';
+	    }
+	    /**
+	     * Delivers to the given `observer` the value wrapped by this Notification.
+	     * @param {Observer} observer
+	     * @return
+	     */
+	    Notification.prototype.observe = function (observer) {
+	        switch (this.kind) {
+	            case 'N':
+	                return observer.next && observer.next(this.value);
+	            case 'E':
+	                return observer.error && observer.error(this.error);
+	            case 'C':
+	                return observer.complete && observer.complete();
+	        }
+	    };
+	    /**
+	     * Given some {@link Observer} callbacks, deliver the value represented by the
+	     * current Notification to the correctly corresponding callback.
+	     * @param {function(value: T): void} next An Observer `next` callback.
+	     * @param {function(err: any): void} [error] An Observer `error` callback.
+	     * @param {function(): void} [complete] An Observer `complete` callback.
+	     * @return {any}
+	     */
+	    Notification.prototype.do = function (next, error, complete) {
+	        var kind = this.kind;
+	        switch (kind) {
+	            case 'N':
+	                return next && next(this.value);
+	            case 'E':
+	                return error && error(this.error);
+	            case 'C':
+	                return complete && complete();
+	        }
+	    };
+	    /**
+	     * Takes an Observer or its individual callback functions, and calls `observe`
+	     * or `do` methods accordingly.
+	     * @param {Observer|function(value: T): void} nextOrObserver An Observer or
+	     * the `next` callback.
+	     * @param {function(err: any): void} [error] An Observer `error` callback.
+	     * @param {function(): void} [complete] An Observer `complete` callback.
+	     * @return {any}
+	     */
+	    Notification.prototype.accept = function (nextOrObserver, error, complete) {
+	        if (nextOrObserver && typeof nextOrObserver.next === 'function') {
+	            return this.observe(nextOrObserver);
+	        }
+	        else {
+	            return this.do(nextOrObserver, error, complete);
+	        }
+	    };
+	    /**
+	     * Returns a simple Observable that just delivers the notification represented
+	     * by this Notification instance.
+	     * @return {any}
+	     */
+	    Notification.prototype.toObservable = function () {
+	        var kind = this.kind;
+	        switch (kind) {
+	            case 'N':
+	                return Observable_1.Observable.of(this.value);
+	            case 'E':
+	                return Observable_1.Observable.throw(this.error);
+	            case 'C':
+	                return Observable_1.Observable.empty();
+	        }
+	        throw new Error('unexpected notification kind value');
+	    };
+	    /**
+	     * A shortcut to create a Notification instance of the type `next` from a
+	     * given value.
+	     * @param {T} value The `next` value.
+	     * @return {Notification<T>} The "next" Notification representing the
+	     * argument.
+	     */
+	    Notification.createNext = function (value) {
+	        if (typeof value !== 'undefined') {
+	            return new Notification('N', value);
+	        }
+	        return Notification.undefinedValueNotification;
+	    };
+	    /**
+	     * A shortcut to create a Notification instance of the type `error` from a
+	     * given error.
+	     * @param {any} [err] The `error` error.
+	     * @return {Notification<T>} The "error" Notification representing the
+	     * argument.
+	     */
+	    Notification.createError = function (err) {
+	        return new Notification('E', undefined, err);
+	    };
+	    /**
+	     * A shortcut to create a Notification instance of the type `complete`.
+	     * @return {Notification<any>} The valueless "complete" Notification.
+	     */
+	    Notification.createComplete = function () {
+	        return Notification.completeNotification;
+	    };
+	    Notification.completeNotification = new Notification('C');
+	    Notification.undefinedValueNotification = new Notification('N', undefined);
+	    return Notification;
+	}());
+	exports.Notification = Notification;
+	//# sourceMappingURL=Notification.js.map
+
+/***/ }),
+/* 402 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	"use strict";
+	var ConnectableObservable_1 = __webpack_require__(403);
 	/* tslint:enable:max-line-length */
 	/**
 	 * Returns an Observable that emits the results of invoking a specified selector on items
@@ -22777,24 +21324,22 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	 * @owner Observable
 	 */
 	function multicast(subjectOrSubjectFactory, selector) {
-	    return function multicastOperatorFunction(source) {
-	        var subjectFactory;
-	        if (typeof subjectOrSubjectFactory === 'function') {
-	            subjectFactory = subjectOrSubjectFactory;
-	        }
-	        else {
-	            subjectFactory = function subjectFactory() {
-	                return subjectOrSubjectFactory;
-	            };
-	        }
-	        if (typeof selector === 'function') {
-	            return source.lift(new MulticastOperator(subjectFactory, selector));
-	        }
-	        var connectable = Object.create(source, ConnectableObservable_1.connectableObservableDescriptor);
-	        connectable.source = source;
-	        connectable.subjectFactory = subjectFactory;
-	        return connectable;
-	    };
+	    var subjectFactory;
+	    if (typeof subjectOrSubjectFactory === 'function') {
+	        subjectFactory = subjectOrSubjectFactory;
+	    }
+	    else {
+	        subjectFactory = function subjectFactory() {
+	            return subjectOrSubjectFactory;
+	        };
+	    }
+	    if (typeof selector === 'function') {
+	        return this.lift(new MulticastOperator(subjectFactory, selector));
+	    }
+	    var connectable = Object.create(this, ConnectableObservable_1.connectableObservableDescriptor);
+	    connectable.source = this;
+	    connectable.subjectFactory = subjectFactory;
+	    return connectable;
 	}
 	exports.multicast = multicast;
 	var MulticastOperator = (function () {
@@ -22815,7 +21360,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=multicast.js.map
 
 /***/ }),
-/* 420 */
+/* 403 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -22824,11 +21369,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    function __() { this.constructor = d; }
 	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 	};
-	var Subject_1 = __webpack_require__(289);
-	var Observable_1 = __webpack_require__(290);
-	var Subscriber_1 = __webpack_require__(293);
-	var Subscription_1 = __webpack_require__(295);
-	var refCount_1 = __webpack_require__(421);
+	var Subject_1 = __webpack_require__(290);
+	var Observable_1 = __webpack_require__(291);
+	var Subscriber_1 = __webpack_require__(294);
+	var Subscription_1 = __webpack_require__(296);
 	/**
 	 * @class ConnectableObservable<T>
 	 */
@@ -22869,7 +21413,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	        return connection;
 	    };
 	    ConnectableObservable.prototype.refCount = function () {
-	        return refCount_1.refCount()(this);
+	        return this.lift(new RefCountOperator(this));
 	    };
 	    return ConnectableObservable;
 	}(Observable_1.Observable));
@@ -22990,124 +21534,34 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=ConnectableObservable.js.map
 
 /***/ }),
-/* 421 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	"use strict";
-	var __extends = (this && this.__extends) || function (d, b) {
-	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
-	    function __() { this.constructor = d; }
-	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-	};
-	var Subscriber_1 = __webpack_require__(293);
-	function refCount() {
-	    return function refCountOperatorFunction(source) {
-	        return source.lift(new RefCountOperator(source));
-	    };
-	}
-	exports.refCount = refCount;
-	var RefCountOperator = (function () {
-	    function RefCountOperator(connectable) {
-	        this.connectable = connectable;
-	    }
-	    RefCountOperator.prototype.call = function (subscriber, source) {
-	        var connectable = this.connectable;
-	        connectable._refCount++;
-	        var refCounter = new RefCountSubscriber(subscriber, connectable);
-	        var subscription = source.subscribe(refCounter);
-	        if (!refCounter.closed) {
-	            refCounter.connection = connectable.connect();
-	        }
-	        return subscription;
-	    };
-	    return RefCountOperator;
-	}());
-	var RefCountSubscriber = (function (_super) {
-	    __extends(RefCountSubscriber, _super);
-	    function RefCountSubscriber(destination, connectable) {
-	        _super.call(this, destination);
-	        this.connectable = connectable;
-	    }
-	    RefCountSubscriber.prototype._unsubscribe = function () {
-	        var connectable = this.connectable;
-	        if (!connectable) {
-	            this.connection = null;
-	            return;
-	        }
-	        this.connectable = null;
-	        var refCount = connectable._refCount;
-	        if (refCount <= 0) {
-	            this.connection = null;
-	            return;
-	        }
-	        connectable._refCount = refCount - 1;
-	        if (refCount > 1) {
-	            this.connection = null;
-	            return;
-	        }
-	        ///
-	        // Compare the local RefCountSubscriber's connection Subscription to the
-	        // connection Subscription on the shared ConnectableObservable. In cases
-	        // where the ConnectableObservable source synchronously emits values, and
-	        // the RefCountSubscriber's downstream Observers synchronously unsubscribe,
-	        // execution continues to here before the RefCountOperator has a chance to
-	        // supply the RefCountSubscriber with the shared connection Subscription.
-	        // For example:
-	        // ```
-	        // Observable.range(0, 10)
-	        //   .publish()
-	        //   .refCount()
-	        //   .take(5)
-	        //   .subscribe();
-	        // ```
-	        // In order to account for this case, RefCountSubscriber should only dispose
-	        // the ConnectableObservable's shared connection Subscription if the
-	        // connection Subscription exists, *and* either:
-	        //   a. RefCountSubscriber doesn't have a reference to the shared connection
-	        //      Subscription yet, or,
-	        //   b. RefCountSubscriber's connection Subscription reference is identical
-	        //      to the shared connection Subscription
-	        ///
-	        var connection = this.connection;
-	        var sharedConnection = connectable._connection;
-	        this.connection = null;
-	        if (sharedConnection && (!connection || sharedConnection === connection)) {
-	            sharedConnection.unsubscribe();
-	        }
-	    };
-	    return RefCountSubscriber;
-	}(Subscriber_1.Subscriber));
-	//# sourceMappingURL=refCount.js.map
-
-/***/ }),
-/* 422 */
+/* 404 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var DEFAULT_IMAGE, Environment, Head, RxObservable, _defaults, _map, _mapValues, _merge, colors, config, rubikCss, z,
 	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; },
 	  slice = [].slice;
 
-	z = __webpack_require__(148);
+	z = __webpack_require__(150);
 
-	Environment = __webpack_require__(358);
+	Environment = __webpack_require__(351);
 
-	RxObservable = __webpack_require__(290).Observable;
+	RxObservable = __webpack_require__(291).Observable;
 
-	__webpack_require__(406);
+	__webpack_require__(313);
 
-	_merge = __webpack_require__(374);
+	_merge = __webpack_require__(364);
 
-	_map = __webpack_require__(27);
+	_map = __webpack_require__(26);
 
-	_mapValues = __webpack_require__(250);
+	_mapValues = __webpack_require__(147);
 
 	_defaults = __webpack_require__(233);
 
-	config = __webpack_require__(370);
+	config = __webpack_require__(360);
 
-	colors = __webpack_require__(387);
+	colors = __webpack_require__(376);
 
-	rubikCss = __webpack_require__(423);
+	rubikCss = __webpack_require__(405);
 
 	DEFAULT_IMAGE = 'https://cdn.wtf/d/images/fam/web_icon_256.png';
 
@@ -23208,20 +21662,27 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	      userAgent: userAgent
 	    });
 	    host = (serverData != null ? (ref3 = serverData.req) != null ? ref3.headers.host : void 0 : void 0) || (typeof window !== "undefined" && window !== null ? (ref4 = window.location) != null ? ref4.host : void 0 : void 0);
-	    return z('head', z('meta', {
+	    return z('head', z('title', ''), z('meta', {
 	      name: 'viewport',
 	      content: 'initial-scale=1.0, width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0, minimal-ui, viewport-fit=cover'
 	    }), z('meta', {
 	      'http-equiv': 'Content-Security-Policy',
 	      content: "default-src 'self' file://* *; style-src 'self'" + " 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval'"
-	    }), isInliningSource ? z('style', {
-	      type: 'text/css'
-	    }, serverData != null ? serverData.styles : void 0) : void 0, z('script', {
+	    }), z('style.css-variables', {
+	      key: 'css-variables',
+	      innerHTML: ":root {" + (cssVariables || this.model.cookie.get('cachedCssVariables')) + "}"
+	    }), z('style.rubik', {
+	      innerHTML: rubikCss
+	    }), z('script', {
 	      src: 'https://extension-files.twitch.tv/helper/v1/twitch-ext.min.js'
 	    }), z('script.bundle', {
 	      async: true,
 	      src: isInliningSource ? 'bundle.js' : webpackDevUrl + "/bundle.js"
-	    }));
+	    }), isInliningSource ? z('link', {
+	      rel: 'stylesheet',
+	      type: 'text/css',
+	      href: 'bundle.css'
+	    }) : void 0);
 	  };
 
 	  return Head;
@@ -23230,40 +21691,581 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 423 */
+/* 405 */
 /***/ (function(module, exports) {
 
 	module.exports = '@font-face{font-family:Rubik;font-style:normal;font-weight:400;src:local(\'Rubik\'),local(\'Rubik-Regular\'),url(https://fonts.gstatic.com/s/rubik/v4/VKKpdi1QvieDs1ewFsxdAg.woff2) format(\'woff2\');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:Rubik;font-style:normal;font-weight:400;src:local(\'Rubik\'),local(\'Rubik-Regular\'),url(https://fonts.gstatic.com/s/rubik/v4/-fe1N1QeP0UtBmYG66PGsA.woff2) format(\'woff2\');unicode-range:U+0590-05FF,U+20AA,U+25CC,U+FB1D-FB4F}@font-face{font-family:Rubik;font-style:normal;font-weight:400;src:local(\'Rubik\'),local(\'Rubik-Regular\'),url(https://fonts.gstatic.com/s/rubik/v4/9TMYrMQsWjH1a-MkCFFAmg.woff2) format(\'woff2\');unicode-range:U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:Rubik;font-style:normal;font-weight:400;src:local(\'Rubik\'),local(\'Rubik-Regular\'),url(https://fonts.gstatic.com/s/rubik/v4/_mlO9_1N7oXYhEnEzC2l-g.woff2) format(\'woff2\');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215}@font-face{font-family:Rubik;font-style:normal;font-weight:500;src:local(\'Rubik Medium\'),local(\'Rubik-Medium\'),url(https://fonts.gstatic.com/s/rubik/v4/WdwM2J7q9PjwEDtfaHmmmxTbgVql8nDJpwnrE27mub0.woff2) format(\'woff2\');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:Rubik;font-style:normal;font-weight:500;src:local(\'Rubik Medium\'),local(\'Rubik-Medium\'),url(https://fonts.gstatic.com/s/rubik/v4/UVNnZWb9UilkxwgKrV-6TBTbgVql8nDJpwnrE27mub0.woff2) format(\'woff2\');unicode-range:U+0590-05FF,U+20AA,U+25CC,U+FB1D-FB4F}@font-face{font-family:Rubik;font-style:normal;font-weight:500;src:local(\'Rubik Medium\'),local(\'Rubik-Medium\'),url(https://fonts.gstatic.com/s/rubik/v4/XwD9N0jIpRr71ymtU2S41BTbgVql8nDJpwnrE27mub0.woff2) format(\'woff2\');unicode-range:U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:Rubik;font-style:normal;font-weight:500;src:local(\'Rubik Medium\'),local(\'Rubik-Medium\'),url(https://fonts.gstatic.com/s/rubik/v4/IUSlgBbgyuDQpy87mBOAc_esZW2xOQ-xsNqO47m55DA.woff2) format(\'woff2\');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215}@font-face{font-family:Rubik;font-style:normal;font-weight:700;src:local(\'Rubik Bold\'),local(\'Rubik-Bold\'),url(https://fonts.gstatic.com/s/rubik/v4/YPNAXz8Lvdc_aVM_nwpD7RTbgVql8nDJpwnrE27mub0.woff2) format(\'woff2\');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:Rubik;font-style:normal;font-weight:700;src:local(\'Rubik Bold\'),local(\'Rubik-Bold\'),url(https://fonts.gstatic.com/s/rubik/v4/qM4Xdpgnd4UROLJsnasqaBTbgVql8nDJpwnrE27mub0.woff2) format(\'woff2\');unicode-range:U+0590-05FF,U+20AA,U+25CC,U+FB1D-FB4F}@font-face{font-family:Rubik;font-style:normal;font-weight:700;src:local(\'Rubik Bold\'),local(\'Rubik-Bold\'),url(https://fonts.gstatic.com/s/rubik/v4/u7X1qIRpQ-sYqacI4EpdYxTbgVql8nDJpwnrE27mub0.woff2) format(\'woff2\');unicode-range:U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:Rubik;font-style:normal;font-weight:700;src:local(\'Rubik Bold\'),local(\'Rubik-Bold\'),url(https://fonts.gstatic.com/s/rubik/v4/0hS39AKxpJlEXQF3mVPgrvesZW2xOQ-xsNqO47m55DA.woff2) format(\'woff2\');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215}';
 
 
 /***/ }),
-/* 424 */
+/* 406 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var FortniteMap, HomePage, config, z,
+	/* WEBPACK VAR INJECTION */(function(setImmediate) {var BottomBar, Icon, RxObservable, _filter, _find, _map, colors, config, z,
 	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
 
-	z = __webpack_require__(148);
+	z = __webpack_require__(150);
 
-	FortniteMap = __webpack_require__(425);
+	_map = __webpack_require__(26);
 
-	config = __webpack_require__(370);
+	_filter = __webpack_require__(167);
+
+	_find = __webpack_require__(407);
+
+	RxObservable = __webpack_require__(291).Observable;
+
+	__webpack_require__(313);
+
+	Icon = __webpack_require__(410);
+
+	colors = __webpack_require__(376);
+
+	config = __webpack_require__(360);
 
 	if (typeof window !== "undefined" && window !== null) {
-	  __webpack_require__(439);
+	  __webpack_require__(417);
 	}
 
-	module.exports = HomePage = (function() {
-	  HomePage.prototype.hideDrawer = true;
-
-	  function HomePage(arg) {
-	    var group, requests, serverData;
-	    this.model = arg.model, this.router = arg.router, requests = arg.requests, serverData = arg.serverData, group = arg.group;
+	module.exports = BottomBar = (function() {
+	  function BottomBar(arg) {
+	    var group, requests;
+	    this.model = arg.model, this.router = arg.router, requests = arg.requests, group = arg.group;
 	    this.render = bind(this.render, this);
-	    this.$fortniteMap = new FortniteMap({
+	    this.show = bind(this.show, this);
+	    this.hide = bind(this.hide, this);
+	    this.afterMount = bind(this.afterMount, this);
+	    this.state = z.state({
+	      requests: requests,
+	      group: group
+	    });
+	  }
+
+	  BottomBar.prototype.afterMount = function($$el) {
+	    this.$$el = $$el;
+	    return null;
+	  };
+
+	  BottomBar.prototype.hide = function() {
+	    var ref;
+	    return (ref = this.$$el) != null ? ref.classList.add('is-hidden') : void 0;
+	  };
+
+	  BottomBar.prototype.show = function() {
+	    var ref;
+	    return (ref = this.$$el) != null ? ref.classList.remove('is-hidden') : void 0;
+	  };
+
+	  BottomBar.prototype.render = function(arg) {
+	    var currentPath, group, groupId, isAbsolute, isLoaded, ref, requests;
+	    isAbsolute = (arg != null ? arg : {}).isAbsolute;
+	    ref = this.state.getValue(), requests = ref.requests, group = ref.group;
+	    currentPath = requests != null ? requests.req.path : void 0;
+	    groupId = (group != null ? group.key : void 0) || (group != null ? group.id : void 0) || 'clashroyale';
+	    isLoaded = Boolean(group);
+	    this.menuItems = _filter([
+	      {
+	        $icon: new Icon(),
+	        icon: 'add-circle',
+	        route: '/earn',
+	        text: this.model.l.get('general.earn'),
+	        isDefault: true
+	      }, {
+	        $icon: new Icon(),
+	        icon: 'map',
+	        route: '/heatmap',
+	        text: this.model.l.get('bottomBar.heatmap')
+	      }
+	    ]);
+	    return z('.z-bottom-bar', {
+	      key: 'bottom-bar',
+	      className: z.classKebab({
+	        isLoaded: isLoaded,
+	        isAbsolute: isAbsolute
+	      })
+	    }, _map(this.menuItems, (function(_this) {
+	      return function(menuItem, i) {
+	        var $icon, hasNotification, icon, isDefault, isSelected, route, text;
+	        $icon = menuItem.$icon, icon = menuItem.icon, route = menuItem.route, text = menuItem.text, isDefault = menuItem.isDefault, hasNotification = menuItem.hasNotification;
+	        if (isDefault) {
+	          isSelected = currentPath && (currentPath.indexOf('.html') !== -1 || currentPath.indexOf(route) !== -1);
+	        } else {
+	          isSelected = currentPath && currentPath.indexOf(route) !== -1;
+	        }
+	        return z('a.menu-item', {
+	          attributes: {
+	            tabindex: i
+	          },
+	          className: z.classKebab({
+	            isSelected: isSelected,
+	            hasNotification: hasNotification
+	          }),
+	          href: route,
+	          onclick: function(e) {
+	            if (e != null) {
+	              e.preventDefault();
+	            }
+	            return setImmediate(function() {
+	              return _this.router.goPath(route);
+	            });
+	          }
+	        }, z('.icon', z($icon, {
+	          icon: icon,
+	          color: isSelected ? colors.$primary500 : colors.$tertiary900Text54,
+	          isTouchTarget: false,
+	          size: '24px'
+	        })), z('.text', text));
+	      };
+	    })(this)));
+	  };
+
+	  return BottomBar;
+
+	})();
+
+	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(3).setImmediate))
+
+/***/ }),
+/* 407 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var createFind = __webpack_require__(408),
+	    findIndex = __webpack_require__(409);
+
+	/**
+	 * Iterates over elements of `collection`, returning the first element
+	 * `predicate` returns truthy for. The predicate is invoked with three
+	 * arguments: (value, index|key, collection).
+	 *
+	 * @static
+	 * @memberOf _
+	 * @since 0.1.0
+	 * @category Collection
+	 * @param {Array|Object} collection The collection to inspect.
+	 * @param {Function} [predicate=_.identity] The function invoked per iteration.
+	 * @param {number} [fromIndex=0] The index to search from.
+	 * @returns {*} Returns the matched element, else `undefined`.
+	 * @example
+	 *
+	 * var users = [
+	 *   { 'user': 'barney',  'age': 36, 'active': true },
+	 *   { 'user': 'fred',    'age': 40, 'active': false },
+	 *   { 'user': 'pebbles', 'age': 1,  'active': true }
+	 * ];
+	 *
+	 * _.find(users, function(o) { return o.age < 40; });
+	 * // => object for 'barney'
+	 *
+	 * // The `_.matches` iteratee shorthand.
+	 * _.find(users, { 'age': 1, 'active': true });
+	 * // => object for 'pebbles'
+	 *
+	 * // The `_.matchesProperty` iteratee shorthand.
+	 * _.find(users, ['active', false]);
+	 * // => object for 'fred'
+	 *
+	 * // The `_.property` iteratee shorthand.
+	 * _.find(users, 'active');
+	 * // => object for 'barney'
+	 */
+	var find = createFind(findIndex);
+
+	module.exports = find;
+
+
+/***/ }),
+/* 408 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var baseIteratee = __webpack_require__(28),
+	    isArrayLike = __webpack_require__(113),
+	    keys = __webpack_require__(95);
+
+	/**
+	 * Creates a `_.find` or `_.findLast` function.
+	 *
+	 * @private
+	 * @param {Function} findIndexFunc The function to find the collection index.
+	 * @returns {Function} Returns the new find function.
+	 */
+	function createFind(findIndexFunc) {
+	  return function(collection, predicate, fromIndex) {
+	    var iterable = Object(collection);
+	    if (!isArrayLike(collection)) {
+	      var iteratee = baseIteratee(predicate, 3);
+	      collection = keys(collection);
+	      predicate = function(key) { return iteratee(iterable[key], key, iterable); };
+	    }
+	    var index = findIndexFunc(collection, predicate, fromIndex);
+	    return index > -1 ? iterable[iteratee ? collection[index] : index] : undefined;
+	  };
+	}
+
+	module.exports = createFind;
+
+
+/***/ }),
+/* 409 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var baseFindIndex = __webpack_require__(189),
+	    baseIteratee = __webpack_require__(28),
+	    toInteger = __webpack_require__(241);
+
+	/* Built-in method references for those with the same name as other `lodash` methods. */
+	var nativeMax = Math.max;
+
+	/**
+	 * This method is like `_.find` except that it returns the index of the first
+	 * element `predicate` returns truthy for instead of the element itself.
+	 *
+	 * @static
+	 * @memberOf _
+	 * @since 1.1.0
+	 * @category Array
+	 * @param {Array} array The array to inspect.
+	 * @param {Function} [predicate=_.identity] The function invoked per iteration.
+	 * @param {number} [fromIndex=0] The index to search from.
+	 * @returns {number} Returns the index of the found element, else `-1`.
+	 * @example
+	 *
+	 * var users = [
+	 *   { 'user': 'barney',  'active': false },
+	 *   { 'user': 'fred',    'active': false },
+	 *   { 'user': 'pebbles', 'active': true }
+	 * ];
+	 *
+	 * _.findIndex(users, function(o) { return o.user == 'barney'; });
+	 * // => 0
+	 *
+	 * // The `_.matches` iteratee shorthand.
+	 * _.findIndex(users, { 'user': 'fred', 'active': false });
+	 * // => 1
+	 *
+	 * // The `_.matchesProperty` iteratee shorthand.
+	 * _.findIndex(users, ['active', false]);
+	 * // => 0
+	 *
+	 * // The `_.property` iteratee shorthand.
+	 * _.findIndex(users, 'active');
+	 * // => 2
+	 */
+	function findIndex(array, predicate, fromIndex) {
+	  var length = array == null ? 0 : array.length;
+	  if (!length) {
+	    return -1;
+	  }
+	  var index = fromIndex == null ? 0 : toInteger(fromIndex);
+	  if (index < 0) {
+	    index = nativeMax(length + index, 0);
+	  }
+	  return baseFindIndex(array, baseIteratee(predicate, 3), index);
+	}
+
+	module.exports = findIndex;
+
+
+/***/ }),
+/* 410 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var Icon, Ripple, icons, z,
+	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
+
+	z = __webpack_require__(150);
+
+	icons = __webpack_require__(411);
+
+	Ripple = __webpack_require__(412);
+
+	if (typeof window !== "undefined" && window !== null) {
+	  __webpack_require__(415);
+	}
+
+	module.exports = Icon = (function() {
+	  function Icon() {
+	    this.render = bind(this.render, this);
+	  }
+
+	  Icon.prototype.render = function(options) {
+	    var color, flipX, hasRipple, heightRatio, icon, isAlignedBottom, isAlignedLeft, isAlignedRight, isAlignedTop, isClickable, isTouchTarget, onclick, size, tag, touchHeight, touchWidth, viewBox;
+	    icon = options.icon, size = options.size, isAlignedTop = options.isAlignedTop, isAlignedLeft = options.isAlignedLeft, isAlignedRight = options.isAlignedRight, isAlignedBottom = options.isAlignedBottom, isTouchTarget = options.isTouchTarget, color = options.color, onclick = options.onclick, flipX = options.flipX, viewBox = options.viewBox, heightRatio = options.heightRatio, hasRipple = options.hasRipple, touchHeight = options.touchHeight, touchWidth = options.touchWidth;
+	    if (size == null) {
+	      size = '24px';
+	    }
+	    if (viewBox == null) {
+	      viewBox = 24;
+	    }
+	    if (heightRatio == null) {
+	      heightRatio = 1;
+	    }
+	    if (isTouchTarget == null) {
+	      isTouchTarget = true;
+	    }
+	    if (touchWidth == null) {
+	      touchWidth = '48px';
+	    }
+	    if (touchHeight == null) {
+	      touchHeight = '48px';
+	    }
+	    isClickable = Boolean(onclick);
+	    tag = hasRipple ? 'a' : 'div';
+	    return z(tag + ".z-icon", {
+	      className: z.classKebab({
+	        isAlignedTop: isAlignedTop,
+	        isAlignedLeft: isAlignedLeft,
+	        isAlignedRight: isAlignedRight,
+	        isAlignedBottom: isAlignedBottom,
+	        isTouchTarget: isTouchTarget,
+	        isClickable: isClickable,
+	        hasRipple: hasRipple
+	      }),
+	      attributes: hasRipple ? {
+	        tabindex: 0
+	      } : {},
+	      onclick: onclick,
+	      style: {
+	        minWidth: isTouchTarget ? touchWidth : '100%',
+	        minHeight: isTouchTarget ? touchHeight : '100%',
+	        width: size,
+	        height: (size != null ? typeof size.indexOf === "function" ? size.indexOf('%') : void 0 : void 0) !== -1 ? (parseInt(size) * heightRatio) + "%" : (parseInt(size) * heightRatio) + "px"
+	      }
+	    }, z('svg', {
+	      namespace: 'http://www.w3.org/2000/svg',
+	      attributes: {
+	        'viewBox': "0 0 " + viewBox + " " + (viewBox * heightRatio)
+	      },
+	      style: {
+	        width: size,
+	        height: (size != null ? typeof size.indexOf === "function" ? size.indexOf('%') : void 0 : void 0) !== -1 ? (parseInt(size) * heightRatio) + "%" : (parseInt(size) * heightRatio) + "px"
+	      }
+	    }, z('path', {
+	      namespace: 'http://www.w3.org/2000/svg',
+	      attributes: {
+	        d: icons[icon],
+	        fill: color,
+	        'fill-rule': 'evenodd',
+	        transform: flipX ? 'translate(12, 12) scale(-1, 1) translate(-12, -12)' : 'scale(1, 1)'
+	      }
+	    })));
+	  };
+
+	  return Icon;
+
+	})();
+
+
+/***/ }),
+/* 411 */
+/***/ (function(module, exports) {
+
+	module.exports = {
+	  'add-circle': 'M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z',
+	  'caret-left': 'M15.41,16.58L10.83,12L15.41,7.41L14,6L8,12L14,18L15.41,16.58Z',
+	  'caret-right': 'M9.41,6 L8,7.41 L12.58,12 L8,16.59 L9.41,18 L15.41,12 L9.41,6 Z',
+	  'map': 'M15,19L9,16.89V5L15,7.11M20.5,3C20.44,3 20.39,3 20.34,3L15,5.1L9,3L3.36,4.9C3.15,4.97 3,5.15 3,5.38V20.5A0.5,0.5 0 0,0 3.5,21C3.55,21 3.61,21 3.66,20.97L9,18.9L15,21L20.64,19.1C20.85,19 21,18.85 21,18.62V3.5A0.5,0.5 0 0,0 20.5,3Z',
+	  'pin': 'M16,12V4H17V2H7V4H8V12L6,14V16H11.2V22H12.8V16H18V14L16,12Z',
+	  'pin-off': 'M2,5.27L3.28,4L20,20.72L18.73,22L12.8,16.07V22H11.2V16H6V14L8,12V11.27L2,5.27M16,12L18,14V16H17.82L8,6.18V4H7V2H17V4H16V12Z',
+	  'profile': 'M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z',
+	  'refresh': 'M17.65 6.35C16.2 4.9 14.21 4 12 4c-4.42 0-7.99 3.58-7.99 8s3.57 8 7.99 8c3.73 0 6.84-2.55 7.73-6h-2.08c-.82 2.33-3.04 4-5.65 4-3.31 0-6-2.69-6-6s2.69-6 6-6c1.66 0 3.14.69 4.22 1.78L13 11h7V4l-2.35 2.35z'
+	};
+
+
+/***/ }),
+/* 412 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var ANIMATION_TIME_MS, Environment, Ripple, colors, z,
+	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
+
+	z = __webpack_require__(150);
+
+	Environment = __webpack_require__(351);
+
+	colors = __webpack_require__(376);
+
+	if (typeof window !== "undefined" && window !== null) {
+	  __webpack_require__(413);
+	}
+
+	ANIMATION_TIME_MS = 350;
+
+	module.exports = Ripple = (function() {
+	  Ripple.prototype.type = 'Widget';
+
+	  function Ripple() {
+	    this.ripple = bind(this.ripple, this);
+	    this.afterMount = bind(this.afterMount, this);
+	    null;
+	  }
+
+	  Ripple.prototype.afterMount = function($$el1) {
+	    this.$$el = $$el1;
+	    return this.$$wave = this.$$el.querySelector('.wave');
+	  };
+
+	  Ripple.prototype.ripple = function(arg) {
+	    var $$el, $$wave, color, fadeIn, height, isCenter, left, mouseX, mouseY, onComplete, ref, ref1, top, width, x, y;
+	    ref = arg != null ? arg : {}, $$el = ref.$$el, color = ref.color, isCenter = ref.isCenter, mouseX = ref.mouseX, mouseY = ref.mouseY, onComplete = ref.onComplete, fadeIn = ref.fadeIn;
+	    if ($$el == null) {
+	      $$el = this.$$el;
+	    }
+	    ref1 = $$el.getBoundingClientRect(), width = ref1.width, height = ref1.height, top = ref1.top, left = ref1.left;
+	    if (isCenter) {
+	      x = width / 2;
+	      y = height / 2;
+	    } else {
+	      x = mouseX - left;
+	      y = mouseY - top;
+	    }
+	    $$wave = this.$$wave;
+	    $$wave.style.top = y + 'px';
+	    $$wave.style.left = x + 'px';
+	    $$wave.style.backgroundColor = color;
+	    $$wave.className = fadeIn ? 'wave fade-in is-visible' : 'wave is-visible';
+	    return new Promise(function(resolve, reject) {
+	      return setTimeout(function() {
+	        if (typeof onComplete === "function") {
+	          onComplete();
+	        }
+	        resolve();
+	        return setTimeout(function() {
+	          return $$wave.className = 'wave';
+	        }, 100);
+	      }, ANIMATION_TIME_MS);
+	    });
+	  };
+
+	  Ripple.prototype.render = function(arg) {
+	    var color, fadeIn, isCenter, isCircle, onComplete, onTouch;
+	    color = arg.color, isCircle = arg.isCircle, isCenter = arg.isCenter, onComplete = arg.onComplete, fadeIn = arg.fadeIn;
+	    onTouch = (function(_this) {
+	      return function(e) {
+	        var $$el, ref, ref1, ref2, ref3;
+	        $$el = e.target;
+	        return _this.ripple({
+	          $$el: $$el,
+	          color: color,
+	          isCenter: isCenter,
+	          onComplete: onComplete,
+	          fadeIn: fadeIn,
+	          mouseX: e.clientX || ((ref = e.touches) != null ? (ref1 = ref[0]) != null ? ref1.clientX : void 0 : void 0),
+	          mouseY: e.clientY || ((ref2 = e.touches) != null ? (ref3 = ref2[0]) != null ? ref3.clientY : void 0 : void 0)
+	        });
+	      };
+	    })(this);
+	    return z('.z-ripple', {
+	      className: z.classKebab({
+	        isCircle: isCircle
+	      }),
+	      ontouchstart: onTouch,
+	      onmousedown: Environment.isAndroid() ? null : onTouch
+	    }, z('.wave'));
+	  };
+
+	  return Ripple;
+
+	})();
+
+
+/***/ }),
+/* 413 */
+/***/ (function(module, exports) {
+
+	// removed by extract-text-webpack-plugin
+
+/***/ }),
+/* 414 */,
+/* 415 */
+/***/ (function(module, exports) {
+
+	// removed by extract-text-webpack-plugin
+
+/***/ }),
+/* 416 */,
+/* 417 */
+/***/ (function(module, exports) {
+
+	// removed by extract-text-webpack-plugin
+
+/***/ }),
+/* 418 */,
+/* 419 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var Icon, TwitchSignInOverlay, colors, config, z,
+	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
+
+	z = __webpack_require__(150);
+
+	Icon = __webpack_require__(410);
+
+	colors = __webpack_require__(376);
+
+	config = __webpack_require__(360);
+
+	if (typeof window !== "undefined" && window !== null) {
+	  __webpack_require__(420);
+	}
+
+	module.exports = TwitchSignInOverlay = (function() {
+	  function TwitchSignInOverlay(arg) {
+	    this.model = arg.model, this.router = arg.router;
+	    this.render = bind(this.render, this);
+	    null;
+	  }
+
+	  TwitchSignInOverlay.prototype.render = function() {
+	    return z('.z-twitch-sign-in-overlay', z('.content', z('.instructions', z('.title', this.model.l.get('twitchSignInOverlay.title')), z('.text', this.model.l.get('twitchSignInOverlay.text1'), z('.twitch-permissions-icon')), z('.text', this.model.l.get('twitchSignInOverlay.text2'))), z('.arrow')));
+	  };
+
+	  return TwitchSignInOverlay;
+
+	})();
+
+
+/***/ }),
+/* 420 */
+/***/ (function(module, exports) {
+
+	// removed by extract-text-webpack-plugin
+
+/***/ }),
+/* 421 */,
+/* 422 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var AppBar, Earn, EarnPage, config, z,
+	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
+
+	z = __webpack_require__(150);
+
+	Earn = __webpack_require__(423);
+
+	AppBar = __webpack_require__(454);
+
+	config = __webpack_require__(360);
+
+	if (typeof window !== "undefined" && window !== null) {
+	  __webpack_require__(461);
+	}
+
+	module.exports = EarnPage = (function() {
+	  EarnPage.hasBottomBar = true;
+
+	  function EarnPage(arg) {
+	    var group, requests, serverData;
+	    this.model = arg.model, this.router = arg.router, requests = arg.requests, serverData = arg.serverData, group = arg.group, this.$bottomBar = arg.$bottomBar;
+	    this.render = bind(this.render, this);
+	    this.$earn = new Earn({
 	      model: this.model,
+	      router: this.router,
 	      group: group,
 	      requests: requests
+	    });
+	    this.$appBar = new AppBar({
+	      model: this.model,
+	      router: this.router,
+	      group: group
 	    });
 	    this.state = z.state({
 	      me: this.model.user.getMe(),
@@ -23271,70 +22273,2545 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    });
 	  }
 
-	  HomePage.prototype.getMeta = function() {
-	    return {
-	      meta: {
-	        canonical: "https://" + config.HOST
-	      }
-	    };
-	  };
-
-	  HomePage.prototype.render = function() {
+	  EarnPage.prototype.render = function() {
 	    var me, ref, windowSize;
 	    ref = this.state.getValue(), me = ref.me, windowSize = ref.windowSize;
-	    return z('.p-home', {
+	    return z('.p-earn', {
 	      style: {
 	        height: windowSize.height + "px"
 	      }
-	    }, this.$fortniteMap);
+	    }, z(this.$appBar, {
+	      title: this.model.l.get('general.earn')
+	    }), this.$earn, this.$bottomBar);
 	  };
 
-	  return HomePage;
+	  return EarnPage;
 
 	})();
+
+
+/***/ }),
+/* 423 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var Earn, EarnCurrency, PrimaryButton, config, z,
+	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
+
+	z = __webpack_require__(150);
+
+	config = __webpack_require__(360);
+
+	PrimaryButton = __webpack_require__(424);
+
+	EarnCurrency = __webpack_require__(437);
+
+	if (typeof window !== "undefined" && window !== null) {
+	  __webpack_require__(452);
+	}
+
+	module.exports = Earn = (function() {
+	  function Earn(arg) {
+	    var group, ref;
+	    ref = arg != null ? arg : {}, this.model = ref.model, this.router = ref.router, group = ref.group;
+	    this.render = bind(this.render, this);
+	    this.$button = new PrimaryButton();
+	    this.$earnCurrency = new EarnCurrency({
+	      model: this.model,
+	      router: this.router,
+	      group: group
+	    });
+	    this.state = z.state({
+	      me: this.model.user.getMe()
+	    });
+	  }
+
+	  Earn.prototype.render = function() {
+	    var me;
+	    me = this.state.getValue().me;
+	    return z('.z-earn', z(this.$earnCurrency));
+	  };
+
+	  return Earn;
+
+	})();
+
+
+/***/ }),
+/* 424 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var Button, PrimaryButton, _defaults, colors, z,
+	  extend = function(child, parent) { for (var key in parent) { if (hasProp.call(parent, key)) child[key] = parent[key]; } function ctor() { this.constructor = child; } ctor.prototype = parent.prototype; child.prototype = new ctor(); child.__super__ = parent.prototype; return child; },
+	  hasProp = {}.hasOwnProperty;
+
+	z = __webpack_require__(150);
+
+	_defaults = __webpack_require__(233);
+
+	Button = __webpack_require__(425);
+
+	colors = __webpack_require__(426);
+
+	if (typeof window !== "undefined" && window !== null) {
+	  __webpack_require__(435);
+	}
+
+	module.exports = PrimaryButton = (function(superClass) {
+	  extend(PrimaryButton, superClass);
+
+	  function PrimaryButton() {
+	    return PrimaryButton.__super__.constructor.apply(this, arguments);
+	  }
+
+	  PrimaryButton.prototype.render = function(opts) {
+	    return z('.z-primary-button', PrimaryButton.__super__.render.call(this, _defaults(opts, {
+	      isFullWidth: true,
+	      isRaised: true,
+	      isDark: true,
+	      colors: {
+	        c200: colors.$primary500,
+	        c500: colors.$primary500,
+	        c600: colors.$primary400,
+	        c700: colors.$primary400,
+	        ink: colors.$primary500Text
+	      }
+	    })));
+	  };
+
+	  return PrimaryButton;
+
+	})(Button);
 
 
 /***/ }),
 /* 425 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var FortniteMap, HeatMapWidget, Icon, RxReplaySubject, _map, colors, z,
+	var Button, Ripple, _defaults, colors, z,
 	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
 
-	z = __webpack_require__(148);
+	z = __webpack_require__(150);
 
-	_map = __webpack_require__(27);
+	_defaults = __webpack_require__(233);
 
-	RxReplaySubject = __webpack_require__(411).ReplaySubject;
+	colors = __webpack_require__(426);
 
-	HeatMapWidget = __webpack_require__(426);
-
-	Icon = __webpack_require__(430);
-
-	colors = __webpack_require__(387);
+	Ripple = __webpack_require__(428);
 
 	if (typeof window !== "undefined" && window !== null) {
-	  __webpack_require__(437);
+	  __webpack_require__(433);
+	}
+
+	module.exports = Button = (function() {
+	  function Button() {
+	    this.render = bind(this.render, this);
+	    this.$ripple = new Ripple();
+	    this.state = z.state({
+	      backgroundColor: null,
+	      isHovered: false,
+	      isActive: false
+	    });
+	  }
+
+	  Button.prototype.getBackgroundColor = function(colors, isRaised, isHovered, isActive, isDark) {
+	    if (colors.c500) {
+	      if (isActive) {
+	        return colors.c700;
+	      } else if (isHovered) {
+	        return colors.c600;
+	      } else {
+	        return colors.c500;
+	      }
+	    } else {
+	      if (isActive) {
+	        if (isDark) {
+	          return 'rgba(204, 204, 204, 0.12)';
+	        } else {
+	          return 'rgba(153, 153, 153, 0.12)';
+	        }
+	      } else if (isHovered) {
+	        if (isDark) {
+	          return 'rgba(204, 204, 204, 0.12)';
+	        } else {
+	          return 'rgba(153, 153, 153, 0.12)';
+	        }
+	      } else {
+	        return null;
+	      }
+	    }
+	  };
+
+	  Button.prototype.render = function(options) {
+	    var $content, allowDisabledClick, backgroundColor, heightPx, isActive, isDark, isDisabled, isFlat, isFullWidth, isHovered, isRaised, isShort, listeners, onclick, ref, text, type;
+	    text = options.text, isDisabled = options.isDisabled, allowDisabledClick = options.allowDisabledClick, listeners = options.listeners, isRaised = options.isRaised, isFullWidth = options.isFullWidth, isShort = options.isShort, isDark = options.isDark, isFlat = options.isFlat, colors = options.colors, onclick = options.onclick, type = options.type, $content = options.$content, heightPx = options.heightPx;
+	    ref = this.state.getValue(), backgroundColor = ref.backgroundColor, isHovered = ref.isHovered, isActive = ref.isActive;
+	    if ($content == null) {
+	      $content = text;
+	    }
+	    if (heightPx == null) {
+	      heightPx = 36;
+	    }
+	    if (type == null) {
+	      type = 'button';
+	    }
+	    if (isRaised == null) {
+	      isRaised = false;
+	    }
+	    isFlat = !isRaised;
+	    if (isDisabled == null) {
+	      isDisabled = false;
+	    }
+	    if (isDark == null) {
+	      isDark = false;
+	    }
+	    if (onclick == null) {
+	      onclick = (function() {
+	        return null;
+	      });
+	    }
+	    if (colors == null) {
+	      colors = {};
+	    }
+	    colors = _defaults(colors, {
+	      cText: colors.ink && !isDisabled ? colors.ink : null,
+	      c200: isDark && isFlat ? colors.$grey500 : colors.$grey800,
+	      c500: null,
+	      c600: null,
+	      c700: null,
+	      ink: null
+	    });
+	    if (backgroundColor == null) {
+	      backgroundColor = this.getBackgroundColor(colors, isRaised, isHovered, isActive, isDark);
+	    }
+	    return z('.z-button', {
+	      className: z.classKebab({
+	        isRaised: isRaised,
+	        isFlat: isFlat,
+	        isShort: isShort,
+	        isFullWidth: isFullWidth,
+	        isDark: isDark,
+	        isDisabled: isDisabled,
+	        allowDisabledClick: allowDisabledClick
+	      }),
+	      ontouchstart: (function(_this) {
+	        return function() {
+	          return _this.state.set({
+	            isActive: true
+	          });
+	        };
+	      })(this),
+	      ontouchend: (function(_this) {
+	        return function() {
+	          return _this.state.set({
+	            isActive: false,
+	            isHovered: false
+	          });
+	        };
+	      })(this),
+	      onmouseover: (function(_this) {
+	        return function() {
+	          return _this.state.set({
+	            isHovered: true
+	          });
+	        };
+	      })(this),
+	      onmouseout: (function(_this) {
+	        return function() {
+	          return _this.state.set({
+	            isHovered: false
+	          });
+	        };
+	      })(this),
+	      onmouseup: (function(_this) {
+	        return function() {
+	          return _this.state.set({
+	            isActive: false
+	          });
+	        };
+	      })(this),
+	      onclick: (function(_this) {
+	        return function(e) {
+	          _this.state.set({
+	            isHovered: false
+	          });
+	          return onclick(e);
+	        };
+	      })(this)
+	    }, z('button.button', {
+	      attributes: {
+	        disabled: isDisabled && !allowDisabledClick ? true : void 0,
+	        type: type
+	      },
+	      onmousedown: z.ev((function(_this) {
+	        return function(e, $$el) {
+	          return _this.state.set({
+	            isActive: true
+	          });
+	        };
+	      })(this)),
+	      style: {
+	        backgroundColor: isDisabled ? null : backgroundColor,
+	        color: isDisabled ? null : colors.cText,
+	        lineHeight: heightPx + "px",
+	        minHeight: heightPx + "px"
+	      }
+	    }, $content, !isDisabled ? this.$ripple : void 0));
+	  };
+
+	  return Button;
+
+	})();
+
+
+/***/ }),
+/* 426 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var $$el, _defaults, _mapValues, colors, getChromeVersion, isCssVariableSupported, materialColors, ref, ref1;
+
+	_defaults = __webpack_require__(233);
+
+	_mapValues = __webpack_require__(147);
+
+	materialColors = __webpack_require__(427);
+
+	colors = _defaults({
+	  playhard: {
+	    '--header-100': '#66696E',
+	    '--header-500': '#1B1E24',
+	    '--header-500-text': materialColors.$white,
+	    '--header-500-text-54': materialColors.$white54,
+	    '--header-500-icon': '#E92734',
+	    '--primary-50': '#FCE5E7',
+	    '--primary-100': '#F8BEC2',
+	    '--primary-200': '#F4939A',
+	    '--primary-300': '#F06871',
+	    '--primary-400': '#EC4752',
+	    '--primary-500': '#E92734',
+	    '--primary-50096': '#E92734',
+	    '--primary-600': '#E6232F',
+	    '--primary-700': '#E31D27',
+	    '--primary-800': '#DF1721',
+	    '--primary-900': '#D90E15',
+	    '--tertiary-50': '#E5E5E6',
+	    '--tertiary-100': '#E5E5E6',
+	    '--tertiary-200': '#BEBFC1',
+	    '--tertiary-300': '#929498',
+	    '--tertiary-400': '#46484F',
+	    '--tertiary-500': '#252830',
+	    '--tertiary-600': '#21242B',
+	    '--tertiary-700': '#1B1E24',
+	    '--tertiary-800': '#16181E',
+	    '--tertiary-900': '#0D0F13'
+	  },
+	  eclihpse: {
+	    '--header-100': '#634E93',
+	    '--header-500': '#180153',
+	    '--header-500-text': materialColors.$white,
+	    '--header-500-text-54': materialColors.$white54,
+	    '--header-500-icon': '#FF5D00',
+	    '--primary-50': '#FFECE0',
+	    '--primary-100': '#FFCEB3',
+	    '--primary-200': '#FFAE80',
+	    '--primary-300': '#FF8E4D',
+	    '--primary-400': '#FF7526',
+	    '--primary-500': '#FF5D00',
+	    '--primary-50096': 'rgba(255, 93, 0, 0.96)',
+	    '--primary-600': '#FF5500',
+	    '--primary-700': '#FF4B00',
+	    '--primary-800': '#FF4100',
+	    '--primary-900': '#FF3000',
+	    '--tertiary-50': '#E3E1E7',
+	    '--tertiary-100': '#E3E1E7',
+	    '--tertiary-200': '#B8B3C4',
+	    '--tertiary-300': '#89809D',
+	    '--tertiary-400': '#362758',
+	    '--tertiary-500': '#12013A',
+	    '--tertiary-600': '#100134',
+	    '--tertiary-700': '#0D012C',
+	    '--tertiary-800': '#0A0125',
+	    '--tertiary-900': '#050018',
+	    '--tertiary-90054': 'rgba(11, 1, 55, 0.54)'
+	  },
+	  nickatnyte: {
+	    '--header-100': '#E7F1BD',
+	    '--header-500': '#AED123',
+	    '--header-500-text': materialColors.$black,
+	    '--header-500-text-54': materialColors.$black54,
+	    '--header-500-icon': '#3D0563',
+	    '--primary-50': '#F5F9E5',
+	    '--primary-100': '#E7F1BD',
+	    '--primary-200': '#D7E891',
+	    '--primary-300': '#C6DF65',
+	    '--primary-400': '#BAD844',
+	    '--primary-500': '#AED123',
+	    '--primary-600': '#A7CC1F',
+	    '--primary-700': '#9DC61A',
+	    '--primary-800': '#94C015',
+	    '--primary-900': '#84B50C',
+	    '--primary-90054': 'rgba(132, 181, 12, 0.54)',
+	    '--primary-500-text': materialColors.$black,
+	    '--tertiary-50': '#E8E1EC',
+	    '--tertiary-100': '#E8E1EC',
+	    '--tertiary-200': '#C5B4D0',
+	    '--tertiary-300': '#9E82B1',
+	    '--tertiary-400': '#5A2B7A',
+	    '--tertiary-500': '#3D0563',
+	    '--tertiary-50096': 'rgba(61, 5, 99, 0.96)',
+	    '--tertiary-600': '#37045B',
+	    '--tertiary-700': '#2F0451',
+	    '--tertiary-800': '#270347',
+	    '--tertiary-900': '#1A0135'
+	  },
+	  teamqueso: {
+	    '--header-100': '#FFF6E0',
+	    '--header-500': '#FFB100',
+	    '--header-500-text': materialColors.$black,
+	    '--header-500-text-54': materialColors.$black54,
+	    '--header-500-icon': '#272C51',
+	    '--primary-50': '#FFF6E0',
+	    '--primary-100': '#FFF6E0',
+	    '--primary-200': '#FFE8B3',
+	    '--primary-300': '#FFD880',
+	    '--primary-400': '#FFBD26',
+	    '--primary-500': '#FFB100',
+	    '--primary-600': '#FFAA00',
+	    '--primary-700': '#FFA100',
+	    '--primary-800': '#FF9800',
+	    '--primary-900': '#FF8800',
+	    '--primary-90054': 'rgba(255, 172, 26, 0.54)',
+	    '--primary-500-text': materialColors.$black,
+	    '--tertiary-50': '#E5E6EA',
+	    '--tertiary-100': '#E5E6EA',
+	    '--tertiary-200': '#BEC0CB',
+	    '--tertiary-300': '#9396A8',
+	    '--tertiary-400': '#474C6B',
+	    '--tertiary-500': '#272C51',
+	    '--tertiary-50096': 'rgba(61, 5, 99, 0.96)',
+	    '--tertiary-600': '#23274A',
+	    '--tertiary-700': '#1D2140',
+	    '--tertiary-800': '#171B37',
+	    '--tertiary-900': '#0E1027'
+	  },
+	  ninja: {
+	    '--header-100': '#FFF9E0',
+	    '--header-500': '#FFCB00',
+	    '--header-500-text': materialColors.$black,
+	    '--header-500-text-54': materialColors.$black54,
+	    '--header-500-icon': '#253554',
+	    '--primary-50': '#FFF9E0',
+	    '--primary-100': '#FFF9E0',
+	    '--primary-200': '#FFEFB3',
+	    '--primary-300': '#FFE580',
+	    '--primary-400': '#FFD326',
+	    '--primary-500': '#FFCB00',
+	    '--primary-600': '#FFC600',
+	    '--primary-700': '#FFBE00',
+	    '--primary-800': '#FFB800',
+	    '--primary-900': '#FFAC00',
+	    '--primary-500-text': materialColors.$black,
+	    '--tertiary-50': '#E5E7EA',
+	    '--tertiary-100': '#E5E7EA',
+	    '--tertiary-200': '#BEC2CC',
+	    '--tertiary-300': '#929AAA',
+	    '--tertiary-400': '#46536E',
+	    '--tertiary-500': '#253554',
+	    '--tertiary-600': '#21304D',
+	    '--tertiary-700': '#1B2843',
+	    '--tertiary-800': '#16223A',
+	    '--tertiary-900': '#0D1629'
+	  },
+	  withzack: {
+	    '--header-100': '#99A5A6',
+	    '--header-500': '#273B3D',
+	    '--header-500-text': materialColors.$white,
+	    '--header-500-text-54': materialColors.$white54,
+	    '--header-500-icon': '#FF5D00',
+	    '--primary-50': '#FFECE0',
+	    '--primary-100': '#FFCEB3',
+	    '--primary-200': '#FFAE80',
+	    '--primary-300': '#FF8E4D',
+	    '--primary-400': '#FF7526',
+	    '--primary-500': '#FF5D00',
+	    '--primary-50096': 'rgba(255, 93, 0, 0.96)',
+	    '--primary-600': '#FF5500',
+	    '--primary-700': '#FF4B00',
+	    '--primary-800': '#FF4100',
+	    '--primary-900': '#FF3000',
+	    '--tertiary-50': '#E7E9EA',
+	    '--tertiary-100': '#E7E9EA',
+	    '--tertiary-200': '#C2C9CA',
+	    '--tertiary-300': '#99A5A6',
+	    '--tertiary-400': '#526668',
+	    '--tertiary-500': '#334B4D',
+	    '--tertiary-600': '#2E4446',
+	    '--tertiary-700': '#273B3D',
+	    '--tertiary-800': '#203334',
+	    '--tertiary-900': '#142325',
+	    '--tertiary-90054': 'rgba(11, 30, 32, 0.54)'
+	  },
+	  fortnite: {
+	    '--header-100': '#F4E5FC',
+	    '--header-500': '#A427E3',
+	    '--header-500-text': materialColors.$white,
+	    '--header-500-text-54': materialColors.$white54,
+	    '--header-500-icon': '#fff',
+	    '--primary-50': '#F4E5FC',
+	    '--primary-100': '#F4E5FC',
+	    '--primary-200': '#E4BEF7',
+	    '--primary-300': '#D293F1',
+	    '--primary-400': '#B247E7',
+	    '--primary-500': '#A427E3',
+	    '--primary-50096': 'rgba(164, 39, 227, 0.96)',
+	    '--primary-600': '#9C23E0',
+	    '--primary-700': '#921DDC',
+	    '--primary-800': '#8917D8',
+	    '--primary-900': '#780ED0',
+	    '--tertiary-500': '#191b1c',
+	    '--tertiary-700': '#111416',
+	    '--tertiary-900': '#000000'
+	  },
+	  brawlstars: {
+	    '--header-100': '#FFF7E0',
+	    '--header-500': '#FFBB00',
+	    '--header-500-text': materialColors.$black,
+	    '--header-500-text-54': materialColors.$black54,
+	    '--header-500-icon': materialColors.$black,
+	    '--primary-50': '#FFF7E0',
+	    '--primary-100': '#FFF7E0',
+	    '--primary-200': '#FFEBB3',
+	    '--primary-300': '#FFDD80',
+	    '--primary-400': '#FFC526',
+	    '--primary-500': '#FFBB00',
+	    '--primary-600': '#FFB500',
+	    '--primary-700': '#FFAC00',
+	    '--primary-800': '#FFA400',
+	    '--primary-900': '#FF9600',
+	    '--primary-500-text': materialColors.$black,
+	    '--tertiary-50': '#E8E8E8',
+	    '--tertiary-100': '#C7C7C7',
+	    '--tertiary-200': '#A1A1A1',
+	    '--tertiary-300': '#7B7B7B',
+	    '--tertiary-400': '#5F5F5F',
+	    '--tertiary-500': '#434343',
+	    '--tertiary-600': '#3D3D3D',
+	    '--tertiary-700': '#343434',
+	    '--tertiary-800': '#2C2C2C',
+	    '--tertiary-900': '#1E1E1E'
+	  },
+	  theviewage: {
+	    '--header-100': '#FFF7E0',
+	    '--header-500': '#FFBB00',
+	    '--header-500-text': materialColors.$black,
+	    '--header-500-text-54': materialColors.$black54,
+	    '--header-500-icon': materialColors.$black,
+	    '--primary-50': '#FFF7E0',
+	    '--primary-100': '#FFF7E0',
+	    '--primary-200': '#FFEBB3',
+	    '--primary-300': '#FFDD80',
+	    '--primary-400': '#FFC526',
+	    '--primary-500': '#FFBB00',
+	    '--primary-600': '#FFB500',
+	    '--primary-700': '#FFAC00',
+	    '--primary-800': '#FFA400',
+	    '--primary-900': '#FF9600',
+	    '--primary-500-text': materialColors.$black,
+	    '--tertiary-500': '#191b1c',
+	    '--tertiary-700': '#111416',
+	    '--tertiary-900': '#000000'
+	  },
+	  clashroyale: {
+	    '--header-100': '#80A4C3',
+	    '--header-500': '#003973',
+	    '--header-500-text': materialColors.$white,
+	    '--header-500-text-54': materialColors.$white54,
+	    '--header-500-icon': materialColors.$white,
+	    '--primary-50': '#FFF5E0',
+	    '--primary-100': '#FFE6B3',
+	    '--primary-200': '#FFD580',
+	    '--primary-300': '#FFC44D',
+	    '--primary-400': '#FFB726',
+	    '--primary-500': '#FFAA00',
+	    '--primary-50096': 'rgba(255, 172, 0, 96)',
+	    '--primary-600': '#FFA300',
+	    '--primary-700': '#FF9900',
+	    '--primary-800': '#FF9000',
+	    '--primary-900': '#FF7F00',
+	    '--primary-500-text': materialColors.$black
+	  },
+	  ferg: {
+	    '--header-100': '#E7EFF3',
+	    '--header-500': '#27648D',
+	    '--header-500-text': materialColors.$white,
+	    '--header-500-text-54': materialColors.$white54,
+	    '--header-500-icon': '#ff3094',
+	    '--drawer-header-500': '#ff3094',
+	    '--drawer-header-500-text': materialColors.$white,
+	    '--status-bar-500': '#154772',
+	    '--primary-50': '#fff',
+	    '--primary-100': '#fff',
+	    '--primary-200': '#fff',
+	    '--primary-300': '#fff',
+	    '--primary-400': '#fff',
+	    '--primary-500': '#fff',
+	    '--primary-600': '#fff',
+	    '--primary-700': '#fff',
+	    '--primary-800': '#fff',
+	    '--primary-900': '#fff',
+	    '--primary-500-text': '#ff3094',
+	    '--tertiary-50': '#E7EFF3',
+	    '--tertiary-100': '#E7EFF3',
+	    '--tertiary-200': '#C2D6E2',
+	    '--tertiary-300': '#9ABBCF',
+	    '--tertiary-400': '#528BAD',
+	    '--tertiary-500': '#34779F',
+	    '--tertiary-600': '#2F6F97',
+	    '--tertiary-700': '#27648D',
+	    '--tertiary-800': '#215A83',
+	    '--tertiary-900': '#154772'
+	  },
+	  "default": {
+	    '--header-500': '#171a1c',
+	    '--header-500-text': materialColors.$white,
+	    '--header-500-text-54': materialColors.$white54,
+	    '--header-500-icon': '#ff8a00',
+	    '--primary-100': materialColors.$orange100,
+	    '--primary-200': materialColors.$orange200,
+	    '--primary-300': materialColors.$orange300,
+	    '--primary-400': materialColors.$orange300,
+	    '--primary-500': '#ff8a00',
+	    '--primary-50096': 'rgba(255, 138, 0, 0.96)',
+	    '--primary-600': materialColors.$orange600,
+	    '--primary-700': '#e86f00',
+	    '--primary-800': materialColors.$orange800,
+	    '--primary-900': materialColors.$orange900,
+	    '--primary-500-text': materialColors.$white,
+	    '--tertiary-100': materialColors.$grey100,
+	    '--tertiary-200': materialColors.$grey200,
+	    '--tertiary-300': '#84898a',
+	    '--tertiary-400': '#3e4447',
+	    '--tertiary-500': '#202527',
+	    '--tertiary-600': '#1d2226',
+	    '--tertiary-700': '#171a1c',
+	    '--tertiary-800': materialColors.$grey800,
+	    '--tertiary-900': '#0e1011',
+	    '--tertiary-90012': 'rgba(0, 0, 0, 0.12)',
+	    '--tertiary-90054': 'rgba(0, 0, 0, 0.54)',
+	    '--tertiary-100-text': materialColors.$white,
+	    '--tertiary-200-text': materialColors.$white,
+	    '--tertiary-300-text': materialColors.$white,
+	    '--tertiary-400-text': materialColors.$white,
+	    '--tertiary-500-text': materialColors.$white,
+	    '--tertiary-500-text-70': materialColors.$white70,
+	    '--tertiary-600-text': materialColors.$white,
+	    '--tertiary-700-text': materialColors.$white,
+	    '--tertiary-800-text': materialColors.$white,
+	    '--tertiary-900-text': materialColors.$white,
+	    '--tertiary-900-text-12': materialColors.$white12,
+	    '--tertiary-900-text-54': materialColors.$white54,
+	    '--test-color': '#000'
+	  },
+	  '$header500': 'var(--header-500)',
+	  '$header500Text': 'var(--header-500-text)',
+	  '$header500Text54': 'var(--header-500-text54)',
+	  '$header500Icon': 'var(--header-500-icon)',
+	  '$drawerHeader500': 'var(--drawer-header-500)',
+	  '$drawerHeader500Text': 'var(--drawer-header-500-text)',
+	  '$primary50': 'var(--primary-50)',
+	  '$primary100': 'var(--primary-100)',
+	  '$primary200': 'var(--primary-200)',
+	  '$primary300': 'var(--primary-300)',
+	  '$primary400': 'var(--primary-400)',
+	  '$primary500': 'var(--primary-500)',
+	  '$primary50096': 'var(--primary-50096)',
+	  '$primary600': 'var(--primary-600)',
+	  '$primary700': 'var(--primary-700)',
+	  '$primary800': 'var(--primary-800)',
+	  '$primary900': 'var(--primary-900)',
+	  '$primary500Text': 'var(--primary-500-text)',
+	  '$primary100Text': materialColors.$red900Text,
+	  '$primary200Text': materialColors.$red900Text,
+	  '$primary300Text': materialColors.$red900Text,
+	  '$primary400Text': materialColors.$red900Text,
+	  '$primary600Text': materialColors.$red600Text,
+	  '$primary700Text': materialColors.$red700Text,
+	  '$primary800Text': materialColors.$red800Text,
+	  '$primary900Text': materialColors.$red900Text,
+	  '$secondary100': materialColors.$white,
+	  '$secondary200': materialColors.$white,
+	  '$secondary300': materialColors.$white,
+	  '$secondary400': materialColors.$white,
+	  '$secondary500': '#ffc800',
+	  '$secondary600': materialColors.$white,
+	  '$secondary700': materialColors.$white,
+	  '$secondary800': materialColors.$white,
+	  '$secondary900': materialColors.$white,
+	  '$secondary100Text': materialColors.$blueGrey900,
+	  '$secondary200Text': materialColors.$blueGrey900,
+	  '$secondary300Text': materialColors.$blueGrey900,
+	  '$secondary400Text': materialColors.$blueGrey900,
+	  '$secondary500Text': materialColors.$blueGrey900,
+	  '$secondary600Text': materialColors.$blueGrey900,
+	  '$secondary700Text': materialColors.$blueGrey900,
+	  '$secondary800Text': materialColors.$blueGrey900,
+	  '$secondary900Text': materialColors.$blueGrey900,
+	  '$tertiary50': 'var(--tertiary-50)',
+	  '$tertiary100': 'var(--tertiary-100)',
+	  '$tertiary200': 'var(--tertiary-200)',
+	  '$tertiary300': 'var(--tertiary-300)',
+	  '$tertiary400': 'var(--tertiary-400)',
+	  '$tertiary500': 'var(--tertiary-500)',
+	  '$tertiary600': 'var(--tertiary-600)',
+	  '$tertiary700': 'var(--tertiary-700)',
+	  '$tertiary800': 'var(--tertiary-800)',
+	  '$tertiary900': 'var(--tertiary-900)',
+	  '$tertiary90012': 'var(--tertiary-90012)',
+	  '$tertiary90054': 'var(--tertiary-90054)',
+	  '$tertiary100Text': 'var(--tertiary-100-text)',
+	  '$tertiary200Text': 'var(--tertiary-200-text)',
+	  '$tertiary300Text': 'var(--tertiary-300-text)',
+	  '$tertiary400Text': 'var(--tertiary-400-text)',
+	  '$tertiary500Text': 'var(--tertiary-500-text)',
+	  '$tertiary500Text70': 'var(--tertiary-500-text-70)',
+	  '$tertiary600Text': 'var(--tertiary-600-text)',
+	  '$tertiary700Text': 'var(--tertiary-700-text)',
+	  '$tertiary800Text': 'var(--tertiary-800-text)',
+	  '$tertiary900Text': 'var(--tertiary-900-text)',
+	  '$tertiary900Text12': 'var(--tertiary-900-text-12)',
+	  '$tertiary900Text54': 'var(--tertiary-900-text-54)',
+	  '$quaternary500': '#ff7b45',
+	  '$white4': 'rgba(255, 255, 255, 0.04)',
+	  '$white54': 'rgba(255, 255, 255, 0.54)',
+	  '$black': '#0c0c0c',
+	  '$purple500': '#dd00e2',
+	  '$tabSelected': materialColors.$white,
+	  '$tabUnselected': '#1a1a1a',
+	  '$tabSelectedAlt': materialColors.$white,
+	  '$tabUnselectedAlt': materialColors.$white54,
+	  '$transparent': 'rgba(0, 0, 0, 0)',
+	  '$common': '#3e4447',
+	  '$rare': materialColors.$blue500,
+	  '$epic': materialColors.$purple500,
+	  '$legendary': materialColors.$orange500,
+	  '$commonText': materialColors.$white,
+	  '$rareText': materialColors.$white,
+	  '$epicText': materialColors.$white,
+	  '$legendaryText': materialColors.$white
+	}, materialColors);
+
+	getChromeVersion = function() {
+	  var raw;
+	  raw = navigator.userAgent.match(/Chrom(e|ium)\/([0-9]+)\./);
+	  if (raw) {
+	    return parseInt(raw[2], 10);
+	  } else {
+	    return false;
+	  }
+	};
+
+	if (typeof window !== "undefined" && window !== null) {
+	  $$el = document.getElementById('css-variable-test');
+	  isCssVariableSupported = !$$el || ((ref = window.CSS) != null ? typeof ref.supports === "function" ? ref.supports('--fake-var', 0) : void 0 : void 0) || ((ref1 = getComputedStyle($$el, null)) != null ? ref1.backgroundColor : void 0) === 'rgb(0, 0, 0)';
+	  if (!isCssVariableSupported) {
+	    colors = _mapValues(colors, function(color, key) {
+	      var matches;
+	      if (typeof color === 'string' && (matches = color.match(/\(([^)]+)\)/))) {
+	        return colors["default"][matches[1]];
+	      } else {
+	        return color;
+	      }
+	    });
+	  }
+	}
+
+	module.exports = colors;
+
+
+/***/ }),
+/* 427 */
+/***/ (function(module, exports) {
+
+	module.exports = {
+	  '$black': '#000000',
+	  '$black12': 'rgba(0, 0, 0, 0.12)',
+	  '$black26': 'rgba(0, 0, 0, 0.26)',
+	  '$black54': 'rgba(0, 0, 0, 0.54)',
+	  '$black70': 'rgba(0, 0, 0, 0.70)',
+	  '$black87': 'rgba(0, 0, 0, 0.87)',
+	  '$white': '#FFFFFF',
+	  '$white12': 'rgba(255, 255, 255, 0.12)',
+	  '$white30': 'rgba(255, 255, 255, 0.30)',
+	  '$white54': 'rgba(255, 255, 255, 0.54)',
+	  '$white70': 'rgba(255, 255, 255, 0.70)',
+	  '$red50': '#FFEBEE',
+	  '$red100': '#FFCDD2',
+	  '$red200': '#EF9A9A',
+	  '$red300': '#E57373',
+	  '$red400': '#EF5350',
+	  '$red500': '#F44336',
+	  '$red600': '#E53935',
+	  '$red700': '#D32F2F',
+	  '$red800': '#C62828',
+	  '$red900': '#B71C1C',
+	  '$redA100': '#FF8A80',
+	  '$redA200': '#FF5252',
+	  '$redA400': '#FF1744',
+	  '$redA700': '#D50000',
+	  '$red50Text': 'rgba(0, 0, 0, 0.87)',
+	  '$red100Text': 'rgba(0, 0, 0, 0.87)',
+	  '$red200Text': 'rgba(0, 0, 0, 0.87)',
+	  '$red300Text': 'rgba(0, 0, 0, 0.87)',
+	  '$red400Text': 'rgba(0, 0, 0, 0.87)',
+	  '$red500Text': '#FFFFFF',
+	  '$red500TextShadow': 'rgba(0, 0, 0, 0.54)',
+	  '$red600Text': '#FFFFFF',
+	  '$red700Text': '#FFFFFF',
+	  '$red800Text': '#FFFFFF',
+	  '$red900Text': '#FFFFFF',
+	  '$redA100Text': 'rgba(0, 0, 0, 0.87)',
+	  '$redA200Text': '#FFFFFF',
+	  '$redA400Text': '#FFFFFF',
+	  '$redA700Text': '#FFFFFF',
+	  '$pink500': '#E91E63',
+	  '$pink500Text': '#FFFFFF',
+	  '$pink500TextShadow': 'rgba(0, 0, 0, 0.54)',
+	  '$purple500': '#9C27B0',
+	  '$purple500Text': '#FFFFFF',
+	  '$purple500TextShadow': 'rgba(0, 0, 0, 0.54)',
+	  '$deepPurple500': '#673AB7',
+	  '$deepPurple500Text': '#FFFFFF',
+	  '$deepPurple500TextShadow': 'rgba(0, 0, 0, 0.54)',
+	  '$indigo500': '#3F51B5',
+	  '$indigo500Text': '#FFFFFF',
+	  '$indigo500TextShadow': 'rgba(0, 0, 0, 0.54)',
+	  '$blue500': '#2196F3',
+	  '$blue500Text': '#FFFFFF',
+	  '$blue500TextShadow': 'rgba(0, 0, 0, 0.54)',
+	  '$cyan500': '#00BCD4',
+	  '$cyan500Text': '#FFFFFF',
+	  '$cyan500TextShadow': 'rgba(0, 0, 0, 0.54)',
+	  '$teal500': '#009688',
+	  '$teal500Text': '#FFFFFF',
+	  '$teal500TextShadow': 'rgba(0, 0, 0, 0.54)',
+	  '$green500': '#4CAF50',
+	  '$green500Text': '#FFFFFF',
+	  '$green500TextShadow': 'rgba(0, 0, 0, 0.54)',
+	  '$lightGreen500': '#8BC34A',
+	  '$lightGreen500Text': 'rgba(0, 0, 0, 0.87)',
+	  '$lightGreen500TextShadow': 'rgba(255, 255, 255, 0.54)',
+	  '$lime500': '#CDDC39',
+	  '$lime500Text': 'rgba(0, 0, 0, 0.87)',
+	  '$lime500TextShadow': 'rgba(255, 255, 255, 0.54)',
+	  '$yellow500': '#FFEB3B',
+	  '$yellow500Text': 'rgba(0, 0, 0, 0.87)',
+	  '$yellow500TextShadow': 'rgba(255, 255, 255, 0.54)',
+	  '$amber500': '#FFC107',
+	  '$amber500Text': 'rgba(0, 0, 0, 0.87)',
+	  '$amber500TextShadow': 'rgba(255, 255, 255, 0.54)',
+	  '$orange500': '#FF9800',
+	  '$orange500Text': 'rgba(0, 0, 0, 0.87)',
+	  '$orange500TextShadow': 'rgba(255, 255, 255, 0.54)',
+	  '$grey50': '#FAFAFA',
+	  '$grey100': '#F5F5F5',
+	  '$grey200': '#EEEEEE',
+	  '$grey300': '#E0E0E0',
+	  '$grey400': '#BDBDBD',
+	  '$grey500': '#9E9E9E',
+	  '$grey600': '#757575',
+	  '$grey700': '#616161',
+	  '$grey800': '#424242',
+	  '$grey900': '#212121',
+	  '$grey50Text': 'rgba(0, 0, 0, 0.87)',
+	  '$grey100Text': 'rgba(0, 0, 0, 0.87)',
+	  '$grey200Text': 'rgba(0, 0, 0, 0.87)',
+	  '$grey300Text': 'rgba(0, 0, 0, 0.87)',
+	  '$grey400Text': 'rgba(0, 0, 0, 0.87)',
+	  '$grey500Text': 'rgba(0, 0, 0, 0.87)',
+	  '$grey600Text': '#FFFFFF',
+	  '$grey700Text': '#FFFFFF',
+	  '$grey800Text': '#FFFFFF',
+	  '$grey900Text': '#FFFFFF',
+	  '$blueGrey900': '#263238'
+	};
+
+
+/***/ }),
+/* 428 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var ANIMATION_TIME_MS, Environment, Ripple, colors, z,
+	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
+
+	z = __webpack_require__(150);
+
+	Environment = __webpack_require__(429);
+
+	colors = __webpack_require__(426);
+
+	if (typeof window !== "undefined" && window !== null) {
+	  __webpack_require__(431);
+	}
+
+	ANIMATION_TIME_MS = 350;
+
+	module.exports = Ripple = (function() {
+	  Ripple.prototype.type = 'Widget';
+
+	  function Ripple() {
+	    this.ripple = bind(this.ripple, this);
+	    this.afterMount = bind(this.afterMount, this);
+	    null;
+	  }
+
+	  Ripple.prototype.afterMount = function($$el1) {
+	    this.$$el = $$el1;
+	    return this.$$wave = this.$$el.querySelector('.wave');
+	  };
+
+	  Ripple.prototype.ripple = function(arg) {
+	    var $$el, $$wave, color, fadeIn, height, isCenter, left, mouseX, mouseY, onComplete, ref, ref1, top, width, x, y;
+	    ref = arg != null ? arg : {}, $$el = ref.$$el, color = ref.color, isCenter = ref.isCenter, mouseX = ref.mouseX, mouseY = ref.mouseY, onComplete = ref.onComplete, fadeIn = ref.fadeIn;
+	    if ($$el == null) {
+	      $$el = this.$$el;
+	    }
+	    ref1 = $$el.getBoundingClientRect(), width = ref1.width, height = ref1.height, top = ref1.top, left = ref1.left;
+	    if (isCenter) {
+	      x = width / 2;
+	      y = height / 2;
+	    } else {
+	      x = mouseX - left;
+	      y = mouseY - top;
+	    }
+	    $$wave = this.$$wave;
+	    $$wave.style.top = y + 'px';
+	    $$wave.style.left = x + 'px';
+	    $$wave.style.backgroundColor = color;
+	    $$wave.className = fadeIn ? 'wave fade-in is-visible' : 'wave is-visible';
+	    return new Promise(function(resolve, reject) {
+	      return setTimeout(function() {
+	        if (typeof onComplete === "function") {
+	          onComplete();
+	        }
+	        resolve();
+	        return setTimeout(function() {
+	          return $$wave.className = 'wave';
+	        }, 100);
+	      }, ANIMATION_TIME_MS);
+	    });
+	  };
+
+	  Ripple.prototype.render = function(arg) {
+	    var color, fadeIn, isCenter, isCircle, onComplete, onTouch;
+	    color = arg.color, isCircle = arg.isCircle, isCenter = arg.isCenter, onComplete = arg.onComplete, fadeIn = arg.fadeIn;
+	    onTouch = (function(_this) {
+	      return function(e) {
+	        var $$el, ref, ref1, ref2, ref3;
+	        $$el = e.target;
+	        return _this.ripple({
+	          $$el: $$el,
+	          color: color,
+	          isCenter: isCenter,
+	          onComplete: onComplete,
+	          fadeIn: fadeIn,
+	          mouseX: e.clientX || ((ref = e.touches) != null ? (ref1 = ref[0]) != null ? ref1.clientX : void 0 : void 0),
+	          mouseY: e.clientY || ((ref2 = e.touches) != null ? (ref3 = ref2[0]) != null ? ref3.clientY : void 0 : void 0)
+	        });
+	      };
+	    })(this);
+	    return z('.z-ripple', {
+	      className: z.classKebab({
+	        isCircle: isCircle
+	      }),
+	      ontouchstart: onTouch,
+	      onmousedown: Environment.isAndroid() ? null : onTouch
+	    }, z('.wave'));
+	  };
+
+	  return Ripple;
+
+	})();
+
+
+/***/ }),
+/* 429 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var Environment, _includes, config,
+	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
+
+	_includes = __webpack_require__(352);
+
+	config = __webpack_require__(430);
+
+	Environment = (function() {
+	  function Environment() {
+	    this.getPlatform = bind(this.getPlatform, this);
+	  }
+
+	  Environment.prototype.isMobile = function(arg) {
+	    var userAgent;
+	    userAgent = (arg != null ? arg : {}).userAgent;
+	    if (userAgent == null) {
+	      userAgent = typeof navigator !== "undefined" && navigator !== null ? navigator.userAgent : void 0;
+	    }
+	    return /Mobile|iP(hone|od|ad)|Android|BlackBerry|IEMobile|Kindle|NetFront|Silk-Accelerated|(hpw|web)OS|Fennec|Minimo|Opera M(obi|ini)|Blazer|Dolfin|Dolphin|Skyfire|Zune/.test(userAgent);
+	  };
+
+	  Environment.prototype.isFacebook = function() {
+	    return (typeof window !== "undefined" && window !== null) && window.name.indexOf('canvas_fb') !== -1;
+	  };
+
+	  Environment.prototype.isTwitch = function() {
+	    return typeof window !== "undefined" && window !== null ? window.Twitch : void 0;
+	  };
+
+	  Environment.prototype.isAndroid = function(arg) {
+	    var userAgent;
+	    userAgent = (arg != null ? arg : {}).userAgent;
+	    if (userAgent == null) {
+	      userAgent = typeof navigator !== "undefined" && navigator !== null ? navigator.userAgent : void 0;
+	    }
+	    return _includes(userAgent, 'Android');
+	  };
+
+	  Environment.prototype.isiOS = function(arg) {
+	    var userAgent;
+	    userAgent = (arg != null ? arg : {}).userAgent;
+	    if (userAgent == null) {
+	      userAgent = typeof navigator !== "undefined" && navigator !== null ? navigator.userAgent : void 0;
+	    }
+	    return Boolean(userAgent.match(/iP(hone|od|ad)/g));
+	  };
+
+	  Environment.prototype.isNativeApp = function(gameKey, arg) {
+	    var userAgent;
+	    userAgent = (arg != null ? arg : {}).userAgent;
+	    if (userAgent == null) {
+	      userAgent = typeof navigator !== "undefined" && navigator !== null ? navigator.userAgent : void 0;
+	    }
+	    return Boolean(gameKey && _includes(userAgent != null ? userAgent.toLowerCase() : void 0, " " + gameKey + "/") || _includes(userAgent != null ? userAgent.toLowerCase() : void 0, ' starfire/'));
+	  };
+
+	  Environment.prototype.isMainApp = function(gameKey, arg) {
+	    var userAgent;
+	    userAgent = (arg != null ? arg : {}).userAgent;
+	    if (userAgent == null) {
+	      userAgent = typeof navigator !== "undefined" && navigator !== null ? navigator.userAgent : void 0;
+	    }
+	    return Boolean(gameKey && _includes(userAgent != null ? userAgent.toLowerCase() : void 0, " " + gameKey + "/" + gameKey));
+	  };
+
+	  Environment.prototype.isGroupApp = function(groupAppKey, arg) {
+	    var userAgent;
+	    userAgent = (arg != null ? arg : {}).userAgent;
+	    if (userAgent == null) {
+	      userAgent = typeof navigator !== "undefined" && navigator !== null ? navigator.userAgent : void 0;
+	    }
+	    return Boolean(groupAppKey && _includes(userAgent != null ? userAgent.toLowerCase() : void 0, " openfam/" + groupAppKey + "/"));
+	  };
+
+	  Environment.prototype.getAppKey = function(arg) {
+	    var matches, userAgent;
+	    userAgent = (arg != null ? arg : {}).userAgent;
+	    if (userAgent == null) {
+	      userAgent = typeof navigator !== "undefined" && navigator !== null ? navigator.userAgent : void 0;
+	    }
+	    matches = userAgent.match(/openfam\/([a-zA-Z0-9-]+)/);
+	    return (matches != null ? matches[1] : void 0) || 'browser';
+	  };
+
+	  Environment.prototype.getAppVersion = function(gameKey, arg) {
+	    var matches, regex, userAgent;
+	    userAgent = (arg != null ? arg : {}).userAgent;
+	    if (userAgent == null) {
+	      userAgent = typeof navigator !== "undefined" && navigator !== null ? navigator.userAgent : void 0;
+	    }
+	    regex = new RegExp("(" + gameKey + "|starfire)\/(?:[a-zA-Z0-9]+/)?([0-9\.]+)");
+	    matches = userAgent.match(regex);
+	    return matches != null ? matches[2] : void 0;
+	  };
+
+	  Environment.prototype.getPlatform = function(arg) {
+	    var gameKey, isApp, ref, userAgent;
+	    ref = arg != null ? arg : {}, gameKey = ref.gameKey, userAgent = ref.userAgent;
+	    if (gameKey == null) {
+	      gameKey = config.GAME_KEY;
+	    }
+	    if (userAgent == null) {
+	      userAgent = typeof navigator !== "undefined" && navigator !== null ? navigator.userAgent : void 0;
+	    }
+	    isApp = this.isNativeApp(gameKey, {
+	      userAgent: userAgent
+	    });
+	    if (this.isFacebook()) {
+	      return 'facebook';
+	    } else if (this.isTwitch()) {
+	      return 'twitch';
+	    } else if (isApp && this.isiOS(gameKey, {
+	      userAgent: userAgent
+	    })) {
+	      return 'ios';
+	    } else if (isApp && this.isAndroid({
+	      userAgent: userAgent
+	    })) {
+	      return 'android';
+	    } else {
+	      return 'web';
+	    }
+	  };
+
+	  return Environment;
+
+	})();
+
+	module.exports = new Environment();
+
+
+/***/ }),
+/* 430 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	/* WEBPACK VAR INJECTION */(function(process) {var API_HOST, API_HOST_ARRAY, API_PATH, API_URL, DEV_USE_HTTPS, EIGHT_HOURS_SECONDS, FOUR_HOURS_SECONDS, HOST, HOSTNAME, IMAGE_REGEX_BASE_STR, IMAGE_REGEX_STR, LOCAL_IMAGE_REGEX_STR, MENTION_REGEX_STR, ONE_DAY_SECONDS, ONE_HOUR_SECONDS, PORT, STICKER_REGEX_STR, THREE_DAYS_SECONDS, THREE_HOURS_SECONDS, TWO_DAYS_SECONDS, TWO_HOURS_SECONDS, URL_REGEX_STR, WEBPACK_DEV_PORT, WEBPACK_DEV_PROTOCOL, YOUTUBE_ID_REGEX_STR, _map, _merge, _range, assertNoneMissing, colors, isUrl, isomorphic, obj, server, serverEnv;
+
+	_map = __webpack_require__(26);
+
+	_range = __webpack_require__(361);
+
+	_merge = __webpack_require__(364);
+
+	assertNoneMissing = __webpack_require__(373);
+
+	colors = __webpack_require__(426);
+
+	serverEnv = process.env;
+
+	HOST = 'openfam.com' || '127.0.0.1';
+
+	HOSTNAME = HOST.split(':')[0];
+
+	URL_REGEX_STR = '(\\bhttps?://[-A-Z0-9+&@#/%?=~_|!:,.;]*[A-Z0-9+&@#/%=~_|])';
+
+	STICKER_REGEX_STR = '(:[a-z_]+:)';
+
+	IMAGE_REGEX_STR = '(\\!\\[(.*?)\\]\\((.*?)\\=([0-9.]+)x([0-9.]+)\\))';
+
+	IMAGE_REGEX_BASE_STR = '(\\!\\[(?:.*?)\\]\\((?:.*?)\\))';
+
+	LOCAL_IMAGE_REGEX_STR = '(\\!\\[(.*?)\\]\\(local://(.*?) \\=([0-9.]+)x([0-9.]+)\\))';
+
+	MENTION_REGEX_STR = '\\@[a-zA-Z0-9_-]+';
+
+	YOUTUBE_ID_REGEX_STR = '(?:youtube\\.com\\/(?:[^\\/]+\\/.+\\/|(?:v|e(?:mbed)?)\\/|.*[?&]v=)|youtu\\.be\\/)([^"&?\\/ ]{11})';
+
+	ONE_HOUR_SECONDS = 3600 * 1;
+
+	TWO_HOURS_SECONDS = 3600 * 2;
+
+	THREE_HOURS_SECONDS = 3600 * 3;
+
+	FOUR_HOURS_SECONDS = 3600 * 4;
+
+	EIGHT_HOURS_SECONDS = 3600 * 8;
+
+	ONE_DAY_SECONDS = 3600 * 24 * 1;
+
+	TWO_DAYS_SECONDS = 3600 * 24 * 2;
+
+	THREE_DAYS_SECONDS = 3600 * 24 * 3;
+
+	API_URL = serverEnv.RADIOACTIVE_API_URL || 'https://radioactive.openfam.com';
+
+	DEV_USE_HTTPS = '0' && '0' !== '0';
+
+	isUrl = API_URL.indexOf('/') !== -1;
+
+	if (isUrl) {
+	  API_HOST_ARRAY = API_URL.split('/');
+	  API_HOST = API_HOST_ARRAY[0] + '//' + API_HOST_ARRAY[2];
+	  API_PATH = API_URL.replace(API_HOST, '');
+	} else {
+	  API_HOST = API_URL;
+	  API_PATH = '';
+	}
+
+	isomorphic = {
+	  DEFAULT_GAME_KEY: 'clash-royale',
+	  COMMUNITY_LANGUAGES: ['es', 'pt', 'pl'],
+	  LANGUAGES: ['en', 'es', 'it', 'fr', 'zh', 'ja', 'ko', 'de', 'pt', 'pl', 'ru', 'id', 'tl', 'tr'],
+	  ITEM_LEVEL_REQUIREMENTS: [
+	    {
+	      level: 3,
+	      countRequired: 100
+	    }, {
+	      level: 2,
+	      countRequired: 10
+	    }, {
+	      level: 1,
+	      countRequired: 0
+	    }
+	  ],
+	  BASE_NAME_COLORS: ['#2196F3', '#8BC34A', '#FFC107', '#f44336'],
+	  XP_LEVEL_REQUIREMENTS: [
+	    {
+	      level: 12,
+	      xpRequired: 60000
+	    }, {
+	      level: 11,
+	      xpRequired: 30000
+	    }, {
+	      level: 10,
+	      xpRequired: 10000
+	    }, {
+	      level: 9,
+	      xpRequired: 5000
+	    }, {
+	      level: 8,
+	      xpRequired: 2000
+	    }, {
+	      level: 7,
+	      xpRequired: 1000
+	    }, {
+	      level: 6,
+	      xpRequired: 500
+	    }, {
+	      level: 5,
+	      xpRequired: 200
+	    }, {
+	      level: 4,
+	      xpRequired: 100
+	    }, {
+	      level: 3,
+	      xpRequired: 50
+	    }, {
+	      level: 2,
+	      xpRequired: 20
+	    }, {
+	      level: 1,
+	      xpRequired: 0
+	    }
+	  ],
+	  XP_LEVEL_COLORS: {
+	    1: 'blue',
+	    2: 'cyan',
+	    3: 'teal',
+	    4: 'green',
+	    5: 'lightGreen',
+	    6: 'lime',
+	    7: 'yellow',
+	    8: 'red',
+	    9: 'pink',
+	    10: 'purple',
+	    11: 'deepPurple',
+	    12: 'indigo',
+	    13: 'orange'
+	  },
+	  DEFAULT_PERMISSIONS: {
+	    readMessage: true,
+	    manageChannel: false,
+	    sendMessage: true,
+	    sendLink: true,
+	    sendImage: true,
+	    sendAddon: true,
+	    bypassSlowMode: false
+	  },
+	  DEFAULT_NOTIFICATIONS: {
+	    chatMessage: true,
+	    chatMention: true
+	  },
+	  CDN_URL: 'https://cdn.wtf/d/images/fam',
+	  SCRIPTS_CDN_URL: 'https://cdn.wtf/d/scripts/fam',
+	  USER_CDN_URL: 'https://cdn.wtf/images/fam',
+	  DEFAULT_IOS_APP_ID: '1160535565',
+	  IOS_APP_URL: 'https://itunes.apple.com/us/app/fam/id1160535565',
+	  DEFAULT_GOOGLE_PLAY_APP_ID: 'com.clay.redtritium',
+	  GOOGLE_PLAY_APP_URL: 'https://play.google.com/store/apps/details?id=com.clay.redtritium',
+	  HOST: HOST,
+	  GAME_KEY: 'openfam',
+	  STRIPE_PUBLISHABLE_KEY: serverEnv.STRIPE_PUBLISHABLE_KEY || 'pk_5dNf9TvZKqetF7GtMX3HtjwkPKjXK',
+	  GIPHY_API_KEY: '26hitOr3B5XJKYCs0',
+	  FB_ID: '381911475512889',
+	  API_URL: API_URL,
+	  PUBLIC_API_URL: 'https://radioactive.openfam.com',
+	  API_HOST: API_HOST,
+	  API_PATH: API_PATH,
+	  VAPID_PUBLIC_KEY: 'BPyqv7Z8fQxq4sfixJ6a_potx8_bZyQzJe79ov6H4Q0wsJUxlZNIfQTg0ZYvxyJztG-wtSSvjiJkkqZGZjJUEgQ',
+	  TWITCH_CLIENT_ID: 'hrucpw1vzi5ocggczj1mmcdh8hxq7m',
+	  FIREBASE: {
+	    API_KEY: 'AIzaSyBm5eYpho7Z3kj1PQZ--Orq0JNWrjZYhIU',
+	    AUTH_DOMAIN: 'clay-io.firebaseapp.com',
+	    DATABASE_URL: 'https://clay-io.firebaseio.com',
+	    PROJECT_ID: 'clay-io',
+	    MESSAGING_SENDER_ID: '168841144671'
+	  },
+	  DEV_USE_HTTPS: DEV_USE_HTTPS,
+	  AUTH_COOKIE: 'accessToken',
+	  ENV: serverEnv.NODE_ENV || 'production',
+	  ENVS: {
+	    DEV: 'development',
+	    PROD: 'production',
+	    TEST: 'test'
+	  },
+	  BACKGROUNDS: ['blue', 'green', 'purple', 'red', 'yellow'],
+	  BADGES: _map(_range(1, 95), function(i) {
+	    return "" + i;
+	  }),
+	  RARITIES: ['common', 'rare', 'epic', 'Legendary'],
+	  RARITY_COLORS: {
+	    starter: 'white',
+	    common: 'white',
+	    rare: 'blue',
+	    epic: 'purple',
+	    legendary: 'orange'
+	  },
+	  CONFETTI_COLORS: {
+	    starter: [[255, 255, 255], [230, 230, 230], [200, 200, 200], [170, 170, 170], [140, 140, 140]],
+	    common: [[255, 255, 255], [230, 230, 230], [200, 200, 200], [170, 170, 170], [140, 140, 140]],
+	    rare: [[113, 188, 242], [98, 185, 247], [66, 170, 244], [32, 149, 232], [220, 220, 220], [255, 255, 255]],
+	    epic: [[104, 11, 132], [122, 31, 150], [143, 56, 170], [166, 96, 188], [220, 220, 220], [255, 255, 255]],
+	    legendary: [[255, 114, 0], [252, 132, 35], [252, 147, 63], [255, 174, 109], [220, 220, 220], [255, 255, 255]]
+	  },
+	  PLAYER_COLORS: [colors.$amber500, colors.$secondary500, colors.$primary500, colors.$green500, colors.$red500, colors.$blue500],
+	  ARENAS: {
+	    0: 'Training Camp',
+	    1: 'A1 - Goblin Stadium',
+	    2: 'A2 - Bone Pit',
+	    3: 'A3 - Barbarian Bowl',
+	    4: 'A4 - PEKKA\'s Playhouse',
+	    5: 'A5 - Spell Valley',
+	    6: 'A6 - Buildre\'s Workshop',
+	    7: 'A7 - Royal Arena',
+	    8: 'A8 - Frozen Peak',
+	    9: 'A9 - Jungle Arena',
+	    10: 'A10 - Hog Mountain',
+	    11: 'A11 - Legendary Arena'
+	  },
+	  STICKERS: ['angry', 'crying', 'laughing', 'thumbs_up'],
+	  STICKER_REGEX_STR: STICKER_REGEX_STR,
+	  STICKER_REGEX: new RegExp(STICKER_REGEX_STR, 'g'),
+	  URL_REGEX_STR: URL_REGEX_STR,
+	  URL_REGEX: new RegExp(URL_REGEX_STR, 'gi'),
+	  LOCAL_IMAGE_REGEX_STR: LOCAL_IMAGE_REGEX_STR,
+	  IMAGE_REGEX_BASE_STR: IMAGE_REGEX_BASE_STR,
+	  IMAGE_REGEX_STR: IMAGE_REGEX_STR,
+	  IMAGE_REGEX: new RegExp(IMAGE_REGEX_STR, 'gi'),
+	  MENTION_REGEX: new RegExp(MENTION_REGEX_STR, 'gi'),
+	  YOUTUBE_ID_REGEX: new RegExp(YOUTUBE_ID_REGEX_STR, 'i'),
+	  IMGUR_ID_REGEX: /https?:\/\/(?:i\.)?imgur\.com(?:\/a)?\/(.*?)(?:[\.#\/].*|$)/i,
+	  EVENT_DURATIONS: (
+	    obj = {},
+	    obj["" + ONE_HOUR_SECONDS] = '1 hour',
+	    obj["" + TWO_HOURS_SECONDS] = '2 hours',
+	    obj["" + THREE_HOURS_SECONDS] = '3 hours',
+	    obj["" + FOUR_HOURS_SECONDS] = '4 hours',
+	    obj["" + EIGHT_HOURS_SECONDS] = '8 hours',
+	    obj["" + ONE_DAY_SECONDS] = '1 day',
+	    obj["" + TWO_DAYS_SECONDS] = '2 days',
+	    obj["" + THREE_DAYS_SECONDS] = '3 days',
+	    obj
+	  )
+	};
+
+	PORT = serverEnv.FAM_PORT || 3000;
+
+	WEBPACK_DEV_PORT = serverEnv.WEBPACK_DEV_PORT || parseInt(PORT) + 1;
+
+	WEBPACK_DEV_PROTOCOL = DEV_USE_HTTPS ? 'https://' : 'http://';
+
+	server = {
+	  PORT: PORT,
+	  WEBPACK_DEV_PORT: WEBPACK_DEV_PORT,
+	  WEBPACK_DEV_PROTOCOL: WEBPACK_DEV_PROTOCOL,
+	  WEBPACK_DEV_URL: serverEnv.WEBPACK_DEV_URL || ("" + WEBPACK_DEV_PROTOCOL + HOSTNAME + ":" + WEBPACK_DEV_PORT),
+	  SELENIUM_TARGET_URL: serverEnv.SELENIUM_TARGET_URL || null,
+	  REMOTE_SELENIUM: serverEnv.REMOTE_SELENIUM === '1',
+	  SELENIUM_BROWSER: serverEnv.SELENIUM_BROWSER || 'chrome',
+	  SAUCE_USERNAME: serverEnv.SAUCE_USERNAME || null,
+	  SAUCE_ACCESS_KEY: serverEnv.SAUCE_ACCESS_KEY || null
+	};
+
+	assertNoneMissing(isomorphic);
+
+	if (typeof window !== "undefined" && window !== null) {
+	  module.exports = isomorphic;
+	} else {
+	  assertNoneMissing(server);
+	  module.exports = _merge(isomorphic, server);
+	}
+
+	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(5)))
+
+/***/ }),
+/* 431 */
+/***/ (function(module, exports) {
+
+	// removed by extract-text-webpack-plugin
+
+/***/ }),
+/* 432 */,
+/* 433 */
+/***/ (function(module, exports) {
+
+	// removed by extract-text-webpack-plugin
+
+/***/ }),
+/* 434 */,
+/* 435 */
+/***/ (function(module, exports) {
+
+	// removed by extract-text-webpack-plugin
+
+/***/ }),
+/* 436 */,
+/* 437 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var Base, CurrencyIcon, Environment, FormatService, GroupEarnCurrency, Icon, PrimaryButton, RxObservable, Spinner, _filter, _find, _map, colors, config, z,
+	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; },
+	  slice = [].slice;
+
+	z = __webpack_require__(150);
+
+	_map = __webpack_require__(26);
+
+	_filter = __webpack_require__(167);
+
+	_find = __webpack_require__(407);
+
+	RxObservable = __webpack_require__(291).Observable;
+
+	__webpack_require__(314);
+
+	__webpack_require__(387);
+
+	__webpack_require__(323);
+
+	Base = __webpack_require__(438);
+
+	Icon = __webpack_require__(439);
+
+	Spinner = __webpack_require__(443);
+
+	CurrencyIcon = __webpack_require__(446);
+
+	PrimaryButton = __webpack_require__(424);
+
+	FormatService = __webpack_require__(449);
+
+	Environment = __webpack_require__(429);
+
+	colors = __webpack_require__(426);
+
+	config = __webpack_require__(430);
+
+	if (typeof window !== "undefined" && window !== null) {
+	  __webpack_require__(450);
+	}
+
+	module.exports = GroupEarnCurrency = (function() {
+	  function GroupEarnCurrency(arg) {
+	    var currencyActions, group, groupAndMe, me, platform;
+	    this.model = arg.model, this.router = arg.router, group = arg.group;
+	    this.render = bind(this.render, this);
+	    this.playAd = bind(this.playAd, this);
+	    this.visit = bind(this.visit, this);
+	    this.$spinner = new Spinner();
+	    platform = Environment.getPlatform();
+	    currencyActions = group.switchMap((function(_this) {
+	      return function(group) {
+	        return _this.model.earnAction.getAllByGroupId(group.id, {
+	          platform: platform
+	        }).map(function(actions) {
+	          return _map(actions, function(action) {
+	            var currencyItemKey, currencyReward;
+	            currencyReward = _find(action.data.rewards, {
+	              currencyType: 'item'
+	            });
+	            currencyItemKey = currencyReward != null ? currencyReward.currencyItemKey : void 0;
+	            return {
+	              action: action,
+	              $claimButton: new PrimaryButton(),
+	              $currencyIcon: new CurrencyIcon({
+	                itemKey: currencyItemKey
+	              })
+	            };
+	          });
+	        });
+	      };
+	    })(this));
+	    me = this.model.user.getMe();
+	    groupAndMe = RxObservable.combineLatest(group, me, function() {
+	      var vals;
+	      vals = 1 <= arguments.length ? slice.call(arguments, 0) : [];
+	      return vals;
+	    });
+	    this.state = z.state({
+	      me: me,
+	      group: group,
+	      meGroupUser: groupAndMe.switchMap((function(_this) {
+	        return function(arg1) {
+	          var group, me;
+	          group = arg1[0], me = arg1[1];
+	          return _this.model.groupUser.getByGroupIdAndUserId(group.id, me.id);
+	        };
+	      })(this)),
+	      currencyActions: currencyActions,
+	      loadingAction: null
+	    });
+	  }
+
+	  GroupEarnCurrency.prototype.visit = function(e, action) {
+	    var group;
+	    group = this.state.getValue().group;
+	    this.state.set({
+	      loadingAction: action
+	    });
+	    return this.model.earnAction.incrementByGroupIdAndAction(group.id, action)["catch"](function() {
+	      return null;
+	    }).then((function(_this) {
+	      return function(rewards) {
+	        var $$button, boundingRect, x, y;
+	        $$button = e != null ? e.target : void 0;
+	        if ($$button) {
+	          boundingRect = typeof $$button.getBoundingClientRect === "function" ? $$button.getBoundingClientRect() : void 0;
+	          x = (boundingRect != null ? boundingRect.left : void 0) + (boundingRect != null ? boundingRect.width : void 0) / 2;
+	          y = boundingRect != null ? boundingRect.top : void 0;
+	        } else {
+	          x = e != null ? e.clientX : void 0;
+	          y = e != null ? e.clientY : void 0;
+	        }
+	        _this.model.earnAlert.show({
+	          rewards: rewards,
+	          x: x,
+	          y: y
+	        });
+	        return _this.state.set({
+	          loadingAction: null
+	        });
+	      };
+	    })(this));
+	  };
+
+	  GroupEarnCurrency.prototype.playAd = function() {
+	    var group, loadingAction, ref;
+	    ref = this.state.getValue(), loadingAction = ref.loadingAction, group = ref.group;
+	    if (loadingAction !== 'watchAd') {
+	      this.state.set({
+	        loadingAction: 'watchAd'
+	      });
+	      return this.model.portal.call('admob.prepareRewardedVideo', {
+	        adId: Environment.isiOS() ? 'ca-app-pub-9043203456638369/5979905134' : 'ca-app-pub-9043203456638369/8896044215'
+	      }).then((function(_this) {
+	        return function() {
+	          var timestamp;
+	          timestamp = Date.now();
+	          return _this.model.portal.call('admob.showRewardedVideo', {
+	            timestamp: timestamp
+	          }).then(function(successKey) {
+	            _this.state.set({
+	              loadingAction: null
+	            });
+	            return _this.model.earnAction.incrementByGroupIdAndAction(group.id, 'watchAd', {
+	              timestamp: timestamp,
+	              successKey: successKey
+	            });
+	          });
+	        };
+	      })(this))["catch"]((function(_this) {
+	        return function() {
+	          return _this.state.set({
+	            loadingAction: null
+	          });
+	        };
+	      })(this));
+	    }
+	  };
+
+	  GroupEarnCurrency.prototype.render = function() {
+	    var currencyActions, loadingAction, me, meGroupUser, ref;
+	    ref = this.state.getValue(), me = ref.me, currencyActions = ref.currencyActions, loadingAction = ref.loadingAction, meGroupUser = ref.meGroupUser;
+	    return z('.z-group-earn-currency', z('.g-grid', z('.g-cols', _map(currencyActions, (function(_this) {
+	      return function(arg) {
+	        var $claimButton, $currencyIcon, action, countLeft, isClaimed, isLoading, ref1;
+	        action = arg.action, $claimButton = arg.$claimButton, $currencyIcon = arg.$currencyIcon;
+	        isLoading = loadingAction === action.action;
+	        countLeft = action.maxCount - (((ref1 = action.transaction) != null ? ref1.count : void 0) || 0);
+	        isClaimed = !countLeft;
+	        return z('.g-col.g-xs-12.g-md-6', z('.action', z('.rewards', _map(action.data.rewards, function(reward) {
+	          return z('.reward', z('.text', reward.currencyAmount), z('.icon', reward.currencyType === 'xp' ? 'xp' : z($currencyIcon, {
+	            size: '16px'
+	          })));
+	        })), z('.title', action.data.nameKey ? _this.model.l.get(action.data.nameKey) : action.name, countLeft > 1 ? " (" + countLeft + ")" : void 0), z('.button', isClaimed ? 'Claimed' : z($claimButton, {
+	          text: isLoading ? _this.model.l.get('general.loading') : action.data.button.textKey ? _this.model.l.get(action.data.button.textKey) : action.data.button.text,
+	          onclick: function(e) {
+	            return _this.model.signInDialog.openIfGuest(me).then(function() {
+	              var ref2, route;
+	              route = action.data.button.route;
+	              if (action.action === 'watchAd') {
+	                return _this.playAd();
+	              } else if ((ref2 = action.action) === 'visit' || ref2 === 'streamVisit') {
+	                return _this.visit(e, action.action);
+	              } else if (route) {
+	                return _this.router.go(route.key, route.replacements);
+	              }
+	            });
+	          }
+	        }))));
+	      };
+	    })(this)))));
+	  };
+
+	  return GroupEarnCurrency;
+
+	})();
+
+
+/***/ }),
+/* 438 */
+/***/ (function(module, exports) {
+
+	var Base,
+	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; },
+	  slice = [].slice;
+
+	module.exports = Base = (function() {
+	  function Base() {
+	    this.beforeUnmount = bind(this.beforeUnmount, this);
+	    this.afterMount = bind(this.afterMount, this);
+	    this.getCached$ = bind(this.getCached$, this);
+	  }
+
+	  Base.prototype.getCached$ = function() {
+	    var $component, args, component, id;
+	    id = arguments[0], component = arguments[1], args = 3 <= arguments.length ? slice.call(arguments, 2) : [];
+	    this.cachedComponents || (this.cachedComponents = []);
+	    if (this.cachedComponents[id]) {
+	      return this.cachedComponents[id];
+	    } else {
+	      $component = (function(func, args, ctor) {
+	        ctor.prototype = func.prototype;
+	        var child = new ctor, result = func.apply(child, args);
+	        return Object(result) === result ? result : child;
+	      })(component, args, function(){});
+	      this.cachedComponents[id] = $component;
+	      return $component;
+	    }
+	  };
+
+	  Base.prototype.afterMount = function() {
+	    return clearTimeout(this.clearCacheTimeout);
+	  };
+
+	  Base.prototype.beforeUnmount = function(cachedElStoreTimeMs) {
+	    if (cachedElStoreTimeMs) {
+	      return this.clearCacheTimeout = setTimeout((function(_this) {
+	        return function() {
+	          return _this.cachedComponents = [];
+	        };
+	      })(this), cachedElStoreTimeMs);
+	    } else {
+	      return this.cachedComponents = [];
+	    }
+	  };
+
+	  return Base;
+
+	})();
+
+
+/***/ }),
+/* 439 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var Icon, Ripple, icons, z,
+	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
+
+	z = __webpack_require__(150);
+
+	icons = __webpack_require__(440);
+
+	Ripple = __webpack_require__(428);
+
+	if (typeof window !== "undefined" && window !== null) {
+	  __webpack_require__(441);
+	}
+
+	module.exports = Icon = (function() {
+	  function Icon() {
+	    this.render = bind(this.render, this);
+	  }
+
+	  Icon.prototype.render = function(options) {
+	    var color, flipX, hasRipple, heightRatio, icon, isAlignedBottom, isAlignedLeft, isAlignedRight, isAlignedTop, isClickable, isTouchTarget, onclick, size, tag, touchHeight, touchWidth, viewBox;
+	    icon = options.icon, size = options.size, isAlignedTop = options.isAlignedTop, isAlignedLeft = options.isAlignedLeft, isAlignedRight = options.isAlignedRight, isAlignedBottom = options.isAlignedBottom, isTouchTarget = options.isTouchTarget, color = options.color, onclick = options.onclick, flipX = options.flipX, viewBox = options.viewBox, heightRatio = options.heightRatio, hasRipple = options.hasRipple, touchHeight = options.touchHeight, touchWidth = options.touchWidth;
+	    if (size == null) {
+	      size = '24px';
+	    }
+	    if (viewBox == null) {
+	      viewBox = 24;
+	    }
+	    if (heightRatio == null) {
+	      heightRatio = 1;
+	    }
+	    if (isTouchTarget == null) {
+	      isTouchTarget = true;
+	    }
+	    if (touchWidth == null) {
+	      touchWidth = '48px';
+	    }
+	    if (touchHeight == null) {
+	      touchHeight = '48px';
+	    }
+	    isClickable = Boolean(onclick);
+	    tag = hasRipple ? 'a' : 'div';
+	    return z(tag + ".z-icon", {
+	      className: z.classKebab({
+	        isAlignedTop: isAlignedTop,
+	        isAlignedLeft: isAlignedLeft,
+	        isAlignedRight: isAlignedRight,
+	        isAlignedBottom: isAlignedBottom,
+	        isTouchTarget: isTouchTarget,
+	        isClickable: isClickable,
+	        hasRipple: hasRipple
+	      }),
+	      attributes: hasRipple ? {
+	        tabindex: 0
+	      } : {},
+	      onclick: onclick,
+	      style: {
+	        minWidth: isTouchTarget ? touchWidth : '100%',
+	        minHeight: isTouchTarget ? touchHeight : '100%',
+	        width: size,
+	        height: (size != null ? typeof size.indexOf === "function" ? size.indexOf('%') : void 0 : void 0) !== -1 ? (parseInt(size) * heightRatio) + "%" : (parseInt(size) * heightRatio) + "px"
+	      }
+	    }, z('svg', {
+	      namespace: 'http://www.w3.org/2000/svg',
+	      attributes: {
+	        'viewBox': "0 0 " + viewBox + " " + (viewBox * heightRatio)
+	      },
+	      style: {
+	        width: size,
+	        height: (size != null ? typeof size.indexOf === "function" ? size.indexOf('%') : void 0 : void 0) !== -1 ? (parseInt(size) * heightRatio) + "%" : (parseInt(size) * heightRatio) + "px"
+	      }
+	    }, z('path', {
+	      namespace: 'http://www.w3.org/2000/svg',
+	      attributes: {
+	        d: icons[icon],
+	        fill: color,
+	        'fill-rule': 'evenodd',
+	        transform: flipX ? 'translate(12, 12) scale(-1, 1) translate(-12, -12)' : 'scale(1, 1)'
+	      }
+	    })));
+	  };
+
+	  return Icon;
+
+	})();
+
+
+/***/ }),
+/* 440 */
+/***/ (function(module, exports) {
+
+	module.exports = {
+	  'add': 'M19,13 L13,13 L13,19 L11,19 L11,13 L5,13 L5,11 L11,11 L11,5 L13,5 L13,11 L19,11 L19,13 L19,13 Z',
+	  'add-circle': 'M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z',
+	  'add-friend': 'M15 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm-9-2V7H4v3H1v2h3v3h2v-3h3v-2H6zm9 4c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z',
+	  'arrow-down': 'M9,4H15V12H19.84L12,19.84L4.16,12H9V4Z',
+	  'back': 'M20,11 L7.83,11 L13.42,5.41 L12,4 L4,12 L12,20 L13.41,18.59 L7.83,13 L20,13 L20,11 L20,11 Z',
+	  'block': 'M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zM4 12c0-4.42 3.58-8 8-8 1.85 0 3.55.63 4.9 1.69L5.69 16.9C4.63 15.55 4 13.85 4 12zm8 8c-1.85 0-3.55-.63-4.9-1.69L18.31 7.1C19.37 8.45 20 10.15 20 12c0 4.42-3.58 8-8 8z',
+	  'bold': 'M15.6 10.79c.97-.67 1.65-1.77 1.65-2.79 0-2.26-1.75-4-4-4H7v14h7.04c2.09 0 3.71-1.7 3.71-3.79 0-1.52-.86-2.82-2.15-3.42zM10 6.5h3c.83 0 1.5.67 1.5 1.5s-.67 1.5-1.5 1.5h-3v-3zm3.5 9H10v-3h3.5c.83 0 1.5.67 1.5 1.5s-.67 1.5-1.5 1.5z',
+	  'bullet-list': 'M4 10.5c-.83 0-1.5.67-1.5 1.5s.67 1.5 1.5 1.5 1.5-.67 1.5-1.5-.67-1.5-1.5-1.5zm0-6c-.83 0-1.5.67-1.5 1.5S3.17 7.5 4 7.5 5.5 6.83 5.5 6 4.83 4.5 4 4.5zm0 12c-.83 0-1.5.68-1.5 1.5s.68 1.5 1.5 1.5 1.5-.68 1.5-1.5-.67-1.5-1.5-1.5zM7 19h14v-2H7v2zm0-6h14v-2H7v2zm0-8v2h14V5H7z',
+	  'camera': 'M9 3L7.17 5H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2h-3.17L15 3H9zm3 15c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-1.8a3.2 3.2 0 1 0 0-6.4 3.2 3.2 0 0 0 0 6.4z',
+	  'cards': 'M21.65 4.1l-1.34-.56v9.03l2.43-5.86c.41-1.02-.08-2.19-1.09-2.61zM2.15 7.8l4.96 11.97c.31.75 1.04 1.21 1.81 1.23.26 0 .53-.04.79-.15l7.37-3.05c.75-.31 1.21-1.03 1.23-1.8.01-.27-.04-.54-.15-.8L13.2 3.23c-.31-.76-1.05-1.22-1.83-1.23-.26 0-.52.05-.77.15L3.24 5.2c-1.02.42-1.51 1.59-1.09 2.6zM18.3 4c0-1.1-.9-2-2-2h-1.45l3.45 8.34V4z',
+	  'caret-left': 'M15.41,16.58L10.83,12L15.41,7.41L14,6L8,12L14,18L15.41,16.58Z',
+	  'caret-right': 'M9.41,6 L8,7.41 L12.58,12 L8,16.59 L9.41,18 L15.41,12 L9.41,6 Z',
+	  'castle': 'M18 10h4v12h-5c0-5-5-7-5-7s-5 2-5 7H2V10h4v3h2V8h8v5h2v-3zm-4 3v-2c0-1.1-.9-2-2-2s-2 .9-2 2v2h4zm2-6H8l4-5 4 5zm6 2h-4l2-4 2 4zM6 9H2l2-4 2 4z',
+	  'channels': 'M3,5A2,2 0 0,1 5,3H19A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5C3.89,21 3,20.1 3,19V5M7,18H9L9.35,16H13.35L13,18H15L15.35,16H17.35L17.71,14H15.71L16.41,10H18.41L18.76,8H16.76L17.12,6H15.12L14.76,8H10.76L11.12,6H9.12L8.76,8H6.76L6.41,10H8.41L7.71,14H5.71L5.35,16H7.35L7,18M10.41,10H14.41L13.71,14H9.71L10.41,10Z',
+	  'chat': 'M21 6h-2v9H6v2c0 .55.45 1 1 1h11l4 4V7c0-.55-.45-1-1-1zm-4 6V3c0-.55-.45-1-1-1H3c-.55 0-1 .45-1 1v14l4-4h10c.55 0 1-.45 1-1z',
+	  'chat-bubble': 'M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zM6 9h12v2H6V9zm8 5H6v-2h8v2zm4-6H6V6h12v2z',
+	  'check': 'M8.6,15.6 L4.4,11.4 L3,12.8 L8.6,18.4 L20.6,6.4 L19.2,5 L8.6,15.6 L8.6,15.6 Z',
+	  'chevron-up': 'M7.41,15.41L12,10.83L16.59,15.41L18,14L12,8L6,14L7.41,15.41Z',
+	  'chevron-down': 'M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z',
+	  'chevron-right': 'M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z',
+	  'clan': 'M3 5.999A.999.999 0 0 1 4.01 5H7l5-3 5 3h2.99c.558 0 1.01.447 1.01.999V17c0 .552-.41 1.181-.912 1.405L12 22l-8.088-3.594C3.41 18.182 3 17.553 3 17V6z',
+	  'close': 'M19,6.41 L17.59,5 L12,10.59 L6.41,5 L5,6.41 L10.59,12 L5,17.59 L6.41,19 L12,13.41 L17.59,19 L19,17.59 L13.41,12 L19,6.41 Z',
+	  'comment': 'M21.99 4c0-1.1-.89-2-1.99-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h14l4 4-.01-18zM18 14H6v-2h12v2zm0-3H6V9h12v2zm0-3H6V6h12v2z',
+	  'compass': 'M12 10.9c-.61 0-1.1.49-1.1 1.1s.49 1.1 1.1 1.1c.61 0 1.1-.49 1.1-1.1s-.49-1.1-1.1-1.1zM12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm2.19 12.19L6 18l3.81-8.19L18 6l-3.81 8.19z',
+	  'copy': 'M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z',
+	  'crown': 'M4.222 16.467L2 4l6.111 7.933L12 4l3.889 7.933L22 4l-2.222 12.467H4.222zm15.556 3.4c0 .626-.498 1.133-1.111 1.133H5.333a1.122 1.122 0 0 1-1.11-1.133v-1.134h15.555v1.134z',
+	  'date': 'M19 3h-1V1h-2v2H8V1H6v2H5c-1.11 0-1.99.9-1.99 2L3 19c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V8h14v11zM7 10h5v5H7z',
+	  'decks': 'M4 11h5V5H4v6zm0 7h5v-6H4v6zm6 0h5v-6h-5v6zm6 0h5v-6h-5v6zm-6-7h5V5h-5v6zm6-6v6h5V5h-5z',
+	  'delete': 'M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z',
+	  'dev': 'M0 7.009C0 5.899.89 5 1.991 5H20.01C21.109 5 22 5.902 22 7.009v7.982c0 1.11-.89 2.009-1.991 2.009H1.99C.891 17 0 16.098 0 14.991V7.01zM7.896 11c0-.28-.005-.491-.017-.634-.045-.749-.278-1.33-.698-1.745C6.76 8.207 6.145 8 5.333 8H3.23a.22.22 0 0 0-.162.069A.223.223 0 0 0 3 8.23v5.538c0 .062.023.117.068.162A.22.22 0 0 0 3.23 14h2.146c.794 0 1.4-.207 1.813-.621.415-.415.645-.996.69-1.745.012-.143.017-.354.017-.634zM4.15 9.071h1.14c.466 0 .817.118 1.052.352.236.234.365.548.388.943.011.143.017.354.017.634s-.006.491-.017.634c-.023.395-.15.709-.38.943-.23.234-.568.352-1.017.352H4.15V9.07zm5.994 2.435h2.563a.22.22 0 0 0 .162-.069.223.223 0 0 0 .068-.163v-.608a.223.223 0 0 0-.068-.163.22.22 0 0 0-.162-.069h-2.563V9.071h2.75a.22.22 0 0 0 .162-.068.223.223 0 0 0 .069-.163v-.609a.223.223 0 0 0-.069-.162.22.22 0 0 0-.161-.069h-3.67a.22.22 0 0 0-.162.069.223.223 0 0 0-.068.162v5.538c0 .062.022.117.068.162a.22.22 0 0 0 .162.069h3.738a.22.22 0 0 0 .162-.069.223.223 0 0 0 .068-.162v-.609a.223.223 0 0 0-.068-.163.22.22 0 0 0-.162-.068h-2.819v-1.423zm7.698-3.292l-1.43 4.089-1.431-4.089C14.93 8.071 14.836 8 14.7 8h-.647a.22.22 0 0 0-.162.069.223.223 0 0 0-.051.248l1.907 5.392a.539.539 0 0 0 .124.222.28.28 0 0 0 .2.069h.681a.28.28 0 0 0 .2-.069.539.539 0 0 0 .124-.222l1.907-5.392a.223.223 0 0 0-.051-.249A.22.22 0 0 0 18.77 8h-.647c-.136 0-.23.071-.281.214z',
+	  'developers': 'M14.6,16.6L19.2,12L14.6,7.4L16,6L22,12L16,18L14.6,16.6M9.4,16.6L4.8,12L9.4,7.4L8,6L2,12L8,18L9.4,16.6Z',
+	  'downvote': 'M22 10.8h-7.5V4h-5v6.8H2L12 21z',
+	  'drop': 'M12,22 C8.13833333,22 5,18.797619 5,14.8571429 C5,10.0952381 12,2 12,2 C12,2 19,10.0952381 19,14.8571429 C19,18.797619 15.8616667,22 12,22 L12,22 Z',
+	  'edit': 'M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34c-.39-.39-1.02-.39-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z',
+	  'ellipsis': 'M6 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm12 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm-6 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z',
+	  'expand-more': 'M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z',
+	  'expand-less': 'M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z',
+	  'eye': 'M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z',
+	  'external-link': 'M19 4H5c-1.11 0-2 .9-2 2v12c0 1.1.89 2 2 2h4v-2H5V8h14v10h-4v2h4c1.1 0 2-.9 2-2V6c0-1.1-.89-2-2-2zm-7 6l-4 4h3v6h2v-6h3l-4-4z',
+	  'facebook': 'M20.897 2H3.104C2.494 2 2 2.494 2 3.104v17.792C2 21.506 2.494 22 3.104 22h9.58v-7.745h-2.607v-3.02h2.606V9.012c0-2.582 1.577-3.99 3.883-3.99.777-.002 1.555.038 2.33.12v2.697h-1.6c-1.253 0-1.5.596-1.5 1.47v1.927h2.99l-.388 3.02H15.8V22h5.096c.61 0 1.104-.494 1.104-1.104V3.104C22 2.494 21.506 2 20.897 2z',
+	  'filter': 'M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z',
+	  'fire': 'M11.71,19C9.93,19 8.5,17.59 8.5,15.86C8.5,14.24 9.53,13.1 11.3,12.74C13.07,12.38 14.9,11.53 15.92,10.16C16.31,11.45 16.5,12.81 16.5,14.2C16.5,16.84 14.36,19 11.71,19M13.5,0.67C13.5,0.67 14.24,3.32 14.24,5.47C14.24,7.53 12.89,9.2 10.83,9.2C8.76,9.2 7.2,7.53 7.2,5.47L7.23,5.1C5.21,7.5 4,10.61 4,14A8,8 0 0,0 12,22A8,8 0 0,0 20,14C20,8.6 17.41,3.8 13.5,0.67Z',
+	  'friends': 'M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z',
+	  'gem': 'M16,9 L19,9 L14,16 L16,9 Z M10,9 L14,9 L12,17 L10,9 Z M5,9 L8,9 L10,16 L5,9 Z M15,4 L17,4 L19,7 L16,7 L15,4 Z M11,4 L13,4 L14,7 L10,7 L11,4 Z M7,4 L9,4 L8,7 L5,7 L7,4 Z M6,2 L2,8 L12,22 L22,8 L18,2 L6,2 L6,2 Z',
+	  'get': 'M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2m7 14l5-5h-3V8h-4v4H7l5 5z',
+	  'gifs': 'm10.99281,7.25766l2.26973,0l0,9.07894l-2.26973,0l0,-9.07894zm-3.78289,0l-4.53947,0c-0.90789,0 -1.51316,0.75658 -1.51316,1.51316l0,6.05262c0,0.75658 0.60526,1.51316 1.51316,1.51316l4.53947,0c0.90789,0 1.51316,-0.75658 1.51316,-1.51316l0,-3.02631l-2.26973,0l0,2.26973l-3.02631,0l0,-4.53947l5.29605,0l0,-0.75658c0,-0.75658 -0.60526,-1.51316 -1.51316,-1.51316zm15.13156,2.26973l0,-2.26973l-6.8092,0l0,9.07894l2.26973,0l0,-3.02631l3.02631,0l0,-2.26973l-3.02631,0l0,-1.51316l4.53947,0z',
+	  'globe': 'M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z',
+	  'grid': 'M13 13v8h8v-8h-8zM3 21h8v-8H3v8zM3 3v8h8V3H3zm10 0v8h8V3h-8',
+	  'hashtag': 'M3,5A2,2 0 0,1 5,3H19A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5C3.89,21 3,20.1 3,19V5M7,18H9L9.35,16H13.35L13,18H15L15.35,16H17.35L17.71,14H15.71L16.41,10H18.41L18.76,8H16.76L17.12,6H15.12L14.76,8H10.76L11.12,6H9.12L8.76,8H6.76L6.41,10H8.41L7.71,14H5.71L5.35,16H7.35L7,18M10.41,10H14.41L13.71,14H9.71L10.41,10Z',
+	  'heart': 'M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z',
+	  'help': 'M11 18h2v-2h-2v2zm1-16C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm0-14c-2.21 0-4 1.79-4 4h2c0-1.1.9-2 2-2s2 .9 2 2c0 2-3 1.75-3 5h2c0-2.25 3-2.5 3-5 0-2.21-1.79-4-4-4z',
+	  'home': 'M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z',
+	  'history': 'M13 3c-4.97 0-9 4.03-9 9H1l3.89 3.89.07.14L9 12H6c0-3.87 3.13-7 7-7s7 3.13 7 7-3.13 7-7 7c-1.93 0-3.68-.79-4.94-2.06l-1.42 1.42C8.27 19.99 10.51 21 13 21c4.97 0 9-4.03 9-9s-4.03-9-9-9zm-1 5v5l4.28 2.54.72-1.21-3.5-2.08V8H12z',
+	  'image': 'M21 19V5c0-1.1-.9-2-2-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2zM8.5 13.5l2.5 3.01L14.5 12l4.5 6H5l3.5-4.5z',
+	  'inbox': 'M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z',
+	  'info': 'M11 17h2v-6h-2v6zm1-15C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zM11 9h2V7h-2v2z',
+	  'ip-ban': 'M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11H7v-2h10v2z',
+	  'italic': 'M10 4v3h2.21l-3.42 8H6v3h8v-3h-2.21l3.42-8H18V4z',
+	  'leave': 'M10.09 15.59L11.5 17l5-5-5-5-1.41 1.41L12.67 11H3v2h9.67l-2.58 2.59zM19 3H5c-1.11 0-2 .9-2 2v4h2V5h14v14H5v-4H3v4c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z',
+	  'level': 'M12 20.58l-3.4 1.882-1.643-3.52-3.856-.476.739-3.815L1 12l2.84-2.651-.74-3.815 3.857-.475L8.6 1.539 12 3.42l3.4-1.882 1.643 3.52 3.856.476-.739 3.815L23 12l-2.84 2.651.74 3.815-3.857.475-1.644 3.52z',
+	  'location': 'M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z',
+	  'lock-outline': 'M12 17c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm6-9h-1V6c0-2.76-2.24-5-5-5S7 3.24 7 6v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zM8.9 6c0-1.71 1.39-3.1 3.1-3.1s3.1 1.39 3.1 3.1v2H8.9V6zM18 20H6V10h12v10z',
+	  'lock-small': 'M22 22V12h-2.5V9.5a7.5 7.5 0 0 0-15 0V12H2v10h20zM12 7a2.5 2.5 0 0 1 2.5 2.5V12h-5V9.5A2.5 2.5 0 0 1 12 7z',
+	  'menu': 'M3,18 L21,18 L21,16 L3,16 L3,18 L3,18 Z M3,13 L21,13 L21,11 L3,11 L3,13 L3,13 Z M3,6 L3,8 L21,8 L21,6 L3,6 L3,6 Z',
+	  'mod': 'M0 7.009C0 5.899.89 5 1.991 5H20.01C21.109 5 22 5.902 22 7.009v7.982c0 1.11-.89 2.009-1.991 2.009H1.99C.891 17 0 16.098 0 14.991V7.01zm6.728 1.3l-1.551 2.75-1.55-2.75a1.076 1.076 0 0 0-.144-.163c-.046-.042-.115-.063-.208-.063H2.72a.21.21 0 0 0-.155.067.219.219 0 0 0-.065.158v5.384c0 .06.022.114.065.158a.21.21 0 0 0 .155.067h.661a.21.21 0 0 0 .155-.067.219.219 0 0 0 .066-.158v-3.259l1.06 1.875c.088.14.188.209.303.209h.424c.114 0 .215-.07.302-.209l1.061-1.875v3.259c0 .06.022.114.065.158a.21.21 0 0 0 .155.067h.661a.21.21 0 0 0 .156-.067.219.219 0 0 0 .065-.158V8.308a.219.219 0 0 0-.065-.158.21.21 0 0 0-.156-.067h-.555c-.092 0-.161.021-.208.063a1.076 1.076 0 0 0-.142.162zm6.35.316C12.673 8.208 12.091 8 11.33 8c-.762 0-1.344.21-1.747.63-.403.419-.62.962-.653 1.628a15.942 15.942 0 0 0 0 1.492c.033.667.25 1.208.653 1.625.403.417.985.625 1.747.625.761 0 1.343-.208 1.746-.625.403-.417.62-.958.653-1.625a15.942 15.942 0 0 0 0-1.492c-.033-.672-.25-1.216-.653-1.633zm-2.666.75c.232-.222.538-.333.919-.333.38 0 .686.11.918.333.23.222.357.53.38.925.01.139.016.372.016.7 0 .333-.006.57-.017.708-.022.395-.148.702-.38.921-.23.22-.537.33-.917.33-.381 0-.687-.11-.919-.33-.23-.22-.357-.526-.38-.92-.01-.278-.015-.515-.015-.709 0-.189.005-.422.016-.7.022-.394.148-.703.38-.925zM19.5 11c0-.272-.005-.478-.016-.617-.044-.727-.267-1.293-.67-1.695-.402-.403-.993-.605-1.77-.605h-2.016a.21.21 0 0 0-.155.067.219.219 0 0 0-.066.158v5.384c0 .06.022.114.066.158a.21.21 0 0 0 .155.067h2.056c.762 0 1.341-.202 1.739-.604.397-.403.617-.969.66-1.696.012-.14.017-.345.017-.617zm-3.591-1.875h1.094c.446 0 .782.114 1.008.342.225.227.35.533.37.916.012.14.017.345.017.617s-.005.478-.016.617c-.022.383-.143.689-.363.916-.22.228-.546.342-.976.342H15.91v-3.75z',
+	  'notes': 'M19 3h-4.18C14.4 1.84 13.3 1 12 1c-1.3 0-2.4.84-2.82 2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-7 0c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zm2 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z',
+	  'notifications': 'M12 22c1.1 0 2-.9 2-2h-4c0 1.1.89 2 2 2zm6-6v-5c0-3.07-1.64-5.64-4.5-6.32V4c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v.68C7.63 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2z',
+	  'overflow': 'M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z',
+	  'pc': 'M21,14H3V4H21M21,2H3C1.89,2 1,2.89 1,4V16A2,2 0 0,0 3,18H10L8,21V22H16V21L14,18H21A2,2 0 0,0 23,16V4C23,2.89 22.1,2 21,2Z',
+	  'pending': 'M11.99,2 C6.47,2 2,6.48 2,12 C2,17.52 6.47,22 11.99,22 C17.52,22 22,17.52 22,12 C22,6.48 17.52,2 11.99,2 L11.99,2 Z M12,20 C7.58,20 4,16.42 4,12 C4,7.58 7.58,4 12,4 C16.42,4 20,7.58 20,12 C20,16.42 16.42,20 12,20 L12,20 Z M12.5,7 L11,7 L11,13 L16.25,16.15 L17,14.92 L12.5,12.25 L12.5,7 Z',
+	  'perma-ban': 'M8.27,3L3,8.27V15.73L8.27,21H15.73L21,15.73V8.27L15.73,3M8.41,7L12,10.59L15.59,7L17,8.41L13.41,12L17,15.59L15.59,17L12,13.41L8.41,17L7,15.59L10.59,12L7,8.41',
+	  'pin': 'M16,12V4H17V2H7V4H8V12L6,14V16H11.2V22H12.8V16H18V14L16,12Z',
+	  'pin-off': 'M2,5.27L3.28,4L20,20.72L18.73,22L12.8,16.07V22H11.2V16H6V14L8,12V11.27L2,5.27M16,12L18,14V16H17.82L8,6.18V4H7V2H17V4H16V12Z',
+	  'playstation': 'M9.5,4.27C10.88,4.53 12.9,5.14 14,5.5C16.75,6.45 17.69,7.63 17.69,10.29C17.69,12.89 16.09,13.87 14.05,12.89V8.05C14.05,7.5 13.95,6.97 13.41,6.82C13,6.69 12.76,7.07 12.76,7.63V19.73L9.5,18.69V4.27M13.37,17.62L18.62,15.75C19.22,15.54 19.31,15.24 18.83,15.08C18.34,14.92 17.47,14.97 16.87,15.18L13.37,16.41V14.45L13.58,14.38C13.58,14.38 14.59,14 16,13.87C17.43,13.71 19.17,13.89 20.53,14.4C22.07,14.89 22.25,15.61 21.86,16.1C21.46,16.6 20.5,16.95 20.5,16.95L13.37,19.5V17.62M3.5,17.42C1.93,17 1.66,16.05 2.38,15.5C3.05,15 4.18,14.65 4.18,14.65L8.86,13V14.88L5.5,16.09C4.9,16.3 4.81,16.6 5.29,16.76C5.77,16.92 6.65,16.88 7.24,16.66L8.86,16.08V17.77L8.54,17.83C6.92,18.09 5.2,18 3.5,17.42Z',
+	  'profile': 'M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z',
+	  'recruit': 'M11.5 9C10.12 9 9 10.12 9 11.5s1.12 2.5 2.5 2.5 2.5-1.12 2.5-2.5S12.88 9 11.5 9zM20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm-3.21 14.21l-2.91-2.91c-.69.44-1.51.7-2.39.7C9.01 16 7 13.99 7 11.5S9.01 7 11.5 7 16 9.01 16 11.5c0 .88-.26 1.69-.7 2.39l2.91 2.9-1.42 1.42z',
+	  'refresh': 'M17.65 6.35C16.2 4.9 14.21 4 12 4c-4.42 0-7.99 3.58-7.99 8s3.57 8 7.99 8c3.73 0 6.84-2.55 7.73-6h-2.08c-.82 2.33-3.04 4-5.65 4-3.31 0-6-2.69-6-6s2.69-6 6-6c1.66 0 3.14.69 4.22 1.78L13 11h7V4l-2.35 2.35z',
+	  'remove-friend': 'M15 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zM1 10v2h8v-2H1zm14 4c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z',
+	  'reply': 'M10 9V5l-7 7 7 7v-4.1c5 0 8.5 1.6 11 5.1-1-5-4-10-11-11z',
+	  'rss': 'M6.18 20a2.18 2.18 0 1 1 0-4.36 2.18 2.18 0 0 1 0 4.36zM4 4.44c8.59 0 15.56 6.97 15.56 15.56h-2.83c0-7.03-5.7-12.73-12.73-12.73V4.44zm0 5.66c5.47 0 9.9 4.43 9.9 9.9h-2.83c0-3.9-3.17-7.07-7.07-7.07V10.1z',
+	  'settings': 'M19.43 12.98c.04-.32.07-.64.07-.98s-.03-.66-.07-.98l2.11-1.65c.19-.15.24-.42.12-.64l-2-3.46c-.12-.22-.39-.3-.61-.22l-2.49 1c-.52-.4-1.08-.73-1.69-.98l-.38-2.65C14.46 2.18 14.25 2 14 2h-4c-.25 0-.46.18-.49.42l-.38 2.65c-.61.25-1.17.59-1.69.98l-2.49-1c-.23-.09-.49 0-.61.22l-2 3.46c-.13.22-.07.49.12.64l2.11 1.65c-.04.32-.07.65-.07.98s.03.66.07.98l-2.11 1.65c-.19.15-.24.42-.12.64l2 3.46c.12.22.39.3.61.22l2.49-1c.52.4 1.08.73 1.69.98l.38 2.65c.03.24.24.42.49.42h4c.25 0 .46-.18.49-.42l.38-2.65c.61-.25 1.17-.59 1.69-.98l2.49 1c.23.09.49 0 .61-.22l2-3.46c.12-.22.07-.49-.12-.64l-2.11-1.65zM12 15.5c-1.93 0-3.5-1.57-3.5-3.5s1.57-3.5 3.5-3.5 3.5 1.57 3.5 3.5-1.57 3.5-3.5 3.5z',
+	  'send': 'M2.01 21L23 12 2.01 3 2 10l15 2-15 2z',
+	  'search': 'M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z',
+	  'share': 'M18,16.08 C17.24,16.08 16.56,16.38 16.04,16.85 L8.91,12.7 C8.96,12.47 9,12.24 9,12 C9,11.76 8.96,11.53 8.91,11.3 L15.96,7.19 C16.5,7.69 17.21,8 18,8 C19.66,8 21,6.66 21,5 C21,3.34 19.66,2 18,2 C16.34,2 15,3.34 15,5 C15,5.24 15.04,5.47 15.09,5.7 L8.04,9.81 C7.5,9.31 6.79,9 6,9 C4.34,9 3,10.34 3,12 C3,13.66 4.34,15 6,15 C6.79,15 7.5,14.69 8.04,14.19 L15.16,18.35 C15.11,18.56 15.08,18.78 15.08,19 C15.08,20.61 16.39,21.92 18,21.92 C19.61,21.92 20.92,20.61 20.92,19 C20.92,17.39 19.61,16.08 18,16.08 L18,16.08 Z',
+	  'shop': 'M20 4H4v2h16V4zm1 10v-2l-1-5H4l-1 5v2h1v6h10v-6h4v6h2v-6h1zm-9 4H6v-4h6v4z',
+	  'star': 'M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z',
+	  'star-outline': 'M22 9.24l-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z',
+	  'star-tag': 'M0 7.009C0 5.899.89 5 1.991 5H20.01C21.109 5 22 5.902 22 7.009v7.982c0 1.11-.89 2.009-1.991 2.009H1.99C.891 17 0 16.098 0 14.991V7.01zm11 6.714l3.233 2.227-1.118-3.763L16.23 9.8l-3.924-.099L11 6 9.693 9.701l-3.924.1 3.116 2.386-1.118 3.763L11 13.723z',
+	  'stats': 'M23 8c0 1.1-.9 2-2 2-.18 0-.35-.02-.51-.07l-3.56 3.55c.05.16.07.34.07.52 0 1.1-.9 2-2 2s-2-.9-2-2c0-.18.02-.36.07-.52l-2.55-2.55c-.16.05-.34.07-.52.07s-.36-.02-.52-.07l-4.55 4.56c.05.16.07.33.07.51 0 1.1-.9 2-2 2s-2-.9-2-2 .9-2 2-2c.18 0 .35.02.51.07l4.56-4.55C8.02 9.36 8 9.18 8 9c0-1.1.9-2 2-2s2 .9 2 2c0 .18-.02.36-.07.52l2.55 2.55c.16-.05.34-.07.52-.07s.36.02.52.07l3.55-3.56C19.02 8.35 19 8.18 19 8c0-1.1.9-2 2-2s2 .9 2 2z',
+	  'stickers': 'M11.99 2C6.47 2 2 6.47 2 12s4.47 10 9.99 10S22 17.53 22 12 17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm1-10.06L14.06 11l1.06-1.06L16.18 11l1.06-1.06-2.12-2.12zm-4.12 0L9.94 11 11 9.94 8.88 7.82 6.76 9.94 7.82 11zM12 17.5c2.33 0 4.31-1.46 5.11-3.5H6.89c.8 2.04 2.78 3.5 5.11 3.5z',
+	  'subtract-circle': 'M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11H7v-2h10v2z',
+	  'text': 'M2.5 4v3h5v12h3V7h5V4h-13zm19 5h-9v3h3v7h3v-7h3V9z',
+	  'thumb-up': 'M23,10C23,8.89 22.1,8 21,8H14.68L15.64,3.43C15.66,3.33 15.67,3.22 15.67,3.11C15.67,2.7 15.5,2.32 15.23,2.05L14.17,1L7.59,7.58C7.22,7.95 7,8.45 7,9V19A2,2 0 0,0 9,21H18C18.83,21 19.54,20.5 19.84,19.78L22.86,12.73C22.95,12.5 23,12.26 23,12V10.08L23,10M1,21H5V9H1V21Z',
+	  'thumb-down': 'M19,15H23V3H19M15,3H6C5.17,3 4.46,3.5 4.16,4.22L1.14,11.27C1.05,11.5 1,11.74 1,12V13.91L1,14A2,2 0 0,0 3,16H9.31L8.36,20.57C8.34,20.67 8.33,20.77 8.33,20.88C8.33,21.3 8.5,21.67 8.77,21.94L9.83,23L16.41,16.41C16.78,16.05 17,15.55 17,15V5C17,3.89 16.1,3 15,3Z',
+	  'time': 'M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zM12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z',
+	  'tools': 'M12,16L19.36,10.27L21,9L12,2L3,9L4.63,10.27M12,18.54L4.62,12.81L3,14.07L12,21.07L21,14.07L19.37,12.8L12,18.54Z',
+	  'trade': 'M6.99,11 L3,15 L6.99,19 L6.99,16 L14,16 L14,14 L6.99,14 L6.99,11 L6.99,11 Z M21,9 L17.01,5 L17.01,8 L10,8 L10,10 L17.01,10 L17.01,13 L21,9 L21,9 Z',
+	  'trade-circle': 'M2,12 C2,17.52 6.48,22 12,22 C17.52,22 22,17.52 22,12 C22,6.48 17.52,2 12,2 C6.48,2 2,6.48 2,12 L2,12 L2,12 Z M9,17.5 L5.5,14 L9,10.5 L9,13 L13,13 L13,15 L9,15 L9,17.5 L9,17.5 Z M15,6.5 L18.5,10 L15,13.5 L15,11 L11,11 L11,9 L15,9 L15,6.5 L15,6.5 Z',
+	  'trophy': 'M20.2,2H19.5H18C17.1,2 16,3 16,4H8C8,3 6.9,2 6,2H4.5H3.8H2V11C2,12 3,13 4,13H6.2C6.6,15 7.9,16.7 11,17V19.1C8.8,19.3 8,20.4 8,21.7V22H16V21.7C16,20.4 15.2,19.3 13,19.1V17C16.1,16.7 17.4,15 17.8,13H20C21,13 22,12 22,11V2H20.2M4,11V4H6V6V11C5.1,11 4.3,11 4,11M20,11C19.7,11 18.9,11 18,11V6V4H20V11Z',
+	  'twitch': 'M4,2H22V14L17,19H13L10,22H7V19H2V6L4,2M20,13V4H6V16H9V19L12,16H17L20,13M15,7H17V12H15V7M12,7V12H10V7H12Z',
+	  'twitter': 'M22 5.892c-.75.325-1.543.54-2.356.633.856-.504 1.497-1.297 1.804-2.232-.806.47-1.687.802-2.606.98-1.272-1.33-3.293-1.657-4.93-.795-1.637.863-2.483 2.698-2.063 4.478-3.3-.163-6.375-1.696-8.46-4.22-1.087 1.846-.53 4.206 1.27 5.392-.65-.02-1.288-.193-1.857-.504v.05c0 1.924 1.377 3.58 3.292 3.96-.604.163-1.238.188-1.853.073.536 1.646 2.077 2.774 3.833 2.807-1.454 1.123-3.25 1.73-5.096 1.728-.328 0-.655-.02-.98-.056C3.877 19.373 6.06 20.002 8.292 20c7.547 0 11.674-6.153 11.674-11.49 0-.174-.004-.348-.012-.522.804-.573 1.496-1.283 2.046-2.096z',
+	  'underline': 'M12 17c3.31 0 6-2.69 6-6V3h-2.5v8c0 1.93-1.57 3.5-3.5 3.5S8.5 12.93 8.5 11V3H6v8c0 3.31 2.69 6 6 6zm-7 2v2h14v-2H5z',
+	  'upvote': 'M2 14.2h7.5V21h5v-6.8H22L12 4z',
+	  'verified': 'M22 11.996l-2.218 2.39.309 3.165-3.282.706-1.718 2.734L12 19.736 8.91 21l-1.72-2.735-3.28-.705.308-3.173L2 11.996l2.218-2.4-.309-3.165 3.282-.696L8.909 3 12 4.256 15.09 3l1.72 2.735 3.28.705-.308 3.165L22 11.995zm-11.818 4.3l7.273-6.88-1.282-1.222-5.991 5.668-2.355-2.219-1.282 1.213 3.637 3.44z',
+	  'video': 'M21 3H3c-1.11 0-2 .89-2 2v12c0 1.1.89 2 2 2h5v2h8v-2h5c1.1 0 1.99-.9 1.99-2L23 5c0-1.11-.9-2-2-2zm0 14H3V5h18v12zm-5-6l-7 4V7z',
+	  'warning': 'M1 21h22L12 2 1 21zm12-3h-2v-2h2v2zm0-4h-2v-4h2v4z',
+	  'wiki': 'M14,17H7V15H14M17,13H7V11H17M17,9H7V7H17M19,3H5C3.89,3 3,3.89 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5C21,3.89 20.1,3 19,3Z',
+	  'win': 'M20.39,19.37L16.38,18L15,22L11.92,16L9,22L7.62,18L3.61,19.37L6.53,13.37C5.57,12.17 5,10.65 5,9A7,7 0 0,1 12,2A7,7 0 0,1 19,9C19,10.65 18.43,12.17 17.47,13.37L20.39,19.37M7,9L9.69,10.34L9.5,13.34L12,11.68L14.5,13.33L14.33,10.34L17,9L14.32,7.65L14.5,4.67L12,6.31L9.5,4.65L9.67,7.66L7,9Z',
+	  'xbox': 'M6.43,3.72C6.5,3.66 6.57,3.6 6.62,3.56C8.18,2.55 10,2 12,2C13.88,2 15.64,2.5 17.14,3.42C17.25,3.5 17.54,3.69 17.7,3.88C16.25,2.28 12,5.7 12,5.7C10.5,4.57 9.17,3.8 8.16,3.5C7.31,3.29 6.73,3.5 6.46,3.7M19.34,5.21C19.29,5.16 19.24,5.11 19.2,5.06C18.84,4.66 18.38,4.56 18,4.59C17.61,4.71 15.9,5.32 13.8,7.31C13.8,7.31 16.17,9.61 17.62,11.96C19.07,14.31 19.93,16.16 19.4,18.73C21,16.95 22,14.59 22,12C22,9.38 21,7 19.34,5.21M15.73,12.96C15.08,12.24 14.13,11.21 12.86,9.95C12.59,9.68 12.3,9.4 12,9.1C12,9.1 11.53,9.56 10.93,10.17C10.16,10.94 9.17,11.95 8.61,12.54C7.63,13.59 4.81,16.89 4.65,18.74C4.65,18.74 4,17.28 5.4,13.89C6.3,11.68 9,8.36 10.15,7.28C10.15,7.28 9.12,6.14 7.82,5.35L7.77,5.32C7.14,4.95 6.46,4.66 5.8,4.62C5.13,4.67 4.71,5.16 4.71,5.16C3.03,6.95 2,9.35 2,12A10,10 0 0,0 12,22C14.93,22 17.57,20.74 19.4,18.73C19.4,18.73 19.19,17.4 17.84,15.5C17.53,15.07 16.37,13.69 15.73,12.96Z',
+	  'youtube': 'M21.8 8.02s-.196-1.371-.795-1.975c-.76-.793-1.613-.797-2.004-.844C16.202 5 12.004 5 12.004 5h-.008s-4.199 0-6.997.201c-.392.047-1.243.05-2.004.843-.6.605-.795 1.976-.795 1.976S2 9.63 2 11.242v1.51c0 1.61.2 3.221.2 3.221s.196 1.372.795 1.976c.76.793 1.76.768 2.205.851 1.6.153 6.8.2 6.8.2s4.202-.006 7.001-.208c.392-.046 1.243-.05 2.004-.843.6-.604.795-1.976.795-1.976s.2-1.61.2-3.221v-1.51c0-1.611-.2-3.222-.2-3.222zM9.935 14.582V8.99l5.404 2.806-5.404 2.787z'
+	};
+
+
+/***/ }),
+/* 441 */
+/***/ (function(module, exports) {
+
+	// removed by extract-text-webpack-plugin
+
+/***/ }),
+/* 442 */,
+/* 443 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var DEFAULT_SIZE, Spinner, _map, _range, colors, z;
+
+	z = __webpack_require__(150);
+
+	_map = __webpack_require__(26);
+
+	_range = __webpack_require__(361);
+
+	colors = __webpack_require__(426);
+
+	if (typeof window !== "undefined" && window !== null) {
+	  __webpack_require__(444);
+	}
+
+	DEFAULT_SIZE = 50;
+
+	module.exports = Spinner = (function() {
+	  function Spinner() {}
+
+	  Spinner.prototype.render = function(arg) {
+	    var size;
+	    size = (arg != null ? arg : {}).size;
+	    if (size == null) {
+	      size = DEFAULT_SIZE;
+	    }
+	    return z('.z-spinner', {
+	      style: {
+	        width: size + "px",
+	        height: (size * 0.6) + "px"
+	      }
+	    }, _map(_range(3), function() {
+	      return z('li', {
+	        style: {
+	          border: (Math.round(size * 0.06)) + "px solid " + colors.$primary500
+	        }
+	      });
+	    }));
+	  };
+
+	  return Spinner;
+
+	})();
+
+
+/***/ }),
+/* 444 */
+/***/ (function(module, exports) {
+
+	// removed by extract-text-webpack-plugin
+
+/***/ }),
+/* 445 */,
+/* 446 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var CurrencyIcon, config, z,
+	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
+
+	z = __webpack_require__(150);
+
+	config = __webpack_require__(430);
+
+	if (typeof window !== "undefined" && window !== null) {
+	  __webpack_require__(447);
+	}
+
+	module.exports = CurrencyIcon = (function() {
+	  function CurrencyIcon(arg) {
+	    var itemKey;
+	    itemKey = (arg != null ? arg : {}).itemKey;
+	    this.render = bind(this.render, this);
+	    this.state = z.state({
+	      itemKey: itemKey
+	    });
+	  }
+
+	  CurrencyIcon.prototype.render = function(arg) {
+	    var dir, itemKey, ref, size;
+	    size = arg.size;
+	    itemKey = this.state.getValue().itemKey;
+	    dir = itemKey != null ? (ref = itemKey.split('_')) != null ? ref[0] : void 0 : void 0;
+	    return z('.z-currency-icon', {
+	      style: {
+	        width: size,
+	        height: size,
+	        backgroundImage: itemKey ? "url(" + config.CDN_URL + "/items/" + dir + "/currency/" + itemKey + ".png?2)" : 'none'
+	      }
+	    });
+	  };
+
+	  return CurrencyIcon;
+
+	})();
+
+
+/***/ }),
+/* 447 */
+/***/ (function(module, exports) {
+
+	// removed by extract-text-webpack-plugin
+
+/***/ }),
+/* 448 */,
+/* 449 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var FormatService, _filter, _map, config, z;
+
+	z = __webpack_require__(150);
+
+	_map = __webpack_require__(26);
+
+	_filter = __webpack_require__(167);
+
+	config = __webpack_require__(430);
+
+	FormatService = (function() {
+	  function FormatService() {}
+
+	  FormatService.prototype.number = function(number) {
+	    if (number != null) {
+	      return Math.round(number).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+	    } else {
+	      return '...';
+	    }
+	  };
+
+	  FormatService.prototype.percentage = function(value) {
+	    return (Math.round(value * 100)) + "%";
+	  };
+
+	  FormatService.prototype.countdown = function(s) {
+	    var days, hours, minutes, prettyTimer, seconds;
+	    seconds = Math.floor(s % 60);
+	    if (seconds < 10) {
+	      seconds = "0" + seconds;
+	    }
+	    days = Math.floor(s / 86400);
+	    minutes = Math.floor(s / 60) % 60;
+	    if (minutes < 10) {
+	      minutes = "0" + minutes;
+	    }
+	    if (days > 2) {
+	      hours = Math.floor(s / 3600) % 24;
+	      if (hours < 10) {
+	        hours = "0" + hours;
+	      }
+	      prettyTimer = days + " days";
+	    } else {
+	      hours = Math.floor(s / 3600);
+	      if (hours < 10) {
+	        hours = "0" + hours;
+	      }
+	      prettyTimer = hours + ":" + minutes + ":" + seconds;
+	    }
+	    return prettyTimer;
+	  };
+
+	  FormatService.prototype.shortNumber = function(num, fixed) {
+	    var b, c, d, e, k;
+	    if (num === null) {
+	      return null;
+	    }
+	    if (num === 0) {
+	      return '0';
+	    }
+	    fixed = !fixed || fixed < 0 ? 0 : fixed;
+	    b = num.toPrecision(2).split('e');
+	    k = b.length === 1 ? 0 : Math.floor(Math.min(b[1].slice(1), 14) / 3);
+	    c = k < 1 ? num.toFixed(0 + fixed) : (num / Math.pow(10, k * 3)).toFixed(1 + fixed);
+	    d = c < 0 ? c : Math.abs(c);
+	    e = d + ['', 'K', 'M', 'B', 'T'][k];
+	    return e;
+	  };
+
+	  return FormatService;
+
+	})();
+
+	module.exports = new FormatService();
+
+
+/***/ }),
+/* 450 */
+/***/ (function(module, exports) {
+
+	// removed by extract-text-webpack-plugin
+
+/***/ }),
+/* 451 */,
+/* 452 */
+/***/ (function(module, exports) {
+
+	// removed by extract-text-webpack-plugin
+
+/***/ }),
+/* 453 */,
+/* 454 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var AppBar, CurrencyIcon, FormatService, colors, z,
+	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
+
+	z = __webpack_require__(150);
+
+	CurrencyIcon = __webpack_require__(455);
+
+	FormatService = __webpack_require__(458);
+
+	colors = __webpack_require__(376);
+
+	if (typeof window !== "undefined" && window !== null) {
+	  __webpack_require__(459);
+	}
+
+	module.exports = AppBar = (function() {
+	  function AppBar(arg) {
+	    var group, itemKey;
+	    this.model = arg.model, group = arg.group;
+	    this.getHeight = bind(this.getHeight, this);
+	    itemKey = group.map(function(group) {
+	      var ref;
+	      return (ref = group.currency) != null ? ref.itemKey : void 0;
+	    });
+	    this.$currencyIcon = new CurrencyIcon({
+	      itemKey: itemKey
+	    });
+	    this.state = z.state({
+	      me: this.model.user.getMe(),
+	      group: group,
+	      currencyItem: itemKey.switchMap((function(_this) {
+	        return function(itemKey) {
+	          if (itemKey) {
+	            return _this.model.userItem.getByItemKey(itemKey);
+	          } else {
+	            return RxObservable.of(null);
+	          }
+	        };
+	      })(this))
+	    });
+	  }
+
+	  AppBar.prototype.getHeight = function() {
+	    return this.model.window.getAppBarHeight();
+	  };
+
+	  AppBar.prototype.render = function(options) {
+	    var $topLeftButton, $topRightButton, bgColor, color, currencyItem, group, isFlat, isFullWidth, ref, style, title;
+	    $topLeftButton = options.$topLeftButton, $topRightButton = options.$topRightButton, title = options.title, bgColor = options.bgColor, color = options.color, isFlat = options.isFlat, style = options.style, isFullWidth = options.isFullWidth;
+	    ref = this.state.getValue(), group = ref.group, currencyItem = ref.currencyItem;
+	    if (color == null) {
+	      color = colors.$header500Text;
+	    }
+	    if (bgColor == null) {
+	      bgColor = colors.$header500;
+	    }
+	    if (group != null ? group.currency : void 0) {
+	      if ($topRightButton == null) {
+	        $topRightButton = z('.group-currency', FormatService.number((currencyItem != null ? currencyItem.count : void 0) || 0), z('.icon', z(this.$currencyIcon, {
+	          size: '20px'
+	        })));
+	      }
+	    }
+	    return z('header.z-app-bar', {
+	      className: z.classKebab({
+	        isFlat: isFlat
+	      })
+	    }, z('.bar', {
+	      style: {
+	        backgroundColor: bgColor
+	      }
+	    }, z('.wrapper', {
+	      className: z.classKebab({
+	        gGrid: !isFullWidth
+	      })
+	    }, z('.top', $topLeftButton ? z('.top-left-button', {
+	      style: {
+	        color: color
+	      }
+	    }, $topLeftButton) : void 0, z('.title', {
+	      style: {
+	        color: color
+	      }
+	    }, title), z('.top-right-button', {
+	      style: {
+	        color: color
+	      }
+	    }, $topRightButton)))));
+	  };
+
+	  return AppBar;
+
+	})();
+
+
+/***/ }),
+/* 455 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var CurrencyIcon, config, z,
+	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
+
+	z = __webpack_require__(150);
+
+	config = __webpack_require__(360);
+
+	if (typeof window !== "undefined" && window !== null) {
+	  __webpack_require__(456);
+	}
+
+	module.exports = CurrencyIcon = (function() {
+	  function CurrencyIcon(arg) {
+	    var itemKey;
+	    itemKey = (arg != null ? arg : {}).itemKey;
+	    this.render = bind(this.render, this);
+	    this.state = z.state({
+	      itemKey: itemKey
+	    });
+	  }
+
+	  CurrencyIcon.prototype.render = function(arg) {
+	    var dir, itemKey, ref, size;
+	    size = arg.size;
+	    itemKey = this.state.getValue().itemKey;
+	    dir = itemKey != null ? (ref = itemKey.split('_')) != null ? ref[0] : void 0 : void 0;
+	    return z('.z-currency-icon', {
+	      style: {
+	        width: size,
+	        height: size,
+	        backgroundImage: itemKey ? "url(" + config.CDN_URL + "/items/" + dir + "/currency/" + itemKey + ".png?2)" : 'none'
+	      }
+	    });
+	  };
+
+	  return CurrencyIcon;
+
+	})();
+
+
+/***/ }),
+/* 456 */
+/***/ (function(module, exports) {
+
+	// removed by extract-text-webpack-plugin
+
+/***/ }),
+/* 457 */,
+/* 458 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var FormatService, _filter, _map, config, z;
+
+	z = __webpack_require__(150);
+
+	_map = __webpack_require__(26);
+
+	_filter = __webpack_require__(167);
+
+	config = __webpack_require__(360);
+
+	FormatService = (function() {
+	  function FormatService() {}
+
+	  FormatService.prototype.number = function(number) {
+	    if (number != null) {
+	      return Math.round(number).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+	    } else {
+	      return '...';
+	    }
+	  };
+
+	  FormatService.prototype.percentage = function(value) {
+	    return (Math.round(value * 100)) + "%";
+	  };
+
+	  FormatService.prototype.countdown = function(s) {
+	    var days, hours, minutes, prettyTimer, seconds;
+	    seconds = Math.floor(s % 60);
+	    if (seconds < 10) {
+	      seconds = "0" + seconds;
+	    }
+	    days = Math.floor(s / 86400);
+	    minutes = Math.floor(s / 60) % 60;
+	    if (minutes < 10) {
+	      minutes = "0" + minutes;
+	    }
+	    if (days > 2) {
+	      hours = Math.floor(s / 3600) % 24;
+	      if (hours < 10) {
+	        hours = "0" + hours;
+	      }
+	      prettyTimer = days + " days";
+	    } else {
+	      hours = Math.floor(s / 3600);
+	      if (hours < 10) {
+	        hours = "0" + hours;
+	      }
+	      prettyTimer = hours + ":" + minutes + ":" + seconds;
+	    }
+	    return prettyTimer;
+	  };
+
+	  FormatService.prototype.shortNumber = function(num, fixed) {
+	    var b, c, d, e, k;
+	    if (num === null) {
+	      return null;
+	    }
+	    if (num === 0) {
+	      return '0';
+	    }
+	    fixed = !fixed || fixed < 0 ? 0 : fixed;
+	    b = num.toPrecision(2).split('e');
+	    k = b.length === 1 ? 0 : Math.floor(Math.min(b[1].slice(1), 14) / 3);
+	    c = k < 1 ? num.toFixed(0 + fixed) : (num / Math.pow(10, k * 3)).toFixed(1 + fixed);
+	    d = c < 0 ? c : Math.abs(c);
+	    e = d + ['', 'K', 'M', 'B', 'T'][k];
+	    return e;
+	  };
+
+	  return FormatService;
+
+	})();
+
+	module.exports = new FormatService();
+
+
+/***/ }),
+/* 459 */
+/***/ (function(module, exports) {
+
+	// removed by extract-text-webpack-plugin
+
+/***/ }),
+/* 460 */,
+/* 461 */
+/***/ (function(module, exports) {
+
+	// removed by extract-text-webpack-plugin
+
+/***/ }),
+/* 462 */,
+/* 463 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var AppBar, Config, ConfigPage, config, z,
+	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
+
+	z = __webpack_require__(150);
+
+	Config = __webpack_require__(464);
+
+	AppBar = __webpack_require__(454);
+
+	config = __webpack_require__(360);
+
+	if (typeof window !== "undefined" && window !== null) {
+	  __webpack_require__(467);
+	}
+
+	module.exports = ConfigPage = (function() {
+	  function ConfigPage(arg) {
+	    var group, requests, serverData;
+	    this.model = arg.model, this.router = arg.router, requests = arg.requests, serverData = arg.serverData, group = arg.group;
+	    this.render = bind(this.render, this);
+	    this.$config = new Config({
+	      model: this.model,
+	      group: group,
+	      requests: requests
+	    });
+	    this.$appBar = new AppBar({
+	      model: this.model,
+	      router: this.router,
+	      group: group
+	    });
+	    this.state = z.state({
+	      me: this.model.user.getMe(),
+	      windowSize: this.model.window.getSize()
+	    });
+	  }
+
+	  ConfigPage.prototype.render = function() {
+	    var me, ref, windowSize;
+	    ref = this.state.getValue(), me = ref.me, windowSize = ref.windowSize;
+	    return z('.p-config', {
+	      style: {
+	        height: windowSize.height + "px"
+	      }
+	    }, z(this.$appBar, {
+	      title: this.model.l.get('general.config')
+	    }), this.$config);
+	  };
+
+	  return ConfigPage;
+
+	})();
+
+
+/***/ }),
+/* 464 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var Config, PrimaryButton, config, z,
+	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
+
+	z = __webpack_require__(150);
+
+	config = __webpack_require__(360);
+
+	PrimaryButton = __webpack_require__(424);
+
+	if (typeof window !== "undefined" && window !== null) {
+	  __webpack_require__(465);
+	}
+
+	module.exports = Config = (function() {
+	  function Config(arg) {
+	    var ref;
+	    ref = arg != null ? arg : {}, this.model = ref.model, this.router = ref.router;
+	    this.render = bind(this.render, this);
+	    this.$button = new PrimaryButton();
+	    this.state = z.state({
+	      me: this.model.user.getMe()
+	    });
+	  }
+
+	  Config.prototype.render = function() {
+	    var me;
+	    me = this.state.getValue().me;
+	    return z('.z-config', 'config', z(this.$button, {
+	      text: 'connect',
+	      onclick: (function(_this) {
+	        return function() {
+	          return null;
+	        };
+	      })(this)
+	    }));
+	  };
+
+	  return Config;
+
+	})();
+
+
+/***/ }),
+/* 465 */
+/***/ (function(module, exports) {
+
+	// removed by extract-text-webpack-plugin
+
+/***/ }),
+/* 466 */,
+/* 467 */
+/***/ (function(module, exports) {
+
+	// removed by extract-text-webpack-plugin
+
+/***/ }),
+/* 468 */,
+/* 469 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var AppBar, FortniteMap, ToolsPage, config, z,
+	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
+
+	z = __webpack_require__(150);
+
+	FortniteMap = __webpack_require__(470);
+
+	AppBar = __webpack_require__(454);
+
+	config = __webpack_require__(360);
+
+	if (typeof window !== "undefined" && window !== null) {
+	  __webpack_require__(477);
+	}
+
+	module.exports = ToolsPage = (function() {
+	  ToolsPage.hasBottomBar = true;
+
+	  function ToolsPage(arg) {
+	    var group, requests, serverData;
+	    this.model = arg.model, this.router = arg.router, requests = arg.requests, serverData = arg.serverData, group = arg.group, this.$bottomBar = arg.$bottomBar;
+	    this.render = bind(this.render, this);
+	    this.$fortniteMap = new FortniteMap({
+	      model: this.model,
+	      group: group,
+	      requests: requests
+	    });
+	    this.$appBar = new AppBar({
+	      model: this.model,
+	      router: this.router,
+	      group: group
+	    });
+	    this.state = z.state({
+	      me: this.model.user.getMe(),
+	      windowSize: this.model.window.getSize()
+	    });
+	  }
+
+	  ToolsPage.prototype.render = function() {
+	    var me, ref, windowSize;
+	    ref = this.state.getValue(), me = ref.me, windowSize = ref.windowSize;
+	    return z('.p-tools', {
+	      style: {
+	        height: windowSize.height + "px"
+	      }
+	    }, z(this.$appBar, {
+	      title: this.model.l.get('general.tools')
+	    }), this.$fortniteMap, this.$bottomBar);
+	  };
+
+	  return ToolsPage;
+
+	})();
+
+
+/***/ }),
+/* 470 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var FortniteMap, HeatMapWidget, Icon, RxBehaviorSubject, RxObservable, RxReplaySubject, _map, colors, z,
+	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; },
+	  slice = [].slice;
+
+	z = __webpack_require__(150);
+
+	_map = __webpack_require__(26);
+
+	RxBehaviorSubject = __webpack_require__(289).BehaviorSubject;
+
+	RxReplaySubject = __webpack_require__(392).ReplaySubject;
+
+	RxObservable = __webpack_require__(291).Observable;
+
+	HeatMapWidget = __webpack_require__(471);
+
+	Icon = __webpack_require__(410);
+
+	colors = __webpack_require__(376);
+
+	if (typeof window !== "undefined" && window !== null) {
+	  __webpack_require__(475);
 	}
 
 	module.exports = FortniteMap = (function() {
 	  function FortniteMap(arg) {
-	    var dimensions, group, path, requests;
+	    var group, path, requests, windowSizeAndAfterMountObs;
 	    this.model = arg.model, group = arg.group, requests = arg.requests;
 	    this.render = bind(this.render, this);
 	    this.afterMount = bind(this.afterMount, this);
-	    dimensions = this.model.window.getSize().map(function(windowSize) {
-	      var size;
-	      size = Math.min(windowSize.width, windowSize.height);
-	      return {
-	        width: size,
-	        height: size
-	      };
+	    this.afterMountObs = new RxBehaviorSubject(null);
+	    windowSizeAndAfterMountObs = RxObservable.combineLatest(this.model.window.getSize(), this.afterMountObs, function() {
+	      var vals;
+	      vals = 1 <= arguments.length ? slice.call(arguments, 0) : [];
+	      return vals;
 	    });
+	    this.dimensions = windowSizeAndAfterMountObs.map((function(_this) {
+	      return function(arg1) {
+	        var afterMountObs, boundingRect, height, ref, size, width, windowSize;
+	        windowSize = arg1[0], afterMountObs = arg1[1];
+	        boundingRect = (ref = _this.$$el) != null ? ref.getBoundingClientRect() : void 0;
+	        width = (boundingRect != null ? boundingRect.width : void 0) || windowSize.width;
+	        height = (boundingRect != null ? boundingRect.height : void 0) || windowSize.height;
+	        size = Math.min(width, height);
+	        return {
+	          width: size,
+	          height: size
+	        };
+	      };
+	    })(this));
 	    this.$heatMap = new HeatMapWidget({
-	      dimensions: dimensions
+	      dimensions: this.dimensions
 	    });
 	    this.$refreshIcon = new Icon();
+	    this.$pinIcon = new Icon();
 	    this.votes = new RxReplaySubject(1);
 	    this.poll = group.switchMap((function(_this) {
 	      return function(group) {
@@ -23350,22 +24827,33 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    });
 	    this.state = z.state({
 	      me: this.model.user.getMe(),
-	      dimensions: dimensions,
+	      dimensions: this.dimensions,
 	      poll: this.poll,
+	      group: group,
 	      votes: this.votes["switch"](),
+	      myPin: null,
 	      path: path
 	    });
 	  }
 
-	  FortniteMap.prototype.afterMount = function() {
-	    var dimensions;
-	    dimensions = this.state.getValue().dimensions;
+	  FortniteMap.prototype.afterMount = function($$el) {
+	    this.$$el = $$el;
 	    return this.votes.next(this.poll.switchMap((function(_this) {
 	      return function(poll) {
-	        return _this.model.poll.getAllVotesById(poll.id).map(function(votes) {
-	          _this.$heatMap.setDataPoints(_map(votes, function(arg) {
+	        var dimensionsAndVotes, ref, votes;
+	        if (!poll) {
+	          return;
+	        }
+	        _this.$heatMap.setMax((ref = poll.data) != null ? ref.heatMapMax : void 0);
+	        _this.afterMountObs.next(null);
+	        votes = _this.model.poll.getAllVotesById(poll.id);
+	        dimensionsAndVotes = RxObservable.combineLatest(_this.dimensions, votes);
+	        return dimensionsAndVotes.map(function(arg) {
+	          var dimensions, votes;
+	          dimensions = arg[0], votes = arg[1];
+	          _this.$heatMap.setDataPoints(_map(votes, function(arg1) {
 	            var value;
-	            value = arg.value;
+	            value = arg1.value;
 	            return [value[0] * (dimensions != null ? dimensions.width : void 0), value[1] * (dimensions != null ? dimensions.height : void 0), value[2]];
 	          }));
 	          return votes;
@@ -23375,14 +24863,26 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	  };
 
 	  FortniteMap.prototype.render = function() {
-	    var dimensions, me, path, poll, ref, votes;
-	    ref = this.state.getValue(), me = ref.me, dimensions = ref.dimensions, votes = ref.votes, poll = ref.poll, path = ref.path;
+	    var dimensions, group, hasResetPermission, me, meGroupUser, myPin, path, pinSize, poll, ref, votes;
+	    ref = this.state.getValue(), me = ref.me, dimensions = ref.dimensions, votes = ref.votes, poll = ref.poll, path = ref.path, myPin = ref.myPin, group = ref.group;
+	    meGroupUser = group != null ? group.meGroupUser : void 0;
+	    pinSize = parseInt((dimensions != null ? dimensions.width : void 0) / 30);
+	    hasResetPermission = this.model.groupUser.hasPermission({
+	      me: me,
+	      meGroupUser: meGroupUser,
+	      permissions: ['deleteMessage']
+	    });
 	    return z('.z-fortnite-map', z('.map', {
 	      onclick: (function(_this) {
 	        return function(e) {
-	          var ref1, ref2, ref3, ref4, x, y;
-	          x = (e.clientX || ((ref1 = e.touches) != null ? (ref2 = ref1[0]) != null ? ref2.clientX : void 0 : void 0)) / (dimensions != null ? dimensions.width : void 0);
-	          y = (e.clientY || ((ref3 = e.touches) != null ? (ref4 = ref3[0]) != null ? ref4.clientY : void 0 : void 0)) / (dimensions != null ? dimensions.height : void 0);
+	          var offsetLeft, offsetTop, ref1, ref2, ref3, ref4, x, y;
+	          offsetTop = e.target.getBoundingClientRect().y;
+	          offsetLeft = e.target.getBoundingClientRect().x;
+	          x = ((e.clientX || ((ref1 = e.touches) != null ? (ref2 = ref1[0]) != null ? ref2.clientX : void 0 : void 0)) - offsetLeft) / (dimensions != null ? dimensions.width : void 0);
+	          y = ((e.clientY || ((ref3 = e.touches) != null ? (ref4 = ref3[0]) != null ? ref4.clientY : void 0 : void 0)) - offsetTop) / (dimensions != null ? dimensions.height : void 0);
+	          _this.state.set({
+	            myPin: [x, y]
+	          });
 	          return _this.model.poll.voteById(poll.id, {
 	            value: [x, y, 1]
 	          });
@@ -23392,7 +24892,17 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	        width: (dimensions != null ? dimensions.width : void 0) + "px",
 	        height: (dimensions != null ? dimensions.height : void 0) + "px"
 	      }
-	    }, z(this.$heatMap), path && path.indexOf('/live-config.html') !== -1 ? z('.reset-icon', z(this.$refreshIcon, {
+	    }, z(this.$heatMap), myPin ? z('.pin', {
+	      style: {
+	        left: (myPin[0] * (dimensions != null ? dimensions.width : void 0) - pinSize / 2) + "px",
+	        top: (myPin[1] * (dimensions != null ? dimensions.height : void 0) - pinSize / 1.1) + "px"
+	      }
+	    }, z(this.$pinIcon, {
+	      icon: 'pin',
+	      isTouchTarget: false,
+	      color: colors.$white,
+	      size: pinSize + "px"
+	    })) : void 0, hasResetPermission ? z('.reset-icon', z(this.$refreshIcon, {
 	      icon: 'refresh',
 	      color: colors.$white,
 	      onclick: (function(_this) {
@@ -23412,18 +24922,22 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 426 */
+/* 471 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var HeatMapWidget, simpleheat, z,
+	var DEFAULT_MAX, HeatMapWidget, colors, simpleheat, z,
 	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
 
-	z = __webpack_require__(148);
+	z = __webpack_require__(150);
+
+	colors = __webpack_require__(376);
 
 	if (typeof window !== "undefined" && window !== null) {
-	  simpleheat = __webpack_require__(427);
-	  __webpack_require__(428);
+	  simpleheat = __webpack_require__(472);
+	  __webpack_require__(473);
 	}
+
+	DEFAULT_MAX = 2;
 
 	module.exports = HeatMapWidget = (function() {
 	  HeatMapWidget.prototype.type = 'Widget';
@@ -23432,6 +24946,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    this.dimensions = arg.dimensions;
 	    this.render = bind(this.render, this);
 	    this.setDataPoints = bind(this.setDataPoints, this);
+	    this.setMax = bind(this.setMax, this);
 	    this.afterMount = bind(this.afterMount, this);
 	    this.state = z.state({
 	      dimensions: this.dimensions
@@ -23440,6 +24955,13 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 	  HeatMapWidget.prototype.afterMount = function($$el) {
 	    this.heat = simpleheat($$el);
+	    this.heat.gradient({
+	      0.4: colors.getByGroupKey('nickatnyte', '--tertiary-900'),
+	      0.6: colors.getByGroupKey('nickatnyte', '--tertiary-700'),
+	      0.7: colors.getByGroupKey('nickatnyte', '--tertiary-500'),
+	      0.8: colors.getByGroupKey('nickatnyte', '--primary-300'),
+	      1.0: colors.getByGroupKey('nickatnyte', '--primary-500')
+	    });
 	    return this.dimensions.subscribe((function(_this) {
 	      return function(dimensions) {
 	        _this.heat.radius((dimensions != null ? dimensions.width : void 0) * 0.03, (dimensions != null ? dimensions.width : void 0) * 0.02);
@@ -23450,15 +24972,17 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    })(this));
 	  };
 
+	  HeatMapWidget.prototype.setMax = function(max) {
+	    var ref;
+	    return (ref = this.heat) != null ? ref.max(max || DEFAULT_MAX) : void 0;
+	  };
+
 	  HeatMapWidget.prototype.setDataPoints = function(data) {
-	    var ref, ref1, ref2;
+	    var ref, ref1;
 	    if ((ref = this.heat) != null) {
-	      ref.max(data.length / 10);
+	      ref.data(data);
 	    }
-	    if ((ref1 = this.heat) != null) {
-	      ref1.data(data);
-	    }
-	    return (ref2 = this.heat) != null ? ref2.draw() : void 0;
+	    return (ref1 = this.heat) != null ? ref1.draw() : void 0;
 	  };
 
 	  HeatMapWidget.prototype.render = function() {
@@ -23480,7 +25004,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 427 */
+/* 472 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	'use strict';
@@ -23628,408 +25152,94 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 428 */
+/* 473 */
 /***/ (function(module, exports) {
 
 	// removed by extract-text-webpack-plugin
 
 /***/ }),
-/* 429 */,
-/* 430 */
+/* 474 */,
+/* 475 */
+/***/ (function(module, exports) {
+
+	// removed by extract-text-webpack-plugin
+
+/***/ }),
+/* 476 */,
+/* 477 */
+/***/ (function(module, exports) {
+
+	// removed by extract-text-webpack-plugin
+
+/***/ }),
+/* 478 */,
+/* 479 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var Icon, Ripple, icons, z,
+	var Auth, Cookie, EarnAction, EarnAlert, Exoid, Group, GroupRole, GroupUser, Language, Model, Player, Poll, RxBehaviorSubject, SERIALIZATION_EXPIRE_TIME_MS, SERIALIZATION_KEY, Time, TwitchSignInOverlay, User, UserItem, Window, _defaults, _isEmpty, _isPlainObject, _merge, _pick, config, request,
 	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
 
-	z = __webpack_require__(148);
+	Exoid = __webpack_require__(480);
 
-	icons = __webpack_require__(431);
-
-	Ripple = __webpack_require__(432);
-
-	if (typeof window !== "undefined" && window !== null) {
-	  __webpack_require__(435);
-	}
-
-	module.exports = Icon = (function() {
-	  function Icon() {
-	    this.render = bind(this.render, this);
-	  }
-
-	  Icon.prototype.render = function(options) {
-	    var color, flipX, hasRipple, heightRatio, icon, isAlignedBottom, isAlignedLeft, isAlignedRight, isAlignedTop, isClickable, isTouchTarget, onclick, size, tag, touchHeight, touchWidth, viewBox;
-	    icon = options.icon, size = options.size, isAlignedTop = options.isAlignedTop, isAlignedLeft = options.isAlignedLeft, isAlignedRight = options.isAlignedRight, isAlignedBottom = options.isAlignedBottom, isTouchTarget = options.isTouchTarget, color = options.color, onclick = options.onclick, flipX = options.flipX, viewBox = options.viewBox, heightRatio = options.heightRatio, hasRipple = options.hasRipple, touchHeight = options.touchHeight, touchWidth = options.touchWidth;
-	    if (size == null) {
-	      size = '24px';
-	    }
-	    if (viewBox == null) {
-	      viewBox = 24;
-	    }
-	    if (heightRatio == null) {
-	      heightRatio = 1;
-	    }
-	    if (isTouchTarget == null) {
-	      isTouchTarget = true;
-	    }
-	    if (touchWidth == null) {
-	      touchWidth = '48px';
-	    }
-	    if (touchHeight == null) {
-	      touchHeight = '48px';
-	    }
-	    isClickable = Boolean(onclick);
-	    tag = hasRipple ? 'a' : 'div';
-	    return z(tag + ".z-icon", {
-	      className: z.classKebab({
-	        isAlignedTop: isAlignedTop,
-	        isAlignedLeft: isAlignedLeft,
-	        isAlignedRight: isAlignedRight,
-	        isAlignedBottom: isAlignedBottom,
-	        isTouchTarget: isTouchTarget,
-	        isClickable: isClickable,
-	        hasRipple: hasRipple
-	      }),
-	      attributes: hasRipple ? {
-	        tabindex: 0
-	      } : {},
-	      onclick: onclick,
-	      style: {
-	        minWidth: isTouchTarget ? touchWidth : '100%',
-	        minHeight: isTouchTarget ? touchHeight : '100%',
-	        width: size,
-	        height: (size != null ? typeof size.indexOf === "function" ? size.indexOf('%') : void 0 : void 0) !== -1 ? (parseInt(size) * heightRatio) + "%" : (parseInt(size) * heightRatio) + "px"
-	      }
-	    }, z('svg', {
-	      namespace: 'http://www.w3.org/2000/svg',
-	      attributes: {
-	        'viewBox': "0 0 " + viewBox + " " + (viewBox * heightRatio)
-	      },
-	      style: {
-	        width: size,
-	        height: (size != null ? typeof size.indexOf === "function" ? size.indexOf('%') : void 0 : void 0) !== -1 ? (parseInt(size) * heightRatio) + "%" : (parseInt(size) * heightRatio) + "px"
-	      }
-	    }, z('path', {
-	      namespace: 'http://www.w3.org/2000/svg',
-	      attributes: {
-	        d: icons[icon],
-	        fill: color,
-	        'fill-rule': 'evenodd',
-	        transform: flipX ? 'translate(12, 12) scale(-1, 1) translate(-12, -12)' : 'scale(1, 1)'
-	      }
-	    })));
-	  };
-
-	  return Icon;
-
-	})();
-
-
-/***/ }),
-/* 431 */
-/***/ (function(module, exports) {
-
-	module.exports = {
-	  'add': 'M19,13 L13,13 L13,19 L11,19 L11,13 L5,13 L5,11 L11,11 L11,5 L13,5 L13,11 L19,11 L19,13 L19,13 Z',
-	  'add-circle': 'M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z',
-	  'add-friend': 'M15 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm-9-2V7H4v3H1v2h3v3h2v-3h3v-2H6zm9 4c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z',
-	  'arrow-down': 'M9,4H15V12H19.84L12,19.84L4.16,12H9V4Z',
-	  'back': 'M20,11 L7.83,11 L13.42,5.41 L12,4 L4,12 L12,20 L13.41,18.59 L7.83,13 L20,13 L20,11 L20,11 Z',
-	  'block': 'M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zM4 12c0-4.42 3.58-8 8-8 1.85 0 3.55.63 4.9 1.69L5.69 16.9C4.63 15.55 4 13.85 4 12zm8 8c-1.85 0-3.55-.63-4.9-1.69L18.31 7.1C19.37 8.45 20 10.15 20 12c0 4.42-3.58 8-8 8z',
-	  'bold': 'M15.6 10.79c.97-.67 1.65-1.77 1.65-2.79 0-2.26-1.75-4-4-4H7v14h7.04c2.09 0 3.71-1.7 3.71-3.79 0-1.52-.86-2.82-2.15-3.42zM10 6.5h3c.83 0 1.5.67 1.5 1.5s-.67 1.5-1.5 1.5h-3v-3zm3.5 9H10v-3h3.5c.83 0 1.5.67 1.5 1.5s-.67 1.5-1.5 1.5z',
-	  'bullet-list': 'M4 10.5c-.83 0-1.5.67-1.5 1.5s.67 1.5 1.5 1.5 1.5-.67 1.5-1.5-.67-1.5-1.5-1.5zm0-6c-.83 0-1.5.67-1.5 1.5S3.17 7.5 4 7.5 5.5 6.83 5.5 6 4.83 4.5 4 4.5zm0 12c-.83 0-1.5.68-1.5 1.5s.68 1.5 1.5 1.5 1.5-.68 1.5-1.5-.67-1.5-1.5-1.5zM7 19h14v-2H7v2zm0-6h14v-2H7v2zm0-8v2h14V5H7z',
-	  'camera': 'M9 3L7.17 5H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2h-3.17L15 3H9zm3 15c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-1.8a3.2 3.2 0 1 0 0-6.4 3.2 3.2 0 0 0 0 6.4z',
-	  'cards': 'M21.65 4.1l-1.34-.56v9.03l2.43-5.86c.41-1.02-.08-2.19-1.09-2.61zM2.15 7.8l4.96 11.97c.31.75 1.04 1.21 1.81 1.23.26 0 .53-.04.79-.15l7.37-3.05c.75-.31 1.21-1.03 1.23-1.8.01-.27-.04-.54-.15-.8L13.2 3.23c-.31-.76-1.05-1.22-1.83-1.23-.26 0-.52.05-.77.15L3.24 5.2c-1.02.42-1.51 1.59-1.09 2.6zM18.3 4c0-1.1-.9-2-2-2h-1.45l3.45 8.34V4z',
-	  'caret-left': 'M9.41,6 L8,7.41 L12.58,12 L8,16.59 L9.41,18 L15.41,12 L9.41,6 Z',
-	  'caret-right': 'M9.41,6 L8,7.41 L12.58,12 L8,16.59 L9.41,18 L15.41,12 L9.41,6 Z',
-	  'castle': 'M18 10h4v12h-5c0-5-5-7-5-7s-5 2-5 7H2V10h4v3h2V8h8v5h2v-3zm-4 3v-2c0-1.1-.9-2-2-2s-2 .9-2 2v2h4zm2-6H8l4-5 4 5zm6 2h-4l2-4 2 4zM6 9H2l2-4 2 4z',
-	  'channels': 'M3,5A2,2 0 0,1 5,3H19A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5C3.89,21 3,20.1 3,19V5M7,18H9L9.35,16H13.35L13,18H15L15.35,16H17.35L17.71,14H15.71L16.41,10H18.41L18.76,8H16.76L17.12,6H15.12L14.76,8H10.76L11.12,6H9.12L8.76,8H6.76L6.41,10H8.41L7.71,14H5.71L5.35,16H7.35L7,18M10.41,10H14.41L13.71,14H9.71L10.41,10Z',
-	  'chat': 'M21 6h-2v9H6v2c0 .55.45 1 1 1h11l4 4V7c0-.55-.45-1-1-1zm-4 6V3c0-.55-.45-1-1-1H3c-.55 0-1 .45-1 1v14l4-4h10c.55 0 1-.45 1-1z',
-	  'chat-bubble': 'M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zM6 9h12v2H6V9zm8 5H6v-2h8v2zm4-6H6V6h12v2z',
-	  'check': 'M8.6,15.6 L4.4,11.4 L3,12.8 L8.6,18.4 L20.6,6.4 L19.2,5 L8.6,15.6 L8.6,15.6 Z',
-	  'chevron-up': 'M7.41,15.41L12,10.83L16.59,15.41L18,14L12,8L6,14L7.41,15.41Z',
-	  'chevron-down': 'M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z',
-	  'chevron-right': 'M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z',
-	  'clan': 'M3 5.999A.999.999 0 0 1 4.01 5H7l5-3 5 3h2.99c.558 0 1.01.447 1.01.999V17c0 .552-.41 1.181-.912 1.405L12 22l-8.088-3.594C3.41 18.182 3 17.553 3 17V6z',
-	  'close': 'M19,6.41 L17.59,5 L12,10.59 L6.41,5 L5,6.41 L10.59,12 L5,17.59 L6.41,19 L12,13.41 L17.59,19 L19,17.59 L13.41,12 L19,6.41 Z',
-	  'comment': 'M21.99 4c0-1.1-.89-2-1.99-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h14l4 4-.01-18zM18 14H6v-2h12v2zm0-3H6V9h12v2zm0-3H6V6h12v2z',
-	  'compass': 'M12 10.9c-.61 0-1.1.49-1.1 1.1s.49 1.1 1.1 1.1c.61 0 1.1-.49 1.1-1.1s-.49-1.1-1.1-1.1zM12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm2.19 12.19L6 18l3.81-8.19L18 6l-3.81 8.19z',
-	  'copy': 'M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z',
-	  'crown': 'M4.222 16.467L2 4l6.111 7.933L12 4l3.889 7.933L22 4l-2.222 12.467H4.222zm15.556 3.4c0 .626-.498 1.133-1.111 1.133H5.333a1.122 1.122 0 0 1-1.11-1.133v-1.134h15.555v1.134z',
-	  'date': 'M19 3h-1V1h-2v2H8V1H6v2H5c-1.11 0-1.99.9-1.99 2L3 19c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V8h14v11zM7 10h5v5H7z',
-	  'decks': 'M4 11h5V5H4v6zm0 7h5v-6H4v6zm6 0h5v-6h-5v6zm6 0h5v-6h-5v6zm-6-7h5V5h-5v6zm6-6v6h5V5h-5z',
-	  'delete': 'M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z',
-	  'dev': 'M0 7.009C0 5.899.89 5 1.991 5H20.01C21.109 5 22 5.902 22 7.009v7.982c0 1.11-.89 2.009-1.991 2.009H1.99C.891 17 0 16.098 0 14.991V7.01zM7.896 11c0-.28-.005-.491-.017-.634-.045-.749-.278-1.33-.698-1.745C6.76 8.207 6.145 8 5.333 8H3.23a.22.22 0 0 0-.162.069A.223.223 0 0 0 3 8.23v5.538c0 .062.023.117.068.162A.22.22 0 0 0 3.23 14h2.146c.794 0 1.4-.207 1.813-.621.415-.415.645-.996.69-1.745.012-.143.017-.354.017-.634zM4.15 9.071h1.14c.466 0 .817.118 1.052.352.236.234.365.548.388.943.011.143.017.354.017.634s-.006.491-.017.634c-.023.395-.15.709-.38.943-.23.234-.568.352-1.017.352H4.15V9.07zm5.994 2.435h2.563a.22.22 0 0 0 .162-.069.223.223 0 0 0 .068-.163v-.608a.223.223 0 0 0-.068-.163.22.22 0 0 0-.162-.069h-2.563V9.071h2.75a.22.22 0 0 0 .162-.068.223.223 0 0 0 .069-.163v-.609a.223.223 0 0 0-.069-.162.22.22 0 0 0-.161-.069h-3.67a.22.22 0 0 0-.162.069.223.223 0 0 0-.068.162v5.538c0 .062.022.117.068.162a.22.22 0 0 0 .162.069h3.738a.22.22 0 0 0 .162-.069.223.223 0 0 0 .068-.162v-.609a.223.223 0 0 0-.068-.163.22.22 0 0 0-.162-.068h-2.819v-1.423zm7.698-3.292l-1.43 4.089-1.431-4.089C14.93 8.071 14.836 8 14.7 8h-.647a.22.22 0 0 0-.162.069.223.223 0 0 0-.051.248l1.907 5.392a.539.539 0 0 0 .124.222.28.28 0 0 0 .2.069h.681a.28.28 0 0 0 .2-.069.539.539 0 0 0 .124-.222l1.907-5.392a.223.223 0 0 0-.051-.249A.22.22 0 0 0 18.77 8h-.647c-.136 0-.23.071-.281.214z',
-	  'developers': 'M14.6,16.6L19.2,12L14.6,7.4L16,6L22,12L16,18L14.6,16.6M9.4,16.6L4.8,12L9.4,7.4L8,6L2,12L8,18L9.4,16.6Z',
-	  'downvote': 'M22 10.8h-7.5V4h-5v6.8H2L12 21z',
-	  'drop': 'M12,22 C8.13833333,22 5,18.797619 5,14.8571429 C5,10.0952381 12,2 12,2 C12,2 19,10.0952381 19,14.8571429 C19,18.797619 15.8616667,22 12,22 L12,22 Z',
-	  'edit': 'M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34c-.39-.39-1.02-.39-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z',
-	  'ellipsis': 'M6 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm12 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm-6 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z',
-	  'expand-more': 'M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z',
-	  'expand-less': 'M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z',
-	  'eye': 'M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z',
-	  'external-link': 'M19 4H5c-1.11 0-2 .9-2 2v12c0 1.1.89 2 2 2h4v-2H5V8h14v10h-4v2h4c1.1 0 2-.9 2-2V6c0-1.1-.89-2-2-2zm-7 6l-4 4h3v6h2v-6h3l-4-4z',
-	  'facebook': 'M20.897 2H3.104C2.494 2 2 2.494 2 3.104v17.792C2 21.506 2.494 22 3.104 22h9.58v-7.745h-2.607v-3.02h2.606V9.012c0-2.582 1.577-3.99 3.883-3.99.777-.002 1.555.038 2.33.12v2.697h-1.6c-1.253 0-1.5.596-1.5 1.47v1.927h2.99l-.388 3.02H15.8V22h5.096c.61 0 1.104-.494 1.104-1.104V3.104C22 2.494 21.506 2 20.897 2z',
-	  'filter': 'M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z',
-	  'fire': 'M11.71,19C9.93,19 8.5,17.59 8.5,15.86C8.5,14.24 9.53,13.1 11.3,12.74C13.07,12.38 14.9,11.53 15.92,10.16C16.31,11.45 16.5,12.81 16.5,14.2C16.5,16.84 14.36,19 11.71,19M13.5,0.67C13.5,0.67 14.24,3.32 14.24,5.47C14.24,7.53 12.89,9.2 10.83,9.2C8.76,9.2 7.2,7.53 7.2,5.47L7.23,5.1C5.21,7.5 4,10.61 4,14A8,8 0 0,0 12,22A8,8 0 0,0 20,14C20,8.6 17.41,3.8 13.5,0.67Z',
-	  'friends': 'M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z',
-	  'gem': 'M16,9 L19,9 L14,16 L16,9 Z M10,9 L14,9 L12,17 L10,9 Z M5,9 L8,9 L10,16 L5,9 Z M15,4 L17,4 L19,7 L16,7 L15,4 Z M11,4 L13,4 L14,7 L10,7 L11,4 Z M7,4 L9,4 L8,7 L5,7 L7,4 Z M6,2 L2,8 L12,22 L22,8 L18,2 L6,2 L6,2 Z',
-	  'get': 'M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2m7 14l5-5h-3V8h-4v4H7l5 5z',
-	  'gifs': 'm10.99281,7.25766l2.26973,0l0,9.07894l-2.26973,0l0,-9.07894zm-3.78289,0l-4.53947,0c-0.90789,0 -1.51316,0.75658 -1.51316,1.51316l0,6.05262c0,0.75658 0.60526,1.51316 1.51316,1.51316l4.53947,0c0.90789,0 1.51316,-0.75658 1.51316,-1.51316l0,-3.02631l-2.26973,0l0,2.26973l-3.02631,0l0,-4.53947l5.29605,0l0,-0.75658c0,-0.75658 -0.60526,-1.51316 -1.51316,-1.51316zm15.13156,2.26973l0,-2.26973l-6.8092,0l0,9.07894l2.26973,0l0,-3.02631l3.02631,0l0,-2.26973l-3.02631,0l0,-1.51316l4.53947,0z',
-	  'globe': 'M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z',
-	  'grid': 'M13 13v8h8v-8h-8zM3 21h8v-8H3v8zM3 3v8h8V3H3zm10 0v8h8V3h-8',
-	  'hashtag': 'M3,5A2,2 0 0,1 5,3H19A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5C3.89,21 3,20.1 3,19V5M7,18H9L9.35,16H13.35L13,18H15L15.35,16H17.35L17.71,14H15.71L16.41,10H18.41L18.76,8H16.76L17.12,6H15.12L14.76,8H10.76L11.12,6H9.12L8.76,8H6.76L6.41,10H8.41L7.71,14H5.71L5.35,16H7.35L7,18M10.41,10H14.41L13.71,14H9.71L10.41,10Z',
-	  'heart': 'M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z',
-	  'help': 'M11 18h2v-2h-2v2zm1-16C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm0-14c-2.21 0-4 1.79-4 4h2c0-1.1.9-2 2-2s2 .9 2 2c0 2-3 1.75-3 5h2c0-2.25 3-2.5 3-5 0-2.21-1.79-4-4-4z',
-	  'home': 'M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z',
-	  'history': 'M13 3c-4.97 0-9 4.03-9 9H1l3.89 3.89.07.14L9 12H6c0-3.87 3.13-7 7-7s7 3.13 7 7-3.13 7-7 7c-1.93 0-3.68-.79-4.94-2.06l-1.42 1.42C8.27 19.99 10.51 21 13 21c4.97 0 9-4.03 9-9s-4.03-9-9-9zm-1 5v5l4.28 2.54.72-1.21-3.5-2.08V8H12z',
-	  'image': 'M21 19V5c0-1.1-.9-2-2-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2zM8.5 13.5l2.5 3.01L14.5 12l4.5 6H5l3.5-4.5z',
-	  'inbox': 'M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z',
-	  'info': 'M11 17h2v-6h-2v6zm1-15C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zM11 9h2V7h-2v2z',
-	  'ip-ban': 'M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11H7v-2h10v2z',
-	  'italic': 'M10 4v3h2.21l-3.42 8H6v3h8v-3h-2.21l3.42-8H18V4z',
-	  'leave': 'M10.09 15.59L11.5 17l5-5-5-5-1.41 1.41L12.67 11H3v2h9.67l-2.58 2.59zM19 3H5c-1.11 0-2 .9-2 2v4h2V5h14v14H5v-4H3v4c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z',
-	  'level': 'M12 20.58l-3.4 1.882-1.643-3.52-3.856-.476.739-3.815L1 12l2.84-2.651-.74-3.815 3.857-.475L8.6 1.539 12 3.42l3.4-1.882 1.643 3.52 3.856.476-.739 3.815L23 12l-2.84 2.651.74 3.815-3.857.475-1.644 3.52z',
-	  'location': 'M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z',
-	  'lock-outline': 'M12 17c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm6-9h-1V6c0-2.76-2.24-5-5-5S7 3.24 7 6v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zM8.9 6c0-1.71 1.39-3.1 3.1-3.1s3.1 1.39 3.1 3.1v2H8.9V6zM18 20H6V10h12v10z',
-	  'lock-small': 'M22 22V12h-2.5V9.5a7.5 7.5 0 0 0-15 0V12H2v10h20zM12 7a2.5 2.5 0 0 1 2.5 2.5V12h-5V9.5A2.5 2.5 0 0 1 12 7z',
-	  'menu': 'M3,18 L21,18 L21,16 L3,16 L3,18 L3,18 Z M3,13 L21,13 L21,11 L3,11 L3,13 L3,13 Z M3,6 L3,8 L21,8 L21,6 L3,6 L3,6 Z',
-	  'mod': 'M0 7.009C0 5.899.89 5 1.991 5H20.01C21.109 5 22 5.902 22 7.009v7.982c0 1.11-.89 2.009-1.991 2.009H1.99C.891 17 0 16.098 0 14.991V7.01zm6.728 1.3l-1.551 2.75-1.55-2.75a1.076 1.076 0 0 0-.144-.163c-.046-.042-.115-.063-.208-.063H2.72a.21.21 0 0 0-.155.067.219.219 0 0 0-.065.158v5.384c0 .06.022.114.065.158a.21.21 0 0 0 .155.067h.661a.21.21 0 0 0 .155-.067.219.219 0 0 0 .066-.158v-3.259l1.06 1.875c.088.14.188.209.303.209h.424c.114 0 .215-.07.302-.209l1.061-1.875v3.259c0 .06.022.114.065.158a.21.21 0 0 0 .155.067h.661a.21.21 0 0 0 .156-.067.219.219 0 0 0 .065-.158V8.308a.219.219 0 0 0-.065-.158.21.21 0 0 0-.156-.067h-.555c-.092 0-.161.021-.208.063a1.076 1.076 0 0 0-.142.162zm6.35.316C12.673 8.208 12.091 8 11.33 8c-.762 0-1.344.21-1.747.63-.403.419-.62.962-.653 1.628a15.942 15.942 0 0 0 0 1.492c.033.667.25 1.208.653 1.625.403.417.985.625 1.747.625.761 0 1.343-.208 1.746-.625.403-.417.62-.958.653-1.625a15.942 15.942 0 0 0 0-1.492c-.033-.672-.25-1.216-.653-1.633zm-2.666.75c.232-.222.538-.333.919-.333.38 0 .686.11.918.333.23.222.357.53.38.925.01.139.016.372.016.7 0 .333-.006.57-.017.708-.022.395-.148.702-.38.921-.23.22-.537.33-.917.33-.381 0-.687-.11-.919-.33-.23-.22-.357-.526-.38-.92-.01-.278-.015-.515-.015-.709 0-.189.005-.422.016-.7.022-.394.148-.703.38-.925zM19.5 11c0-.272-.005-.478-.016-.617-.044-.727-.267-1.293-.67-1.695-.402-.403-.993-.605-1.77-.605h-2.016a.21.21 0 0 0-.155.067.219.219 0 0 0-.066.158v5.384c0 .06.022.114.066.158a.21.21 0 0 0 .155.067h2.056c.762 0 1.341-.202 1.739-.604.397-.403.617-.969.66-1.696.012-.14.017-.345.017-.617zm-3.591-1.875h1.094c.446 0 .782.114 1.008.342.225.227.35.533.37.916.012.14.017.345.017.617s-.005.478-.016.617c-.022.383-.143.689-.363.916-.22.228-.546.342-.976.342H15.91v-3.75z',
-	  'notes': 'M19 3h-4.18C14.4 1.84 13.3 1 12 1c-1.3 0-2.4.84-2.82 2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-7 0c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zm2 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z',
-	  'notifications': 'M12 22c1.1 0 2-.9 2-2h-4c0 1.1.89 2 2 2zm6-6v-5c0-3.07-1.64-5.64-4.5-6.32V4c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v.68C7.63 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2z',
-	  'overflow': 'M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z',
-	  'pc': 'M21,14H3V4H21M21,2H3C1.89,2 1,2.89 1,4V16A2,2 0 0,0 3,18H10L8,21V22H16V21L14,18H21A2,2 0 0,0 23,16V4C23,2.89 22.1,2 21,2Z',
-	  'pending': 'M11.99,2 C6.47,2 2,6.48 2,12 C2,17.52 6.47,22 11.99,22 C17.52,22 22,17.52 22,12 C22,6.48 17.52,2 11.99,2 L11.99,2 Z M12,20 C7.58,20 4,16.42 4,12 C4,7.58 7.58,4 12,4 C16.42,4 20,7.58 20,12 C20,16.42 16.42,20 12,20 L12,20 Z M12.5,7 L11,7 L11,13 L16.25,16.15 L17,14.92 L12.5,12.25 L12.5,7 Z',
-	  'perma-ban': 'M8.27,3L3,8.27V15.73L8.27,21H15.73L21,15.73V8.27L15.73,3M8.41,7L12,10.59L15.59,7L17,8.41L13.41,12L17,15.59L15.59,17L12,13.41L8.41,17L7,15.59L10.59,12L7,8.41',
-	  'pin': 'M16,12V4H17V2H7V4H8V12L6,14V16H11.2V22H12.8V16H18V14L16,12Z',
-	  'pin-off': 'M2,5.27L3.28,4L20,20.72L18.73,22L12.8,16.07V22H11.2V16H6V14L8,12V11.27L2,5.27M16,12L18,14V16H17.82L8,6.18V4H7V2H17V4H16V12Z',
-	  'playstation': 'M9.5,4.27C10.88,4.53 12.9,5.14 14,5.5C16.75,6.45 17.69,7.63 17.69,10.29C17.69,12.89 16.09,13.87 14.05,12.89V8.05C14.05,7.5 13.95,6.97 13.41,6.82C13,6.69 12.76,7.07 12.76,7.63V19.73L9.5,18.69V4.27M13.37,17.62L18.62,15.75C19.22,15.54 19.31,15.24 18.83,15.08C18.34,14.92 17.47,14.97 16.87,15.18L13.37,16.41V14.45L13.58,14.38C13.58,14.38 14.59,14 16,13.87C17.43,13.71 19.17,13.89 20.53,14.4C22.07,14.89 22.25,15.61 21.86,16.1C21.46,16.6 20.5,16.95 20.5,16.95L13.37,19.5V17.62M3.5,17.42C1.93,17 1.66,16.05 2.38,15.5C3.05,15 4.18,14.65 4.18,14.65L8.86,13V14.88L5.5,16.09C4.9,16.3 4.81,16.6 5.29,16.76C5.77,16.92 6.65,16.88 7.24,16.66L8.86,16.08V17.77L8.54,17.83C6.92,18.09 5.2,18 3.5,17.42Z',
-	  'profile': 'M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z',
-	  'recruit': 'M11.5 9C10.12 9 9 10.12 9 11.5s1.12 2.5 2.5 2.5 2.5-1.12 2.5-2.5S12.88 9 11.5 9zM20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm-3.21 14.21l-2.91-2.91c-.69.44-1.51.7-2.39.7C9.01 16 7 13.99 7 11.5S9.01 7 11.5 7 16 9.01 16 11.5c0 .88-.26 1.69-.7 2.39l2.91 2.9-1.42 1.42z',
-	  'refresh': 'M17.65 6.35C16.2 4.9 14.21 4 12 4c-4.42 0-7.99 3.58-7.99 8s3.57 8 7.99 8c3.73 0 6.84-2.55 7.73-6h-2.08c-.82 2.33-3.04 4-5.65 4-3.31 0-6-2.69-6-6s2.69-6 6-6c1.66 0 3.14.69 4.22 1.78L13 11h7V4l-2.35 2.35z',
-	  'remove-friend': 'M15 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zM1 10v2h8v-2H1zm14 4c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z',
-	  'reply': 'M10 9V5l-7 7 7 7v-4.1c5 0 8.5 1.6 11 5.1-1-5-4-10-11-11z',
-	  'rss': 'M6.18 20a2.18 2.18 0 1 1 0-4.36 2.18 2.18 0 0 1 0 4.36zM4 4.44c8.59 0 15.56 6.97 15.56 15.56h-2.83c0-7.03-5.7-12.73-12.73-12.73V4.44zm0 5.66c5.47 0 9.9 4.43 9.9 9.9h-2.83c0-3.9-3.17-7.07-7.07-7.07V10.1z',
-	  'settings': 'M19.43 12.98c.04-.32.07-.64.07-.98s-.03-.66-.07-.98l2.11-1.65c.19-.15.24-.42.12-.64l-2-3.46c-.12-.22-.39-.3-.61-.22l-2.49 1c-.52-.4-1.08-.73-1.69-.98l-.38-2.65C14.46 2.18 14.25 2 14 2h-4c-.25 0-.46.18-.49.42l-.38 2.65c-.61.25-1.17.59-1.69.98l-2.49-1c-.23-.09-.49 0-.61.22l-2 3.46c-.13.22-.07.49.12.64l2.11 1.65c-.04.32-.07.65-.07.98s.03.66.07.98l-2.11 1.65c-.19.15-.24.42-.12.64l2 3.46c.12.22.39.3.61.22l2.49-1c.52.4 1.08.73 1.69.98l.38 2.65c.03.24.24.42.49.42h4c.25 0 .46-.18.49-.42l.38-2.65c.61-.25 1.17-.59 1.69-.98l2.49 1c.23.09.49 0 .61-.22l2-3.46c.12-.22.07-.49-.12-.64l-2.11-1.65zM12 15.5c-1.93 0-3.5-1.57-3.5-3.5s1.57-3.5 3.5-3.5 3.5 1.57 3.5 3.5-1.57 3.5-3.5 3.5z',
-	  'send': 'M2.01 21L23 12 2.01 3 2 10l15 2-15 2z',
-	  'search': 'M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z',
-	  'share': 'M18,16.08 C17.24,16.08 16.56,16.38 16.04,16.85 L8.91,12.7 C8.96,12.47 9,12.24 9,12 C9,11.76 8.96,11.53 8.91,11.3 L15.96,7.19 C16.5,7.69 17.21,8 18,8 C19.66,8 21,6.66 21,5 C21,3.34 19.66,2 18,2 C16.34,2 15,3.34 15,5 C15,5.24 15.04,5.47 15.09,5.7 L8.04,9.81 C7.5,9.31 6.79,9 6,9 C4.34,9 3,10.34 3,12 C3,13.66 4.34,15 6,15 C6.79,15 7.5,14.69 8.04,14.19 L15.16,18.35 C15.11,18.56 15.08,18.78 15.08,19 C15.08,20.61 16.39,21.92 18,21.92 C19.61,21.92 20.92,20.61 20.92,19 C20.92,17.39 19.61,16.08 18,16.08 L18,16.08 Z',
-	  'shop': 'M20 4H4v2h16V4zm1 10v-2l-1-5H4l-1 5v2h1v6h10v-6h4v6h2v-6h1zm-9 4H6v-4h6v4z',
-	  'star': 'M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z',
-	  'star-outline': 'M22 9.24l-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z',
-	  'star-tag': 'M0 7.009C0 5.899.89 5 1.991 5H20.01C21.109 5 22 5.902 22 7.009v7.982c0 1.11-.89 2.009-1.991 2.009H1.99C.891 17 0 16.098 0 14.991V7.01zm11 6.714l3.233 2.227-1.118-3.763L16.23 9.8l-3.924-.099L11 6 9.693 9.701l-3.924.1 3.116 2.386-1.118 3.763L11 13.723z',
-	  'stats': 'M23 8c0 1.1-.9 2-2 2-.18 0-.35-.02-.51-.07l-3.56 3.55c.05.16.07.34.07.52 0 1.1-.9 2-2 2s-2-.9-2-2c0-.18.02-.36.07-.52l-2.55-2.55c-.16.05-.34.07-.52.07s-.36-.02-.52-.07l-4.55 4.56c.05.16.07.33.07.51 0 1.1-.9 2-2 2s-2-.9-2-2 .9-2 2-2c.18 0 .35.02.51.07l4.56-4.55C8.02 9.36 8 9.18 8 9c0-1.1.9-2 2-2s2 .9 2 2c0 .18-.02.36-.07.52l2.55 2.55c.16-.05.34-.07.52-.07s.36.02.52.07l3.55-3.56C19.02 8.35 19 8.18 19 8c0-1.1.9-2 2-2s2 .9 2 2z',
-	  'stickers': 'M11.99 2C6.47 2 2 6.47 2 12s4.47 10 9.99 10S22 17.53 22 12 17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm1-10.06L14.06 11l1.06-1.06L16.18 11l1.06-1.06-2.12-2.12zm-4.12 0L9.94 11 11 9.94 8.88 7.82 6.76 9.94 7.82 11zM12 17.5c2.33 0 4.31-1.46 5.11-3.5H6.89c.8 2.04 2.78 3.5 5.11 3.5z',
-	  'subtract-circle': 'M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11H7v-2h10v2z',
-	  'text': 'M2.5 4v3h5v12h3V7h5V4h-13zm19 5h-9v3h3v7h3v-7h3V9z',
-	  'thumb-up': 'M23,10C23,8.89 22.1,8 21,8H14.68L15.64,3.43C15.66,3.33 15.67,3.22 15.67,3.11C15.67,2.7 15.5,2.32 15.23,2.05L14.17,1L7.59,7.58C7.22,7.95 7,8.45 7,9V19A2,2 0 0,0 9,21H18C18.83,21 19.54,20.5 19.84,19.78L22.86,12.73C22.95,12.5 23,12.26 23,12V10.08L23,10M1,21H5V9H1V21Z',
-	  'thumb-down': 'M19,15H23V3H19M15,3H6C5.17,3 4.46,3.5 4.16,4.22L1.14,11.27C1.05,11.5 1,11.74 1,12V13.91L1,14A2,2 0 0,0 3,16H9.31L8.36,20.57C8.34,20.67 8.33,20.77 8.33,20.88C8.33,21.3 8.5,21.67 8.77,21.94L9.83,23L16.41,16.41C16.78,16.05 17,15.55 17,15V5C17,3.89 16.1,3 15,3Z',
-	  'time': 'M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zM12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z',
-	  'tools': 'M12,16L19.36,10.27L21,9L12,2L3,9L4.63,10.27M12,18.54L4.62,12.81L3,14.07L12,21.07L21,14.07L19.37,12.8L12,18.54Z',
-	  'trade': 'M6.99,11 L3,15 L6.99,19 L6.99,16 L14,16 L14,14 L6.99,14 L6.99,11 L6.99,11 Z M21,9 L17.01,5 L17.01,8 L10,8 L10,10 L17.01,10 L17.01,13 L21,9 L21,9 Z',
-	  'trade-circle': 'M2,12 C2,17.52 6.48,22 12,22 C17.52,22 22,17.52 22,12 C22,6.48 17.52,2 12,2 C6.48,2 2,6.48 2,12 L2,12 L2,12 Z M9,17.5 L5.5,14 L9,10.5 L9,13 L13,13 L13,15 L9,15 L9,17.5 L9,17.5 Z M15,6.5 L18.5,10 L15,13.5 L15,11 L11,11 L11,9 L15,9 L15,6.5 L15,6.5 Z',
-	  'trophy': 'M20.2,2H19.5H18C17.1,2 16,3 16,4H8C8,3 6.9,2 6,2H4.5H3.8H2V11C2,12 3,13 4,13H6.2C6.6,15 7.9,16.7 11,17V19.1C8.8,19.3 8,20.4 8,21.7V22H16V21.7C16,20.4 15.2,19.3 13,19.1V17C16.1,16.7 17.4,15 17.8,13H20C21,13 22,12 22,11V2H20.2M4,11V4H6V6V11C5.1,11 4.3,11 4,11M20,11C19.7,11 18.9,11 18,11V6V4H20V11Z',
-	  'twitter': 'M22 5.892c-.75.325-1.543.54-2.356.633.856-.504 1.497-1.297 1.804-2.232-.806.47-1.687.802-2.606.98-1.272-1.33-3.293-1.657-4.93-.795-1.637.863-2.483 2.698-2.063 4.478-3.3-.163-6.375-1.696-8.46-4.22-1.087 1.846-.53 4.206 1.27 5.392-.65-.02-1.288-.193-1.857-.504v.05c0 1.924 1.377 3.58 3.292 3.96-.604.163-1.238.188-1.853.073.536 1.646 2.077 2.774 3.833 2.807-1.454 1.123-3.25 1.73-5.096 1.728-.328 0-.655-.02-.98-.056C3.877 19.373 6.06 20.002 8.292 20c7.547 0 11.674-6.153 11.674-11.49 0-.174-.004-.348-.012-.522.804-.573 1.496-1.283 2.046-2.096z',
-	  'underline': 'M12 17c3.31 0 6-2.69 6-6V3h-2.5v8c0 1.93-1.57 3.5-3.5 3.5S8.5 12.93 8.5 11V3H6v8c0 3.31 2.69 6 6 6zm-7 2v2h14v-2H5z',
-	  'upvote': 'M2 14.2h7.5V21h5v-6.8H22L12 4z',
-	  'verified': 'M22 11.996l-2.218 2.39.309 3.165-3.282.706-1.718 2.734L12 19.736 8.91 21l-1.72-2.735-3.28-.705.308-3.173L2 11.996l2.218-2.4-.309-3.165 3.282-.696L8.909 3 12 4.256 15.09 3l1.72 2.735 3.28.705-.308 3.165L22 11.995zm-11.818 4.3l7.273-6.88-1.282-1.222-5.991 5.668-2.355-2.219-1.282 1.213 3.637 3.44z',
-	  'video': 'M21 3H3c-1.11 0-2 .89-2 2v12c0 1.1.89 2 2 2h5v2h8v-2h5c1.1 0 1.99-.9 1.99-2L23 5c0-1.11-.9-2-2-2zm0 14H3V5h18v12zm-5-6l-7 4V7z',
-	  'warning': 'M1 21h22L12 2 1 21zm12-3h-2v-2h2v2zm0-4h-2v-4h2v4z',
-	  'wiki': 'M14,17H7V15H14M17,13H7V11H17M17,9H7V7H17M19,3H5C3.89,3 3,3.89 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5C21,3.89 20.1,3 19,3Z',
-	  'win': 'M20.39,19.37L16.38,18L15,22L11.92,16L9,22L7.62,18L3.61,19.37L6.53,13.37C5.57,12.17 5,10.65 5,9A7,7 0 0,1 12,2A7,7 0 0,1 19,9C19,10.65 18.43,12.17 17.47,13.37L20.39,19.37M7,9L9.69,10.34L9.5,13.34L12,11.68L14.5,13.33L14.33,10.34L17,9L14.32,7.65L14.5,4.67L12,6.31L9.5,4.65L9.67,7.66L7,9Z',
-	  'xbox': 'M6.43,3.72C6.5,3.66 6.57,3.6 6.62,3.56C8.18,2.55 10,2 12,2C13.88,2 15.64,2.5 17.14,3.42C17.25,3.5 17.54,3.69 17.7,3.88C16.25,2.28 12,5.7 12,5.7C10.5,4.57 9.17,3.8 8.16,3.5C7.31,3.29 6.73,3.5 6.46,3.7M19.34,5.21C19.29,5.16 19.24,5.11 19.2,5.06C18.84,4.66 18.38,4.56 18,4.59C17.61,4.71 15.9,5.32 13.8,7.31C13.8,7.31 16.17,9.61 17.62,11.96C19.07,14.31 19.93,16.16 19.4,18.73C21,16.95 22,14.59 22,12C22,9.38 21,7 19.34,5.21M15.73,12.96C15.08,12.24 14.13,11.21 12.86,9.95C12.59,9.68 12.3,9.4 12,9.1C12,9.1 11.53,9.56 10.93,10.17C10.16,10.94 9.17,11.95 8.61,12.54C7.63,13.59 4.81,16.89 4.65,18.74C4.65,18.74 4,17.28 5.4,13.89C6.3,11.68 9,8.36 10.15,7.28C10.15,7.28 9.12,6.14 7.82,5.35L7.77,5.32C7.14,4.95 6.46,4.66 5.8,4.62C5.13,4.67 4.71,5.16 4.71,5.16C3.03,6.95 2,9.35 2,12A10,10 0 0,0 12,22C14.93,22 17.57,20.74 19.4,18.73C19.4,18.73 19.19,17.4 17.84,15.5C17.53,15.07 16.37,13.69 15.73,12.96Z',
-	  'youtube': 'M21.8 8.02s-.196-1.371-.795-1.975c-.76-.793-1.613-.797-2.004-.844C16.202 5 12.004 5 12.004 5h-.008s-4.199 0-6.997.201c-.392.047-1.243.05-2.004.843-.6.605-.795 1.976-.795 1.976S2 9.63 2 11.242v1.51c0 1.61.2 3.221.2 3.221s.196 1.372.795 1.976c.76.793 1.76.768 2.205.851 1.6.153 6.8.2 6.8.2s4.202-.006 7.001-.208c.392-.046 1.243-.05 2.004-.843.6-.604.795-1.976.795-1.976s.2-1.61.2-3.221v-1.51c0-1.611-.2-3.222-.2-3.222zM9.935 14.582V8.99l5.404 2.806-5.404 2.787z'
-	};
-
-
-/***/ }),
-/* 432 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var ANIMATION_TIME_MS, Environment, Ripple, colors, z,
-	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
-
-	z = __webpack_require__(148);
-
-	Environment = __webpack_require__(358);
-
-	colors = __webpack_require__(387);
-
-	if (typeof window !== "undefined" && window !== null) {
-	  __webpack_require__(433);
-	}
-
-	ANIMATION_TIME_MS = 350;
-
-	module.exports = Ripple = (function() {
-	  Ripple.prototype.type = 'Widget';
-
-	  function Ripple() {
-	    this.ripple = bind(this.ripple, this);
-	    this.afterMount = bind(this.afterMount, this);
-	    null;
-	  }
-
-	  Ripple.prototype.afterMount = function($$el1) {
-	    this.$$el = $$el1;
-	    return this.$$wave = this.$$el.querySelector('.wave');
-	  };
-
-	  Ripple.prototype.ripple = function(arg) {
-	    var $$el, $$wave, color, fadeIn, height, isCenter, left, mouseX, mouseY, onComplete, ref, ref1, top, width, x, y;
-	    ref = arg != null ? arg : {}, $$el = ref.$$el, color = ref.color, isCenter = ref.isCenter, mouseX = ref.mouseX, mouseY = ref.mouseY, onComplete = ref.onComplete, fadeIn = ref.fadeIn;
-	    if ($$el == null) {
-	      $$el = this.$$el;
-	    }
-	    ref1 = $$el.getBoundingClientRect(), width = ref1.width, height = ref1.height, top = ref1.top, left = ref1.left;
-	    if (isCenter) {
-	      x = width / 2;
-	      y = height / 2;
-	    } else {
-	      x = mouseX - left;
-	      y = mouseY - top;
-	    }
-	    $$wave = this.$$wave;
-	    $$wave.style.top = y + 'px';
-	    $$wave.style.left = x + 'px';
-	    $$wave.style.backgroundColor = color;
-	    $$wave.className = fadeIn ? 'wave fade-in is-visible' : 'wave is-visible';
-	    return new Promise(function(resolve, reject) {
-	      return setTimeout(function() {
-	        if (typeof onComplete === "function") {
-	          onComplete();
-	        }
-	        resolve();
-	        return setTimeout(function() {
-	          return $$wave.className = 'wave';
-	        }, 100);
-	      }, ANIMATION_TIME_MS);
-	    });
-	  };
-
-	  Ripple.prototype.render = function(arg) {
-	    var color, fadeIn, isCenter, isCircle, onComplete, onTouch;
-	    color = arg.color, isCircle = arg.isCircle, isCenter = arg.isCenter, onComplete = arg.onComplete, fadeIn = arg.fadeIn;
-	    onTouch = (function(_this) {
-	      return function(e) {
-	        var $$el, ref, ref1, ref2, ref3;
-	        $$el = e.target;
-	        return _this.ripple({
-	          $$el: $$el,
-	          color: color,
-	          isCenter: isCenter,
-	          onComplete: onComplete,
-	          fadeIn: fadeIn,
-	          mouseX: e.clientX || ((ref = e.touches) != null ? (ref1 = ref[0]) != null ? ref1.clientX : void 0 : void 0),
-	          mouseY: e.clientY || ((ref2 = e.touches) != null ? (ref3 = ref2[0]) != null ? ref3.clientY : void 0 : void 0)
-	        });
-	      };
-	    })(this);
-	    return z('.z-ripple', {
-	      className: z.classKebab({
-	        isCircle: isCircle
-	      }),
-	      ontouchstart: onTouch,
-	      onmousedown: Environment.isAndroid() ? null : onTouch
-	    }, z('.wave'));
-	  };
-
-	  return Ripple;
-
-	})();
-
-
-/***/ }),
-/* 433 */
-/***/ (function(module, exports) {
-
-	// removed by extract-text-webpack-plugin
-
-/***/ }),
-/* 434 */,
-/* 435 */
-/***/ (function(module, exports) {
-
-	// removed by extract-text-webpack-plugin
-
-/***/ }),
-/* 436 */,
-/* 437 */
-/***/ (function(module, exports) {
-
-	// removed by extract-text-webpack-plugin
-
-/***/ }),
-/* 438 */,
-/* 439 */
-/***/ (function(module, exports) {
-
-	// removed by extract-text-webpack-plugin
-
-/***/ }),
-/* 440 */,
-/* 441 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var Auth, Cookie, Exoid, Group, GroupRole, GroupUser, GroupUserXpTransaction, Language, Model, Player, Poll, RxBehaviorSubject, SERIALIZATION_EXPIRE_TIME_MS, SERIALIZATION_KEY, Time, User, Window, _defaults, _isEmpty, _isPlainObject, _merge, _pick, config, request,
-	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
-
-	Exoid = __webpack_require__(442);
-
-	request = __webpack_require__(489);
+	request = __webpack_require__(523);
 
 	_isEmpty = __webpack_require__(201);
 
-	_isPlainObject = __webpack_require__(251);
+	_isPlainObject = __webpack_require__(252);
 
 	_defaults = __webpack_require__(233);
 
-	_merge = __webpack_require__(374);
+	_merge = __webpack_require__(364);
 
-	_pick = __webpack_require__(496);
+	_pick = __webpack_require__(530);
 
-	RxBehaviorSubject = __webpack_require__(288).BehaviorSubject;
+	RxBehaviorSubject = __webpack_require__(289).BehaviorSubject;
 
-	__webpack_require__(499);
+	__webpack_require__(533);
 
-	Auth = __webpack_require__(500);
+	Auth = __webpack_require__(534);
 
-	Player = __webpack_require__(506);
+	Cookie = __webpack_require__(542);
 
-	Cookie = __webpack_require__(507);
+	Group = __webpack_require__(543);
 
-	Group = __webpack_require__(509);
+	GroupUser = __webpack_require__(544);
 
-	GroupUser = __webpack_require__(510);
+	EarnAction = __webpack_require__(548);
 
-	GroupUserXpTransaction = __webpack_require__(514);
+	EarnAlert = __webpack_require__(549);
 
-	GroupRole = __webpack_require__(515);
+	GroupRole = __webpack_require__(550);
 
-	Language = __webpack_require__(516);
+	Language = __webpack_require__(551);
 
-	Player = __webpack_require__(506);
+	Player = __webpack_require__(570);
 
-	Poll = __webpack_require__(535);
+	Poll = __webpack_require__(571);
 
-	Time = __webpack_require__(536);
+	TwitchSignInOverlay = __webpack_require__(572);
 
-	User = __webpack_require__(537);
+	Time = __webpack_require__(573);
 
-	Window = __webpack_require__(538);
+	User = __webpack_require__(574);
 
-	config = __webpack_require__(370);
+	UserItem = __webpack_require__(575);
+
+	Window = __webpack_require__(576);
+
+	config = __webpack_require__(360);
 
 	SERIALIZATION_KEY = 'MODEL';
 
 	SERIALIZATION_EXPIRE_TIME_MS = 1000 * 10;
 
 	module.exports = Model = (function() {
-	  function Model(arg) {
-	    var accessToken, cache, cookieSubject, io, ioEmit, language, proxy, pushToken, ref, ref1, serverHeaders, userAgent;
-	    cookieSubject = arg.cookieSubject, serverHeaders = arg.serverHeaders, io = arg.io, this.portal = arg.portal, language = arg.language;
+	  function Model(options) {
 	    this.getSerializationStream = bind(this.getSerializationStream, this);
 	    this.dispose = bind(this.dispose, this);
 	    this.wasCached = bind(this.wasCached, this);
+	    var cache, host, initialCookies, io, ioEmit, language, proxy, pushToken, ref, ref1, serverHeaders, setCookie, userAgent;
+	    serverHeaders = options.serverHeaders, io = options.io, this.portal = options.portal, language = options.language, initialCookies = options.initialCookies, setCookie = options.setCookie, host = options.host;
 	    if (serverHeaders == null) {
 	      serverHeaders = {};
 	    }
@@ -24043,18 +25253,17 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	      }
 	    }
 	    this.isFromCache = !_isEmpty(cache);
-	    accessToken = cookieSubject.map(function(cookies) {
-	      return cookies[config.AUTH_COOKIE];
-	    });
 	    userAgent = serverHeaders['user-agent'] || (typeof navigator !== "undefined" && navigator !== null ? navigator.userAgent : void 0);
-	    ioEmit = function(event, opts) {
-	      return accessToken.take(1).toPromise().then(function(accessToken) {
+	    ioEmit = (function(_this) {
+	      return function(event, opts) {
+	        var accessToken;
+	        accessToken = _this.cookie.get('accessToken');
 	        return io.emit(event, _defaults({
 	          accessToken: accessToken,
 	          userAgent: userAgent
 	        }, opts));
-	      });
-	    };
+	      };
+	    })(this);
 	    proxy = function(url, opts) {
 	      return accessToken.take(1).toPromise().then(function(accessToken) {
 	        var proxyHeaders;
@@ -24077,7 +25286,9 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    });
 	    pushToken = new RxBehaviorSubject(null);
 	    this.cookie = new Cookie({
-	      cookieSubject: cookieSubject
+	      initialCookies: initialCookies,
+	      setCookie: setCookie,
+	      host: host
 	    });
 	    this.l = new Language({
 	      language: language,
@@ -24085,7 +25296,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    });
 	    this.auth = new Auth({
 	      exoid: this.exoid,
-	      cookieSubject: cookieSubject,
+	      cookie: this.cookie,
 	      pushToken: pushToken,
 	      l: this.l,
 	      userAgent: userAgent,
@@ -24098,24 +25309,29 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	      cookie: this.cookie,
 	      l: this.l
 	    });
+	    this.userItem = new UserItem({
+	      auth: this.auth
+	    });
 	    this.player = new Player({
 	      auth: this.auth
 	    });
 	    this.poll = new Poll({
 	      auth: this.auth
 	    });
+	    this.earnAction = new EarnAction({
+	      auth: this.auth
+	    });
+	    this.earnAlert = new EarnAlert();
 	    this.group = new Group({
 	      auth: this.auth
 	    });
 	    this.groupUser = new GroupUser({
 	      auth: this.auth
 	    });
-	    this.groupUserXpTransaction = new GroupUserXpTransaction({
-	      auth: this.auth
-	    });
 	    this.groupRole = new GroupRole({
 	      auth: this.auth
 	    });
+	    this.signInDialog = new TwitchSignInOverlay();
 	    this.time = new Time({
 	      auth: this.auth
 	    });
@@ -24155,88 +25371,88 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 442 */
+/* 480 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var Exoid, RxAsyncSubject, RxBehaviorSubject, RxObservable, RxReplaySubject, _clone, _debounce, _defaults, _filter, _find, _findIndex, _forEach, _isArray, _isEmpty, _isUndefined, _keys, _map, _mapValues, _pickBy, _takeRight, _transform, _zip, log, map, publishReplay, scan, stringify, take, toPromise, uuid,
 	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; },
 	  slice = [].slice;
 
-	_map = __webpack_require__(27);
+	_map = __webpack_require__(26);
 
-	_isArray = __webpack_require__(92);
+	_isArray = __webpack_require__(91);
 
 	_filter = __webpack_require__(167);
 
 	_isEmpty = __webpack_require__(201);
 
-	_isUndefined = __webpack_require__(443);
+	_isUndefined = __webpack_require__(481);
 
-	_find = __webpack_require__(444);
+	_find = __webpack_require__(407);
 
-	_transform = __webpack_require__(447);
+	_transform = __webpack_require__(482);
 
-	_zip = __webpack_require__(448);
+	_zip = __webpack_require__(483);
 
 	_defaults = __webpack_require__(233);
 
-	_pickBy = __webpack_require__(336);
+	_pickBy = __webpack_require__(329);
 
-	_mapValues = __webpack_require__(250);
+	_mapValues = __webpack_require__(147);
 
-	_clone = __webpack_require__(450);
+	_clone = __webpack_require__(485);
 
-	_forEach = __webpack_require__(390);
+	_forEach = __webpack_require__(379);
 
-	_findIndex = __webpack_require__(446);
+	_findIndex = __webpack_require__(409);
 
-	_takeRight = __webpack_require__(465);
+	_takeRight = __webpack_require__(500);
 
-	_keys = __webpack_require__(96);
+	_keys = __webpack_require__(95);
 
 	_debounce = __webpack_require__(202);
 
-	log = __webpack_require__(351);
+	log = __webpack_require__(344);
 
-	stringify = __webpack_require__(467);
+	stringify = __webpack_require__(502);
 
-	uuid = __webpack_require__(471);
+	uuid = __webpack_require__(506);
 
-	RxAsyncSubject = __webpack_require__(476).AsyncSubject;
+	RxAsyncSubject = __webpack_require__(511).AsyncSubject;
 
-	RxBehaviorSubject = __webpack_require__(288).BehaviorSubject;
+	RxBehaviorSubject = __webpack_require__(289).BehaviorSubject;
 
-	RxReplaySubject = __webpack_require__(411).ReplaySubject;
+	RxReplaySubject = __webpack_require__(392).ReplaySubject;
 
-	RxObservable = __webpack_require__(290).Observable;
+	RxObservable = __webpack_require__(291).Observable;
 
-	__webpack_require__(407);
+	__webpack_require__(307);
 
-	__webpack_require__(406);
+	__webpack_require__(313);
 
-	__webpack_require__(477);
+	__webpack_require__(512);
 
-	__webpack_require__(478);
+	__webpack_require__(514);
 
-	__webpack_require__(480);
+	__webpack_require__(517);
 
-	take = __webpack_require__(483).take;
+	take = __webpack_require__(519).take;
 
 	RxObservable.prototype.take = take;
 
-	map = __webpack_require__(398).map;
+	map = __webpack_require__(387).map;
 
 	RxObservable.prototype.map = map;
 
-	toPromise = __webpack_require__(486).toPromise;
+	toPromise = __webpack_require__(521).toPromise;
 
 	RxObservable.prototype.toPromise = toPromise;
 
-	scan = __webpack_require__(487).scan;
+	scan = __webpack_require__(522).scan;
 
 	RxObservable.prototype.scan = scan;
 
-	publishReplay = __webpack_require__(409).publishReplay;
+	publishReplay = __webpack_require__(391).publishReplay;
 
 	RxObservable.prototype.publishReplay = publishReplay;
 
@@ -24692,7 +25908,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 443 */
+/* 481 */
 /***/ (function(module, exports) {
 
 	/**
@@ -24720,159 +25936,19 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 444 */
+/* 482 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var createFind = __webpack_require__(445),
-	    findIndex = __webpack_require__(446);
-
-	/**
-	 * Iterates over elements of `collection`, returning the first element
-	 * `predicate` returns truthy for. The predicate is invoked with three
-	 * arguments: (value, index|key, collection).
-	 *
-	 * @static
-	 * @memberOf _
-	 * @since 0.1.0
-	 * @category Collection
-	 * @param {Array|Object} collection The collection to inspect.
-	 * @param {Function} [predicate=_.identity] The function invoked per iteration.
-	 * @param {number} [fromIndex=0] The index to search from.
-	 * @returns {*} Returns the matched element, else `undefined`.
-	 * @example
-	 *
-	 * var users = [
-	 *   { 'user': 'barney',  'age': 36, 'active': true },
-	 *   { 'user': 'fred',    'age': 40, 'active': false },
-	 *   { 'user': 'pebbles', 'age': 1,  'active': true }
-	 * ];
-	 *
-	 * _.find(users, function(o) { return o.age < 40; });
-	 * // => object for 'barney'
-	 *
-	 * // The `_.matches` iteratee shorthand.
-	 * _.find(users, { 'age': 1, 'active': true });
-	 * // => object for 'pebbles'
-	 *
-	 * // The `_.matchesProperty` iteratee shorthand.
-	 * _.find(users, ['active', false]);
-	 * // => object for 'fred'
-	 *
-	 * // The `_.property` iteratee shorthand.
-	 * _.find(users, 'active');
-	 * // => object for 'barney'
-	 */
-	var find = createFind(findIndex);
-
-	module.exports = find;
-
-
-/***/ }),
-/* 445 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var baseIteratee = __webpack_require__(29),
-	    isArrayLike = __webpack_require__(114),
-	    keys = __webpack_require__(96);
-
-	/**
-	 * Creates a `_.find` or `_.findLast` function.
-	 *
-	 * @private
-	 * @param {Function} findIndexFunc The function to find the collection index.
-	 * @returns {Function} Returns the new find function.
-	 */
-	function createFind(findIndexFunc) {
-	  return function(collection, predicate, fromIndex) {
-	    var iterable = Object(collection);
-	    if (!isArrayLike(collection)) {
-	      var iteratee = baseIteratee(predicate, 3);
-	      collection = keys(collection);
-	      predicate = function(key) { return iteratee(iterable[key], key, iterable); };
-	    }
-	    var index = findIndexFunc(collection, predicate, fromIndex);
-	    return index > -1 ? iterable[iteratee ? collection[index] : index] : undefined;
-	  };
-	}
-
-	module.exports = createFind;
-
-
-/***/ }),
-/* 446 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var baseFindIndex = __webpack_require__(189),
-	    baseIteratee = __webpack_require__(29),
-	    toInteger = __webpack_require__(239);
-
-	/* Built-in method references for those with the same name as other `lodash` methods. */
-	var nativeMax = Math.max;
-
-	/**
-	 * This method is like `_.find` except that it returns the index of the first
-	 * element `predicate` returns truthy for instead of the element itself.
-	 *
-	 * @static
-	 * @memberOf _
-	 * @since 1.1.0
-	 * @category Array
-	 * @param {Array} array The array to inspect.
-	 * @param {Function} [predicate=_.identity] The function invoked per iteration.
-	 * @param {number} [fromIndex=0] The index to search from.
-	 * @returns {number} Returns the index of the found element, else `-1`.
-	 * @example
-	 *
-	 * var users = [
-	 *   { 'user': 'barney',  'active': false },
-	 *   { 'user': 'fred',    'active': false },
-	 *   { 'user': 'pebbles', 'active': true }
-	 * ];
-	 *
-	 * _.findIndex(users, function(o) { return o.user == 'barney'; });
-	 * // => 0
-	 *
-	 * // The `_.matches` iteratee shorthand.
-	 * _.findIndex(users, { 'user': 'fred', 'active': false });
-	 * // => 1
-	 *
-	 * // The `_.matchesProperty` iteratee shorthand.
-	 * _.findIndex(users, ['active', false]);
-	 * // => 0
-	 *
-	 * // The `_.property` iteratee shorthand.
-	 * _.findIndex(users, 'active');
-	 * // => 2
-	 */
-	function findIndex(array, predicate, fromIndex) {
-	  var length = array == null ? 0 : array.length;
-	  if (!length) {
-	    return -1;
-	  }
-	  var index = fromIndex == null ? 0 : toInteger(fromIndex);
-	  if (index < 0) {
-	    index = nativeMax(length + index, 0);
-	  }
-	  return baseFindIndex(array, baseIteratee(predicate, 3), index);
-	}
-
-	module.exports = findIndex;
-
-
-/***/ }),
-/* 447 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var arrayEach = __webpack_require__(282),
-	    baseCreate = __webpack_require__(259),
-	    baseForOwn = __webpack_require__(144),
-	    baseIteratee = __webpack_require__(29),
-	    getPrototype = __webpack_require__(252),
-	    isArray = __webpack_require__(92),
-	    isBuffer = __webpack_require__(102),
-	    isFunction = __webpack_require__(49),
-	    isObject = __webpack_require__(56),
-	    isTypedArray = __webpack_require__(105);
+	var arrayEach = __webpack_require__(283),
+	    baseCreate = __webpack_require__(260),
+	    baseForOwn = __webpack_require__(143),
+	    baseIteratee = __webpack_require__(28),
+	    getPrototype = __webpack_require__(253),
+	    isArray = __webpack_require__(91),
+	    isBuffer = __webpack_require__(101),
+	    isFunction = __webpack_require__(48),
+	    isObject = __webpack_require__(55),
+	    isTypedArray = __webpack_require__(104);
 
 	/**
 	 * An alternative to `_.reduce`; this method transforms `object` to a new
@@ -24931,11 +26007,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 448 */
+/* 483 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var baseRest = __webpack_require__(155),
-	    unzip = __webpack_require__(449);
+	    unzip = __webpack_require__(484);
 
 	/**
 	 * Creates an array of grouped elements, the first of which contains the
@@ -24959,13 +26035,13 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 449 */
+/* 484 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var arrayFilter = __webpack_require__(94),
-	    arrayMap = __webpack_require__(28),
-	    baseProperty = __webpack_require__(140),
-	    baseTimes = __webpack_require__(98),
+	var arrayFilter = __webpack_require__(93),
+	    arrayMap = __webpack_require__(27),
+	    baseProperty = __webpack_require__(139),
+	    baseTimes = __webpack_require__(97),
 	    isArrayLikeObject = __webpack_require__(195);
 
 	/* Built-in method references for those with the same name as other `lodash` methods. */
@@ -25010,10 +26086,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 450 */
+/* 485 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseClone = __webpack_require__(451);
+	var baseClone = __webpack_require__(486);
 
 	/** Used to compose bitmasks for cloning. */
 	var CLONE_SYMBOLS_FLAG = 4;
@@ -25052,30 +26128,28 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 451 */
+/* 486 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var Stack = __webpack_require__(32),
-	    arrayEach = __webpack_require__(282),
-	    assignValue = __webpack_require__(150),
-	    baseAssign = __webpack_require__(452),
-	    baseAssignIn = __webpack_require__(453),
-	    cloneBuffer = __webpack_require__(378),
-	    copyArray = __webpack_require__(276),
-	    copySymbols = __webpack_require__(454),
-	    copySymbolsIn = __webpack_require__(455),
-	    getAllKeys = __webpack_require__(89),
-	    getAllKeysIn = __webpack_require__(339),
-	    getTag = __webpack_require__(115),
-	    initCloneArray = __webpack_require__(456),
-	    initCloneByTag = __webpack_require__(457),
-	    initCloneObject = __webpack_require__(381),
-	    isArray = __webpack_require__(92),
-	    isBuffer = __webpack_require__(102),
-	    isMap = __webpack_require__(461),
-	    isObject = __webpack_require__(56),
-	    isSet = __webpack_require__(463),
-	    keys = __webpack_require__(96);
+	var Stack = __webpack_require__(31),
+	    arrayEach = __webpack_require__(283),
+	    assignValue = __webpack_require__(152),
+	    baseAssign = __webpack_require__(487),
+	    baseAssignIn = __webpack_require__(488),
+	    cloneBuffer = __webpack_require__(368),
+	    copyArray = __webpack_require__(277),
+	    copySymbols = __webpack_require__(489),
+	    copySymbolsIn = __webpack_require__(490),
+	    getAllKeys = __webpack_require__(88),
+	    getAllKeysIn = __webpack_require__(332),
+	    getTag = __webpack_require__(114),
+	    initCloneArray = __webpack_require__(491),
+	    initCloneByTag = __webpack_require__(492),
+	    initCloneObject = __webpack_require__(371),
+	    isArray = __webpack_require__(91),
+	    isBuffer = __webpack_require__(101),
+	    isObject = __webpack_require__(55),
+	    keys = __webpack_require__(95);
 
 	/** Used to compose bitmasks for cloning. */
 	var CLONE_DEEP_FLAG = 1,
@@ -25182,7 +26256,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	      if (!cloneableTags[tag]) {
 	        return object ? value : {};
 	      }
-	      result = initCloneByTag(value, tag, isDeep);
+	      result = initCloneByTag(value, tag, baseClone, isDeep);
 	    }
 	  }
 	  // Check for circular references and return its corresponding clone.
@@ -25192,22 +26266,6 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    return stacked;
 	  }
 	  stack.set(value, result);
-
-	  if (isSet(value)) {
-	    value.forEach(function(subValue) {
-	      result.add(baseClone(subValue, bitmask, customizer, subValue, value, stack));
-	    });
-
-	    return result;
-	  }
-
-	  if (isMap(value)) {
-	    value.forEach(function(subValue, key) {
-	      result.set(key, baseClone(subValue, bitmask, customizer, key, value, stack));
-	    });
-
-	    return result;
-	  }
 
 	  var keysFunc = isFull
 	    ? (isFlat ? getAllKeysIn : getAllKeys)
@@ -25229,11 +26287,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 452 */
+/* 487 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var copyObject = __webpack_require__(153),
-	    keys = __webpack_require__(96);
+	    keys = __webpack_require__(95);
 
 	/**
 	 * The base implementation of `_.assign` without support for multiple sources
@@ -25252,11 +26310,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 453 */
+/* 488 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var copyObject = __webpack_require__(153),
-	    keysIn = __webpack_require__(234);
+	    keysIn = __webpack_require__(235);
 
 	/**
 	 * The base implementation of `_.assignIn` without support for multiple sources
@@ -25275,11 +26333,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 454 */
+/* 489 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var copyObject = __webpack_require__(153),
-	    getSymbols = __webpack_require__(93);
+	    getSymbols = __webpack_require__(92);
 
 	/**
 	 * Copies own symbols of `source` to `object`.
@@ -25297,11 +26355,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 455 */
+/* 490 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var copyObject = __webpack_require__(153),
-	    getSymbolsIn = __webpack_require__(340);
+	    getSymbolsIn = __webpack_require__(333);
 
 	/**
 	 * Copies own and inherited symbols of `source` to `object`.
@@ -25319,7 +26377,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 456 */
+/* 491 */
 /***/ (function(module, exports) {
 
 	/** Used for built-in method references. */
@@ -25337,7 +26395,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	 */
 	function initCloneArray(array) {
 	  var length = array.length,
-	      result = new array.constructor(length);
+	      result = array.constructor(length);
 
 	  // Add properties assigned by `RegExp#exec`.
 	  if (length && typeof array[0] == 'string' && hasOwnProperty.call(array, 'index')) {
@@ -25351,14 +26409,16 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 457 */
+/* 492 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var cloneArrayBuffer = __webpack_require__(380),
-	    cloneDataView = __webpack_require__(458),
-	    cloneRegExp = __webpack_require__(459),
-	    cloneSymbol = __webpack_require__(460),
-	    cloneTypedArray = __webpack_require__(379);
+	var cloneArrayBuffer = __webpack_require__(370),
+	    cloneDataView = __webpack_require__(493),
+	    cloneMap = __webpack_require__(494),
+	    cloneRegExp = __webpack_require__(496),
+	    cloneSet = __webpack_require__(497),
+	    cloneSymbol = __webpack_require__(499),
+	    cloneTypedArray = __webpack_require__(369);
 
 	/** `Object#toString` result references. */
 	var boolTag = '[object Boolean]',
@@ -25386,15 +26446,16 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	 * Initializes an object clone based on its `toStringTag`.
 	 *
 	 * **Note:** This function only supports cloning values with tags of
-	 * `Boolean`, `Date`, `Error`, `Map`, `Number`, `RegExp`, `Set`, or `String`.
+	 * `Boolean`, `Date`, `Error`, `Number`, `RegExp`, or `String`.
 	 *
 	 * @private
 	 * @param {Object} object The object to clone.
 	 * @param {string} tag The `toStringTag` of the object to clone.
+	 * @param {Function} cloneFunc The function to clone values.
 	 * @param {boolean} [isDeep] Specify a deep clone.
 	 * @returns {Object} Returns the initialized clone.
 	 */
-	function initCloneByTag(object, tag, isDeep) {
+	function initCloneByTag(object, tag, cloneFunc, isDeep) {
 	  var Ctor = object.constructor;
 	  switch (tag) {
 	    case arrayBufferTag:
@@ -25413,7 +26474,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	      return cloneTypedArray(object, isDeep);
 
 	    case mapTag:
-	      return new Ctor;
+	      return cloneMap(object, isDeep, cloneFunc);
 
 	    case numberTag:
 	    case stringTag:
@@ -25423,7 +26484,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	      return cloneRegExp(object);
 
 	    case setTag:
-	      return new Ctor;
+	      return cloneSet(object, isDeep, cloneFunc);
 
 	    case symbolTag:
 	      return cloneSymbol(object);
@@ -25434,10 +26495,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 458 */
+/* 493 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var cloneArrayBuffer = __webpack_require__(380);
+	var cloneArrayBuffer = __webpack_require__(370);
 
 	/**
 	 * Creates a clone of `dataView`.
@@ -25456,7 +26517,56 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 459 */
+/* 494 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var addMapEntry = __webpack_require__(495),
+	    arrayReduce = __webpack_require__(336),
+	    mapToArray = __webpack_require__(85);
+
+	/** Used to compose bitmasks for cloning. */
+	var CLONE_DEEP_FLAG = 1;
+
+	/**
+	 * Creates a clone of `map`.
+	 *
+	 * @private
+	 * @param {Object} map The map to clone.
+	 * @param {Function} cloneFunc The function to clone values.
+	 * @param {boolean} [isDeep] Specify a deep clone.
+	 * @returns {Object} Returns the cloned map.
+	 */
+	function cloneMap(map, isDeep, cloneFunc) {
+	  var array = isDeep ? cloneFunc(mapToArray(map), CLONE_DEEP_FLAG) : mapToArray(map);
+	  return arrayReduce(array, addMapEntry, new map.constructor);
+	}
+
+	module.exports = cloneMap;
+
+
+/***/ }),
+/* 495 */
+/***/ (function(module, exports) {
+
+	/**
+	 * Adds the key-value `pair` to `map`.
+	 *
+	 * @private
+	 * @param {Object} map The map to modify.
+	 * @param {Array} pair The key-value pair to add.
+	 * @returns {Object} Returns `map`.
+	 */
+	function addMapEntry(map, pair) {
+	  // Don't return `map.set` because it's not chainable in IE 11.
+	  map.set(pair[0], pair[1]);
+	  return map;
+	}
+
+	module.exports = addMapEntry;
+
+
+/***/ }),
+/* 496 */
 /***/ (function(module, exports) {
 
 	/** Used to match `RegExp` flags from their coerced string values. */
@@ -25479,10 +26589,59 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 460 */
+/* 497 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var Symbol = __webpack_require__(51);
+	var addSetEntry = __webpack_require__(498),
+	    arrayReduce = __webpack_require__(336),
+	    setToArray = __webpack_require__(86);
+
+	/** Used to compose bitmasks for cloning. */
+	var CLONE_DEEP_FLAG = 1;
+
+	/**
+	 * Creates a clone of `set`.
+	 *
+	 * @private
+	 * @param {Object} set The set to clone.
+	 * @param {Function} cloneFunc The function to clone values.
+	 * @param {boolean} [isDeep] Specify a deep clone.
+	 * @returns {Object} Returns the cloned set.
+	 */
+	function cloneSet(set, isDeep, cloneFunc) {
+	  var array = isDeep ? cloneFunc(setToArray(set), CLONE_DEEP_FLAG) : setToArray(set);
+	  return arrayReduce(array, addSetEntry, new set.constructor);
+	}
+
+	module.exports = cloneSet;
+
+
+/***/ }),
+/* 498 */
+/***/ (function(module, exports) {
+
+	/**
+	 * Adds `value` to `set`.
+	 *
+	 * @private
+	 * @param {Object} set The set to modify.
+	 * @param {*} value The value to add.
+	 * @returns {Object} Returns `set`.
+	 */
+	function addSetEntry(set, value) {
+	  // Don't return `set.add` because it's not chainable in IE 11.
+	  set.add(value);
+	  return set;
+	}
+
+	module.exports = addSetEntry;
+
+
+/***/ }),
+/* 499 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var Symbol = __webpack_require__(50);
 
 	/** Used to convert symbols to primitives and strings. */
 	var symbolProto = Symbol ? Symbol.prototype : undefined,
@@ -25503,125 +26662,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 461 */
+/* 500 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var baseIsMap = __webpack_require__(462),
-	    baseUnary = __webpack_require__(108),
-	    nodeUtil = __webpack_require__(109);
-
-	/* Node.js helper references. */
-	var nodeIsMap = nodeUtil && nodeUtil.isMap;
-
-	/**
-	 * Checks if `value` is classified as a `Map` object.
-	 *
-	 * @static
-	 * @memberOf _
-	 * @since 4.3.0
-	 * @category Lang
-	 * @param {*} value The value to check.
-	 * @returns {boolean} Returns `true` if `value` is a map, else `false`.
-	 * @example
-	 *
-	 * _.isMap(new Map);
-	 * // => true
-	 *
-	 * _.isMap(new WeakMap);
-	 * // => false
-	 */
-	var isMap = nodeIsMap ? baseUnary(nodeIsMap) : baseIsMap;
-
-	module.exports = isMap;
-
-
-/***/ }),
-/* 462 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var getTag = __webpack_require__(115),
-	    isObjectLike = __webpack_require__(101);
-
-	/** `Object#toString` result references. */
-	var mapTag = '[object Map]';
-
-	/**
-	 * The base implementation of `_.isMap` without Node.js optimizations.
-	 *
-	 * @private
-	 * @param {*} value The value to check.
-	 * @returns {boolean} Returns `true` if `value` is a map, else `false`.
-	 */
-	function baseIsMap(value) {
-	  return isObjectLike(value) && getTag(value) == mapTag;
-	}
-
-	module.exports = baseIsMap;
-
-
-/***/ }),
-/* 463 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var baseIsSet = __webpack_require__(464),
-	    baseUnary = __webpack_require__(108),
-	    nodeUtil = __webpack_require__(109);
-
-	/* Node.js helper references. */
-	var nodeIsSet = nodeUtil && nodeUtil.isSet;
-
-	/**
-	 * Checks if `value` is classified as a `Set` object.
-	 *
-	 * @static
-	 * @memberOf _
-	 * @since 4.3.0
-	 * @category Lang
-	 * @param {*} value The value to check.
-	 * @returns {boolean} Returns `true` if `value` is a set, else `false`.
-	 * @example
-	 *
-	 * _.isSet(new Set);
-	 * // => true
-	 *
-	 * _.isSet(new WeakSet);
-	 * // => false
-	 */
-	var isSet = nodeIsSet ? baseUnary(nodeIsSet) : baseIsSet;
-
-	module.exports = isSet;
-
-
-/***/ }),
-/* 464 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var getTag = __webpack_require__(115),
-	    isObjectLike = __webpack_require__(101);
-
-	/** `Object#toString` result references. */
-	var setTag = '[object Set]';
-
-	/**
-	 * The base implementation of `_.isSet` without Node.js optimizations.
-	 *
-	 * @private
-	 * @param {*} value The value to check.
-	 * @returns {boolean} Returns `true` if `value` is a set, else `false`.
-	 */
-	function baseIsSet(value) {
-	  return isObjectLike(value) && getTag(value) == setTag;
-	}
-
-	module.exports = baseIsSet;
-
-
-/***/ }),
-/* 465 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var baseSlice = __webpack_require__(466),
-	    toInteger = __webpack_require__(239);
+	var baseSlice = __webpack_require__(501),
+	    toInteger = __webpack_require__(241);
 
 	/**
 	 * Creates a slice of `array` with `n` elements taken from the end.
@@ -25662,7 +26707,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 466 */
+/* 501 */
 /***/ (function(module, exports) {
 
 	/**
@@ -25699,10 +26744,10 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 467 */
+/* 502 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var json = typeof JSON !== 'undefined' ? JSON : __webpack_require__(468);
+	var json = typeof JSON !== 'undefined' ? JSON : __webpack_require__(503);
 
 	module.exports = function (obj, opts) {
 	    if (!opts) opts = {};
@@ -25789,15 +26834,15 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 468 */
+/* 503 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	exports.parse = __webpack_require__(469);
-	exports.stringify = __webpack_require__(470);
+	exports.parse = __webpack_require__(504);
+	exports.stringify = __webpack_require__(505);
 
 
 /***/ }),
-/* 469 */
+/* 504 */
 /***/ (function(module, exports) {
 
 	var at, // The index of the current character
@@ -26076,7 +27121,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 470 */
+/* 505 */
 /***/ (function(module, exports) {
 
 	var cx = /[\u0000\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,
@@ -26236,11 +27281,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 471 */
+/* 506 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var v1 = __webpack_require__(472);
-	var v4 = __webpack_require__(475);
+	var v1 = __webpack_require__(507);
+	var v4 = __webpack_require__(510);
 
 	var uuid = v4;
 	uuid.v1 = v1;
@@ -26250,11 +27295,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 472 */
+/* 507 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var rng = __webpack_require__(473);
-	var bytesToUuid = __webpack_require__(474);
+	var rng = __webpack_require__(508);
+	var bytesToUuid = __webpack_require__(509);
 
 	// **`v1()` - Generate time-based UUID**
 	//
@@ -26365,7 +27410,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 473 */
+/* 508 */
 /***/ (function(module, exports) {
 
 	// Unique ID creation requires a high quality random # generator.  In the
@@ -26403,7 +27448,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 474 */
+/* 509 */
 /***/ (function(module, exports) {
 
 	/**
@@ -26432,11 +27477,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 475 */
+/* 510 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var rng = __webpack_require__(473);
-	var bytesToUuid = __webpack_require__(474);
+	var rng = __webpack_require__(508);
+	var bytesToUuid = __webpack_require__(509);
 
 	function v4(options, buf, offset) {
 	  var i = buf && offset || 0;
@@ -26467,7 +27512,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 476 */
+/* 511 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -26476,8 +27521,8 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    function __() { this.constructor = d; }
 	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 	};
-	var Subject_1 = __webpack_require__(289);
-	var Subscription_1 = __webpack_require__(295);
+	var Subject_1 = __webpack_require__(290);
+	var Subscription_1 = __webpack_require__(296);
 	/**
 	 * @class AsyncSubject<T>
 	 */
@@ -26525,34 +27570,107 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=AsyncSubject.js.map
 
 /***/ }),
-/* 477 */
+/* 512 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
-	var Observable_1 = __webpack_require__(290);
-	var concat_1 = __webpack_require__(323);
+	var Observable_1 = __webpack_require__(291);
+	var concat_1 = __webpack_require__(513);
 	Observable_1.Observable.concat = concat_1.concat;
 	//# sourceMappingURL=concat.js.map
 
 /***/ }),
-/* 478 */
+/* 513 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
-	var Observable_1 = __webpack_require__(290);
-	var merge_1 = __webpack_require__(479);
+	var concat_1 = __webpack_require__(326);
+	exports.concat = concat_1.concatStatic;
+	//# sourceMappingURL=concat.js.map
+
+/***/ }),
+/* 514 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	"use strict";
+	var Observable_1 = __webpack_require__(291);
+	var merge_1 = __webpack_require__(515);
 	Observable_1.Observable.merge = merge_1.merge;
 	//# sourceMappingURL=merge.js.map
 
 /***/ }),
-/* 479 */
+/* 515 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
-	var Observable_1 = __webpack_require__(290);
+	var merge_1 = __webpack_require__(516);
+	exports.merge = merge_1.mergeStatic;
+	//# sourceMappingURL=merge.js.map
+
+/***/ }),
+/* 516 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	"use strict";
+	var Observable_1 = __webpack_require__(291);
 	var ArrayObservable_1 = __webpack_require__(309);
+	var mergeAll_1 = __webpack_require__(327);
 	var isScheduler_1 = __webpack_require__(312);
-	var mergeAll_1 = __webpack_require__(332);
+	/* tslint:enable:max-line-length */
+	/**
+	 * Creates an output Observable which concurrently emits all values from every
+	 * given input Observable.
+	 *
+	 * <span class="informal">Flattens multiple Observables together by blending
+	 * their values into one Observable.</span>
+	 *
+	 * <img src="./img/merge.png" width="100%">
+	 *
+	 * `merge` subscribes to each given input Observable (either the source or an
+	 * Observable given as argument), and simply forwards (without doing any
+	 * transformation) all the values from all the input Observables to the output
+	 * Observable. The output Observable only completes once all input Observables
+	 * have completed. Any error delivered by an input Observable will be immediately
+	 * emitted on the output Observable.
+	 *
+	 * @example <caption>Merge together two Observables: 1s interval and clicks</caption>
+	 * var clicks = Rx.Observable.fromEvent(document, 'click');
+	 * var timer = Rx.Observable.interval(1000);
+	 * var clicksOrTimer = clicks.merge(timer);
+	 * clicksOrTimer.subscribe(x => console.log(x));
+	 *
+	 * @example <caption>Merge together 3 Observables, but only 2 run concurrently</caption>
+	 * var timer1 = Rx.Observable.interval(1000).take(10);
+	 * var timer2 = Rx.Observable.interval(2000).take(6);
+	 * var timer3 = Rx.Observable.interval(500).take(10);
+	 * var concurrent = 2; // the argument
+	 * var merged = timer1.merge(timer2, timer3, concurrent);
+	 * merged.subscribe(x => console.log(x));
+	 *
+	 * @see {@link mergeAll}
+	 * @see {@link mergeMap}
+	 * @see {@link mergeMapTo}
+	 * @see {@link mergeScan}
+	 *
+	 * @param {ObservableInput} other An input Observable to merge with the source
+	 * Observable. More than one input Observables may be given as argument.
+	 * @param {number} [concurrent=Number.POSITIVE_INFINITY] Maximum number of input
+	 * Observables being subscribed to concurrently.
+	 * @param {Scheduler} [scheduler=null] The IScheduler to use for managing
+	 * concurrency of input Observables.
+	 * @return {Observable} An Observable that emits items that are the result of
+	 * every input Observable.
+	 * @method merge
+	 * @owner Observable
+	 */
+	function merge() {
+	    var observables = [];
+	    for (var _i = 0; _i < arguments.length; _i++) {
+	        observables[_i - 0] = arguments[_i];
+	    }
+	    return this.lift.call(mergeStatic.apply(void 0, [this].concat(observables)));
+	}
+	exports.merge = merge;
 	/* tslint:enable:max-line-length */
 	/**
 	 * Creates an output Observable which concurrently emits all values from every
@@ -26614,7 +27732,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	 * @name merge
 	 * @owner Observable
 	 */
-	function merge() {
+	function mergeStatic() {
 	    var observables = [];
 	    for (var _i = 0; _i < arguments.length; _i++) {
 	        observables[_i - 0] = arguments[_i];
@@ -26634,28 +27752,34 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    if (scheduler === null && observables.length === 1 && observables[0] instanceof Observable_1.Observable) {
 	        return observables[0];
 	    }
-	    return mergeAll_1.mergeAll(concurrent)(new ArrayObservable_1.ArrayObservable(observables, scheduler));
+	    return new ArrayObservable_1.ArrayObservable(observables, scheduler).lift(new mergeAll_1.MergeAllOperator(concurrent));
 	}
-	exports.merge = merge;
+	exports.mergeStatic = mergeStatic;
 	//# sourceMappingURL=merge.js.map
 
 /***/ }),
-/* 480 */
+/* 517 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
-	var Observable_1 = __webpack_require__(290);
-	var switch_1 = __webpack_require__(481);
+	var Observable_1 = __webpack_require__(291);
+	var switch_1 = __webpack_require__(518);
 	Observable_1.Observable.prototype.switch = switch_1._switch;
 	Observable_1.Observable.prototype._switch = switch_1._switch;
 	//# sourceMappingURL=switch.js.map
 
 /***/ }),
-/* 481 */
+/* 518 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
-	var switchAll_1 = __webpack_require__(482);
+	var __extends = (this && this.__extends) || function (d, b) {
+	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+	    function __() { this.constructor = d; }
+	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+	};
+	var OuterSubscriber_1 = __webpack_require__(316);
+	var subscribeToResult_1 = __webpack_require__(317);
 	/**
 	 * Converts a higher-order Observable into a first-order Observable by
 	 * subscribing to only the most recently emitted of those inner Observables.
@@ -26699,71 +27823,66 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	 * @owner Observable
 	 */
 	function _switch() {
-	    return switchAll_1.switchAll()(this);
+	    return this.lift(new SwitchOperator());
 	}
 	exports._switch = _switch;
+	var SwitchOperator = (function () {
+	    function SwitchOperator() {
+	    }
+	    SwitchOperator.prototype.call = function (subscriber, source) {
+	        return source.subscribe(new SwitchSubscriber(subscriber));
+	    };
+	    return SwitchOperator;
+	}());
+	/**
+	 * We need this JSDoc comment for affecting ESDoc.
+	 * @ignore
+	 * @extends {Ignored}
+	 */
+	var SwitchSubscriber = (function (_super) {
+	    __extends(SwitchSubscriber, _super);
+	    function SwitchSubscriber(destination) {
+	        _super.call(this, destination);
+	        this.active = 0;
+	        this.hasCompleted = false;
+	    }
+	    SwitchSubscriber.prototype._next = function (value) {
+	        this.unsubscribeInner();
+	        this.active++;
+	        this.add(this.innerSubscription = subscribeToResult_1.subscribeToResult(this, value));
+	    };
+	    SwitchSubscriber.prototype._complete = function () {
+	        this.hasCompleted = true;
+	        if (this.active === 0) {
+	            this.destination.complete();
+	        }
+	    };
+	    SwitchSubscriber.prototype.unsubscribeInner = function () {
+	        this.active = this.active > 0 ? this.active - 1 : 0;
+	        var innerSubscription = this.innerSubscription;
+	        if (innerSubscription) {
+	            innerSubscription.unsubscribe();
+	            this.remove(innerSubscription);
+	        }
+	    };
+	    SwitchSubscriber.prototype.notifyNext = function (outerValue, innerValue, outerIndex, innerIndex, innerSub) {
+	        this.destination.next(innerValue);
+	    };
+	    SwitchSubscriber.prototype.notifyError = function (err) {
+	        this.destination.error(err);
+	    };
+	    SwitchSubscriber.prototype.notifyComplete = function () {
+	        this.unsubscribeInner();
+	        if (this.hasCompleted && this.active === 0) {
+	            this.destination.complete();
+	        }
+	    };
+	    return SwitchSubscriber;
+	}(OuterSubscriber_1.OuterSubscriber));
 	//# sourceMappingURL=switch.js.map
 
 /***/ }),
-/* 482 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	"use strict";
-	var switchMap_1 = __webpack_require__(405);
-	var identity_1 = __webpack_require__(334);
-	function switchAll() {
-	    return switchMap_1.switchMap(identity_1.identity);
-	}
-	exports.switchAll = switchAll;
-	//# sourceMappingURL=switchAll.js.map
-
-/***/ }),
-/* 483 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	"use strict";
-	var take_1 = __webpack_require__(484);
-	/**
-	 * Emits only the first `count` values emitted by the source Observable.
-	 *
-	 * <span class="informal">Takes the first `count` values from the source, then
-	 * completes.</span>
-	 *
-	 * <img src="./img/take.png" width="100%">
-	 *
-	 * `take` returns an Observable that emits only the first `count` values emitted
-	 * by the source Observable. If the source emits fewer than `count` values then
-	 * all of its values are emitted. After that, it completes, regardless if the
-	 * source completes.
-	 *
-	 * @example <caption>Take the first 5 seconds of an infinite 1-second interval Observable</caption>
-	 * var interval = Rx.Observable.interval(1000);
-	 * var five = interval.take(5);
-	 * five.subscribe(x => console.log(x));
-	 *
-	 * @see {@link takeLast}
-	 * @see {@link takeUntil}
-	 * @see {@link takeWhile}
-	 * @see {@link skip}
-	 *
-	 * @throws {ArgumentOutOfRangeError} When using `take(i)`, it delivers an
-	 * ArgumentOutOrRangeError to the Observer's `error` callback if `i < 0`.
-	 *
-	 * @param {number} count The maximum number of `next` values to emit.
-	 * @return {Observable<T>} An Observable that emits only the first `count`
-	 * values emitted by the source Observable, or all of the values from the source
-	 * if the source emits fewer than `count` values.
-	 * @method take
-	 * @owner Observable
-	 */
-	function take(count) {
-	    return take_1.take(count)(this);
-	}
-	exports.take = take;
-	//# sourceMappingURL=take.js.map
-
-/***/ }),
-/* 484 */
+/* 519 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -26772,8 +27891,8 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    function __() { this.constructor = d; }
 	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 	};
-	var Subscriber_1 = __webpack_require__(293);
-	var ArgumentOutOfRangeError_1 = __webpack_require__(485);
+	var Subscriber_1 = __webpack_require__(294);
+	var ArgumentOutOfRangeError_1 = __webpack_require__(520);
 	var EmptyObservable_1 = __webpack_require__(311);
 	/**
 	 * Emits only the first `count` values emitted by the source Observable.
@@ -26809,14 +27928,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	 * @owner Observable
 	 */
 	function take(count) {
-	    return function (source) {
-	        if (count === 0) {
-	            return new EmptyObservable_1.EmptyObservable();
-	        }
-	        else {
-	            return source.lift(new TakeOperator(count));
-	        }
-	    };
+	    if (count === 0) {
+	        return new EmptyObservable_1.EmptyObservable();
+	    }
+	    else {
+	        return this.lift(new TakeOperator(count));
+	    }
 	}
 	exports.take = take;
 	var TakeOperator = (function () {
@@ -26859,7 +27976,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=take.js.map
 
 /***/ }),
-/* 485 */
+/* 520 */
 /***/ (function(module, exports) {
 
 	"use strict";
@@ -26892,71 +28009,84 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=ArgumentOutOfRangeError.js.map
 
 /***/ }),
-/* 486 */
+/* 521 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
-	var Observable_1 = __webpack_require__(290);
-	// HACK: this is here for backward compatability
-	// TODO(benlesh): remove this in v6.
-	exports.toPromise = Observable_1.Observable.prototype.toPromise;
+	var root_1 = __webpack_require__(292);
+	/* tslint:enable:max-line-length */
+	/**
+	 * Converts an Observable sequence to a ES2015 compliant promise.
+	 *
+	 * @example
+	 * // Using normal ES2015
+	 * let source = Rx.Observable
+	 *   .of(42)
+	 *   .toPromise();
+	 *
+	 * source.then((value) => console.log('Value: %s', value));
+	 * // => Value: 42
+	 *
+	 * // Rejected Promise
+	 * // Using normal ES2015
+	 * let source = Rx.Observable
+	 *   .throw(new Error('woops'))
+	 *   .toPromise();
+	 *
+	 * source
+	 *   .then((value) => console.log('Value: %s', value))
+	 *   .catch((err) => console.log('Error: %s', err));
+	 * // => Error: Error: woops
+	 *
+	 * // Setting via the config
+	 * Rx.config.Promise = RSVP.Promise;
+	 *
+	 * let source = Rx.Observable
+	 *   .of(42)
+	 *   .toPromise();
+	 *
+	 * source.then((value) => console.log('Value: %s', value));
+	 * // => Value: 42
+	 *
+	 * // Setting via the method
+	 * let source = Rx.Observable
+	 *   .of(42)
+	 *   .toPromise(RSVP.Promise);
+	 *
+	 * source.then((value) => console.log('Value: %s', value));
+	 * // => Value: 42
+	 *
+	 * @param {PromiseConstructor} [PromiseCtor] The constructor of the promise. If not provided,
+	 * it will look for a constructor first in Rx.config.Promise then fall back to
+	 * the native Promise constructor if available.
+	 * @return {Promise<T>} An ES2015 compatible promise with the last value from
+	 * the observable sequence.
+	 * @method toPromise
+	 * @owner Observable
+	 */
+	function toPromise(PromiseCtor) {
+	    var _this = this;
+	    if (!PromiseCtor) {
+	        if (root_1.root.Rx && root_1.root.Rx.config && root_1.root.Rx.config.Promise) {
+	            PromiseCtor = root_1.root.Rx.config.Promise;
+	        }
+	        else if (root_1.root.Promise) {
+	            PromiseCtor = root_1.root.Promise;
+	        }
+	    }
+	    if (!PromiseCtor) {
+	        throw new Error('no Promise impl found');
+	    }
+	    return new PromiseCtor(function (resolve, reject) {
+	        var value;
+	        _this.subscribe(function (x) { return value = x; }, function (err) { return reject(err); }, function () { return resolve(value); });
+	    });
+	}
+	exports.toPromise = toPromise;
 	//# sourceMappingURL=toPromise.js.map
 
 /***/ }),
-/* 487 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	"use strict";
-	var scan_1 = __webpack_require__(488);
-	/* tslint:enable:max-line-length */
-	/**
-	 * Applies an accumulator function over the source Observable, and returns each
-	 * intermediate result, with an optional seed value.
-	 *
-	 * <span class="informal">It's like {@link reduce}, but emits the current
-	 * accumulation whenever the source emits a value.</span>
-	 *
-	 * <img src="./img/scan.png" width="100%">
-	 *
-	 * Combines together all values emitted on the source, using an accumulator
-	 * function that knows how to join a new source value into the accumulation from
-	 * the past. Is similar to {@link reduce}, but emits the intermediate
-	 * accumulations.
-	 *
-	 * Returns an Observable that applies a specified `accumulator` function to each
-	 * item emitted by the source Observable. If a `seed` value is specified, then
-	 * that value will be used as the initial value for the accumulator. If no seed
-	 * value is specified, the first item of the source is used as the seed.
-	 *
-	 * @example <caption>Count the number of click events</caption>
-	 * var clicks = Rx.Observable.fromEvent(document, 'click');
-	 * var ones = clicks.mapTo(1);
-	 * var seed = 0;
-	 * var count = ones.scan((acc, one) => acc + one, seed);
-	 * count.subscribe(x => console.log(x));
-	 *
-	 * @see {@link expand}
-	 * @see {@link mergeScan}
-	 * @see {@link reduce}
-	 *
-	 * @param {function(acc: R, value: T, index: number): R} accumulator
-	 * The accumulator function called on each source value.
-	 * @param {T|R} [seed] The initial accumulation value.
-	 * @return {Observable<R>} An observable of the accumulated values.
-	 * @method scan
-	 * @owner Observable
-	 */
-	function scan(accumulator, seed) {
-	    if (arguments.length >= 2) {
-	        return scan_1.scan(accumulator, seed)(this);
-	    }
-	    return scan_1.scan(accumulator)(this);
-	}
-	exports.scan = scan;
-	//# sourceMappingURL=scan.js.map
-
-/***/ }),
-/* 488 */
+/* 522 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -26965,7 +28095,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    function __() { this.constructor = d; }
 	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 	};
-	var Subscriber_1 = __webpack_require__(293);
+	var Subscriber_1 = __webpack_require__(294);
 	/* tslint:enable:max-line-length */
 	/**
 	 * Applies an accumulator function over the source Observable, and returns each
@@ -27014,9 +28144,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    if (arguments.length >= 2) {
 	        hasSeed = true;
 	    }
-	    return function scanOperatorFunction(source) {
-	        return source.lift(new ScanOperator(accumulator, seed, hasSeed));
-	    };
+	    return this.lift(new ScanOperator(accumulator, seed, hasSeed));
 	}
 	exports.scan = scan;
 	var ScanOperator = (function () {
@@ -27082,20 +28210,20 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=scan.js.map
 
 /***/ }),
-/* 489 */
+/* 523 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var Promise, Qs, RequestError, _Promise, _defaults, _fetch, _isArray, _isPlainObject, fetch, nodeFetch, statusCheck, toJson,
 	  extend = function(child, parent) { for (var key in parent) { if (hasProp.call(parent, key)) child[key] = parent[key]; } function ctor() { this.constructor = child; } ctor.prototype = parent.prototype; child.prototype = new ctor(); child.__super__ = parent.prototype; return child; },
 	  hasProp = {}.hasOwnProperty;
 
-	_isPlainObject = __webpack_require__(251);
+	_isPlainObject = __webpack_require__(252);
 
-	_isArray = __webpack_require__(92);
+	_isArray = __webpack_require__(91);
 
 	_defaults = __webpack_require__(233);
 
-	Qs = __webpack_require__(490);
+	Qs = __webpack_require__(524);
 
 	Promise = typeof window !== "undefined" && window !== null ? window.Promise : (_Promise = 'bluebird', !(function webpackMissingModule() { var e = new Error("Cannot find module \".\""); e.code = 'MODULE_NOT_FOUND'; throw e; }()));
 
@@ -27179,20 +28307,20 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 490 */
+/* 524 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	module.exports = __webpack_require__(491);
+	module.exports = __webpack_require__(525);
 
 
 /***/ }),
-/* 491 */
+/* 525 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	// Load modules
 
-	var Stringify = __webpack_require__(492);
-	var Parse = __webpack_require__(494);
+	var Stringify = __webpack_require__(526);
+	var Parse = __webpack_require__(528);
 
 
 	// Declare internals
@@ -27207,12 +28335,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 492 */
+/* 526 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	// Load modules
 
-	var Utils = __webpack_require__(493);
+	var Utils = __webpack_require__(527);
 
 
 	// Declare internals
@@ -27310,7 +28438,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 493 */
+/* 527 */
 /***/ (function(module, exports) {
 
 	// Load modules
@@ -27448,12 +28576,12 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 494 */
+/* 528 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	// Load modules
 
-	var Utils = __webpack_require__(493);
+	var Utils = __webpack_require__(527);
 
 
 	// Declare internals
@@ -27611,7 +28739,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 495 */
+/* 529 */
 /***/ (function(module, exports) {
 
 	function webpackContext(req) {
@@ -27620,15 +28748,15 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	webpackContext.keys = function() { return []; };
 	webpackContext.resolve = webpackContext;
 	module.exports = webpackContext;
-	webpackContext.id = 495;
+	webpackContext.id = 529;
 
 
 /***/ }),
-/* 496 */
+/* 530 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var basePick = __webpack_require__(497),
-	    flatRest = __webpack_require__(498);
+	var basePick = __webpack_require__(531),
+	    flatRest = __webpack_require__(532);
 
 	/**
 	 * Creates an object composed of the picked `object` properties.
@@ -27655,11 +28783,11 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 497 */
+/* 531 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	var basePickBy = __webpack_require__(337),
-	    hasIn = __webpack_require__(135);
+	var basePickBy = __webpack_require__(330),
+	    hasIn = __webpack_require__(134);
 
 	/**
 	 * The base implementation of `_.pick` without support for individual
@@ -27680,7 +28808,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 498 */
+/* 532 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var flatten = __webpack_require__(198),
@@ -27702,17 +28830,17 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 499 */
+/* 533 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
-	var Observable_1 = __webpack_require__(290);
-	var take_1 = __webpack_require__(483);
+	var Observable_1 = __webpack_require__(291);
+	var take_1 = __webpack_require__(519);
 	Observable_1.Observable.prototype.take = take_1.take;
 	//# sourceMappingURL=take.js.map
 
 /***/ }),
-/* 500 */
+/* 534 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var Auth, RxObservable, _defaults, _pick, config,
@@ -27720,79 +28848,71 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 	_defaults = __webpack_require__(233);
 
-	_pick = __webpack_require__(496);
+	_pick = __webpack_require__(530);
 
-	RxObservable = __webpack_require__(290).Observable;
+	RxObservable = __webpack_require__(291).Observable;
 
-	__webpack_require__(501);
+	__webpack_require__(535);
 
-	__webpack_require__(504);
+	__webpack_require__(538);
 
-	__webpack_require__(403);
+	__webpack_require__(539);
 
-	__webpack_require__(499);
+	__webpack_require__(322);
 
-	config = __webpack_require__(370);
+	__webpack_require__(533);
+
+	__webpack_require__(390);
+
+	config = __webpack_require__(430);
 
 	module.exports = Auth = (function() {
 	  function Auth(options) {
 	    this.call = bind(this.call, this);
 	    this.stream = bind(this.stream, this);
-	    this.loginFacebook = bind(this.loginFacebook, this);
+	    this.loginTwitchExtension = bind(this.loginTwitchExtension, this);
+	    this.loginTwitch = bind(this.loginTwitch, this);
 	    this.login = bind(this.login, this);
 	    this.afterLogin = bind(this.afterLogin, this);
 	    this.join = bind(this.join, this);
 	    this.logout = bind(this.logout, this);
 	    this.setAccessToken = bind(this.setAccessToken, this);
 	    var initPromise;
-	    this.exoid = options.exoid, this.cookieSubject = options.cookieSubject, this.pushToken = options.pushToken, this.l = options.l, this.userAgent = options.userAgent, this.portal = options.portal;
+	    this.exoid = options.exoid, this.pushToken = options.pushToken, this.l = options.l, this.cookie = options.cookie, this.userAgent = options.userAgent, this.portal = options.portal;
 	    initPromise = null;
 	    this.waitValidAuthCookie = RxObservable.defer((function(_this) {
 	      return function() {
-	        if (initPromise != null) {
-	          return initPromise;
-	        }
-	        return initPromise = _this.cookieSubject.take(1).toPromise().then(function(currentCookies) {
-	          var language;
-	          language = _this.l.getLanguageStr();
-	          return (currentCookies[config.AUTH_COOKIE] != null ? _this.exoid.getCached('users.getMe').then(function(user) {
-	            if (user != null) {
-	              return {
-	                accessToken: currentCookies[config.AUTH_COOKIE]
-	              };
-	            }
-	            return _this.exoid.call('users.getMe').then(function() {
-	              return {
-	                accessToken: currentCookies[config.AUTH_COOKIE]
-	              };
-	            });
-	          })["catch"](function() {
-	            return _this.exoid.call('auth.login', {
-	              language: language
-	            });
-	          }) : _this.exoid.call('auth.login', {
-	            language: language
-	          })).then(function(arg) {
-	            var accessToken;
-	            accessToken = arg.accessToken;
-	            return _this.setAccessToken(accessToken);
+	        var accessToken, language;
+	        accessToken = _this.cookie.get(config.AUTH_COOKIE);
+	        language = _this.l.getLanguageStr();
+	        return (accessToken ? _this.exoid.getCached('users.getMe').then(function(user) {
+	          if (user != null) {
+	            return {
+	              accessToken: accessToken
+	            };
+	          }
+	          return _this.exoid.call('users.getMe').then(function() {
+	            return {
+	              accessToken: accessToken
+	            };
 	          });
+	        })["catch"](function() {
+	          return _this.exoid.call('auth.login', {
+	            language: language
+	          });
+	        }) : _this.exoid.call('auth.login', {
+	          language: language
+	        })).then(function(arg) {
+	          var accessToken;
+	          accessToken = arg.accessToken;
+	          return _this.setAccessToken(accessToken);
 	        });
 	      };
-	    })(this));
+	    })(this)).publishReplay(1).refCount();
 	  }
 
 	  Auth.prototype.setAccessToken = function(accessToken) {
-	    return this.cookieSubject.take(1).toPromise().then((function(_this) {
-	      return function(currentCookies) {
-	        var obj;
-	        return _this.cookieSubject.next(_defaults((
-	          obj = {},
-	          obj["" + config.AUTH_COOKIE] = accessToken,
-	          obj
-	        ), currentCookies));
-	      };
-	    })(this));
+	    return this.cookie.set(config.AUTH_COOKIE, accessToken);
 	  };
 
 	  Auth.prototype.logout = function() {
@@ -27805,10 +28925,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	      return function(arg) {
 	        var accessToken;
 	        accessToken = arg.accessToken;
-	        return _this.setAccessToken(accessToken);
-	      };
-	    })(this)).then((function(_this) {
-	      return function() {
+	        _this.setAccessToken(accessToken);
 	        return _this.exoid.invalidateAll();
 	      };
 	    })(this));
@@ -27825,37 +28942,35 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	      return function(arg1) {
 	        var accessToken, username;
 	        username = arg1.username, accessToken = arg1.accessToken;
-	        return _this.setAccessToken(accessToken).then(function() {
-	          return _this.exoid.invalidateAll();
-	        });
+	        _this.setAccessToken(accessToken);
+	        return _this.exoid.invalidateAll();
 	      };
 	    })(this));
 	  };
 
 	  Auth.prototype.afterLogin = function(arg) {
-	    var accessToken;
+	    var accessToken, pushToken;
 	    accessToken = arg.accessToken;
-	    return this.setAccessToken(accessToken).then((function(_this) {
-	      return function() {
-	        _this.exoid.invalidateAll();
-	        return setTimeout(function() {
-	          var pushToken;
-	          pushToken = _this.pushToken.getValue();
-	          if (pushToken) {
-	            return _this.portal.call('app.getDeviceId')["catch"](function() {
-	              return null;
-	            }).then(function(deviceId) {
-	              return _this.call('pushTokens.updateByToken', {
-	                token: pushToken,
-	                deviceId: deviceId
-	              });
-	            })["catch"](function() {
-	              return null;
-	            });
-	          }
-	        });
-	      };
-	    })(this));
+	    this.setAccessToken(accessToken);
+	    this.exoid.invalidateAll();
+	    pushToken = this.pushToken.getValue();
+	    if (pushToken == null) {
+	      pushToken = 'none';
+	    }
+	    if (pushToken) {
+	      return this.portal.call('app.getDeviceId')["catch"](function() {
+	        return null;
+	      }).then((function(_this) {
+	        return function(deviceId) {
+	          return _this.call('pushTokens.upsert', {
+	            token: pushToken,
+	            deviceId: deviceId
+	          });
+	        };
+	      })(this))["catch"](function() {
+	        return null;
+	      });
+	    }
 	  };
 
 	  Auth.prototype.login = function(arg) {
@@ -27867,22 +28982,23 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    }).then(this.afterLogin);
 	  };
 
-	  Auth.prototype.loginFacebook = function(arg) {
-	    var cookieAccessToken, facebookAccessToken, isLoginOnly, ref;
-	    ref = arg != null ? arg : {}, facebookAccessToken = ref.facebookAccessToken, isLoginOnly = ref.isLoginOnly;
-	    cookieAccessToken = this.cookieSubject.getValue()[config.AUTH_COOKIE];
-	    return (facebookAccessToken ? Promise.resolve({
-	      facebookAccessToken: facebookAccessToken
-	    }) : this.portal.call('facebook.login')).then((function(_this) {
-	      return function(arg1) {
-	        var facebookAccessToken, status;
-	        status = arg1.status, facebookAccessToken = arg1.facebookAccessToken;
-	        return _this.exoid.call('auth.loginFacebook', {
-	          isLoginOnly: isLoginOnly,
-	          facebookAccessToken: facebookAccessToken
-	        });
-	      };
-	    })(this)).then(this.afterLogin);
+	  Auth.prototype.loginTwitch = function(arg) {
+	    var code, idToken, isLoginOnly, ref;
+	    ref = arg != null ? arg : {}, code = ref.code, idToken = ref.idToken, isLoginOnly = ref.isLoginOnly;
+	    return this.exoid.call('auth.loginTwitch', {
+	      isLoginOnly: isLoginOnly,
+	      code: code,
+	      idToken: idToken
+	    }).then(this.afterLogin);
+	  };
+
+	  Auth.prototype.loginTwitchExtension = function(arg) {
+	    var isLoginOnly, ref, token;
+	    ref = arg != null ? arg : {}, token = ref.token, isLoginOnly = ref.isLoginOnly;
+	    return this.exoid.call('auth.loginTwitchExtension', {
+	      isLoginOnly: isLoginOnly,
+	      token: token
+	    }).then(this.afterLogin);
 	  };
 
 	  Auth.prototype.stream = function(path, body, options) {
@@ -27909,7 +29025,8 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	        if (invalidateAll) {
 	          _this.exoid.invalidateAll();
 	        } else if (invalidateSingle) {
-	          _this.exoid.invalidate(invalidateSingle);
+	          console.log('Invalidating single', invalidateSingle);
+	          _this.exoid.invalidate(invalidateSingle.path, invalidateSingle.body);
 	        }
 	        return response;
 	      };
@@ -27922,26 +29039,26 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 501 */
+/* 535 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
-	var Observable_1 = __webpack_require__(290);
-	var defer_1 = __webpack_require__(502);
+	var Observable_1 = __webpack_require__(291);
+	var defer_1 = __webpack_require__(536);
 	Observable_1.Observable.defer = defer_1.defer;
 	//# sourceMappingURL=defer.js.map
 
 /***/ }),
-/* 502 */
+/* 536 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
-	var DeferObservable_1 = __webpack_require__(503);
+	var DeferObservable_1 = __webpack_require__(537);
 	exports.defer = DeferObservable_1.DeferObservable.create;
 	//# sourceMappingURL=defer.js.map
 
 /***/ }),
-/* 503 */
+/* 537 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -27950,9 +29067,9 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    function __() { this.constructor = d; }
 	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 	};
-	var Observable_1 = __webpack_require__(290);
-	var subscribeToResult_1 = __webpack_require__(316);
-	var OuterSubscriber_1 = __webpack_require__(315);
+	var Observable_1 = __webpack_require__(291);
+	var subscribeToResult_1 = __webpack_require__(317);
+	var OuterSubscriber_1 = __webpack_require__(316);
 	/**
 	 * We need this JSDoc comment for affecting ESDoc.
 	 * @extends {Ignored}
@@ -28045,26 +29162,1635 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	//# sourceMappingURL=DeferObservable.js.map
 
 /***/ }),
-/* 504 */
+/* 538 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
-	var Observable_1 = __webpack_require__(290);
-	var fromPromise_1 = __webpack_require__(505);
+	var Observable_1 = __webpack_require__(291);
+	var toPromise_1 = __webpack_require__(521);
+	Observable_1.Observable.prototype.toPromise = toPromise_1.toPromise;
+	//# sourceMappingURL=toPromise.js.map
+
+/***/ }),
+/* 539 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	"use strict";
+	var Observable_1 = __webpack_require__(291);
+	var fromPromise_1 = __webpack_require__(540);
 	Observable_1.Observable.fromPromise = fromPromise_1.fromPromise;
 	//# sourceMappingURL=fromPromise.js.map
 
 /***/ }),
-/* 505 */
+/* 540 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
-	var PromiseObservable_1 = __webpack_require__(326);
+	var PromiseObservable_1 = __webpack_require__(541);
 	exports.fromPromise = PromiseObservable_1.PromiseObservable.create;
 	//# sourceMappingURL=fromPromise.js.map
 
 /***/ }),
-/* 506 */
+/* 541 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	"use strict";
+	var __extends = (this && this.__extends) || function (d, b) {
+	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+	    function __() { this.constructor = d; }
+	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+	};
+	var root_1 = __webpack_require__(292);
+	var Observable_1 = __webpack_require__(291);
+	/**
+	 * We need this JSDoc comment for affecting ESDoc.
+	 * @extends {Ignored}
+	 * @hide true
+	 */
+	var PromiseObservable = (function (_super) {
+	    __extends(PromiseObservable, _super);
+	    function PromiseObservable(promise, scheduler) {
+	        _super.call(this);
+	        this.promise = promise;
+	        this.scheduler = scheduler;
+	    }
+	    /**
+	     * Converts a Promise to an Observable.
+	     *
+	     * <span class="informal">Returns an Observable that just emits the Promise's
+	     * resolved value, then completes.</span>
+	     *
+	     * Converts an ES2015 Promise or a Promises/A+ spec compliant Promise to an
+	     * Observable. If the Promise resolves with a value, the output Observable
+	     * emits that resolved value as a `next`, and then completes. If the Promise
+	     * is rejected, then the output Observable emits the corresponding Error.
+	     *
+	     * @example <caption>Convert the Promise returned by Fetch to an Observable</caption>
+	     * var result = Rx.Observable.fromPromise(fetch('http://myserver.com/'));
+	     * result.subscribe(x => console.log(x), e => console.error(e));
+	     *
+	     * @see {@link bindCallback}
+	     * @see {@link from}
+	     *
+	     * @param {PromiseLike<T>} promise The promise to be converted.
+	     * @param {Scheduler} [scheduler] An optional IScheduler to use for scheduling
+	     * the delivery of the resolved value (or the rejection).
+	     * @return {Observable<T>} An Observable which wraps the Promise.
+	     * @static true
+	     * @name fromPromise
+	     * @owner Observable
+	     */
+	    PromiseObservable.create = function (promise, scheduler) {
+	        return new PromiseObservable(promise, scheduler);
+	    };
+	    PromiseObservable.prototype._subscribe = function (subscriber) {
+	        var _this = this;
+	        var promise = this.promise;
+	        var scheduler = this.scheduler;
+	        if (scheduler == null) {
+	            if (this._isScalar) {
+	                if (!subscriber.closed) {
+	                    subscriber.next(this.value);
+	                    subscriber.complete();
+	                }
+	            }
+	            else {
+	                promise.then(function (value) {
+	                    _this.value = value;
+	                    _this._isScalar = true;
+	                    if (!subscriber.closed) {
+	                        subscriber.next(value);
+	                        subscriber.complete();
+	                    }
+	                }, function (err) {
+	                    if (!subscriber.closed) {
+	                        subscriber.error(err);
+	                    }
+	                })
+	                    .then(null, function (err) {
+	                    // escape the promise trap, throw unhandled errors
+	                    root_1.root.setTimeout(function () { throw err; });
+	                });
+	            }
+	        }
+	        else {
+	            if (this._isScalar) {
+	                if (!subscriber.closed) {
+	                    return scheduler.schedule(dispatchNext, 0, { value: this.value, subscriber: subscriber });
+	                }
+	            }
+	            else {
+	                promise.then(function (value) {
+	                    _this.value = value;
+	                    _this._isScalar = true;
+	                    if (!subscriber.closed) {
+	                        subscriber.add(scheduler.schedule(dispatchNext, 0, { value: value, subscriber: subscriber }));
+	                    }
+	                }, function (err) {
+	                    if (!subscriber.closed) {
+	                        subscriber.add(scheduler.schedule(dispatchError, 0, { err: err, subscriber: subscriber }));
+	                    }
+	                })
+	                    .then(null, function (err) {
+	                    // escape the promise trap, throw unhandled errors
+	                    root_1.root.setTimeout(function () { throw err; });
+	                });
+	            }
+	        }
+	    };
+	    return PromiseObservable;
+	}(Observable_1.Observable));
+	exports.PromiseObservable = PromiseObservable;
+	function dispatchNext(arg) {
+	    var value = arg.value, subscriber = arg.subscriber;
+	    if (!subscriber.closed) {
+	        subscriber.next(value);
+	        subscriber.complete();
+	    }
+	}
+	function dispatchError(arg) {
+	    var err = arg.err, subscriber = arg.subscriber;
+	    if (!subscriber.closed) {
+	        subscriber.error(err);
+	    }
+	}
+	//# sourceMappingURL=PromiseObservable.js.map
+
+/***/ }),
+/* 542 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var COOKIE_DURATION_MS, Cookie, config,
+	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
+
+	config = __webpack_require__(430);
+
+	COOKIE_DURATION_MS = 365 * 24 * 3600 * 1000;
+
+	Cookie = (function() {
+	  function Cookie(arg) {
+	    var initialCookies;
+	    initialCookies = arg.initialCookies, this.setCookie = arg.setCookie, this.host = arg.host;
+	    this.get = bind(this.get, this);
+	    this.set = bind(this.set, this);
+	    this.cookies = initialCookies || {};
+	  }
+
+	  Cookie.prototype.getCookieOpts = function(key, ttlMs) {
+	    var host, hostname;
+	    host = this.host || config.HOST;
+	    if (ttlMs == null) {
+	      ttlMs = COOKIE_DURATION_MS;
+	    }
+	    hostname = host.split(':')[0];
+	    return {
+	      path: '/',
+	      expires: new Date(Date.now() + ttlMs),
+	      domain: '.' + hostname
+	    };
+	  };
+
+	  Cookie.prototype.set = function(key, value, arg) {
+	    var options, ttlMs;
+	    ttlMs = (arg != null ? arg : {}).ttlMs;
+	    if (ttlMs == null) {
+	      ttlMs = COOKIE_DURATION_MS;
+	    }
+	    this.cookies[key] = value;
+	    options = this.getCookieOpts(key, ttlMs);
+	    return this.setCookie(key, value, options);
+	  };
+
+	  Cookie.prototype.get = function(key) {
+	    return this.cookies[key];
+	  };
+
+	  return Cookie;
+
+	})();
+
+	module.exports = Cookie;
+
+
+/***/ }),
+/* 543 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var Group, config,
+	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
+
+	config = __webpack_require__(430);
+
+	module.exports = Group = (function() {
+	  Group.prototype.namespace = 'groups';
+
+	  function Group(arg) {
+	    this.auth = arg.auth;
+	    this.updateById = bind(this.updateById, this);
+	    this.sendNotificationById = bind(this.sendNotificationById, this);
+	    this.inviteById = bind(this.inviteById, this);
+	    this.leaveById = bind(this.leaveById, this);
+	    this.joinById = bind(this.joinById, this);
+	    this.getAllChannelsById = bind(this.getAllChannelsById, this);
+	    this.getByGameKeyAndLanguage = bind(this.getByGameKeyAndLanguage, this);
+	    this.getByKey = bind(this.getByKey, this);
+	    this.getById = bind(this.getById, this);
+	    this.getAllByUserId = bind(this.getAllByUserId, this);
+	    this.getAll = bind(this.getAll, this);
+	    this.create = bind(this.create, this);
+	    null;
+	  }
+
+	  Group.prototype.create = function(arg) {
+	    var background, badgeId, description, mode, name;
+	    name = arg.name, description = arg.description, badgeId = arg.badgeId, background = arg.background, mode = arg.mode;
+	    return this.auth.call(this.namespace + ".create", {
+	      name: name,
+	      description: description,
+	      badgeId: badgeId,
+	      background: background,
+	      mode: mode
+	    }, {
+	      invalidateAll: true
+	    });
+	  };
+
+	  Group.prototype.getPath = function(group, path, router) {
+	    return null;
+	  };
+
+	  Group.prototype.getAll = function(arg) {
+	    var embed, filter, language, ref;
+	    ref = arg != null ? arg : {}, filter = ref.filter, language = ref.language, embed = ref.embed;
+	    if (embed == null) {
+	      embed = ['conversations', 'star', 'userCount'];
+	    }
+	    return this.auth.stream(this.namespace + ".getAll", {
+	      filter: filter,
+	      language: language,
+	      embed: embed
+	    });
+	  };
+
+	  Group.prototype.getAllByUserId = function(userId, arg) {
+	    var embed;
+	    embed = (arg != null ? arg : {}).embed;
+	    if (embed == null) {
+	      embed = ['meGroupUser', 'conversations', 'star', 'userCount'];
+	    }
+	    return this.auth.stream(this.namespace + ".getAllByUserId", {
+	      userId: userId,
+	      embed: embed
+	    });
+	  };
+
+	  Group.prototype.getById = function(id, arg) {
+	    var autoJoin;
+	    autoJoin = (arg != null ? arg : {}).autoJoin;
+	    return this.auth.stream(this.namespace + ".getById", {
+	      id: id,
+	      autoJoin: autoJoin
+	    });
+	  };
+
+	  Group.prototype.getByKey = function(key, arg) {
+	    var autoJoin;
+	    autoJoin = (arg != null ? arg : {}).autoJoin;
+	    return this.auth.stream(this.namespace + ".getByKey", {
+	      key: key,
+	      autoJoin: autoJoin
+	    });
+	  };
+
+	  Group.prototype.getByGameKeyAndLanguage = function(gameKey, language, arg) {
+	    var autoJoin;
+	    autoJoin = (arg != null ? arg : {}).autoJoin;
+	    return this.auth.stream(this.namespace + ".getByGameKeyAndLanguage", {
+	      gameKey: gameKey,
+	      language: language,
+	      autoJoin: autoJoin
+	    });
+	  };
+
+	  Group.prototype.getAllChannelsById = function(id) {
+	    return this.auth.stream(this.namespace + ".getAllChannelsById", {
+	      id: id
+	    });
+	  };
+
+	  Group.prototype.joinById = function(id) {
+	    return this.auth.call(this.namespace + ".joinById", {
+	      id: id
+	    }, {
+	      invalidateAll: true
+	    });
+	  };
+
+	  Group.prototype.leaveById = function(id) {
+	    return this.auth.call(this.namespace + ".leaveById", {
+	      id: id
+	    }, {
+	      invalidateAll: true
+	    });
+	  };
+
+	  Group.prototype.inviteById = function(id, arg) {
+	    var userIds;
+	    userIds = arg.userIds;
+	    return this.auth.call(this.namespace + ".inviteById", {
+	      id: id,
+	      userIds: userIds
+	    }, {
+	      invalidateAll: true
+	    });
+	  };
+
+	  Group.prototype.sendNotificationById = function(id, arg) {
+	    var description, pathKey, title;
+	    title = arg.title, description = arg.description, pathKey = arg.pathKey;
+	    return this.auth.call(this.namespace + ".sendNotificationById", {
+	      id: id,
+	      title: title,
+	      description: description,
+	      pathKey: pathKey
+	    }, {
+	      invalidateAll: true
+	    });
+	  };
+
+	  Group.prototype.updateById = function(id, arg) {
+	    var background, badgeId, description, mode, name;
+	    name = arg.name, description = arg.description, badgeId = arg.badgeId, background = arg.background, mode = arg.mode;
+	    return this.auth.call(this.namespace + ".updateById", {
+	      id: id,
+	      name: name,
+	      description: description,
+	      badgeId: badgeId,
+	      background: background,
+	      mode: mode
+	    }, {
+	      invalidateAll: true
+	    });
+	  };
+
+	  Group.prototype.getDisplayName = function(group) {
+	    return (group != null ? group.name : void 0) || 'Nameless';
+	  };
+
+	  Group.prototype.hasGameKey = function(group, gameKey) {
+	    var ref;
+	    return ((group != null ? group.gameKeys : void 0) && (group != null ? (ref = group.gameKeys) != null ? ref.indexOf(gameKey) : void 0 : void 0) !== -1) || (group != null ? group.gameKey : void 0) === gameKey;
+	  };
+
+	  Group.prototype.hasPermission = function(group, user, arg) {
+	    var level, userId;
+	    level = (arg != null ? arg : {}).level;
+	    userId = user != null ? user.id : void 0;
+	    if (level == null) {
+	      level = 'member';
+	    }
+	    if (!(userId && group)) {
+	      return false;
+	    }
+	    switch (level) {
+	      case 'admin':
+	        return group.creatorId === userId;
+	      default:
+	        return false;
+	    }
+	  };
+
+	  return Group;
+
+	})();
+
+
+/***/ }),
+/* 544 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var GroupUser, _clone, _defaults, _every, _find, config,
+	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
+
+	_every = __webpack_require__(545);
+
+	_find = __webpack_require__(407);
+
+	_defaults = __webpack_require__(233);
+
+	_clone = __webpack_require__(485);
+
+	config = __webpack_require__(430);
+
+	module.exports = GroupUser = (function() {
+	  GroupUser.prototype.namespace = 'groupUsers';
+
+	  function GroupUser(arg) {
+	    this.auth = arg.auth;
+	    this.updateMeSettingsByGroupId = bind(this.updateMeSettingsByGroupId, this);
+	    this.getOnlineCountByGroupId = bind(this.getOnlineCountByGroupId, this);
+	    this.getMeSettingsByGroupId = bind(this.getMeSettingsByGroupId, this);
+	    this.getTopByGroupId = bind(this.getTopByGroupId, this);
+	    this.getByGroupIdAndUserId = bind(this.getByGroupIdAndUserId, this);
+	    this.addXpByGroupIdAndUserId = bind(this.addXpByGroupIdAndUserId, this);
+	    this.removeRoleByGroupIdAndUserId = bind(this.removeRoleByGroupIdAndUserId, this);
+	    this.addRoleByGroupIdAndUserId = bind(this.addRoleByGroupIdAndUserId, this);
+	    null;
+	  }
+
+	  GroupUser.prototype.addRoleByGroupIdAndUserId = function(groupId, userId, roleId) {
+	    return this.auth.call(this.namespace + ".addRoleByGroupIdAndUserId", {
+	      userId: userId,
+	      groupId: groupId,
+	      roleId: roleId
+	    }, {
+	      invalidateAll: true
+	    });
+	  };
+
+	  GroupUser.prototype.removeRoleByGroupIdAndUserId = function(groupId, userId, roleId) {
+	    return this.auth.call(this.namespace + ".removeRoleByGroupIdAndUserId", {
+	      userId: userId,
+	      groupId: groupId,
+	      roleId: roleId
+	    }, {
+	      invalidateAll: true
+	    });
+	  };
+
+	  GroupUser.prototype.addXpByGroupIdAndUserId = function(groupId, userId, xp) {
+	    return this.auth.call(this.namespace + ".addXpByGroupIdAndUserId", {
+	      userId: userId,
+	      groupId: groupId,
+	      xp: xp
+	    }, {
+	      invalidateAll: true
+	    });
+	  };
+
+	  GroupUser.prototype.getByGroupIdAndUserId = function(groupId, userId) {
+	    return this.auth.stream(this.namespace + ".getByGroupIdAndUserId", {
+	      groupId: groupId,
+	      userId: userId
+	    });
+	  };
+
+	  GroupUser.prototype.getTopByGroupId = function(groupId) {
+	    return this.auth.stream(this.namespace + ".getTopByGroupId", {
+	      groupId: groupId
+	    });
+	  };
+
+	  GroupUser.prototype.getMeSettingsByGroupId = function(groupId) {
+	    return this.auth.stream(this.namespace + ".getMeSettingsByGroupId", {
+	      groupId: groupId
+	    });
+	  };
+
+	  GroupUser.prototype.getOnlineCountByGroupId = function(groupId) {
+	    return this.auth.stream(this.namespace + ".getOnlineCountByGroupId", {
+	      groupId: groupId
+	    });
+	  };
+
+	  GroupUser.prototype.updateMeSettingsByGroupId = function(groupId, arg) {
+	    var globalNotifications;
+	    globalNotifications = arg.globalNotifications;
+	    return this.auth.call(this.namespace + ".updateMeSettingsByGroupId", {
+	      groupId: groupId,
+	      globalNotifications: globalNotifications
+	    });
+	  };
+
+	  GroupUser.prototype.hasPermission = function(arg) {
+	    var channelId, isGlobalModerator, me, meGroupUser, permissions, ref, roles;
+	    meGroupUser = arg.meGroupUser, me = arg.me, permissions = arg.permissions, channelId = arg.channelId, roles = arg.roles;
+	    if (roles == null) {
+	      roles = meGroupUser != null ? meGroupUser.roles : void 0;
+	    }
+	    isGlobalModerator = me != null ? (ref = me.flags) != null ? ref.isModerator : void 0 : void 0;
+	    return isGlobalModerator || _every(permissions, function(permission) {
+	      return _find(roles, function(role) {
+	        var channelPermissions, globalPermissions, ref1;
+	        channelPermissions = channelId && ((ref1 = role.channelPermissions) != null ? ref1[channelId] : void 0);
+	        globalPermissions = role.globalPermissions;
+	        permissions = _defaults(channelPermissions, globalPermissions, config.DEFAULT_PERMISSIONS);
+	        return permissions[permission];
+	      });
+	    });
+	  };
+
+	  return GroupUser;
+
+	})();
+
+
+/***/ }),
+/* 545 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var arrayEvery = __webpack_require__(546),
+	    baseEvery = __webpack_require__(547),
+	    baseIteratee = __webpack_require__(28),
+	    isArray = __webpack_require__(91),
+	    isIterateeCall = __webpack_require__(162);
+
+	/**
+	 * Checks if `predicate` returns truthy for **all** elements of `collection`.
+	 * Iteration is stopped once `predicate` returns falsey. The predicate is
+	 * invoked with three arguments: (value, index|key, collection).
+	 *
+	 * **Note:** This method returns `true` for
+	 * [empty collections](https://en.wikipedia.org/wiki/Empty_set) because
+	 * [everything is true](https://en.wikipedia.org/wiki/Vacuous_truth) of
+	 * elements of empty collections.
+	 *
+	 * @static
+	 * @memberOf _
+	 * @since 0.1.0
+	 * @category Collection
+	 * @param {Array|Object} collection The collection to iterate over.
+	 * @param {Function} [predicate=_.identity] The function invoked per iteration.
+	 * @param- {Object} [guard] Enables use as an iteratee for methods like `_.map`.
+	 * @returns {boolean} Returns `true` if all elements pass the predicate check,
+	 *  else `false`.
+	 * @example
+	 *
+	 * _.every([true, 1, null, 'yes'], Boolean);
+	 * // => false
+	 *
+	 * var users = [
+	 *   { 'user': 'barney', 'age': 36, 'active': false },
+	 *   { 'user': 'fred',   'age': 40, 'active': false }
+	 * ];
+	 *
+	 * // The `_.matches` iteratee shorthand.
+	 * _.every(users, { 'user': 'barney', 'active': false });
+	 * // => false
+	 *
+	 * // The `_.matchesProperty` iteratee shorthand.
+	 * _.every(users, ['active', false]);
+	 * // => true
+	 *
+	 * // The `_.property` iteratee shorthand.
+	 * _.every(users, 'active');
+	 * // => false
+	 */
+	function every(collection, predicate, guard) {
+	  var func = isArray(collection) ? arrayEvery : baseEvery;
+	  if (guard && isIterateeCall(collection, predicate, guard)) {
+	    predicate = undefined;
+	  }
+	  return func(collection, baseIteratee(predicate, 3));
+	}
+
+	module.exports = every;
+
+
+/***/ }),
+/* 546 */
+/***/ (function(module, exports) {
+
+	/**
+	 * A specialized version of `_.every` for arrays without support for
+	 * iteratee shorthands.
+	 *
+	 * @private
+	 * @param {Array} [array] The array to iterate over.
+	 * @param {Function} predicate The function invoked per iteration.
+	 * @returns {boolean} Returns `true` if all elements pass the predicate check,
+	 *  else `false`.
+	 */
+	function arrayEvery(array, predicate) {
+	  var index = -1,
+	      length = array == null ? 0 : array.length;
+
+	  while (++index < length) {
+	    if (!predicate(array[index], index, array)) {
+	      return false;
+	    }
+	  }
+	  return true;
+	}
+
+	module.exports = arrayEvery;
+
+
+/***/ }),
+/* 547 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var baseEach = __webpack_require__(142);
+
+	/**
+	 * The base implementation of `_.every` without support for iteratee shorthands.
+	 *
+	 * @private
+	 * @param {Array|Object} collection The collection to iterate over.
+	 * @param {Function} predicate The function invoked per iteration.
+	 * @returns {boolean} Returns `true` if all elements pass the predicate check,
+	 *  else `false`
+	 */
+	function baseEvery(collection, predicate) {
+	  var result = true;
+	  baseEach(collection, function(value, index, collection) {
+	    result = !!predicate(value, index, collection);
+	    return result;
+	  });
+	  return result;
+	}
+
+	module.exports = baseEvery;
+
+
+/***/ }),
+/* 548 */
+/***/ (function(module, exports) {
+
+	var EarnAction,
+	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
+
+	module.exports = EarnAction = (function() {
+	  EarnAction.prototype.namespace = 'earnActions';
+
+	  function EarnAction(arg) {
+	    this.auth = arg.auth;
+	    this.incrementByGroupIdAndAction = bind(this.incrementByGroupIdAndAction, this);
+	    this.getAllByGroupId = bind(this.getAllByGroupId, this);
+	    null;
+	  }
+
+	  EarnAction.prototype.getAllByGroupId = function(groupId, arg) {
+	    var platform;
+	    platform = (arg != null ? arg : {}).platform;
+	    return this.auth.stream(this.namespace + ".getAllByGroupId", {
+	      groupId: groupId,
+	      platform: platform
+	    });
+	  };
+
+	  EarnAction.prototype.incrementByGroupIdAndAction = function(groupId, action, options) {
+	    var successKey, timestamp;
+	    if (options == null) {
+	      options = {};
+	    }
+	    timestamp = options.timestamp, successKey = options.successKey;
+	    return this.auth.call(this.namespace + ".incrementByGroupIdAndAction", {
+	      groupId: groupId,
+	      action: action,
+	      timestamp: timestamp,
+	      successKey: successKey
+	    }, {
+	      invalidateAll: true
+	    });
+	  };
+
+	  return EarnAction;
+
+	})();
+
+
+/***/ }),
+/* 549 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var EarnAlert, RxBehaviorSubject,
+	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
+
+	RxBehaviorSubject = __webpack_require__(289).BehaviorSubject;
+
+	module.exports = EarnAlert = (function() {
+	  function EarnAlert() {
+	    this.hide = bind(this.hide, this);
+	    this.show = bind(this.show, this);
+	    this.getReward = bind(this.getReward, this);
+	    this._reward = new RxBehaviorSubject(null);
+	  }
+
+	  EarnAlert.prototype.getReward = function() {
+	    return this._reward;
+	  };
+
+	  EarnAlert.prototype.show = function(reward) {
+	    return this._reward.next(reward);
+	  };
+
+	  EarnAlert.prototype.hide = function() {
+	    return this._reward.next(null);
+	  };
+
+	  return EarnAlert;
+
+	})();
+
+
+/***/ }),
+/* 550 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var GroupRole, _defaults, _every, _find, config,
+	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
+
+	_every = __webpack_require__(545);
+
+	_find = __webpack_require__(407);
+
+	_defaults = __webpack_require__(233);
+
+	config = __webpack_require__(430);
+
+	module.exports = GroupRole = (function() {
+	  GroupRole.prototype.namespace = 'groupRoles';
+
+	  function GroupRole(arg) {
+	    this.auth = arg.auth;
+	    this.updatePermissions = bind(this.updatePermissions, this);
+	    this.deleteByGroupIdAndRoleId = bind(this.deleteByGroupIdAndRoleId, this);
+	    this.getAllByGroupId = bind(this.getAllByGroupId, this);
+	    this.createByGroupId = bind(this.createByGroupId, this);
+	    null;
+	  }
+
+	  GroupRole.prototype.createByGroupId = function(groupId, diff) {
+	    return this.auth.call(this.namespace + ".createByGroupId", _defaults({
+	      groupId: groupId
+	    }, diff), {
+	      invalidateAll: true
+	    });
+	  };
+
+	  GroupRole.prototype.getAllByGroupId = function(groupId) {
+	    return this.auth.stream(this.namespace + ".getAllByGroupId", {
+	      groupId: groupId
+	    });
+	  };
+
+	  GroupRole.prototype.deleteByGroupIdAndRoleId = function(groupId, roleId) {
+	    return this.auth.call(this.namespace + ".deleteByGroupIdAndRoleId", {
+	      groupId: groupId,
+	      roleId: roleId
+	    }, {
+	      invalidateAll: true
+	    });
+	  };
+
+	  GroupRole.prototype.updatePermissions = function(options) {
+	    return this.auth.call(this.namespace + ".updatePermissions", options, {
+	      invalidateAll: true
+	    });
+	  };
+
+	  return GroupRole;
+
+	})();
+
+
+/***/ }),
+/* 551 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var DateService, Language, RxBehaviorSubject, _defaultsDeep, _filter, _findKey, _keys, _mapValues, _reduce, config,
+	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
+
+	_reduce = __webpack_require__(374);
+
+	_defaultsDeep = __webpack_require__(552);
+
+	_mapValues = __webpack_require__(147);
+
+	_keys = __webpack_require__(95);
+
+	_reduce = __webpack_require__(374);
+
+	_findKey = __webpack_require__(555);
+
+	_filter = __webpack_require__(167);
+
+	RxBehaviorSubject = __webpack_require__(289).BehaviorSubject;
+
+	DateService = __webpack_require__(557);
+
+	config = __webpack_require__(360);
+
+	Language = (function() {
+	  function Language(arg) {
+	    var files, language, ref;
+	    ref = arg != null ? arg : {}, language = ref.language, this.cookie = ref.cookie;
+	    this.get = bind(this.get, this);
+	    this.getAllPathsByRouteKey = bind(this.getAllPathsByRouteKey, this);
+	    this.getRouteKeyByValue = bind(this.getRouteKeyByValue, this);
+	    this.getLanguageStr = bind(this.getLanguageStr, this);
+	    this.getLanguage = bind(this.getLanguage, this);
+	    this.setLanguage = bind(this.setLanguage, this);
+	    if (language == null) {
+	      language = 'en';
+	    }
+	    this.language = new RxBehaviorSubject(language);
+	    if ((typeof window !== "undefined" && window !== null) && config.ENV === config.ENVS.PROD) {
+	      this.files = window.languageStrings;
+	    } else {
+	      files = {
+	        strings: null,
+	        cards: null,
+	        addons: null,
+	        paths: null,
+	        languages: null,
+	        fortnite: null
+	      };
+	      this.files = _mapValues(files, function(val, file) {
+	        return _reduce(config.LANGUAGES, function(obj, lang) {
+	          var e;
+	          obj[lang] = (function() {
+	            try {
+	              return __webpack_require__(569)("./" + lang + "/" + file + "_" + lang + ".json");
+	            } catch (error) {
+	              e = error;
+	              return null;
+	            }
+	          })();
+	          return obj;
+	        }, {});
+	      });
+	    }
+	    this.setLanguage(language);
+	  }
+
+	  Language.prototype.getLanguageByCountry = function(country) {
+	    country = country != null ? country.toUpperCase() : void 0;
+	    if (country === 'AR' || country === 'BO' || country === 'CR' || country === 'CU' || country === 'DM' || country === 'EC' || country === 'SV' || country === 'GQ' || country === 'GT' || country === 'HN' || country === 'MX' || country === 'NI' || country === 'PA' || country === 'PE' || country === 'ES' || country === 'UY' || country === 'VE') {
+	      return 'es';
+	    } else if (country === 'IT') {
+	      return 'it';
+	    } else if (country === 'BR') {
+	      return 'pt';
+	    } else if (country === 'PL') {
+	      return 'pl';
+	    } else if (country === 'FR') {
+	      return 'fr';
+	    } else {
+	      return 'en';
+	    }
+	  };
+
+	  Language.prototype.setLanguage = function(language) {
+	    var ref;
+	    this.language.next(language);
+	    if ((ref = this.cookie) != null) {
+	      ref.set('language', language);
+	    }
+	    DateService.setL(this);
+	    return DateService.setLocale(language);
+	  };
+
+	  Language.prototype.getLanguage = function() {
+	    return this.language;
+	  };
+
+	  Language.prototype.getLanguageStr = function() {
+	    return this.language.getValue();
+	  };
+
+	  Language.prototype.getAll = function() {
+	    return config.LANGUAGES;
+	  };
+
+	  Language.prototype.getAllUrlLanguages = function() {
+	    return ['en', 'es', 'pt'];
+	  };
+
+	  Language.prototype.getNonGamePages = function() {
+	    return ['policies', 'privacy', 'termsOfService'];
+	  };
+
+	  Language.prototype.getRouteKeyByValue = function(routeValue) {
+	    var language;
+	    language = this.getLanguageStr();
+	    return _findKey(this.files['paths'][language], function(route) {
+	      return route === routeValue;
+	    }) || _findKey(this.files['paths']['en'], function(route) {
+	      return route === routeValue;
+	    });
+	  };
+
+	  Language.prototype.getAllPathsByRouteKey = function(routeKey) {
+	    var languages;
+	    languages = this.getAllUrlLanguages();
+	    return _reduce(languages, (function(_this) {
+	      return function(paths, language) {
+	        var path, ref;
+	        path = (ref = _this.files['paths'][language]) != null ? ref[routeKey] : void 0;
+	        if (path) {
+	          paths[language] = path;
+	        }
+	        return paths;
+	      };
+	    })(this), {});
+	  };
+
+	  Language.prototype.get = function(strKey, arg) {
+	    var baseResponse, file, language, pluralityCount, ref, ref1, ref2, replacements;
+	    ref = arg != null ? arg : {}, replacements = ref.replacements, file = ref.file, language = ref.language;
+	    if (file == null) {
+	      file = 'strings';
+	    }
+	    if (language == null) {
+	      language = this.getLanguageStr();
+	    }
+	    baseResponse = ((ref1 = this.files[file][language]) != null ? ref1[strKey] : void 0) || ((ref2 = this.files[file]['en']) != null ? ref2[strKey] : void 0) || '';
+	    if (typeof baseResponse === 'object') {
+	      pluralityCount = replacements[baseResponse.pluralityCheck];
+	      baseResponse = baseResponse.plurality[pluralityCount] || baseResponse.plurality.other || '';
+	    }
+	    return _reduce(replacements, function(str, replace, key) {
+	      var find;
+	      find = RegExp("{" + key + "}", "g");
+	      return str.replace(find, replace);
+	    }, baseResponse);
+	  };
+
+	  return Language;
+
+	})();
+
+	module.exports = Language;
+
+
+/***/ }),
+/* 552 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var apply = __webpack_require__(157),
+	    baseRest = __webpack_require__(155),
+	    customDefaultsMerge = __webpack_require__(553),
+	    mergeWith = __webpack_require__(554);
+
+	/**
+	 * This method is like `_.defaults` except that it recursively assigns
+	 * default properties.
+	 *
+	 * **Note:** This method mutates `object`.
+	 *
+	 * @static
+	 * @memberOf _
+	 * @since 3.10.0
+	 * @category Object
+	 * @param {Object} object The destination object.
+	 * @param {...Object} [sources] The source objects.
+	 * @returns {Object} Returns `object`.
+	 * @see _.defaults
+	 * @example
+	 *
+	 * _.defaultsDeep({ 'a': { 'b': 2 } }, { 'a': { 'b': 1, 'c': 3 } });
+	 * // => { 'a': { 'b': 2, 'c': 3 } }
+	 */
+	var defaultsDeep = baseRest(function(args) {
+	  args.push(undefined, customDefaultsMerge);
+	  return apply(mergeWith, undefined, args);
+	});
+
+	module.exports = defaultsDeep;
+
+
+/***/ }),
+/* 553 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var baseMerge = __webpack_require__(365),
+	    isObject = __webpack_require__(55);
+
+	/**
+	 * Used by `_.defaultsDeep` to customize its `_.merge` use to merge source
+	 * objects into destination objects that are passed thru.
+	 *
+	 * @private
+	 * @param {*} objValue The destination value.
+	 * @param {*} srcValue The source value.
+	 * @param {string} key The key of the property to merge.
+	 * @param {Object} object The parent object of `objValue`.
+	 * @param {Object} source The parent object of `srcValue`.
+	 * @param {Object} [stack] Tracks traversed source values and their merged
+	 *  counterparts.
+	 * @returns {*} Returns the value to assign.
+	 */
+	function customDefaultsMerge(objValue, srcValue, key, object, source, stack) {
+	  if (isObject(objValue) && isObject(srcValue)) {
+	    // Recursively merge objects and arrays (susceptible to call stack limits).
+	    stack.set(srcValue, objValue);
+	    baseMerge(objValue, srcValue, undefined, customDefaultsMerge, stack);
+	    stack['delete'](srcValue);
+	  }
+	  return objValue;
+	}
+
+	module.exports = customDefaultsMerge;
+
+
+/***/ }),
+/* 554 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var baseMerge = __webpack_require__(365),
+	    createAssigner = __webpack_require__(154);
+
+	/**
+	 * This method is like `_.merge` except that it accepts `customizer` which
+	 * is invoked to produce the merged values of the destination and source
+	 * properties. If `customizer` returns `undefined`, merging is handled by the
+	 * method instead. The `customizer` is invoked with six arguments:
+	 * (objValue, srcValue, key, object, source, stack).
+	 *
+	 * **Note:** This method mutates `object`.
+	 *
+	 * @static
+	 * @memberOf _
+	 * @since 4.0.0
+	 * @category Object
+	 * @param {Object} object The destination object.
+	 * @param {...Object} sources The source objects.
+	 * @param {Function} customizer The function to customize assigned values.
+	 * @returns {Object} Returns `object`.
+	 * @example
+	 *
+	 * function customizer(objValue, srcValue) {
+	 *   if (_.isArray(objValue)) {
+	 *     return objValue.concat(srcValue);
+	 *   }
+	 * }
+	 *
+	 * var object = { 'a': [1], 'b': [2] };
+	 * var other = { 'a': [3], 'b': [4] };
+	 *
+	 * _.mergeWith(object, other, customizer);
+	 * // => { 'a': [1, 3], 'b': [2, 4] }
+	 */
+	var mergeWith = createAssigner(function(object, source, srcIndex, customizer) {
+	  baseMerge(object, source, srcIndex, customizer);
+	});
+
+	module.exports = mergeWith;
+
+
+/***/ }),
+/* 555 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var baseFindKey = __webpack_require__(556),
+	    baseForOwn = __webpack_require__(143),
+	    baseIteratee = __webpack_require__(28);
+
+	/**
+	 * This method is like `_.find` except that it returns the key of the first
+	 * element `predicate` returns truthy for instead of the element itself.
+	 *
+	 * @static
+	 * @memberOf _
+	 * @since 1.1.0
+	 * @category Object
+	 * @param {Object} object The object to inspect.
+	 * @param {Function} [predicate=_.identity] The function invoked per iteration.
+	 * @returns {string|undefined} Returns the key of the matched element,
+	 *  else `undefined`.
+	 * @example
+	 *
+	 * var users = {
+	 *   'barney':  { 'age': 36, 'active': true },
+	 *   'fred':    { 'age': 40, 'active': false },
+	 *   'pebbles': { 'age': 1,  'active': true }
+	 * };
+	 *
+	 * _.findKey(users, function(o) { return o.age < 40; });
+	 * // => 'barney' (iteration order is not guaranteed)
+	 *
+	 * // The `_.matches` iteratee shorthand.
+	 * _.findKey(users, { 'age': 1, 'active': true });
+	 * // => 'pebbles'
+	 *
+	 * // The `_.matchesProperty` iteratee shorthand.
+	 * _.findKey(users, ['active', false]);
+	 * // => 'fred'
+	 *
+	 * // The `_.property` iteratee shorthand.
+	 * _.findKey(users, 'active');
+	 * // => 'barney'
+	 */
+	function findKey(object, predicate) {
+	  return baseFindKey(object, baseIteratee(predicate, 3), baseForOwn);
+	}
+
+	module.exports = findKey;
+
+
+/***/ }),
+/* 556 */
+/***/ (function(module, exports) {
+
+	/**
+	 * The base implementation of methods like `_.findKey` and `_.findLastKey`,
+	 * without support for iteratee shorthands, which iterates over `collection`
+	 * using `eachFunc`.
+	 *
+	 * @private
+	 * @param {Array|Object} collection The collection to inspect.
+	 * @param {Function} predicate The function invoked per iteration.
+	 * @param {Function} eachFunc The function to iterate over `collection`.
+	 * @returns {*} Returns the found element or its key, else `undefined`.
+	 */
+	function baseFindKey(collection, predicate, eachFunc) {
+	  var result;
+	  eachFunc(collection, function(value, key, collection) {
+	    if (predicate(value, key, collection)) {
+	      result = key;
+	      return false;
+	    }
+	  });
+	  return result;
+	}
+
+	module.exports = baseFindKey;
+
+
+/***/ }),
+/* 557 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var DateService, ONE_DAY_S, ONE_HOUR_S, ONE_MINUTE_S, ONE_WEEK_S, _padStart, semverCompare,
+	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
+
+	semverCompare = __webpack_require__(382);
+
+	_padStart = __webpack_require__(558);
+
+	ONE_MINUTE_S = 60;
+
+	ONE_HOUR_S = 3600;
+
+	ONE_DAY_S = 3600 * 24;
+
+	ONE_WEEK_S = 3600 * 24 * 7;
+
+	DateService = (function() {
+	  function DateService() {
+	    this.fromNow = bind(this.fromNow, this);
+	    this.formatSeconds = bind(this.formatSeconds, this);
+	    this.setL = bind(this.setL, this);
+	    this.setLocale('en');
+	  }
+
+	  DateService.prototype.setL = function(l) {
+	    this.l = l;
+	    return null;
+	  };
+
+	  DateService.prototype.format = function(date, format) {
+	    return '';
+	  };
+
+	  DateService.prototype.formatDuration = function(duration) {
+	    var hours, match, minutes, seconds;
+	    match = duration.match(/PT(\d+H)?(\d+M)?(\d+S)?/);
+	    match = match.slice(1).map(function(x) {
+	      return x != null ? x.replace(/\D/, '') : void 0;
+	    });
+	    hours = _padStart(parseInt(match[0]) || 0, 2, '0');
+	    minutes = _padStart(parseInt(match[1]) || 0, 2, '0');
+	    seconds = _padStart(parseInt(match[2]) || 0, 2, '0');
+	    if (hours !== '00') {
+	      return hours + ":" + minutes + ":" + seconds;
+	    } else if (minutes !== '00') {
+	      return minutes + ":" + seconds;
+	    } else {
+	      return "00:" + seconds;
+	    }
+	  };
+
+	  DateService.prototype.formatSeconds = function(seconds) {
+	    if (seconds < ONE_MINUTE_S) {
+	      return parseInt(seconds) + this.l.get('time.secondShorthand');
+	    } else if (seconds < ONE_HOUR_S) {
+	      return parseInt(seconds / ONE_MINUTE_S) + this.l.get('time.minuteShorthand');
+	    } else if (seconds <= ONE_DAY_S) {
+	      return parseInt(seconds / ONE_HOUR_S) + this.l.get('time.hourShorthand');
+	    } else if (seconds <= ONE_WEEK_S) {
+	      return parseInt(seconds / ONE_DAY_S) + this.l.get('time.dayShorthand');
+	    }
+	  };
+
+	  DateService.prototype.fromNow = function(date) {
+	    var seconds;
+	    if (!(date instanceof Date)) {
+	      date = new Date(date);
+	    }
+	    seconds = Math.abs((Date.now() - date.getTime()) / 1000);
+	    if (isNaN(seconds)) {
+	      return '...';
+	    } else if (seconds < 30) {
+	      return this.l.get('time.justNow');
+	    } else if (seconds < ONE_MINUTE_S) {
+	      return parseInt(seconds) + this.l.get('time.secondShorthand');
+	    } else if (seconds < ONE_HOUR_S) {
+	      return parseInt(seconds / ONE_MINUTE_S) + this.l.get('time.minuteShorthand');
+	    } else if (seconds <= ONE_DAY_S) {
+	      return parseInt(seconds / ONE_HOUR_S) + this.l.get('time.hourShorthand');
+	    } else if (seconds <= ONE_WEEK_S) {
+	      return parseInt(seconds / ONE_DAY_S) + this.l.get('time.dayShorthand');
+	    } else {
+	      return parseInt(seconds / ONE_WEEK_S) + this.l.get('time.weekShorthand');
+	    }
+	  };
+
+	  DateService.prototype.setLocale = function(locale) {
+	    return null;
+	  };
+
+	  return DateService;
+
+	})();
+
+	module.exports = new DateService();
+
+
+/***/ }),
+/* 558 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var createPadding = __webpack_require__(559),
+	    stringSize = __webpack_require__(563),
+	    toInteger = __webpack_require__(241),
+	    toString = __webpack_require__(131);
+
+	/**
+	 * Pads `string` on the left side if it's shorter than `length`. Padding
+	 * characters are truncated if they exceed `length`.
+	 *
+	 * @static
+	 * @memberOf _
+	 * @since 4.0.0
+	 * @category String
+	 * @param {string} [string=''] The string to pad.
+	 * @param {number} [length=0] The padding length.
+	 * @param {string} [chars=' '] The string used as padding.
+	 * @returns {string} Returns the padded string.
+	 * @example
+	 *
+	 * _.padStart('abc', 6);
+	 * // => '   abc'
+	 *
+	 * _.padStart('abc', 6, '_-');
+	 * // => '_-_abc'
+	 *
+	 * _.padStart('abc', 3);
+	 * // => 'abc'
+	 */
+	function padStart(string, length, chars) {
+	  string = toString(string);
+	  length = toInteger(length);
+
+	  var strLength = length ? stringSize(string) : 0;
+	  return (length && strLength < length)
+	    ? (createPadding(length - strLength, chars) + string)
+	    : string;
+	}
+
+	module.exports = padStart;
+
+
+/***/ }),
+/* 559 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var baseRepeat = __webpack_require__(560),
+	    baseToString = __webpack_require__(132),
+	    castSlice = __webpack_require__(561),
+	    hasUnicode = __webpack_require__(562),
+	    stringSize = __webpack_require__(563),
+	    stringToArray = __webpack_require__(566);
+
+	/* Built-in method references for those with the same name as other `lodash` methods. */
+	var nativeCeil = Math.ceil;
+
+	/**
+	 * Creates the padding for `string` based on `length`. The `chars` string
+	 * is truncated if the number of characters exceeds `length`.
+	 *
+	 * @private
+	 * @param {number} length The padding length.
+	 * @param {string} [chars=' '] The string used as padding.
+	 * @returns {string} Returns the padding for `string`.
+	 */
+	function createPadding(length, chars) {
+	  chars = chars === undefined ? ' ' : baseToString(chars);
+
+	  var charsLength = chars.length;
+	  if (charsLength < 2) {
+	    return charsLength ? baseRepeat(chars, length) : chars;
+	  }
+	  var result = baseRepeat(chars, nativeCeil(length / stringSize(chars)));
+	  return hasUnicode(chars)
+	    ? castSlice(stringToArray(result), 0, length).join('')
+	    : result.slice(0, length);
+	}
+
+	module.exports = createPadding;
+
+
+/***/ }),
+/* 560 */
+/***/ (function(module, exports) {
+
+	/** Used as references for various `Number` constants. */
+	var MAX_SAFE_INTEGER = 9007199254740991;
+
+	/* Built-in method references for those with the same name as other `lodash` methods. */
+	var nativeFloor = Math.floor;
+
+	/**
+	 * The base implementation of `_.repeat` which doesn't coerce arguments.
+	 *
+	 * @private
+	 * @param {string} string The string to repeat.
+	 * @param {number} n The number of times to repeat the string.
+	 * @returns {string} Returns the repeated string.
+	 */
+	function baseRepeat(string, n) {
+	  var result = '';
+	  if (!string || n < 1 || n > MAX_SAFE_INTEGER) {
+	    return result;
+	  }
+	  // Leverage the exponentiation by squaring algorithm for a faster repeat.
+	  // See https://en.wikipedia.org/wiki/Exponentiation_by_squaring for more details.
+	  do {
+	    if (n % 2) {
+	      result += string;
+	    }
+	    n = nativeFloor(n / 2);
+	    if (n) {
+	      string += string;
+	    }
+	  } while (n);
+
+	  return result;
+	}
+
+	module.exports = baseRepeat;
+
+
+/***/ }),
+/* 561 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var baseSlice = __webpack_require__(501);
+
+	/**
+	 * Casts `array` to a slice if it's needed.
+	 *
+	 * @private
+	 * @param {Array} array The array to inspect.
+	 * @param {number} start The start position.
+	 * @param {number} [end=array.length] The end position.
+	 * @returns {Array} Returns the cast slice.
+	 */
+	function castSlice(array, start, end) {
+	  var length = array.length;
+	  end = end === undefined ? length : end;
+	  return (!start && end >= length) ? array : baseSlice(array, start, end);
+	}
+
+	module.exports = castSlice;
+
+
+/***/ }),
+/* 562 */
+/***/ (function(module, exports) {
+
+	/** Used to compose unicode character classes. */
+	var rsAstralRange = '\\ud800-\\udfff',
+	    rsComboMarksRange = '\\u0300-\\u036f',
+	    reComboHalfMarksRange = '\\ufe20-\\ufe2f',
+	    rsComboSymbolsRange = '\\u20d0-\\u20ff',
+	    rsComboRange = rsComboMarksRange + reComboHalfMarksRange + rsComboSymbolsRange,
+	    rsVarRange = '\\ufe0e\\ufe0f';
+
+	/** Used to compose unicode capture groups. */
+	var rsZWJ = '\\u200d';
+
+	/** Used to detect strings with [zero-width joiners or code points from the astral planes](http://eev.ee/blog/2015/09/12/dark-corners-of-unicode/). */
+	var reHasUnicode = RegExp('[' + rsZWJ + rsAstralRange  + rsComboRange + rsVarRange + ']');
+
+	/**
+	 * Checks if `string` contains Unicode symbols.
+	 *
+	 * @private
+	 * @param {string} string The string to inspect.
+	 * @returns {boolean} Returns `true` if a symbol is found, else `false`.
+	 */
+	function hasUnicode(string) {
+	  return reHasUnicode.test(string);
+	}
+
+	module.exports = hasUnicode;
+
+
+/***/ }),
+/* 563 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var asciiSize = __webpack_require__(564),
+	    hasUnicode = __webpack_require__(562),
+	    unicodeSize = __webpack_require__(565);
+
+	/**
+	 * Gets the number of symbols in `string`.
+	 *
+	 * @private
+	 * @param {string} string The string to inspect.
+	 * @returns {number} Returns the string size.
+	 */
+	function stringSize(string) {
+	  return hasUnicode(string)
+	    ? unicodeSize(string)
+	    : asciiSize(string);
+	}
+
+	module.exports = stringSize;
+
+
+/***/ }),
+/* 564 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var baseProperty = __webpack_require__(139);
+
+	/**
+	 * Gets the size of an ASCII `string`.
+	 *
+	 * @private
+	 * @param {string} string The string inspect.
+	 * @returns {number} Returns the string size.
+	 */
+	var asciiSize = baseProperty('length');
+
+	module.exports = asciiSize;
+
+
+/***/ }),
+/* 565 */
+/***/ (function(module, exports) {
+
+	/** Used to compose unicode character classes. */
+	var rsAstralRange = '\\ud800-\\udfff',
+	    rsComboMarksRange = '\\u0300-\\u036f',
+	    reComboHalfMarksRange = '\\ufe20-\\ufe2f',
+	    rsComboSymbolsRange = '\\u20d0-\\u20ff',
+	    rsComboRange = rsComboMarksRange + reComboHalfMarksRange + rsComboSymbolsRange,
+	    rsVarRange = '\\ufe0e\\ufe0f';
+
+	/** Used to compose unicode capture groups. */
+	var rsAstral = '[' + rsAstralRange + ']',
+	    rsCombo = '[' + rsComboRange + ']',
+	    rsFitz = '\\ud83c[\\udffb-\\udfff]',
+	    rsModifier = '(?:' + rsCombo + '|' + rsFitz + ')',
+	    rsNonAstral = '[^' + rsAstralRange + ']',
+	    rsRegional = '(?:\\ud83c[\\udde6-\\uddff]){2}',
+	    rsSurrPair = '[\\ud800-\\udbff][\\udc00-\\udfff]',
+	    rsZWJ = '\\u200d';
+
+	/** Used to compose unicode regexes. */
+	var reOptMod = rsModifier + '?',
+	    rsOptVar = '[' + rsVarRange + ']?',
+	    rsOptJoin = '(?:' + rsZWJ + '(?:' + [rsNonAstral, rsRegional, rsSurrPair].join('|') + ')' + rsOptVar + reOptMod + ')*',
+	    rsSeq = rsOptVar + reOptMod + rsOptJoin,
+	    rsSymbol = '(?:' + [rsNonAstral + rsCombo + '?', rsCombo, rsRegional, rsSurrPair, rsAstral].join('|') + ')';
+
+	/** Used to match [string symbols](https://mathiasbynens.be/notes/javascript-unicode). */
+	var reUnicode = RegExp(rsFitz + '(?=' + rsFitz + ')|' + rsSymbol + rsSeq, 'g');
+
+	/**
+	 * Gets the size of a Unicode `string`.
+	 *
+	 * @private
+	 * @param {string} string The string inspect.
+	 * @returns {number} Returns the string size.
+	 */
+	function unicodeSize(string) {
+	  var result = reUnicode.lastIndex = 0;
+	  while (reUnicode.test(string)) {
+	    ++result;
+	  }
+	  return result;
+	}
+
+	module.exports = unicodeSize;
+
+
+/***/ }),
+/* 566 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var asciiToArray = __webpack_require__(567),
+	    hasUnicode = __webpack_require__(562),
+	    unicodeToArray = __webpack_require__(568);
+
+	/**
+	 * Converts `string` to an array.
+	 *
+	 * @private
+	 * @param {string} string The string to convert.
+	 * @returns {Array} Returns the converted array.
+	 */
+	function stringToArray(string) {
+	  return hasUnicode(string)
+	    ? unicodeToArray(string)
+	    : asciiToArray(string);
+	}
+
+	module.exports = stringToArray;
+
+
+/***/ }),
+/* 567 */
+/***/ (function(module, exports) {
+
+	/**
+	 * Converts an ASCII `string` to an array.
+	 *
+	 * @private
+	 * @param {string} string The string to convert.
+	 * @returns {Array} Returns the converted array.
+	 */
+	function asciiToArray(string) {
+	  return string.split('');
+	}
+
+	module.exports = asciiToArray;
+
+
+/***/ }),
+/* 568 */
+/***/ (function(module, exports) {
+
+	/** Used to compose unicode character classes. */
+	var rsAstralRange = '\\ud800-\\udfff',
+	    rsComboMarksRange = '\\u0300-\\u036f',
+	    reComboHalfMarksRange = '\\ufe20-\\ufe2f',
+	    rsComboSymbolsRange = '\\u20d0-\\u20ff',
+	    rsComboRange = rsComboMarksRange + reComboHalfMarksRange + rsComboSymbolsRange,
+	    rsVarRange = '\\ufe0e\\ufe0f';
+
+	/** Used to compose unicode capture groups. */
+	var rsAstral = '[' + rsAstralRange + ']',
+	    rsCombo = '[' + rsComboRange + ']',
+	    rsFitz = '\\ud83c[\\udffb-\\udfff]',
+	    rsModifier = '(?:' + rsCombo + '|' + rsFitz + ')',
+	    rsNonAstral = '[^' + rsAstralRange + ']',
+	    rsRegional = '(?:\\ud83c[\\udde6-\\uddff]){2}',
+	    rsSurrPair = '[\\ud800-\\udbff][\\udc00-\\udfff]',
+	    rsZWJ = '\\u200d';
+
+	/** Used to compose unicode regexes. */
+	var reOptMod = rsModifier + '?',
+	    rsOptVar = '[' + rsVarRange + ']?',
+	    rsOptJoin = '(?:' + rsZWJ + '(?:' + [rsNonAstral, rsRegional, rsSurrPair].join('|') + ')' + rsOptVar + reOptMod + ')*',
+	    rsSeq = rsOptVar + reOptMod + rsOptJoin,
+	    rsSymbol = '(?:' + [rsNonAstral + rsCombo + '?', rsCombo, rsRegional, rsSurrPair, rsAstral].join('|') + ')';
+
+	/** Used to match [string symbols](https://mathiasbynens.be/notes/javascript-unicode). */
+	var reUnicode = RegExp(rsFitz + '(?=' + rsFitz + ')|' + rsSymbol + rsSeq, 'g');
+
+	/**
+	 * Converts a Unicode `string` to an array.
+	 *
+	 * @private
+	 * @param {string} string The string to convert.
+	 * @returns {Array} Returns the converted array.
+	 */
+	function unicodeToArray(string) {
+	  return string.match(reUnicode) || [];
+	}
+
+	module.exports = unicodeToArray;
+
+
+/***/ }),
+/* 569 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var map = {};
+	function webpackContext(req) {
+		return __webpack_require__(webpackContextResolve(req));
+	};
+	function webpackContextResolve(req) {
+		return map[req] || (function() { throw new Error("Cannot find module '" + req + "'.") }());
+	};
+	webpackContext.keys = function webpackContextKeys() {
+		return Object.keys(map);
+	};
+	webpackContext.resolve = webpackContextResolve;
+	module.exports = webpackContext;
+	webpackContext.id = 569;
+
+
+/***/ }),
+/* 570 */
 /***/ (function(module, exports) {
 
 	var MIN_TIME_UNTIL_NEXT_UPDATE_MS, Player,
@@ -28207,1472 +30933,13 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 507 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var COOKIE_DURATION_MS, Cookie, ONE_DAY_MS, _defaults, config,
-	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
-
-	_defaults = __webpack_require__(233);
-
-	__webpack_require__(499);
-
-	__webpack_require__(508);
-
-	config = __webpack_require__(370);
-
-	COOKIE_DURATION_MS = 365 * 24 * 3600 * 1000;
-
-	ONE_DAY_MS = 3600 * 24 * 1000;
-
-	Cookie = (function() {
-	  function Cookie(arg) {
-	    this.cookieSubject = arg.cookieSubject;
-	    this.get = bind(this.get, this);
-	    this._set = bind(this._set, this);
-	    this.processSetQueue = bind(this.processSetQueue, this);
-	    this.setQueue = [];
-	    this.setQueueInterval = null;
-	    this.set = (function(_this) {
-	      return function() {
-	        var args;
-	        args = arguments;
-	        _this.setQueue.push(function() {
-	          return _this._set.apply(_this, args);
-	        });
-	        if (!_this.setQueueInterval) {
-	          return _this.setQueueInterval = setInterval(_this.processSetQueue, 1);
-	        }
-	      };
-	    })(this);
-	  }
-
-	  Cookie.prototype.processSetQueue = function() {
-	    var base;
-	    if (typeof (base = this.setQueue.shift()) === "function") {
-	      base();
-	    }
-	    if (this.setQueue.length === 0) {
-	      clearInterval(this.setQueueInterval);
-	      return this.setQueueInterval = null;
-	    }
-	  };
-
-	  Cookie.prototype.getCookieOpts = function(host, key) {
-	    var hostname;
-	    if (host == null) {
-	      host = config.HOST;
-	    }
-	    hostname = host.split(':')[0];
-	    return {
-	      path: '/',
-	      expires: key === 'isPushTokenStored' ? new Date(Date.now() + ONE_DAY_MS) : new Date(Date.now() + COOKIE_DURATION_MS),
-	      domain: '.' + hostname
-	    };
-	  };
-
-	  Cookie.prototype._set = function(key, value) {
-	    return this.cookieSubject.take(1).toPromise().then((function(_this) {
-	      return function(currentCookies) {
-	        var obj;
-	        return _this.cookieSubject.next(_defaults((
-	          obj = {},
-	          obj["" + key] = value,
-	          obj
-	        ), currentCookies));
-	      };
-	    })(this));
-	  };
-
-	  Cookie.prototype.get = function(key) {
-	    var cookies;
-	    cookies = this.cookieSubject.getValue();
-	    return cookies[key];
-	  };
-
-	  return Cookie;
-
-	})();
-
-	module.exports = Cookie;
-
-
-/***/ }),
-/* 508 */
-/***/ (function(module, exports) {
-
-	// HACK: does nothing, because `toPromise` now lives on the `Observable` itself.
-	// leaving this module here to prevent breakage.
-	//# sourceMappingURL=toPromise.js.map
-
-/***/ }),
-/* 509 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var Group, config,
-	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
-
-	config = __webpack_require__(370);
-
-	module.exports = Group = (function() {
-	  Group.prototype.namespace = 'groups';
-
-	  function Group(arg) {
-	    this.auth = arg.auth;
-	    this.updateById = bind(this.updateById, this);
-	    this.sendNotificationById = bind(this.sendNotificationById, this);
-	    this.inviteById = bind(this.inviteById, this);
-	    this.leaveById = bind(this.leaveById, this);
-	    this.joinById = bind(this.joinById, this);
-	    this.getAllChannelsById = bind(this.getAllChannelsById, this);
-	    this.getByGameKeyAndLanguage = bind(this.getByGameKeyAndLanguage, this);
-	    this.getByKey = bind(this.getByKey, this);
-	    this.getById = bind(this.getById, this);
-	    this.getAllByUserId = bind(this.getAllByUserId, this);
-	    this.getAll = bind(this.getAll, this);
-	    this.create = bind(this.create, this);
-	    null;
-	  }
-
-	  Group.prototype.create = function(arg) {
-	    var background, badgeId, description, mode, name;
-	    name = arg.name, description = arg.description, badgeId = arg.badgeId, background = arg.background, mode = arg.mode;
-	    return this.auth.call(this.namespace + ".create", {
-	      name: name,
-	      description: description,
-	      badgeId: badgeId,
-	      background: background,
-	      mode: mode
-	    }, {
-	      invalidateAll: true
-	    });
-	  };
-
-	  Group.prototype.getPath = function(group, path, router) {
-	    return null;
-	  };
-
-	  Group.prototype.getAll = function(arg) {
-	    var embed, filter, language, ref;
-	    ref = arg != null ? arg : {}, filter = ref.filter, language = ref.language, embed = ref.embed;
-	    if (embed == null) {
-	      embed = ['conversations', 'star', 'userCount'];
-	    }
-	    return this.auth.stream(this.namespace + ".getAll", {
-	      filter: filter,
-	      language: language,
-	      embed: embed
-	    });
-	  };
-
-	  Group.prototype.getAllByUserId = function(userId, arg) {
-	    var embed;
-	    embed = (arg != null ? arg : {}).embed;
-	    if (embed == null) {
-	      embed = ['meGroupUser', 'conversations', 'star', 'userCount'];
-	    }
-	    return this.auth.stream(this.namespace + ".getAllByUserId", {
-	      userId: userId,
-	      embed: embed
-	    });
-	  };
-
-	  Group.prototype.getById = function(id) {
-	    return this.auth.stream(this.namespace + ".getById", {
-	      id: id
-	    });
-	  };
-
-	  Group.prototype.getByKey = function(key) {
-	    return this.auth.stream(this.namespace + ".getByKey", {
-	      key: key
-	    });
-	  };
-
-	  Group.prototype.getByGameKeyAndLanguage = function(gameKey, language) {
-	    return this.auth.stream(this.namespace + ".getByGameKeyAndLanguage", {
-	      gameKey: gameKey,
-	      language: language
-	    });
-	  };
-
-	  Group.prototype.getAllChannelsById = function(id) {
-	    return this.auth.stream(this.namespace + ".getAllChannelsById", {
-	      id: id
-	    });
-	  };
-
-	  Group.prototype.joinById = function(id) {
-	    return this.auth.call(this.namespace + ".joinById", {
-	      id: id
-	    }, {
-	      invalidateAll: true
-	    });
-	  };
-
-	  Group.prototype.leaveById = function(id) {
-	    return this.auth.call(this.namespace + ".leaveById", {
-	      id: id
-	    }, {
-	      invalidateAll: true
-	    });
-	  };
-
-	  Group.prototype.inviteById = function(id, arg) {
-	    var userIds;
-	    userIds = arg.userIds;
-	    return this.auth.call(this.namespace + ".inviteById", {
-	      id: id,
-	      userIds: userIds
-	    }, {
-	      invalidateAll: true
-	    });
-	  };
-
-	  Group.prototype.sendNotificationById = function(id, arg) {
-	    var description, pathKey, title;
-	    title = arg.title, description = arg.description, pathKey = arg.pathKey;
-	    return this.auth.call(this.namespace + ".sendNotificationById", {
-	      id: id,
-	      title: title,
-	      description: description,
-	      pathKey: pathKey
-	    }, {
-	      invalidateAll: true
-	    });
-	  };
-
-	  Group.prototype.updateById = function(id, arg) {
-	    var background, badgeId, description, mode, name;
-	    name = arg.name, description = arg.description, badgeId = arg.badgeId, background = arg.background, mode = arg.mode;
-	    return this.auth.call(this.namespace + ".updateById", {
-	      id: id,
-	      name: name,
-	      description: description,
-	      badgeId: badgeId,
-	      background: background,
-	      mode: mode
-	    }, {
-	      invalidateAll: true
-	    });
-	  };
-
-	  Group.prototype.getDisplayName = function(group) {
-	    return (group != null ? group.name : void 0) || 'Nameless';
-	  };
-
-	  Group.prototype.hasGameKey = function(group, gameKey) {
-	    var ref;
-	    return ((group != null ? group.gameKeys : void 0) && (group != null ? (ref = group.gameKeys) != null ? ref.indexOf(gameKey) : void 0 : void 0) !== -1) || (group != null ? group.gameKey : void 0) === gameKey;
-	  };
-
-	  Group.prototype.hasPermission = function(group, user, arg) {
-	    var level, userId;
-	    level = (arg != null ? arg : {}).level;
-	    userId = user != null ? user.id : void 0;
-	    if (level == null) {
-	      level = 'member';
-	    }
-	    if (!(userId && group)) {
-	      return false;
-	    }
-	    switch (level) {
-	      case 'admin':
-	        return group.creatorId === userId;
-	      default:
-	        return false;
-	    }
-	  };
-
-	  return Group;
-
-	})();
-
-
-/***/ }),
-/* 510 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var GroupUser, _clone, _defaults, _every, _find, config,
-	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
-
-	_every = __webpack_require__(511);
-
-	_find = __webpack_require__(444);
-
-	_defaults = __webpack_require__(233);
-
-	_clone = __webpack_require__(450);
-
-	config = __webpack_require__(370);
-
-	module.exports = GroupUser = (function() {
-	  GroupUser.prototype.namespace = 'groupUsers';
-
-	  function GroupUser(arg) {
-	    this.auth = arg.auth;
-	    this.updateMeSettingsByGroupId = bind(this.updateMeSettingsByGroupId, this);
-	    this.getOnlineCountByGroupId = bind(this.getOnlineCountByGroupId, this);
-	    this.getMeSettingsByGroupId = bind(this.getMeSettingsByGroupId, this);
-	    this.getTopByGroupId = bind(this.getTopByGroupId, this);
-	    this.getByGroupIdAndUserId = bind(this.getByGroupIdAndUserId, this);
-	    this.removeRoleByGroupIdAndUserId = bind(this.removeRoleByGroupIdAndUserId, this);
-	    this.addRoleByGroupIdAndUserId = bind(this.addRoleByGroupIdAndUserId, this);
-	    null;
-	  }
-
-	  GroupUser.prototype.addRoleByGroupIdAndUserId = function(groupId, userId, roleId) {
-	    return this.auth.call(this.namespace + ".addRoleByGroupIdAndUserId", {
-	      userId: userId,
-	      groupId: groupId,
-	      roleId: roleId
-	    }, {
-	      invalidateAll: true
-	    });
-	  };
-
-	  GroupUser.prototype.removeRoleByGroupIdAndUserId = function(groupId, userId, roleId) {
-	    return this.auth.call(this.namespace + ".removeRoleByGroupIdAndUserId", {
-	      userId: userId,
-	      groupId: groupId,
-	      roleId: roleId
-	    }, {
-	      invalidateAll: true
-	    });
-	  };
-
-	  GroupUser.prototype.getByGroupIdAndUserId = function(groupId, userId) {
-	    return this.auth.stream(this.namespace + ".getByGroupIdAndUserId", {
-	      groupId: groupId,
-	      userId: userId
-	    });
-	  };
-
-	  GroupUser.prototype.getTopByGroupId = function(groupId) {
-	    return this.auth.stream(this.namespace + ".getTopByGroupId", {
-	      groupId: groupId
-	    });
-	  };
-
-	  GroupUser.prototype.getMeSettingsByGroupId = function(groupId) {
-	    return this.auth.stream(this.namespace + ".getMeSettingsByGroupId", {
-	      groupId: groupId
-	    });
-	  };
-
-	  GroupUser.prototype.getOnlineCountByGroupId = function(groupId) {
-	    return this.auth.stream(this.namespace + ".getOnlineCountByGroupId", {
-	      groupId: groupId
-	    });
-	  };
-
-	  GroupUser.prototype.updateMeSettingsByGroupId = function(groupId, arg) {
-	    var globalNotifications;
-	    globalNotifications = arg.globalNotifications;
-	    return this.auth.call(this.namespace + ".updateMeSettingsByGroupId", {
-	      groupId: groupId,
-	      globalNotifications: globalNotifications
-	    });
-	  };
-
-	  GroupUser.prototype.hasPermission = function(arg) {
-	    var channelId, isGlobalModerator, me, meGroupUser, permissions, ref, roles;
-	    meGroupUser = arg.meGroupUser, me = arg.me, permissions = arg.permissions, channelId = arg.channelId, roles = arg.roles;
-	    if (roles == null) {
-	      roles = meGroupUser != null ? meGroupUser.roles : void 0;
-	    }
-	    isGlobalModerator = me != null ? (ref = me.flags) != null ? ref.isModerator : void 0 : void 0;
-	    return isGlobalModerator || _every(permissions, function(permission) {
-	      return _find(roles, function(role) {
-	        var channelPermissions, globalPermissions, ref1;
-	        channelPermissions = channelId && ((ref1 = role.channelPermissions) != null ? ref1[channelId] : void 0);
-	        globalPermissions = role.globalPermissions;
-	        permissions = _defaults(channelPermissions, globalPermissions, config.DEFAULT_PERMISSIONS);
-	        return permissions[permission];
-	      });
-	    });
-	  };
-
-	  return GroupUser;
-
-	})();
-
-
-/***/ }),
-/* 511 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var arrayEvery = __webpack_require__(512),
-	    baseEvery = __webpack_require__(513),
-	    baseIteratee = __webpack_require__(29),
-	    isArray = __webpack_require__(92),
-	    isIterateeCall = __webpack_require__(162);
-
-	/**
-	 * Checks if `predicate` returns truthy for **all** elements of `collection`.
-	 * Iteration is stopped once `predicate` returns falsey. The predicate is
-	 * invoked with three arguments: (value, index|key, collection).
-	 *
-	 * **Note:** This method returns `true` for
-	 * [empty collections](https://en.wikipedia.org/wiki/Empty_set) because
-	 * [everything is true](https://en.wikipedia.org/wiki/Vacuous_truth) of
-	 * elements of empty collections.
-	 *
-	 * @static
-	 * @memberOf _
-	 * @since 0.1.0
-	 * @category Collection
-	 * @param {Array|Object} collection The collection to iterate over.
-	 * @param {Function} [predicate=_.identity] The function invoked per iteration.
-	 * @param- {Object} [guard] Enables use as an iteratee for methods like `_.map`.
-	 * @returns {boolean} Returns `true` if all elements pass the predicate check,
-	 *  else `false`.
-	 * @example
-	 *
-	 * _.every([true, 1, null, 'yes'], Boolean);
-	 * // => false
-	 *
-	 * var users = [
-	 *   { 'user': 'barney', 'age': 36, 'active': false },
-	 *   { 'user': 'fred',   'age': 40, 'active': false }
-	 * ];
-	 *
-	 * // The `_.matches` iteratee shorthand.
-	 * _.every(users, { 'user': 'barney', 'active': false });
-	 * // => false
-	 *
-	 * // The `_.matchesProperty` iteratee shorthand.
-	 * _.every(users, ['active', false]);
-	 * // => true
-	 *
-	 * // The `_.property` iteratee shorthand.
-	 * _.every(users, 'active');
-	 * // => false
-	 */
-	function every(collection, predicate, guard) {
-	  var func = isArray(collection) ? arrayEvery : baseEvery;
-	  if (guard && isIterateeCall(collection, predicate, guard)) {
-	    predicate = undefined;
-	  }
-	  return func(collection, baseIteratee(predicate, 3));
-	}
-
-	module.exports = every;
-
-
-/***/ }),
-/* 512 */
-/***/ (function(module, exports) {
-
-	/**
-	 * A specialized version of `_.every` for arrays without support for
-	 * iteratee shorthands.
-	 *
-	 * @private
-	 * @param {Array} [array] The array to iterate over.
-	 * @param {Function} predicate The function invoked per iteration.
-	 * @returns {boolean} Returns `true` if all elements pass the predicate check,
-	 *  else `false`.
-	 */
-	function arrayEvery(array, predicate) {
-	  var index = -1,
-	      length = array == null ? 0 : array.length;
-
-	  while (++index < length) {
-	    if (!predicate(array[index], index, array)) {
-	      return false;
-	    }
-	  }
-	  return true;
-	}
-
-	module.exports = arrayEvery;
-
-
-/***/ }),
-/* 513 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var baseEach = __webpack_require__(143);
-
-	/**
-	 * The base implementation of `_.every` without support for iteratee shorthands.
-	 *
-	 * @private
-	 * @param {Array|Object} collection The collection to iterate over.
-	 * @param {Function} predicate The function invoked per iteration.
-	 * @returns {boolean} Returns `true` if all elements pass the predicate check,
-	 *  else `false`
-	 */
-	function baseEvery(collection, predicate) {
-	  var result = true;
-	  baseEach(collection, function(value, index, collection) {
-	    result = !!predicate(value, index, collection);
-	    return result;
-	  });
-	  return result;
-	}
-
-	module.exports = baseEvery;
-
-
-/***/ }),
-/* 514 */
-/***/ (function(module, exports) {
-
-	var GroupUser,
-	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
-
-	module.exports = GroupUser = (function() {
-	  GroupUser.prototype.namespace = 'groupUserXpTransactions';
-
-	  function GroupUser(arg) {
-	    this.auth = arg.auth;
-	    this.incrementByGroupIdAndActionKey = bind(this.incrementByGroupIdAndActionKey, this);
-	    this.getAllByGroupId = bind(this.getAllByGroupId, this);
-	    null;
-	  }
-
-	  GroupUser.prototype.getAllByGroupId = function(groupId) {
-	    return this.auth.stream(this.namespace + ".getAllByGroupId", {
-	      groupId: groupId
-	    });
-	  };
-
-	  GroupUser.prototype.incrementByGroupIdAndActionKey = function(groupId, actionKey, options) {
-	    var successKey, timestamp;
-	    if (options == null) {
-	      options = {};
-	    }
-	    timestamp = options.timestamp, successKey = options.successKey;
-	    return this.auth.call(this.namespace + ".incrementByGroupIdAndActionKey", {
-	      groupId: groupId,
-	      actionKey: actionKey,
-	      timestamp: timestamp,
-	      successKey: successKey
-	    }, {
-	      invalidateAll: true
-	    });
-	  };
-
-	  return GroupUser;
-
-	})();
-
-
-/***/ }),
-/* 515 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var GroupRole, _defaults, _every, _find, config,
-	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
-
-	_every = __webpack_require__(511);
-
-	_find = __webpack_require__(444);
-
-	_defaults = __webpack_require__(233);
-
-	config = __webpack_require__(370);
-
-	module.exports = GroupRole = (function() {
-	  GroupRole.prototype.namespace = 'groupRoles';
-
-	  function GroupRole(arg) {
-	    this.auth = arg.auth;
-	    this.updatePermissions = bind(this.updatePermissions, this);
-	    this.deleteByGroupIdAndRoleId = bind(this.deleteByGroupIdAndRoleId, this);
-	    this.getAllByGroupId = bind(this.getAllByGroupId, this);
-	    this.createByGroupId = bind(this.createByGroupId, this);
-	    null;
-	  }
-
-	  GroupRole.prototype.createByGroupId = function(groupId, diff) {
-	    return this.auth.call(this.namespace + ".createByGroupId", _defaults({
-	      groupId: groupId
-	    }, diff), {
-	      invalidateAll: true
-	    });
-	  };
-
-	  GroupRole.prototype.getAllByGroupId = function(groupId) {
-	    return this.auth.stream(this.namespace + ".getAllByGroupId", {
-	      groupId: groupId
-	    });
-	  };
-
-	  GroupRole.prototype.deleteByGroupIdAndRoleId = function(groupId, roleId) {
-	    return this.auth.call(this.namespace + ".deleteByGroupIdAndRoleId", {
-	      groupId: groupId,
-	      roleId: roleId
-	    }, {
-	      invalidateAll: true
-	    });
-	  };
-
-	  GroupRole.prototype.updatePermissions = function(options) {
-	    return this.auth.call(this.namespace + ".updatePermissions", options, {
-	      invalidateAll: true
-	    });
-	  };
-
-	  return GroupRole;
-
-	})();
-
-
-/***/ }),
-/* 516 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var DateService, Language, RxBehaviorSubject, _defaultsDeep, _filter, _findKey, _keys, _mapValues, _reduce, config,
-	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
-
-	_reduce = __webpack_require__(385);
-
-	_defaultsDeep = __webpack_require__(517);
-
-	_mapValues = __webpack_require__(250);
-
-	_keys = __webpack_require__(96);
-
-	_reduce = __webpack_require__(385);
-
-	_findKey = __webpack_require__(520);
-
-	_filter = __webpack_require__(167);
-
-	RxBehaviorSubject = __webpack_require__(288).BehaviorSubject;
-
-	DateService = __webpack_require__(522);
-
-	config = __webpack_require__(370);
-
-	Language = (function() {
-	  function Language(arg) {
-	    var files, language, ref;
-	    ref = arg != null ? arg : {}, language = ref.language, this.cookie = ref.cookie;
-	    this.get = bind(this.get, this);
-	    this.getAllPathsByRouteKey = bind(this.getAllPathsByRouteKey, this);
-	    this.getRouteKeyByValue = bind(this.getRouteKeyByValue, this);
-	    this.getLanguageStr = bind(this.getLanguageStr, this);
-	    this.getLanguage = bind(this.getLanguage, this);
-	    this.setLanguage = bind(this.setLanguage, this);
-	    if (language == null) {
-	      language = 'en';
-	    }
-	    this.language = new RxBehaviorSubject(language);
-	    if ((typeof window !== "undefined" && window !== null) && config.ENV === config.ENVS.PROD) {
-	      this.files = window.languageStrings;
-	    } else {
-	      files = {
-	        strings: null,
-	        cards: null,
-	        addons: null,
-	        paths: null,
-	        languages: null,
-	        fortnite: null
-	      };
-	      this.files = _mapValues(files, function(val, file) {
-	        return _reduce(config.LANGUAGES, function(obj, lang) {
-	          var e;
-	          obj[lang] = (function() {
-	            try {
-	              return __webpack_require__(534)("./" + lang + "/" + file + "_" + lang + ".json");
-	            } catch (error) {
-	              e = error;
-	              return null;
-	            }
-	          })();
-	          return obj;
-	        }, {});
-	      });
-	    }
-	    this.setLanguage(language);
-	  }
-
-	  Language.prototype.getLanguageByCountry = function(country) {
-	    country = country != null ? country.toUpperCase() : void 0;
-	    if (country === 'AR' || country === 'BO' || country === 'CR' || country === 'CU' || country === 'DM' || country === 'EC' || country === 'SV' || country === 'GQ' || country === 'GT' || country === 'HN' || country === 'MX' || country === 'NI' || country === 'PA' || country === 'PE' || country === 'ES' || country === 'UY' || country === 'VE') {
-	      return 'es';
-	    } else if (country === 'IT') {
-	      return 'it';
-	    } else if (country === 'BR') {
-	      return 'pt';
-	    } else if (country === 'PL') {
-	      return 'pl';
-	    } else if (country === 'FR') {
-	      return 'fr';
-	    } else {
-	      return 'en';
-	    }
-	  };
-
-	  Language.prototype.setLanguage = function(language) {
-	    var ref;
-	    this.language.next(language);
-	    if ((ref = this.cookie) != null) {
-	      ref.set('language', language);
-	    }
-	    DateService.setL(this);
-	    return DateService.setLocale(language);
-	  };
-
-	  Language.prototype.getLanguage = function() {
-	    return this.language;
-	  };
-
-	  Language.prototype.getLanguageStr = function() {
-	    return this.language.getValue();
-	  };
-
-	  Language.prototype.getAll = function() {
-	    return config.LANGUAGES;
-	  };
-
-	  Language.prototype.getAllUrlLanguages = function() {
-	    return ['en', 'es', 'pt'];
-	  };
-
-	  Language.prototype.getNonGamePages = function() {
-	    return ['policies', 'privacy', 'termsOfService'];
-	  };
-
-	  Language.prototype.getRouteKeyByValue = function(routeValue) {
-	    var language;
-	    language = this.getLanguageStr();
-	    return _findKey(this.files['paths'][language], function(route) {
-	      return route === routeValue;
-	    }) || _findKey(this.files['paths']['en'], function(route) {
-	      return route === routeValue;
-	    });
-	  };
-
-	  Language.prototype.getAllPathsByRouteKey = function(routeKey) {
-	    var languages;
-	    languages = this.getAllUrlLanguages();
-	    return _reduce(languages, (function(_this) {
-	      return function(paths, language) {
-	        var path, ref;
-	        path = (ref = _this.files['paths'][language]) != null ? ref[routeKey] : void 0;
-	        if (path) {
-	          paths[language] = path;
-	        }
-	        return paths;
-	      };
-	    })(this), {});
-	  };
-
-	  Language.prototype.get = function(strKey, arg) {
-	    var baseResponse, file, language, pluralityCount, ref, ref1, ref2, replacements;
-	    ref = arg != null ? arg : {}, replacements = ref.replacements, file = ref.file, language = ref.language;
-	    if (file == null) {
-	      file = 'strings';
-	    }
-	    if (language == null) {
-	      language = this.getLanguageStr();
-	    }
-	    baseResponse = ((ref1 = this.files[file][language]) != null ? ref1[strKey] : void 0) || ((ref2 = this.files[file]['en']) != null ? ref2[strKey] : void 0) || '';
-	    if (typeof baseResponse === 'object') {
-	      pluralityCount = replacements[baseResponse.pluralityCheck];
-	      baseResponse = baseResponse.plurality[pluralityCount] || baseResponse.plurality.other || '';
-	    }
-	    return _reduce(replacements, function(str, replace, key) {
-	      var find;
-	      find = RegExp("{" + key + "}", "g");
-	      return str.replace(find, replace);
-	    }, baseResponse);
-	  };
-
-	  return Language;
-
-	})();
-
-	module.exports = Language;
-
-
-/***/ }),
-/* 517 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var apply = __webpack_require__(157),
-	    baseRest = __webpack_require__(155),
-	    customDefaultsMerge = __webpack_require__(518),
-	    mergeWith = __webpack_require__(519);
-
-	/**
-	 * This method is like `_.defaults` except that it recursively assigns
-	 * default properties.
-	 *
-	 * **Note:** This method mutates `object`.
-	 *
-	 * @static
-	 * @memberOf _
-	 * @since 3.10.0
-	 * @category Object
-	 * @param {Object} object The destination object.
-	 * @param {...Object} [sources] The source objects.
-	 * @returns {Object} Returns `object`.
-	 * @see _.defaults
-	 * @example
-	 *
-	 * _.defaultsDeep({ 'a': { 'b': 2 } }, { 'a': { 'b': 1, 'c': 3 } });
-	 * // => { 'a': { 'b': 2, 'c': 3 } }
-	 */
-	var defaultsDeep = baseRest(function(args) {
-	  args.push(undefined, customDefaultsMerge);
-	  return apply(mergeWith, undefined, args);
-	});
-
-	module.exports = defaultsDeep;
-
-
-/***/ }),
-/* 518 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var baseMerge = __webpack_require__(375),
-	    isObject = __webpack_require__(56);
-
-	/**
-	 * Used by `_.defaultsDeep` to customize its `_.merge` use to merge source
-	 * objects into destination objects that are passed thru.
-	 *
-	 * @private
-	 * @param {*} objValue The destination value.
-	 * @param {*} srcValue The source value.
-	 * @param {string} key The key of the property to merge.
-	 * @param {Object} object The parent object of `objValue`.
-	 * @param {Object} source The parent object of `srcValue`.
-	 * @param {Object} [stack] Tracks traversed source values and their merged
-	 *  counterparts.
-	 * @returns {*} Returns the value to assign.
-	 */
-	function customDefaultsMerge(objValue, srcValue, key, object, source, stack) {
-	  if (isObject(objValue) && isObject(srcValue)) {
-	    // Recursively merge objects and arrays (susceptible to call stack limits).
-	    stack.set(srcValue, objValue);
-	    baseMerge(objValue, srcValue, undefined, customDefaultsMerge, stack);
-	    stack['delete'](srcValue);
-	  }
-	  return objValue;
-	}
-
-	module.exports = customDefaultsMerge;
-
-
-/***/ }),
-/* 519 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var baseMerge = __webpack_require__(375),
-	    createAssigner = __webpack_require__(154);
-
-	/**
-	 * This method is like `_.merge` except that it accepts `customizer` which
-	 * is invoked to produce the merged values of the destination and source
-	 * properties. If `customizer` returns `undefined`, merging is handled by the
-	 * method instead. The `customizer` is invoked with six arguments:
-	 * (objValue, srcValue, key, object, source, stack).
-	 *
-	 * **Note:** This method mutates `object`.
-	 *
-	 * @static
-	 * @memberOf _
-	 * @since 4.0.0
-	 * @category Object
-	 * @param {Object} object The destination object.
-	 * @param {...Object} sources The source objects.
-	 * @param {Function} customizer The function to customize assigned values.
-	 * @returns {Object} Returns `object`.
-	 * @example
-	 *
-	 * function customizer(objValue, srcValue) {
-	 *   if (_.isArray(objValue)) {
-	 *     return objValue.concat(srcValue);
-	 *   }
-	 * }
-	 *
-	 * var object = { 'a': [1], 'b': [2] };
-	 * var other = { 'a': [3], 'b': [4] };
-	 *
-	 * _.mergeWith(object, other, customizer);
-	 * // => { 'a': [1, 3], 'b': [2, 4] }
-	 */
-	var mergeWith = createAssigner(function(object, source, srcIndex, customizer) {
-	  baseMerge(object, source, srcIndex, customizer);
-	});
-
-	module.exports = mergeWith;
-
-
-/***/ }),
-/* 520 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var baseFindKey = __webpack_require__(521),
-	    baseForOwn = __webpack_require__(144),
-	    baseIteratee = __webpack_require__(29);
-
-	/**
-	 * This method is like `_.find` except that it returns the key of the first
-	 * element `predicate` returns truthy for instead of the element itself.
-	 *
-	 * @static
-	 * @memberOf _
-	 * @since 1.1.0
-	 * @category Object
-	 * @param {Object} object The object to inspect.
-	 * @param {Function} [predicate=_.identity] The function invoked per iteration.
-	 * @returns {string|undefined} Returns the key of the matched element,
-	 *  else `undefined`.
-	 * @example
-	 *
-	 * var users = {
-	 *   'barney':  { 'age': 36, 'active': true },
-	 *   'fred':    { 'age': 40, 'active': false },
-	 *   'pebbles': { 'age': 1,  'active': true }
-	 * };
-	 *
-	 * _.findKey(users, function(o) { return o.age < 40; });
-	 * // => 'barney' (iteration order is not guaranteed)
-	 *
-	 * // The `_.matches` iteratee shorthand.
-	 * _.findKey(users, { 'age': 1, 'active': true });
-	 * // => 'pebbles'
-	 *
-	 * // The `_.matchesProperty` iteratee shorthand.
-	 * _.findKey(users, ['active', false]);
-	 * // => 'fred'
-	 *
-	 * // The `_.property` iteratee shorthand.
-	 * _.findKey(users, 'active');
-	 * // => 'barney'
-	 */
-	function findKey(object, predicate) {
-	  return baseFindKey(object, baseIteratee(predicate, 3), baseForOwn);
-	}
-
-	module.exports = findKey;
-
-
-/***/ }),
-/* 521 */
-/***/ (function(module, exports) {
-
-	/**
-	 * The base implementation of methods like `_.findKey` and `_.findLastKey`,
-	 * without support for iteratee shorthands, which iterates over `collection`
-	 * using `eachFunc`.
-	 *
-	 * @private
-	 * @param {Array|Object} collection The collection to inspect.
-	 * @param {Function} predicate The function invoked per iteration.
-	 * @param {Function} eachFunc The function to iterate over `collection`.
-	 * @returns {*} Returns the found element or its key, else `undefined`.
-	 */
-	function baseFindKey(collection, predicate, eachFunc) {
-	  var result;
-	  eachFunc(collection, function(value, key, collection) {
-	    if (predicate(value, key, collection)) {
-	      result = key;
-	      return false;
-	    }
-	  });
-	  return result;
-	}
-
-	module.exports = baseFindKey;
-
-
-/***/ }),
-/* 522 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var DateService, ONE_DAY_S, ONE_HOUR_S, ONE_MINUTE_S, ONE_WEEK_S, _padStart, semverCompare,
-	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
-
-	semverCompare = __webpack_require__(393);
-
-	_padStart = __webpack_require__(523);
-
-	ONE_MINUTE_S = 60;
-
-	ONE_HOUR_S = 3600;
-
-	ONE_DAY_S = 3600 * 24;
-
-	ONE_WEEK_S = 3600 * 24 * 7;
-
-	DateService = (function() {
-	  function DateService() {
-	    this.fromNow = bind(this.fromNow, this);
-	    this.formatSeconds = bind(this.formatSeconds, this);
-	    this.setL = bind(this.setL, this);
-	    this.setLocale('en');
-	  }
-
-	  DateService.prototype.setL = function(l) {
-	    this.l = l;
-	    return null;
-	  };
-
-	  DateService.prototype.format = function(date, format) {
-	    return '';
-	  };
-
-	  DateService.prototype.formatDuration = function(duration) {
-	    var hours, match, minutes, seconds;
-	    match = duration.match(/PT(\d+H)?(\d+M)?(\d+S)?/);
-	    match = match.slice(1).map(function(x) {
-	      return x != null ? x.replace(/\D/, '') : void 0;
-	    });
-	    hours = _padStart(parseInt(match[0]) || 0, 2, '0');
-	    minutes = _padStart(parseInt(match[1]) || 0, 2, '0');
-	    seconds = _padStart(parseInt(match[2]) || 0, 2, '0');
-	    if (hours !== '00') {
-	      return hours + ":" + minutes + ":" + seconds;
-	    } else if (minutes !== '00') {
-	      return minutes + ":" + seconds;
-	    } else {
-	      return "00:" + seconds;
-	    }
-	  };
-
-	  DateService.prototype.formatSeconds = function(seconds) {
-	    if (seconds < ONE_MINUTE_S) {
-	      return parseInt(seconds) + this.l.get('time.secondShorthand');
-	    } else if (seconds < ONE_HOUR_S) {
-	      return parseInt(seconds / ONE_MINUTE_S) + this.l.get('time.minuteShorthand');
-	    } else if (seconds <= ONE_DAY_S) {
-	      return parseInt(seconds / ONE_HOUR_S) + this.l.get('time.hourShorthand');
-	    } else if (seconds <= ONE_WEEK_S) {
-	      return parseInt(seconds / ONE_DAY_S) + this.l.get('time.dayShorthand');
-	    }
-	  };
-
-	  DateService.prototype.fromNow = function(date) {
-	    var seconds;
-	    if (!(date instanceof Date)) {
-	      date = new Date(date);
-	    }
-	    seconds = Math.abs((Date.now() - date.getTime()) / 1000);
-	    if (isNaN(seconds)) {
-	      return '...';
-	    } else if (seconds < 30) {
-	      return this.l.get('time.justNow');
-	    } else if (seconds < ONE_MINUTE_S) {
-	      return parseInt(seconds) + this.l.get('time.secondShorthand');
-	    } else if (seconds < ONE_HOUR_S) {
-	      return parseInt(seconds / ONE_MINUTE_S) + this.l.get('time.minuteShorthand');
-	    } else if (seconds <= ONE_DAY_S) {
-	      return parseInt(seconds / ONE_HOUR_S) + this.l.get('time.hourShorthand');
-	    } else if (seconds <= ONE_WEEK_S) {
-	      return parseInt(seconds / ONE_DAY_S) + this.l.get('time.dayShorthand');
-	    } else {
-	      return parseInt(seconds / ONE_WEEK_S) + this.l.get('time.weekShorthand');
-	    }
-	  };
-
-	  DateService.prototype.setLocale = function(locale) {
-	    return null;
-	  };
-
-	  return DateService;
-
-	})();
-
-	module.exports = new DateService();
-
-
-/***/ }),
-/* 523 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var createPadding = __webpack_require__(524),
-	    stringSize = __webpack_require__(528),
-	    toInteger = __webpack_require__(239),
-	    toString = __webpack_require__(132);
-
-	/**
-	 * Pads `string` on the left side if it's shorter than `length`. Padding
-	 * characters are truncated if they exceed `length`.
-	 *
-	 * @static
-	 * @memberOf _
-	 * @since 4.0.0
-	 * @category String
-	 * @param {string} [string=''] The string to pad.
-	 * @param {number} [length=0] The padding length.
-	 * @param {string} [chars=' '] The string used as padding.
-	 * @returns {string} Returns the padded string.
-	 * @example
-	 *
-	 * _.padStart('abc', 6);
-	 * // => '   abc'
-	 *
-	 * _.padStart('abc', 6, '_-');
-	 * // => '_-_abc'
-	 *
-	 * _.padStart('abc', 3);
-	 * // => 'abc'
-	 */
-	function padStart(string, length, chars) {
-	  string = toString(string);
-	  length = toInteger(length);
-
-	  var strLength = length ? stringSize(string) : 0;
-	  return (length && strLength < length)
-	    ? (createPadding(length - strLength, chars) + string)
-	    : string;
-	}
-
-	module.exports = padStart;
-
-
-/***/ }),
-/* 524 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var baseRepeat = __webpack_require__(525),
-	    baseToString = __webpack_require__(133),
-	    castSlice = __webpack_require__(526),
-	    hasUnicode = __webpack_require__(527),
-	    stringSize = __webpack_require__(528),
-	    stringToArray = __webpack_require__(531);
-
-	/* Built-in method references for those with the same name as other `lodash` methods. */
-	var nativeCeil = Math.ceil;
-
-	/**
-	 * Creates the padding for `string` based on `length`. The `chars` string
-	 * is truncated if the number of characters exceeds `length`.
-	 *
-	 * @private
-	 * @param {number} length The padding length.
-	 * @param {string} [chars=' '] The string used as padding.
-	 * @returns {string} Returns the padding for `string`.
-	 */
-	function createPadding(length, chars) {
-	  chars = chars === undefined ? ' ' : baseToString(chars);
-
-	  var charsLength = chars.length;
-	  if (charsLength < 2) {
-	    return charsLength ? baseRepeat(chars, length) : chars;
-	  }
-	  var result = baseRepeat(chars, nativeCeil(length / stringSize(chars)));
-	  return hasUnicode(chars)
-	    ? castSlice(stringToArray(result), 0, length).join('')
-	    : result.slice(0, length);
-	}
-
-	module.exports = createPadding;
-
-
-/***/ }),
-/* 525 */
-/***/ (function(module, exports) {
-
-	/** Used as references for various `Number` constants. */
-	var MAX_SAFE_INTEGER = 9007199254740991;
-
-	/* Built-in method references for those with the same name as other `lodash` methods. */
-	var nativeFloor = Math.floor;
-
-	/**
-	 * The base implementation of `_.repeat` which doesn't coerce arguments.
-	 *
-	 * @private
-	 * @param {string} string The string to repeat.
-	 * @param {number} n The number of times to repeat the string.
-	 * @returns {string} Returns the repeated string.
-	 */
-	function baseRepeat(string, n) {
-	  var result = '';
-	  if (!string || n < 1 || n > MAX_SAFE_INTEGER) {
-	    return result;
-	  }
-	  // Leverage the exponentiation by squaring algorithm for a faster repeat.
-	  // See https://en.wikipedia.org/wiki/Exponentiation_by_squaring for more details.
-	  do {
-	    if (n % 2) {
-	      result += string;
-	    }
-	    n = nativeFloor(n / 2);
-	    if (n) {
-	      string += string;
-	    }
-	  } while (n);
-
-	  return result;
-	}
-
-	module.exports = baseRepeat;
-
-
-/***/ }),
-/* 526 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var baseSlice = __webpack_require__(466);
-
-	/**
-	 * Casts `array` to a slice if it's needed.
-	 *
-	 * @private
-	 * @param {Array} array The array to inspect.
-	 * @param {number} start The start position.
-	 * @param {number} [end=array.length] The end position.
-	 * @returns {Array} Returns the cast slice.
-	 */
-	function castSlice(array, start, end) {
-	  var length = array.length;
-	  end = end === undefined ? length : end;
-	  return (!start && end >= length) ? array : baseSlice(array, start, end);
-	}
-
-	module.exports = castSlice;
-
-
-/***/ }),
-/* 527 */
-/***/ (function(module, exports) {
-
-	/** Used to compose unicode character classes. */
-	var rsAstralRange = '\\ud800-\\udfff',
-	    rsComboMarksRange = '\\u0300-\\u036f',
-	    reComboHalfMarksRange = '\\ufe20-\\ufe2f',
-	    rsComboSymbolsRange = '\\u20d0-\\u20ff',
-	    rsComboRange = rsComboMarksRange + reComboHalfMarksRange + rsComboSymbolsRange,
-	    rsVarRange = '\\ufe0e\\ufe0f';
-
-	/** Used to compose unicode capture groups. */
-	var rsZWJ = '\\u200d';
-
-	/** Used to detect strings with [zero-width joiners or code points from the astral planes](http://eev.ee/blog/2015/09/12/dark-corners-of-unicode/). */
-	var reHasUnicode = RegExp('[' + rsZWJ + rsAstralRange  + rsComboRange + rsVarRange + ']');
-
-	/**
-	 * Checks if `string` contains Unicode symbols.
-	 *
-	 * @private
-	 * @param {string} string The string to inspect.
-	 * @returns {boolean} Returns `true` if a symbol is found, else `false`.
-	 */
-	function hasUnicode(string) {
-	  return reHasUnicode.test(string);
-	}
-
-	module.exports = hasUnicode;
-
-
-/***/ }),
-/* 528 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var asciiSize = __webpack_require__(529),
-	    hasUnicode = __webpack_require__(527),
-	    unicodeSize = __webpack_require__(530);
-
-	/**
-	 * Gets the number of symbols in `string`.
-	 *
-	 * @private
-	 * @param {string} string The string to inspect.
-	 * @returns {number} Returns the string size.
-	 */
-	function stringSize(string) {
-	  return hasUnicode(string)
-	    ? unicodeSize(string)
-	    : asciiSize(string);
-	}
-
-	module.exports = stringSize;
-
-
-/***/ }),
-/* 529 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var baseProperty = __webpack_require__(140);
-
-	/**
-	 * Gets the size of an ASCII `string`.
-	 *
-	 * @private
-	 * @param {string} string The string inspect.
-	 * @returns {number} Returns the string size.
-	 */
-	var asciiSize = baseProperty('length');
-
-	module.exports = asciiSize;
-
-
-/***/ }),
-/* 530 */
-/***/ (function(module, exports) {
-
-	/** Used to compose unicode character classes. */
-	var rsAstralRange = '\\ud800-\\udfff',
-	    rsComboMarksRange = '\\u0300-\\u036f',
-	    reComboHalfMarksRange = '\\ufe20-\\ufe2f',
-	    rsComboSymbolsRange = '\\u20d0-\\u20ff',
-	    rsComboRange = rsComboMarksRange + reComboHalfMarksRange + rsComboSymbolsRange,
-	    rsVarRange = '\\ufe0e\\ufe0f';
-
-	/** Used to compose unicode capture groups. */
-	var rsAstral = '[' + rsAstralRange + ']',
-	    rsCombo = '[' + rsComboRange + ']',
-	    rsFitz = '\\ud83c[\\udffb-\\udfff]',
-	    rsModifier = '(?:' + rsCombo + '|' + rsFitz + ')',
-	    rsNonAstral = '[^' + rsAstralRange + ']',
-	    rsRegional = '(?:\\ud83c[\\udde6-\\uddff]){2}',
-	    rsSurrPair = '[\\ud800-\\udbff][\\udc00-\\udfff]',
-	    rsZWJ = '\\u200d';
-
-	/** Used to compose unicode regexes. */
-	var reOptMod = rsModifier + '?',
-	    rsOptVar = '[' + rsVarRange + ']?',
-	    rsOptJoin = '(?:' + rsZWJ + '(?:' + [rsNonAstral, rsRegional, rsSurrPair].join('|') + ')' + rsOptVar + reOptMod + ')*',
-	    rsSeq = rsOptVar + reOptMod + rsOptJoin,
-	    rsSymbol = '(?:' + [rsNonAstral + rsCombo + '?', rsCombo, rsRegional, rsSurrPair, rsAstral].join('|') + ')';
-
-	/** Used to match [string symbols](https://mathiasbynens.be/notes/javascript-unicode). */
-	var reUnicode = RegExp(rsFitz + '(?=' + rsFitz + ')|' + rsSymbol + rsSeq, 'g');
-
-	/**
-	 * Gets the size of a Unicode `string`.
-	 *
-	 * @private
-	 * @param {string} string The string inspect.
-	 * @returns {number} Returns the string size.
-	 */
-	function unicodeSize(string) {
-	  var result = reUnicode.lastIndex = 0;
-	  while (reUnicode.test(string)) {
-	    ++result;
-	  }
-	  return result;
-	}
-
-	module.exports = unicodeSize;
-
-
-/***/ }),
-/* 531 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var asciiToArray = __webpack_require__(532),
-	    hasUnicode = __webpack_require__(527),
-	    unicodeToArray = __webpack_require__(533);
-
-	/**
-	 * Converts `string` to an array.
-	 *
-	 * @private
-	 * @param {string} string The string to convert.
-	 * @returns {Array} Returns the converted array.
-	 */
-	function stringToArray(string) {
-	  return hasUnicode(string)
-	    ? unicodeToArray(string)
-	    : asciiToArray(string);
-	}
-
-	module.exports = stringToArray;
-
-
-/***/ }),
-/* 532 */
-/***/ (function(module, exports) {
-
-	/**
-	 * Converts an ASCII `string` to an array.
-	 *
-	 * @private
-	 * @param {string} string The string to convert.
-	 * @returns {Array} Returns the converted array.
-	 */
-	function asciiToArray(string) {
-	  return string.split('');
-	}
-
-	module.exports = asciiToArray;
-
-
-/***/ }),
-/* 533 */
-/***/ (function(module, exports) {
-
-	/** Used to compose unicode character classes. */
-	var rsAstralRange = '\\ud800-\\udfff',
-	    rsComboMarksRange = '\\u0300-\\u036f',
-	    reComboHalfMarksRange = '\\ufe20-\\ufe2f',
-	    rsComboSymbolsRange = '\\u20d0-\\u20ff',
-	    rsComboRange = rsComboMarksRange + reComboHalfMarksRange + rsComboSymbolsRange,
-	    rsVarRange = '\\ufe0e\\ufe0f';
-
-	/** Used to compose unicode capture groups. */
-	var rsAstral = '[' + rsAstralRange + ']',
-	    rsCombo = '[' + rsComboRange + ']',
-	    rsFitz = '\\ud83c[\\udffb-\\udfff]',
-	    rsModifier = '(?:' + rsCombo + '|' + rsFitz + ')',
-	    rsNonAstral = '[^' + rsAstralRange + ']',
-	    rsRegional = '(?:\\ud83c[\\udde6-\\uddff]){2}',
-	    rsSurrPair = '[\\ud800-\\udbff][\\udc00-\\udfff]',
-	    rsZWJ = '\\u200d';
-
-	/** Used to compose unicode regexes. */
-	var reOptMod = rsModifier + '?',
-	    rsOptVar = '[' + rsVarRange + ']?',
-	    rsOptJoin = '(?:' + rsZWJ + '(?:' + [rsNonAstral, rsRegional, rsSurrPair].join('|') + ')' + rsOptVar + reOptMod + ')*',
-	    rsSeq = rsOptVar + reOptMod + rsOptJoin,
-	    rsSymbol = '(?:' + [rsNonAstral + rsCombo + '?', rsCombo, rsRegional, rsSurrPair, rsAstral].join('|') + ')';
-
-	/** Used to match [string symbols](https://mathiasbynens.be/notes/javascript-unicode). */
-	var reUnicode = RegExp(rsFitz + '(?=' + rsFitz + ')|' + rsSymbol + rsSeq, 'g');
-
-	/**
-	 * Converts a Unicode `string` to an array.
-	 *
-	 * @private
-	 * @param {string} string The string to convert.
-	 * @returns {Array} Returns the converted array.
-	 */
-	function unicodeToArray(string) {
-	  return string.match(reUnicode) || [];
-	}
-
-	module.exports = unicodeToArray;
-
-
-/***/ }),
-/* 534 */
-/***/ (function(module, exports, __webpack_require__) {
-
-	var map = {};
-	function webpackContext(req) {
-		return __webpack_require__(webpackContextResolve(req));
-	};
-	function webpackContextResolve(req) {
-		return map[req] || (function() { throw new Error("Cannot find module '" + req + "'.") }());
-	};
-	webpackContext.keys = function webpackContextKeys() {
-		return Object.keys(map);
-	};
-	webpackContext.resolve = webpackContextResolve;
-	module.exports = webpackContext;
-	webpackContext.id = 534;
-
-
-/***/ }),
-/* 535 */
+/* 571 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var PATH, Poll, config,
 	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
 
-	config = __webpack_require__(370);
+	config = __webpack_require__(360);
 
 	PATH = config.BACKEND_API_URL;
 
@@ -29743,13 +31010,104 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 536 */
+/* 572 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var RxBehaviorSubject, TwitchSignInOverlay,
+	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
+
+	RxBehaviorSubject = __webpack_require__(289).BehaviorSubject;
+
+	module.exports = TwitchSignInOverlay = (function() {
+	  function TwitchSignInOverlay() {
+	    this.close = bind(this.close, this);
+	    this.open = bind(this.open, this);
+	    this.setMode = bind(this.setMode, this);
+	    this.getMode = bind(this.getMode, this);
+	    this.openIfGuest = bind(this.openIfGuest, this);
+	    this.cancel = bind(this.cancel, this);
+	    this.loggedIn = bind(this.loggedIn, this);
+	    this.onCancel = bind(this.onCancel, this);
+	    this.onLoggedIn = bind(this.onLoggedIn, this);
+	    this.isOpen = bind(this.isOpen, this);
+	    this._isOpen = new RxBehaviorSubject(false);
+	    this._mode = new RxBehaviorSubject('join');
+	    this.onLoggedInFn = null;
+	    this.onCancelFn = null;
+	  }
+
+	  TwitchSignInOverlay.prototype.isOpen = function() {
+	    return this._isOpen;
+	  };
+
+	  TwitchSignInOverlay.prototype.onLoggedIn = function(onLoggedInFn) {
+	    this.onLoggedInFn = onLoggedInFn;
+	    return null;
+	  };
+
+	  TwitchSignInOverlay.prototype.onCancel = function(onCancelFn) {
+	    this.onCancelFn = onCancelFn;
+	    return null;
+	  };
+
+	  TwitchSignInOverlay.prototype.loggedIn = function() {
+	    return typeof this.onLoggedInFn === "function" ? this.onLoggedInFn() : void 0;
+	  };
+
+	  TwitchSignInOverlay.prototype.cancel = function() {
+	    return typeof this.onCancelFn === "function" ? this.onCancelFn() : void 0;
+	  };
+
+	  TwitchSignInOverlay.prototype.openIfGuest = function(user) {
+	    return new Promise((function(_this) {
+	      return function(resolve, reject) {
+	        if (user != null ? user.isMember : void 0) {
+	          return resolve(true);
+	        } else {
+	          _this.open();
+	          _this.onLoggedIn(resolve);
+	          return _this.onCancel(reject);
+	        }
+	      };
+	    })(this));
+	  };
+
+	  TwitchSignInOverlay.prototype.getMode = function() {
+	    return this._mode;
+	  };
+
+	  TwitchSignInOverlay.prototype.setMode = function(mode) {
+	    return this._mode.next(mode);
+	  };
+
+	  TwitchSignInOverlay.prototype.open = function(mode) {
+	    if (mode == null) {
+	      mode = 'join';
+	    }
+	    this.setMode(mode);
+	    this._isOpen.next(true);
+	    return document.body.style.overflow = 'hidden';
+	  };
+
+	  TwitchSignInOverlay.prototype.close = function() {
+	    this._isOpen.next(false);
+	    this.onLoggedIn(null);
+	    return document.body.style.overflow = 'auto';
+	  };
+
+	  return TwitchSignInOverlay;
+
+	})();
+
+
+/***/ }),
+/* 573 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var Time, config,
 	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
 
-	config = __webpack_require__(370);
+	config = __webpack_require__(430);
 
 	module.exports = Time = (function() {
 	  function Time(arg) {
@@ -29792,13 +31150,13 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 537 */
+/* 574 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var User, config,
 	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
 
-	config = __webpack_require__(370);
+	config = __webpack_require__(430);
 
 	module.exports = User = (function() {
 	  User.prototype.namespace = 'users';
@@ -29929,21 +31287,103 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 538 */
+/* 575 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	var UserItem, _find, config,
+	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
+
+	config = __webpack_require__(430);
+
+	_find = __webpack_require__(407);
+
+	module.exports = UserItem = (function() {
+	  UserItem.prototype.namespace = 'userItems';
+
+	  function UserItem(arg) {
+	    this.auth = arg.auth;
+	    this.openByItemKey = bind(this.openByItemKey, this);
+	    this.consumeByItemKey = bind(this.consumeByItemKey, this);
+	    this.getByItemKey = bind(this.getByItemKey, this);
+	    this.getAllByUserId = bind(this.getAllByUserId, this);
+	    this.getAll = bind(this.getAll, this);
+	    null;
+	  }
+
+	  UserItem.prototype.getAll = function() {
+	    return this.auth.stream(this.namespace + ".getAll");
+	  };
+
+	  UserItem.prototype.getAllByUserId = function(userId) {
+	    return this.auth.stream(this.namespace + ".getAllByUserId", {
+	      userId: userId
+	    });
+	  };
+
+	  UserItem.prototype.getByItemKey = function(itemKey) {
+	    return this.auth.stream(this.namespace + ".getByItemKey", {
+	      itemKey: itemKey
+	    });
+	  };
+
+	  UserItem.prototype.consumeByItemKey = function(itemKey, arg) {
+	    var data, groupId;
+	    groupId = arg.groupId, data = arg.data;
+	    return this.auth.call(this.namespace + ".consumeByItemKey", {
+	      itemKey: itemKey,
+	      groupId: groupId,
+	      data: data
+	    }, {
+	      invalidateAll: true
+	    });
+	  };
+
+	  UserItem.prototype.openByItemKey = function(itemKey, arg) {
+	    var groupId;
+	    groupId = arg.groupId;
+	    return this.auth.call(this.namespace + ".openByItemKey", {
+	      itemKey: itemKey,
+	      groupId: groupId
+	    }, {
+	      invalidateAll: true
+	    });
+	  };
+
+	  UserItem.prototype.isOwnedByUserItemsAndItemKey = function(userItems, itemKey, count) {
+	    var userItem;
+	    userItem = _find(userItems, {
+	      itemKey: itemKey
+	    });
+	    if (count) {
+	      return (userItem != null ? userItem.count : void 0) >= count;
+	    } else {
+	      return Boolean(userItem);
+	    }
+	  };
+
+	  return UserItem;
+
+	})();
+
+
+/***/ }),
+/* 576 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var DRAWER_MAX_WIDTH, DRAWER_RIGHT_PADDING, Environment, GRID_WIDTH, RxBehaviorSubject, Window, _forEach, config, uuid,
 	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
 
-	Environment = __webpack_require__(358);
+	Environment = __webpack_require__(429);
 
-	RxBehaviorSubject = __webpack_require__(288).BehaviorSubject;
+	RxBehaviorSubject = __webpack_require__(289).BehaviorSubject;
 
-	uuid = __webpack_require__(539);
+	__webpack_require__(386);
 
-	_forEach = __webpack_require__(390);
+	uuid = __webpack_require__(577);
 
-	config = __webpack_require__(370);
+	_forEach = __webpack_require__(379);
+
+	config = __webpack_require__(430);
 
 	DRAWER_RIGHT_PADDING = 56;
 
@@ -30082,7 +31522,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 539 */
+/* 577 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	//     uuid.js
@@ -30093,7 +31533,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	// Unique ID creation requires a high quality random # generator.  We feature
 	// detect to determine the best RNG source, normalizing to a function that
 	// returns 128-bits of randomness, since that's what's usually required
-	var _rng = __webpack_require__(540);
+	var _rng = __webpack_require__(578);
 
 	// Maps for number <-> hex string conversion
 	var _byteToHex = [];
@@ -30271,7 +31711,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 540 */
+/* 578 */
 /***/ (function(module, exports) {
 
 	/* WEBPACK VAR INJECTION */(function(global) {
@@ -30310,23 +31750,23 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }())))
 
 /***/ }),
-/* 541 */
+/* 579 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var Environment, Portal, PortalGun, _map, config, getUuidByString, urlBase64ToUint8Array,
 	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; },
 	  slice = [].slice;
 
-	_map = __webpack_require__(27);
+	_map = __webpack_require__(26);
 
-	Environment = __webpack_require__(358);
+	Environment = __webpack_require__(351);
 
-	getUuidByString = __webpack_require__(542);
+	getUuidByString = __webpack_require__(580);
 
-	config = __webpack_require__(370);
+	config = __webpack_require__(360);
 
 	if (typeof window !== "undefined" && window !== null) {
-	  PortalGun = __webpack_require__(543);
+	  PortalGun = __webpack_require__(581);
 	}
 
 	urlBase64ToUint8Array = function(base64String) {
@@ -30723,7 +32163,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 542 */
+/* 580 */
 /***/ (function(module, exports) {
 
 	/**
@@ -30877,20 +32317,20 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 543 */
+/* 581 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var DEFAULT_HANDSHAKE_TIMEOUT_MS, PortalGun, Promise, RPCClient, SW_CONNECT_TIMEOUT_MS, _isEmpty, _map, selfWindow,
 	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; },
 	  slice = [].slice;
 
-	Promise = Promise != null ? Promise : __webpack_require__(544);
+	Promise = Promise != null ? Promise : __webpack_require__(582);
 
-	_map = __webpack_require__(27);
+	_map = __webpack_require__(26);
 
 	_isEmpty = __webpack_require__(201);
 
-	RPCClient = __webpack_require__(545);
+	RPCClient = __webpack_require__(583);
 
 	DEFAULT_HANDSHAKE_TIMEOUT_MS = 10000;
 
@@ -31319,7 +32759,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 
 
 /***/ }),
-/* 544 */
+/* 582 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(global, setImmediate, module) {(function () {
@@ -31625,7 +33065,7 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }()), __webpack_require__(3).setImmediate, __webpack_require__(6)(module)))
 
 /***/ }),
-/* 545 */
+/* 583 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	
@@ -31653,9 +33093,9 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	var DEFAULT_REQUEST_TIMEOUT_MS, ERROR_CODES, ERROR_MESSAGES, Promise, RPCClient, deferredFactory, uuid,
 	  bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
 
-	Promise = Promise != null ? Promise : __webpack_require__(544);
+	Promise = Promise != null ? Promise : __webpack_require__(582);
 
-	uuid = __webpack_require__(539);
+	uuid = __webpack_require__(577);
 
 	ERROR_CODES = {
 	  METHOD_NOT_FOUND: -32601,

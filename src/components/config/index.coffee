@@ -6,7 +6,7 @@ PrimaryButton = require '../../../../fam/src/components/primary_button'
 if window?
   require './index.styl'
 
-module.exports = class Earn
+module.exports = class Config
   constructor: ({@model, @router} = {}) ->
     @$button = new PrimaryButton()
     @state = z.state {
@@ -19,8 +19,5 @@ module.exports = class Earn
     z '.z-config',
       'config'
       z @$button,
-        text: 'go'
-        onclick: =>
-          @model.twitchSignInOverlay.openIfGuest me
-          .then =>
-            console.log 'in'
+        text: 'connect'
+        onclick: => null

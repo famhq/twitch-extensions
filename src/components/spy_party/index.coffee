@@ -38,7 +38,6 @@ module.exports = class SpyParty
     @poll = group.switchMap (group) =>
       @model.poll.getAllByGroupId group.id
       .map (polls) ->
-        console.log 'poll', polls
         polls[0]
 
     path = requests.map ({req}) ->
@@ -64,11 +63,9 @@ module.exports = class SpyParty
   render: =>
     {me, dimensions, votes, poll, path, selectedCharacter, isOpen} = @state.getValue()
 
-    console.log votes
     # FIXME: do this on backend
     voteCount = votes?.length
     characterVotes = _groupBy votes, 'value'
-    console.log characterVotes
 
     # FIXME: get rid of grid, scale using dimensions
 
