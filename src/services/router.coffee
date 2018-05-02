@@ -24,6 +24,8 @@ class RouterService
   constructor: ({@router, @model, @cookie}) ->
     @history = []
     @onBackFn = null
+    @router.mode = 'hash'
+    @router.go window.location.hash.replace '#', ''
 
   goPath: (path, {ignoreHistory, reset} = {}) =>
     unless ignoreHistory

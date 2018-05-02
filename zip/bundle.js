@@ -19579,6 +19579,8 @@ if(typeof window !== 'undefined'){window.languageStrings={"strings":{"en":{"gene
 	    this.goPath = bind(this.goPath, this);
 	    this.history = [];
 	    this.onBackFn = null;
+	    this.router.mode = 'hash';
+	    this.router.go(window.location.hash.replace('#', ''));
 	  }
 
 	  RouterService.prototype.goPath = function(path, arg) {
