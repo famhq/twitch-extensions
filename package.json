@@ -82,7 +82,7 @@
     "iscroll": "git://github.com/claydotio/iscroll.git",
     "isuuid": "^0.1.0",
     "location-router": "git://github.com/claydotio/location-router.git",
-    "lodash": "^4.17.2",
+    "lodash": "^4.17.19",
     "loga": "^0.1.4",
     "normalize-styl": "^3.0.3",
     "portal-gun": "git://github.com/claydotio/portal-gun.git",
