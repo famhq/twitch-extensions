@@ -56,7 +56,7 @@
     "vtree-query": "^0.2.0",
     "webdriverio": "^3.2.6",
     "webpack": "^1.12.4",
-    "webpack-bundle-analyzer": "^2.9.1",
+    "webpack-bundle-analyzer": "^3.3.2",
     "webpack-dev-server": "^1.12.1",
     "webpack-stream": "^2.1.0",
     "webpack-visualizer-plugin": "^0.1.11",
