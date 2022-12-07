@@ -74,7 +74,7 @@
     "cookie": "^0.2.3",
     "cookie-parser": "^1.4.0",
     "exoid": "git://github.com/claydotio/exoid.git",
-    "express": "^4.13.3",
+    "express": "^4.17.3",
     "fingerprintjs": "^0.5.3",
     "firebase": "^4.13.1",
     "helmet": "^0.14.0",
